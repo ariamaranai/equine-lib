@@ -7109,6 +7109,40 @@
   ],
   [
     {
+      "name": "Noble Quality",
+      "year": 2012,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/noble+quality3",
+      "mstn": "CC"
+    },
+    {
+      "name": "Snitzel",
+      "year": 2002,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/snitzel",
+      "mstn": ""
+    },
+    {
+      "name": "Bright Heroine",
+      "year": 1993,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bright+heroine",
+      "mstn": ""
+    },
+    {
+      "name": "Blue Bird",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/bluebird",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Outreach",
       "year": 2012,
       "cnty": "AUS",
@@ -20147,11 +20181,11 @@
       "mstn": ""
     },
     {
-      "name": "Trappes",
+      "name": "Treppes",
       "year": 2007,
       "cnty": "AUS",
       "sex": "F",
-      "href": "https://www.pedigreequery.com/trappes",
+      "href": "https://www.pedigreequery.com/treppes",
       "mstn": ""
     },
     {
