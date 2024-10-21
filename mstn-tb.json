@@ -27033,6 +27033,44 @@
   ],
   [
     {
+      "name": "The Smidge Affair",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "F",
+      "type": "TB",
+      "href": "https://www.allbreedpedigree.com/the+smidge+affair",
+      "mstn": "CT"
+    },
+    {
+      "name": "Emerald Affair",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "type": "TB",
+      "href": "https://www.allbreedpedigree.com/emerald+affair",
+      "mstn": ""
+    },
+    {
+      "name": "Aristocratic Girl",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "F",
+      "type": "TB",
+      "href": "https://www.pedigreequery.com/aristocratic+girl",
+      "mstn": ""
+    },
+    {
+      "name": "Aristocratic Cross",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "F",
+      "type": "TB",
+      "href": "https://www.pedigreequery.com/aristocratic+cross",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ロックドゥカンブ",
       "year": 2004,
       "cnty": "NZ",
@@ -29986,6 +30024,44 @@
       "cnty": "FR",
       "sex": "S",
       "href": "https://www.pedigreequery.com/le+fabuleux",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Plain Proud",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "F",
+      "type": "TB",
+      "href": "https://www.allbreedpedigree.com/plain+proud",
+      "mstn": "CT"
+    },
+    {
+      "name": "True Colors",
+      "year": 1974,
+      "cnty": "USA",
+      "sex": "S",
+      "type": "TB",
+      "href": "https://www.allbreedpedigree.com/true+colors",
+      "mstn": ""
+    },
+    {
+      "name": "Proud Minstrel",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "F",
+      "type": "TB",
+      "href": "https://www.pedigreequery.com/proud+minstrel",
+      "mstn": ""
+    },
+    {
+      "name": "Proud Birdie",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "S",
+      "type": "TB",
+      "href": "https://www.pedigreequery.com/proud+birdie",
       "mstn": ""
     }
   ],
