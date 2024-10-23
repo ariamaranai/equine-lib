@@ -973,7 +973,6 @@
       "year": 2008,
       "cnty": "GB",
       "sex": "F",
-      "type": "QH",
       "href": "https://www.pedigreequery.com/shadow38",
       "mstn": ""
     },
@@ -6236,7 +6235,6 @@
       "year": 2006,
       "cnty": "USA",
       "sex": "S",
-      "type": "USA",
       "href": "https://www.pedigreequery.com/regal+ransom2",
       "mstn": ""
     },
@@ -9141,7 +9139,7 @@
     {
       "name": "Runaway Groom",
       "year": 1979,
-      "cnty": "USA",
+      "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/runaway+groom",
       "mstn": ""
@@ -27071,7 +27069,6 @@
       "year": 2004,
       "cnty": "USA",
       "sex": "F",
-      "type": "TB",
       "href": "https://www.allbreedpedigree.com/the+smidge+affair",
       "mstn": "CT"
     },
@@ -27080,7 +27077,6 @@
       "year": 1993,
       "cnty": "USA",
       "sex": "S",
-      "type": "TB",
       "href": "https://www.allbreedpedigree.com/emerald+affair",
       "mstn": ""
     },
@@ -27089,7 +27085,6 @@
       "year": 1994,
       "cnty": "USA",
       "sex": "F",
-      "type": "TB",
       "href": "https://www.pedigreequery.com/aristocratic+girl",
       "mstn": ""
     },
@@ -27098,7 +27093,6 @@
       "year": 1982,
       "cnty": "USA",
       "sex": "F",
-      "type": "TB",
       "href": "https://www.pedigreequery.com/aristocratic+cross",
       "mstn": ""
     }
@@ -30067,7 +30061,6 @@
       "year": 1991,
       "cnty": "USA",
       "sex": "F",
-      "type": "TB",
       "href": "https://www.allbreedpedigree.com/plain+proud",
       "mstn": "CT"
     },
@@ -30076,7 +30069,6 @@
       "year": 1974,
       "cnty": "USA",
       "sex": "S",
-      "type": "TB",
       "href": "https://www.allbreedpedigree.com/true+colors",
       "mstn": ""
     },
@@ -30085,7 +30077,6 @@
       "year": 1983,
       "cnty": "USA",
       "sex": "F",
-      "type": "TB",
       "href": "https://www.pedigreequery.com/proud+minstrel",
       "mstn": ""
     },
@@ -30094,7 +30085,6 @@
       "year": 1973,
       "cnty": "USA",
       "sex": "S",
-      "type": "TB",
       "href": "https://www.pedigreequery.com/proud+birdie",
       "mstn": ""
     }
@@ -37695,7 +37685,6 @@
       "year": 2000,
       "cnty": "USA",
       "sex": "S",
-      "type": "QH",
       "href": "https://www.pedigreequery.com/panoramic6",
       "mstn": ""
     },
@@ -37704,7 +37693,6 @@
       "year": 1999,
       "cnty": "USA",
       "sex": "F",
-      "type": "QH",
       "href": "https://www.pedigreequery.com/snow+baby+go",
       "mstn": ""
     },
@@ -39754,6 +39742,1940 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/regulus",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Summ Maggee",
+      "year": 0,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/summ+maggee",
+      "mstn": "C1"
+    },
+    {
+      "name": "Summing",
+      "year": 1978,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/summing",
+      "mstn": ""
+    },
+    {
+      "name": "Hawaian Hostess",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/hawaian+hostess",
+      "mstn": ""
+    },
+    {
+      "name": "Captain James",
+      "year": 1974,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/captain+james",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Fully Medicated",
+      "year": 2019,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/fully+medicated",
+      "mstn": "C1"
+    },
+    {
+      "name": "Fullbridled",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/fullbridled",
+      "mstn": ""
+    },
+    {
+      "name": "Medicine Gal",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/medicine+gal2",
+      "mstn": "C1"
+    },
+    {
+      "name": "Tribal Rule",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tribal+rule",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Chipie Girly",
+      "year": 2016,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://infochevaux.ifce.fr/en/Chipie-Girly-VHF50BgSS7acpSM2ZadKZg/pedigree-et-chevaux-associes/pedigree-5-generations",
+      "mstn": "C1"
+    },
+    {
+      "name": "Archange Dor",
+      "year": 2002,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/archange+dor2",
+      "mstn": ""
+    },
+    {
+      "name": "Toprice",
+      "year": 2007,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/toprice",
+      "mstn": ""
+    },
+    {
+      "name": "Zero Problemo",
+      "year": 1993,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/zero+problemo",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Valid Mistress",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/valid+mistress",
+      "mstn": "C1"
+    },
+    {
+      "name": "Valid Expections",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/valid+expectations",
+      "mstn": ""
+    },
+    {
+      "name": "Grooms Mistress",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/grooms+mistress",
+      "mstn": ""
+    },
+    {
+      "name": "Runaway Groom",
+      "year": 1979,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/runaway+groom",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Lovely Al Ashai",
+      "year": 2012,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lovely+al+ashai",
+      "mstn": "C1"
+    },
+    {
+      "name": "Chineur",
+      "year": 2001,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/chineur",
+      "mstn": ""
+    },
+    {
+      "name": "Dream Dealer",
+      "year": 2007,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dream+dealer2",
+      "mstn": ""
+    },
+    {
+      "name": "Marchand De Sable",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/marchand+de+sable",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Miss My Sis",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/miss+my+sis2",
+      "mstn": "C1"
+    },
+    {
+      "name": "Sam Lords Castle",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sam+lords+castle",
+      "mstn": ""
+    },
+    {
+      "name": "Sanibel Breeze",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sanibel+breeze2",
+      "mstn": ""
+    },
+    {
+      "name": "Exploit",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/exploit",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Luxury Goods",
+      "year": 2011,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/luxury+goods",
+      "mstn": "C1"
+    },
+    {
+      "name": "Pioneerof the Nile",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pioneerof+the+nile",
+      "mstn": ""
+    },
+    {
+      "name": "Sessile",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sessile",
+      "mstn": ""
+    },
+    {
+      "name": "Forestry",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/forestry",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Medicine Gal",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/medicine+gal2",
+      "mstn": "C1"
+    },
+    {
+      "name": "Tribal Rule",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tribal+rule",
+      "mstn": ""
+    },
+    {
+      "name": "Lighten Up Tiny",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lighten+up+tiny",
+      "mstn": ""
+    },
+    {
+      "name": "Runaway Groom",
+      "year": 1979,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/runaway+groom",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "My Favorite Uncle",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/my+favorite+uncle",
+      "mstn": "C1"
+    },
+    {
+      "name": "Uncle Denny",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/uncle+denny",
+      "mstn": ""
+    },
+    {
+      "name": "Dancer Ivonne",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dancer+ivonne",
+      "mstn": ""
+    },
+    {
+      "name": "Huddle Up",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/huddle+up",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "This Is It",
+      "year": 2008,
+      "cnty": "SAF",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/this+is+it6",
+      "mstn": "C1"
+    },
+    {
+      "name": "Tiger Ridge",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tiger+ridge",
+      "mstn": "CC"
+    },
+    {
+      "name": "Marthley",
+      "year": 1998,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/marthley",
+      "mstn": ""
+    },
+    {
+      "name": "Capote",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/capote",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "My First Kiss",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/my+first+kiss2",
+      "mstn": "C1"
+    },
+    {
+      "name": "Lufikus",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/luftikus",
+      "mstn": ""
+    },
+    {
+      "name": "Booswillow",
+      "year": 1995,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/booswillow",
+      "mstn": ""
+    },
+    {
+      "name": "Silver Buck",
+      "year": 1978,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/silver+buck",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Three In The Room",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/three+in+the+room",
+      "mstn": "C1"
+    },
+    {
+      "name": "Well Noted",
+      "year": 1995,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/well+noted",
+      "mstn": ""
+    },
+    {
+      "name": "Cut N Double",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/cut+n+double",
+      "mstn": ""
+    },
+    {
+      "name": "Cutlass",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/cutlass",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Kalawa",
+      "year": 2005,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/kalawa2",
+      "mstn": "C1"
+    },
+    {
+      "name": "Seattle Dancer",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/seattle+dancer",
+      "mstn": ""
+    },
+    {
+      "name": "Katah",
+      "year": 1995,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/katah",
+      "mstn": ""
+    },
+    {
+      "name": "Arazi",
+      "year": 1989,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/arazi",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Julias Smile",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/julias+smile",
+      "mstn": "C1"
+    },
+    {
+      "name": "Formal Gold",
+      "year": 1993,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/formal+gold",
+      "mstn": ""
+    },
+    {
+      "name": "Bettinas Choice",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bettinas+choice",
+      "mstn": ""
+    },
+    {
+      "name": "Private Terms",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/private+terms",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Espree",
+      "year": 2003,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/espree2",
+      "mstn": "C1"
+    },
+    {
+      "name": "Grey Desire",
+      "year": 1980,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/grey+desire",
+      "mstn": ""
+    },
+    {
+      "name": "Portite Sophie",
+      "year": 1991,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/portite+sophie",
+      "mstn": ""
+    },
+    {
+      "name": "Doulab",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/doulab",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Memoforemma",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/memoforemma",
+      "mstn": "C3"
+    },
+    {
+      "name": "Memo",
+      "year": 1987,
+      "cnty": "CHI",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/memo",
+      "mstn": ""
+    },
+    {
+      "name": "Screamin Emma",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/screamin+emma",
+      "mstn": ""
+    },
+    {
+      "name": "Wild Again",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/wild+again",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Tactical Surprise",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/tactical+surprise",
+      "mstn": "C1"
+    },
+    {
+      "name": "Tactical Advantage",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tactical+advantage",
+      "mstn": ""
+    },
+    {
+      "name": "Kamchatsky",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/kamchatsky",
+      "mstn": ""
+    },
+    {
+      "name": "Blusing John",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/blushing+john",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Air Kaper",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/air+kaper",
+      "mstn": "C1"
+    },
+    {
+      "name": "Wekiva Sparings",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/wekiva+springs",
+      "mstn": ""
+    },
+    {
+      "name": "Kalifornia Kaper",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/kalifornia+kaper",
+      "mstn": ""
+    },
+    {
+      "name": "Cahill Road",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/cahill+road",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Charcoal Charm",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/charcoal+charm",
+      "mstn": "C1"
+    },
+    {
+      "name": "Majestys Imp",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/majestys+imp",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Bambee",
+      "year": 1992,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/miss+bambee",
+      "mstn": ""
+    },
+    {
+      "name": "Ascot Knight",
+      "year": 1984,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/ascot+knight",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Efis",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/efis",
+      "mstn": "C1"
+    },
+    {
+      "name": "Two Punch",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/two+punch",
+      "mstn": ""
+    },
+    {
+      "name": "Peanut Cowgirl",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/peanut+cowgirl",
+      "mstn": ""
+    },
+    {
+      "name": "Blusing John",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/blushing+john",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Magestic Romance",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/magestic+romance",
+      "mstn": "C1"
+    },
+    {
+      "name": "Magesterial",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/magesterial",
+      "mstn": ""
+    },
+    {
+      "name": "Its Ocurring",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/its+ocurring",
+      "mstn": ""
+    },
+    {
+      "name": "Hatchet Man",
+      "year": 1971,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/hatchet+man",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Roses For Ivarone",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/roses+for+ivarone",
+      "mstn": "C1"
+    },
+    {
+      "name": "Kokand",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kokand",
+      "mstn": ""
+    },
+    {
+      "name": "Send Red Roses",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/send+red+roses",
+      "mstn": ""
+    },
+    {
+      "name": "Double Hitch",
+      "year": 1958,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/double+hitch",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Big Jane Feather",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/big+jane+feather",
+      "mstn": "C1"
+    },
+    {
+      "name": "At Full Feather",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/at+full+feather",
+      "mstn": ""
+    },
+    {
+      "name": "Janes Pocket",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/janes+pocket",
+      "mstn": ""
+    },
+    {
+      "name": "Pocket Coin",
+      "year": 1976,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pocket+coin",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Just Say Grace",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/just+say+grace",
+      "mstn": "C1"
+    },
+    {
+      "name": "Just The Time",
+      "year": 1972,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/just+the+time",
+      "mstn": ""
+    },
+    {
+      "name": "Isle Of View",
+      "year": 1975,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/isle+of+view",
+      "mstn": ""
+    },
+    {
+      "name": "Burd Alane",
+      "year": 1967,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/burd+alane",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Hazen Blaze",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/hazen+blaze",
+      "mstn": "C1"
+    },
+    {
+      "name": "A Title",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/a+title",
+      "mstn": ""
+    },
+    {
+      "name": "Limited Lass",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/limitted+lass",
+      "mstn": ""
+    },
+    {
+      "name": "Limited Addition",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/limited+addition",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Seveninthesincity",
+      "year": 2019,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/seveninthesincity",
+      "mstn": "T1"
+    },
+    {
+      "name": "City Wolf",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/city+wolfa",
+      "mstn": ""
+    },
+    {
+      "name": "Cant Roll A Seven",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/cant+roll+a+seven",
+      "mstn": ""
+    },
+    {
+      "name": "Victory Gallop",
+      "year": 1995,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/victory+gallop",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Like Blazing Fire",
+      "year": 2008,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/like+blazing+fire",
+      "mstn": "T1"
+    },
+    {
+      "name": "Blazing Fire",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/blazing+fire",
+      "mstn": ""
+    },
+    {
+      "name": "No Miss Stake",
+      "year": 1992,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/no+miss+stake",
+      "mstn": ""
+    },
+    {
+      "name": "Regal Remark",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/regal+remark",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cri Despoir",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/cri+despoir",
+      "mstn": "T2"
+    },
+    {
+      "name": "Equerry",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/equerry",
+      "mstn": ""
+    },
+    {
+      "name": "Crignasse",
+      "year": 1995,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/crignasse",
+      "mstn": ""
+    },
+    {
+      "name": "Dom Pasquini",
+      "year": 1995,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dom+pasquini",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Heavenly Games",
+      "year": 2007,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/heavenly+games",
+      "mstn": "T1"
+    },
+    {
+      "name": "Septieme Ciel",
+      "year": 1987,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/septieme+ciel",
+      "mstn": ""
+    },
+    {
+      "name": "Holly Games",
+      "year": 1999,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/holly+games",
+      "mstn": ""
+    },
+    {
+      "name": "Mind Games",
+      "year": 1992,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mind+games",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Alberts Jewel",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/alberts+jewel",
+      "mstn": "T2"
+    },
+    {
+      "name": "Albert The Great",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/albert+the+great",
+      "mstn": ""
+    },
+    {
+      "name": "Generally Nifty",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/generally+nifty",
+      "mstn": ""
+    },
+    {
+      "name": "General Meeting",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/general+meeting",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "So It Will Be",
+      "year": 2004,
+      "cnty": "IRE",
+      "href": "https://breederscup.attheraces.com/form/horse/So-It-Will-Be/2714190?raceid=760704",
+      "mstn": "T1"
+    },
+    {
+      "name": "Publisher",
+      "year": 1995,
+      "cnty": "USA",
+      "href": "https://www.pedigreequery.com/publisher3",
+      "mstn": ""
+    },
+    {
+      "name": "Beccemma",
+      "year": 1990,
+      "cnty": "IRE",
+      "href": "https://www.pedigreequery.com/beccemma",
+      "mstn": ""
+    },
+    {
+      "name": "Over The River",
+      "year": 1974,
+      "cnty": "FR",
+      "href": "https://www.pedigreequery.com/over+the+river",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Time For Blues",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/time+for+blues",
+      "mstn": "T1"
+    },
+    {
+      "name": "Timely Roberto",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/timely+roberto",
+      "mstn": ""
+    },
+    {
+      "name": "Soprano",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/soprano6",
+      "mstn": ""
+    },
+    {
+      "name": "Half High",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/half+high",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Aura Lee",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/aura+lee3",
+      "mstn": "T1"
+    },
+    {
+      "name": "Southern Halo",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/southern+halo",
+      "mstn": ""
+    },
+    {
+      "name": "Willa Time",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/willa+time",
+      "mstn": ""
+    },
+    {
+      "name": "Gilded Time",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/gilded+time",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Flyingjanna",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/flyingjanna",
+      "mstn": "T2"
+    },
+    {
+      "name": "Matchlite",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/matchlite",
+      "mstn": ""
+    },
+    {
+      "name": "Janna Hannah",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/janna+hannah",
+      "mstn": ""
+    },
+    {
+      "name": "Jahan",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/jahan",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Jean Splasher",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/jean+splasher",
+      "mstn": "T2"
+    },
+    {
+      "name": "Bucksplasher",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/bucksplasher",
+      "mstn": ""
+    },
+    {
+      "name": "Valid Tour",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/valid+tour",
+      "mstn": ""
+    },
+    {
+      "name": "Tour Dor",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tour+dor",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Persia Vs",
+      "year": 2003,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/persia+vs",
+      "mstn": "T1"
+    },
+    {
+      "name": "Quws",
+      "year": 1994,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/quws",
+      "mstn": ""
+    },
+    {
+      "name": "Patsy Clancy",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/patsy+clancy",
+      "mstn": ""
+    },
+    {
+      "name": "Glacial Storm",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/glacial+storm",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Sailor Ann",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sailor+ann",
+      "mstn": "T1"
+    },
+    {
+      "name": "Nucay",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/nucay",
+      "mstn": ""
+    },
+    {
+      "name": "Stoney Ann",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/stoney+ann",
+      "mstn": ""
+    },
+    {
+      "name": "Expediter",
+      "year": 1969,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/expediter",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Shes Miss California",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/shes+miss+california2",
+      "mstn": "T1"
+    },
+    {
+      "name": "Spot Pocket",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/spot+pocket",
+      "mstn": ""
+    },
+    {
+      "name": "Shirleygirl",
+      "year": 1992,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/shirleygirl",
+      "mstn": ""
+    },
+    {
+      "name": "Arctic Tern",
+      "year": 1973,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/arctic+tern",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Ms Classic Cowgirl",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ms+classic+cowgirl",
+      "mstn": "T1"
+    },
+    {
+      "name": "Le Merle Blanc",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/le+merle+blanc",
+      "mstn": ""
+    },
+    {
+      "name": "Folie Joyeuse",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/folie+joyeuse",
+      "mstn": ""
+    },
+    {
+      "name": "Akureyri",
+      "year": 1978,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/akureyri",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Behind Blue Eyes",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/behind+blue+eyes",
+      "mstn": "T1"
+    },
+    {
+      "name": "Play The Red",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/play+the+red",
+      "mstn": ""
+    },
+    {
+      "name": "Dandy Miss",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dandy+miss4",
+      "mstn": ""
+    },
+    {
+      "name": "Dandy Binge",
+      "year": 1976,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dandy+binge",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Show Off Girl",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/show+off+girl",
+      "mstn": "T1"
+    },
+    {
+      "name": "Big Bold Sefa",
+      "year": 1976,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/big+bold+sefa",
+      "mstn": ""
+    },
+    {
+      "name": "Pina Colleta",
+      "year": 1979,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/pina+colleta",
+      "mstn": ""
+    },
+    {
+      "name": "Northern Native",
+      "year": 1966,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/northern+native",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Spares Memory",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/spares+memory",
+      "mstn": "T1"
+    },
+    {
+      "name": "Irgun",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/irgun",
+      "mstn": ""
+    },
+    {
+      "name": "Sweet Ora Bim",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sweet+ora+bim",
+      "mstn": ""
+    },
+    {
+      "name": "Pass The Tab",
+      "year": 1978,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pass+the+tab",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Why Not Davril",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://infochevaux.ifce.fr/en/Why-Not-D-avril-MfghLD_9TIa3Fok0uOPNMg/pedigree-et-chevaux-associes/pedigree-5-generations",
+      "mstn": "T1"
+    },
+    {
+      "name": "Brier Creek",
+      "year": 1989,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/brier+creek",
+      "mstn": ""
+    },
+    {
+      "name": "Lorcade",
+      "year": 1991,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://infochevaux.ifce.fr/en/Lorcade-46fr8v2ATnOZWuk7CY1N6g/pedigree-et-chevaux-associes/pedigree-5-generations",
+      "mstn": ""
+    },
+    {
+      "name": "Sukawa",
+      "year": 1969,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sukawa",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Persuasive Copy",
+      "year": 1996,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/persuasive+copy",
+      "mstn": "C1"
+    },
+    {
+      "name": "Avies Copy",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/avies+copy",
+      "mstn": ""
+    },
+    {
+      "name": "Kendras Pal",
+      "year": 1990,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/kendras+pal",
+      "mstn": ""
+    },
+    {
+      "name": "Steady Growth",
+      "year": 1976,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/steady+growth",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Raehoo",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/raehoo",
+      "mstn": "T1"
+    },
+    {
+      "name": "Raykour",
+      "year": 1985,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/raykour",
+      "mstn": ""
+    },
+    {
+      "name": "Beyond The Fringe",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/beyond+the+fringe",
+      "mstn": ""
+    },
+    {
+      "name": "Dewan",
+      "year": 1965,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dewan",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Personality Plus",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/personality+plus",
+      "mstn": "T1"
+    },
+    {
+      "name": "Manila",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/manila",
+      "mstn": ""
+    },
+    {
+      "name": "Cayman Queen",
+      "year": 1981,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/cayman+queen",
+      "mstn": ""
+    },
+    {
+      "name": "Recupere",
+      "year": 1970,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/recupere",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Anothersadlovesong",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/anothersadlovesong",
+      "mstn": "T1"
+    },
+    {
+      "name": "Temptor",
+      "year": 1987,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/temptor",
+      "mstn": ""
+    },
+    {
+      "name": "Lasting Refrain",
+      "year": 1987,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lasting+refrain",
+      "mstn": ""
+    },
+    {
+      "name": "Syncopate",
+      "year": 1975,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/syncopate",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Debit",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/debit3",
+      "mstn": "T2"
+    },
+    {
+      "name": "Fabuleux Dancer",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/fabuleux+dancer",
+      "mstn": ""
+    },
+    {
+      "name": "Albies Pet",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/albies+pet",
+      "mstn": ""
+    },
+    {
+      "name": "R Tom Can",
+      "year": 1971,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/r+tom+can",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Maddie Madsing",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/maddie+madsing",
+      "mstn": "T1"
+    },
+    {
+      "name": "Exit Poll",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/exit+poll",
+      "mstn": ""
+    },
+    {
+      "name": "Fugitive Lass",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/fugitive+lass",
+      "mstn": ""
+    },
+    {
+      "name": "Dynastic Duke",
+      "year": 1974,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dynastic+duke",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Bunnys Crisis",
+      "year": 1992,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/bunnys+crisis",
+      "mstn": "T1"
+    },
+    {
+      "name": "King Of Storyland",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/king+of+storyland",
+      "mstn": ""
+    },
+    {
+      "name": "Robins Crisis",
+      "year": 0,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/robins+crisis",
+      "mstn": ""
+    },
+    {
+      "name": "Bold Hour",
+      "year": 1964,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/bold+hour",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Nicoles Miss",
+      "year": 1992,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/nicoles+miss",
+      "mstn": "T1"
+    },
+    {
+      "name": "Palace Music",
+      "year": 1981,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/palace+music",
+      "mstn": ""
+    },
+    {
+      "name": "Northern Days",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/northern+days",
+      "mstn": ""
+    },
+    {
+      "name": "Magesterial",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/magesterial",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Genevas Wind",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/genevas+wind",
+      "mstn": "T1"
+    },
+    {
+      "name": "Navajo",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/navajo",
+      "mstn": ""
+    },
+    {
+      "name": "Restless Years",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/restless+years",
+      "mstn": ""
+    },
+    {
+      "name": "Inca Roca",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/inca+roca",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Reine Mist",
+      "year": 1990,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/reine+mist",
+      "mstn": "T1"
+    },
+    {
+      "name": "River Mist",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/river+mist",
+      "mstn": ""
+    },
+    {
+      "name": "La Reine Au Gue",
+      "year": 1973,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/la+reine+au+gue",
+      "mstn": ""
+    },
+    {
+      "name": "Luthier",
+      "year": 1965,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/luthier",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Jaks",
+      "year": 1989,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/jaks",
+      "mstn": "T1"
+    },
+    {
+      "name": "Captain Jason",
+      "year": 1970,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/captain+jason",
+      "mstn": ""
+    },
+    {
+      "name": "Voir Rouge",
+      "year": 1978,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/voir+rouge",
+      "mstn": ""
+    },
+    {
+      "name": "Valuta",
+      "year": 1970,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/valuta",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Star Catcher",
+      "year": 1989,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/star+catcher",
+      "mstn": "T1"
+    },
+    {
+      "name": "Sun Catcher",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sun+catcher",
+      "mstn": ""
+    },
+    {
+      "name": "Baby Jo",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/baby+jo",
+      "mstn": ""
+    },
+    {
+      "name": "Private Thoughts",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/private+thoughts",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Fine Flirt",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/fine+flirt",
+      "mstn": "T1"
+    },
+    {
+      "name": "Thaliard",
+      "year": 1974,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/thaliard",
+      "mstn": ""
+    },
+    {
+      "name": "Acknofina",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/acknofina",
+      "mstn": ""
+    },
+    {
+      "name": "Ruffinal",
+      "year": 1968,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/ruffinal",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Surprise Of Dawn",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/surprise+of+dawn",
+      "mstn": "T1"
+    },
+    {
+      "name": "Victory Stride",
+      "year": 1974,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/victory+stride",
+      "mstn": ""
+    },
+    {
+      "name": "Santonio Rose",
+      "year": 1978,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/santonio+rose",
+      "mstn": ""
+    },
+    {
+      "name": "Im For More",
+      "year": 1959,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/im+for+more",
       "mstn": ""
     }
   ]
