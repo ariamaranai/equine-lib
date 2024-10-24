@@ -11404,7 +11404,7 @@
       "cnty": "ITY",
       "sex": "S",
       "href": "https://www.pedigreequery.com/nearco",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Lady Angela",
@@ -30533,6 +30533,40 @@
   ],
   [
     {
+      "name": "Nearco",
+      "year": 1935,
+      "cnty": "ITY",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/nearco",
+      "mstn": "CT"
+    },
+    {
+      "name": "Pharos",
+      "year": 1920,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pharos",
+      "mstn": ""
+    },
+    {
+      "name": "Nogara",
+      "year": 1928,
+      "cnty": "ITY",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/nogara",
+      "mstn": ""
+    },
+    {
+      "name": "Havresac",
+      "year": 1915,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/havresac2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Seabiscuit",
       "year": 1933,
       "cnty": "USA",
@@ -40631,6 +40665,40 @@
   ],
   [
     {
+      "name": "Lauren M C",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lauren+m+c",
+      "mstn": "T1"
+    },
+    {
+      "name": "Defrere",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/defrere",
+      "mstn": ""
+    },
+    {
+      "name": "Steady Anna",
+      "year": 1994,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/steady+anna",
+      "mstn": ""
+    },
+    {
+      "name": "Steady Growth",
+      "year": 1976,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/steady+growth",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Like Blazing Fire",
       "year": 2008,
       "cnty": "CAN",
@@ -40826,6 +40894,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/half+high",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Native Regent",
+      "year": 1992,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/native+regent",
+      "mstn": "C1"
+    },
+    {
+      "name": "Vice Regent",
+      "year": 1967,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/vice+regent",
+      "mstn": ""
+    },
+    {
+      "name": "Barkerville Belle",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/barkerville+belle",
+      "mstn": ""
+    },
+    {
+      "name": "Ruthies Native",
+      "year": 1974,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/ruthies+native",
       "mstn": ""
     }
   ],
