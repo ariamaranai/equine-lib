@@ -1772,6 +1772,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Duke of Marmalade",
+    "year": 2004,
+    "hh": 163,
+    "wt": 539,
+    "bmi": 202.9,
+    "href": "https://www.pedigreequery.com/quality+seeker",
+    "sire": "Danehill",
+    "gsire": "Kingmambo",
+    "mstn": ["--","CC","CC"]
+  },
+  {
     "name": "Ribot",
     "year": 1952,
     "hh": 164,
@@ -2418,6 +2429,17 @@
     "href": "https://www.pedigreequery.com/tiger+groom2",
     "sire": "Arazi",
     "gsire": "Ela-mana-mou",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Carry Back",
+    "year": 1958,
+    "hh": 165,
+    "wt": 441,
+    "bmi": 162.0,
+    "href": "https://www.pedigreequery.com/carry+back",
+    "sire": "Saggy",
+    "gsire": "Star Blen",
     "mstn": ["--","--","--"]
   },
   {
@@ -3587,6 +3609,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Gallant Fox",
+    "year": 1927,
+    "hh": 165,
+    "wt": 544,
+    "bmi": 199.8,
+    "href": "https://www.pedigreequery.com/gallant+fox",
+    "sire": "Sir Gallahad",
+    "gsire": "Celt",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Akeed Mofeed",
     "year": 2009,
     "hh": 165,
@@ -4088,7 +4121,7 @@
     "wt": 544,
     "bmi": 197.5,
     "href": "https://www.pedigreequery.com/alydar",
-    "sire": "Raise a Native",
+    "sire": "Raise A Native",
     "gsire": "On-and-on",
     "mstn": ["--","--","--"]
   },
@@ -4300,6 +4333,17 @@
     "sire": "Brians Time",
     "gsire": "Mr Prospector",
     "mstn": ["--","--","CC"]
+  },
+  {
+    "name": "Majestic Prince",
+    "year": 1966,
+    "hh": 167,
+    "wt": 510,
+    "bmi": 182.9,
+    "href": "https://www.pedigreequery.com/majestic+prince",
+    "sire": "Raise A Native",
+    "gsire": "Royal Charger",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "タップダンスシチー",
