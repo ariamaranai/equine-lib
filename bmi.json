@@ -1772,12 +1772,12 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Duke of Marmalade",
+    "name": "Duke Of Marmalade",
     "year": 2004,
     "hh": 163,
     "wt": 539,
     "bmi": 202.9,
-    "href": "https://www.pedigreequery.com/quality+seeker",
+    "href": "https://www.pedigreequery.com/duke+of+marmalade2",
     "sire": "Danehill",
     "gsire": "Kingmambo",
     "mstn": ["--","CC","CC"]
@@ -4115,6 +4115,28 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Summer Bird",
+    "year": 2006,
+    "hh": 166,
+    "wt": 533,
+    "bmi": 195.8,
+    "href": "https://www.pedigreequery.com/summer+bird3",
+    "sire": "Bridstone",
+    "gsire": "Summer Squall",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Native Trail",
+    "year": 2019,
+    "hh": 166,
+    "wt": 540,
+    "bmi": 196.0,
+    "href": "https://www.pedigreequery.com/native+trail2",
+    "sire": "Oasis Dream",
+    "gsire": "Observatory",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Alydar",
     "year": 1975,
     "hh": 166,
@@ -5117,6 +5139,17 @@
     "mstn": ["CT","--","TT"]
   },
   {
+    "name": "Swaps",
+    "year": 1952,
+    "hh": 168,
+    "wt": 544,
+    "bmi": 192.8,
+    "href": "https://www.pedigreequery.com/swaps",
+    "sire": "Khaled",
+    "gsire": "Beau Pepe",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ネクサスハート",
     "year": 2018,
     "hh": 168,
@@ -5166,10 +5199,21 @@
     "hh": 168,
     "wt": 581,
     "bmi": 205.9,
-    "href": "https://www.jbis.or.jp/horse/0000715572/",
+    "href": "https://www.pedigreequery.com/ferrule",
     "sire": "Danehill",
     "gsire": "Damascus",
     "mstn": ["--","CC","--"]
+  },
+  {
+    "name": "Gufo",
+    "year": 2017,
+    "hh": 168,
+    "wt": 590,
+    "bmi": 209.0,
+    "href": "https://www.pedigreequery.com/gufo",
+    "sire": "Declaration Of War",
+    "gsire": "Petionville",
+    "mstn": ["--","CT",""]
   },
   {
     "name": "サングレーザー",
@@ -5679,6 +5723,28 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Catalina Cruiser",
+    "year": 2014,
+    "hh": 170,
+    "wt": 567,
+    "bmi": 196.2,
+    "href": "https://www.pedigreequery.com/catalina+cruiser",
+    "sire": "Union Rags",
+    "gsire": "Mineshaft",
+    "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "Graydar",
+    "year": 2009,
+    "hh": 170,
+    "wt": 590,
+    "bmi": 204.2,
+    "href": "https://www.pedigreequery.com/graydar",
+    "sire": "Unbridleds Song",
+    "gsire": "Dehere",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Endless Drama",
     "year": 2012,
     "hh": 170,
@@ -5830,6 +5896,28 @@
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
     "gsire": "Only for Life",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Best Turn",
+    "year": 1966,
+    "hh": 180,
+    "wt": 590,
+    "bmi": 182.1,
+    "href": "https://www.pedigreequery.com/best+turn",
+    "sire": "Turn To",
+    "gsire": "Swaps",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Holly Roller",
+    "year": 1992,
+    "hh": 186,
+    "wt": 800,
+    "bmi": 231.2,
+    "href": "https://www.pedigreequery.com/holy+roller3",
+    "sire": "Sanction",
+    "gsire": "Imperial Prince",
     "mstn": ["--","--","--"]
   }
 ]
