@@ -2410,6 +2410,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Delhi",
+    "year": 1901,
+    "hh": 164,
+    "wt": 562,
+    "bmi": 209.0,
+    "href": "https://www.pedigreequery.com/delhi2",
+    "sire": "Ben Brush",
+    "gsire": "Mortemer",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Special Kaldoun",
     "year": 1999,
     "hh": 165,
@@ -3441,6 +3452,17 @@
     "href": "https://www.jbis.or.jp/horse/0000760084/",
     "sire": "Opera House",
     "gsire": "Dancing Brave",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Alysheba",
+    "year": 1984,
+    "hh": 165,
+    "wt": 522,
+    "bmi": 191.8,
+    "href": "https://www.pedigreequery.com/alysheba",
+    "sire": "Alydar",
+    "gsire": "Lt Stevens",
     "mstn": ["--","--","--"]
   },
   {
@@ -5458,6 +5480,17 @@
     "mstn": ["--","CT","CC"]
   },
   {
+    "name": "Real Quiet",
+    "year": 1995,
+    "hh": 170,
+    "wt": 499,
+    "bmi": 173.8,
+    "href": "https://www.pedigreequery.com/real+quiet",
+    "sire": "Quiet American",
+    "gsire": "Believe It",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "エアエミネム",
     "year": 1998,
     "hh": 170,
@@ -5745,6 +5778,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Omaha",
+    "year": 1932,
+    "hh": 170,
+    "wt": 590,
+    "bmi": 204.2,
+    "href": "https://www.pedigreequery.com/omaha",
+    "sire": "Gallant Fox",
+    "gsire": "Wrack",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Endless Drama",
     "year": 2012,
     "hh": 170,
@@ -5836,8 +5880,8 @@
     "name": "Justify",
     "year": 2015,
     "hh": 172,
-    "wt": 626,
-    "bmi": 211.7,
+    "wt": 575,
+    "bmi": 194.4,
     "href": "https://www.pedigreequery.com/justify11",
     "sire": "Scat Daddy",
     "gsire": "Ghostzapper",
