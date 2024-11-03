@@ -31420,6 +31420,40 @@
       "name": "-",
       "year": 2023,
       "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001378293/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Benbatl",
+      "year": 2014,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/benbatl",
+      "mstn": ""
+    },
+    {
+      "name": "ナスノフォルテ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001236340/",
+      "mstn": ""
+    },
+    {
+      "name": "ジャスタウェイ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001106251/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001375101/",
       "mstn": "TT"
