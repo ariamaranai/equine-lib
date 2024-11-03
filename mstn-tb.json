@@ -19742,7 +19742,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/spinning+wildcat",
-      "mstn": "CC"
+      "mstn": ""
     },
     {
       "name": "Hard Spun",
@@ -31243,6 +31243,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/oxbow3",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001376367/",
+      "mstn": "TT"
+    },
+    {
+      "name": "キタサンブラック",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001155349/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ジュエルインザサン",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001217742/",
+      "mstn": ""
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
     }
   ],
   [
