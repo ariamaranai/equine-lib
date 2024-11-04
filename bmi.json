@@ -5932,6 +5932,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Sentinel",
+    "year": 1968,
+    "hh": 173,
+    "wt": 600,
+    "bmi": 200.5,
+    "href": "https://www.pedigreequery.com/sentinel",
+    "sire": "No Reprieve",
+    "gsire": "Wilwyn",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ホリスキー",
     "year": 1979,
     "hh": 174,
@@ -5940,6 +5951,17 @@
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
     "gsire": "Only for Life",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Dortmund",
+    "year": 2012,
+    "hh": 178,
+    "wt": 581,
+    "bmi": 183.4,
+    "href": "https://www.pedigreequery.com/dortmund3",
+    "sire": "Big Brown",
+    "gsire": "Tale Of The Cat",
     "mstn": ["--","--","--"]
   },
   {
