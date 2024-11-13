@@ -1244,6 +1244,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "The Bird",
+    "year": 1883,
+    "hh": 163,
+    "wt": 456,
+    "bmi": 171.6,
+    "href": "https://www.pedigreequery.com/the+bard",
+    "sire": "Longfellow",
+    "gsire": "War Dance",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ローズキングダム",
     "year": 2007,
     "hh": 163,
@@ -1275,6 +1286,17 @@
     "sire": "Sunday Silence",
     "gsire": "Danehill",
     "mstn": ["--","TT","CC"]
+  },
+  {
+    "name": "Ciger",
+    "year": 1990,
+    "hh": 163,
+    "wt": 464,
+    "bmi": 174.7,
+    "href": "https://www.pedigreequery.com/cigar2",
+    "sire": "Palace Music",
+    "gsire": "Seattle Slew",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Free Eagle",
@@ -1726,6 +1748,17 @@
     "sire": "Pyro",
     "gsire": "Shanghai",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "Eclipse",
+    "year": 1764,
+    "hh": 163,
+    "wt": 522,
+    "bmi": 196.5,
+    "href": "https://www.pedigreequery.com/eclipse",
+    "sire": "Marske",
+    "gsire": "Regulus",
+    "mstn": ["TT","--","--"]
   },
   {
     "name": "Came Home",
@@ -5712,6 +5745,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Gronkowsk",
+    "year": 2015,
+    "hh": 170,
+    "wt": 550,
+    "bmi": 190.3,
+    "href": "https://www.pedigreequery.com/gronkowski2",
+    "sire": "Lonhro",
+    "gsire": "Lookin At Lucky",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ラニ",
     "year": 2013,
     "hh": 170,
@@ -5932,6 +5976,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Mobile Bay",
+    "year": 1968,
+    "hh": 173,
+    "wt": 590,
+    "bmi": 197.1,
+    "href": "https://www.pedigreequery.com/mobile+bay3",
+    "sire": "Lone Star Special",
+    "gsire": "Out Of Place",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Sentinel",
     "year": 1968,
     "hh": 173,
@@ -5951,6 +6006,28 @@
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
     "gsire": "Only for Life",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Fio Rito",
+    "year": 1979,
+    "hh": 175,
+    "wt": 590,
+    "bmi": 192.7,
+    "href": "https://www.pedigreequery.com/fio+rito",
+    "sire": "Dreaming Native",
+    "gsire": "Sea Charger",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Whywhywhy",
+    "year": 2000,
+    "hh": 175,
+    "wt": 658,
+    "bmi": 214.9,
+    "href": "https://www.pedigreequery.com/whywhywhy",
+    "sire": "Mr Greeley",
+    "gsire": "Quiet American",
     "mstn": ["--","--","--"]
   },
   {
