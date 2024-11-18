@@ -765,7 +765,7 @@
       "mstn": ""
     },
     {
-      "name": "Exodia",
+      "name": "Dejavu Rock",
       "year": 2007,
       "cnty": "AUS",
       "sex": "F",
@@ -9652,6 +9652,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/allens+prospect",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Kodiak Kowboy",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kodiak+kowboy",
+      "mstn": "CC"
+    },
+    {
+      "name": "Posse",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/posse2",
+      "mstn": ""
+    },
+    {
+      "name": "Kokadrie",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/kokadrie",
+      "mstn": ""
+    },
+    {
+      "name": "Coronados Quest",
+      "year": 1995,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/coronados+quest",
       "mstn": ""
     }
   ],
