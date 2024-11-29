@@ -12619,6 +12619,40 @@
       "year": 2023,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001367263/",
+      "mstn": "CT"
+    },
+    {
+      "name": "サートゥルナーリア",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001215724/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ファーストチェア",
+      "year": 2004,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000805457/",
+      "mstn": ""
+    },
+    {
+      "name": "ジャングルポケット",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000325200/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001368492/",
       "mstn": "CT"
     },
