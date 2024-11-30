@@ -2872,6 +2872,17 @@
     "mstn": ["--","TT","CT"]
   },
   {
+    "name": "ケイアイノーテック",
+    "year": 2015,
+    "hh": 165,
+    "wt": 486,
+    "bmi": 178.5,
+    "href": "https://www.jbis.or.jp/horse/0001205873/",
+    "sire": "ディープインパクト",
+    "gsire": "Smart Jones",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "Youmzain",
     "year": 2003,
     "hh": 165,
@@ -4080,6 +4091,17 @@
     "sire": "Muhtathir",
     "gsire": "Priolo",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Dawn Approach",
+    "year": 1993,
+    "hh": 166,
+    "wt": 512,
+    "bmi": 185.9,
+    "href": "https://www.pedigreequery.com/dawn+approach",
+    "sire": "New Approach",
+    "gsire": "Phone Trick",
+    "mstn": ["CC","CT","--"]
   },
   {
     "name": "サングラス",
