@@ -11,6 +11,17 @@
     "mstn": ["CT","CC","--"]
   },
   {
+    "name": "コダマ",
+    "year": 1957,
+    "hh": 155,
+    "wt": 456,
+    "bmi": 189.8,
+    "href": "https://www.jbis.or.jp/horse/0000005240/",
+    "sire": "Bouffleur",
+    "gsire": "Primero",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ショウナンカンプ",
     "year": 1998,
     "hh": 156,
@@ -52,6 +63,17 @@
     "href": "https://www.pedigreequery.com/war+admiral",
     "sire": "Man O War",
     "gsire": "Sweep",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "メイジヒカリ",
+    "year": 1952,
+    "hh": 157,
+    "wt": 440,
+    "bmi": 178.5,
+    "href": "https://www.jbis.or.jp/horse/0000002195/",
+    "sire": "クモハタ",
+    "gsire": "Primero",
     "mstn": ["--","--","--"]
   },
   {
@@ -5928,6 +5950,17 @@
     "href": "https://www.jbis.or.jp/horse/0001109433/",
     "sire": "マイネルラヴ",
     "gsire": "Chief Bearhart",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "ハイセイコー",
+    "year": 1970,
+    "hh": 171,
+    "wt": 530,
+    "bmi": 181.3,
+    "href": "https://www.jbis.or.jp/horse/0000036106/",
+    "sire": "China Rock",
+    "gsire": "Karim",
     "mstn": ["--","--","--"]
   },
   {
