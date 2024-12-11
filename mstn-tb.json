@@ -31827,6 +31827,40 @@
     {
       "name": "-",
       "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001404698/",
+      "mstn": "TT"
+    },
+    {
+      "name": "American Pharoah",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+pharoah",
+      "mstn": "CT"
+    },
+    {
+      "name": "Ononimo",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ononimo",
+      "mstn": ""
+    },
+    {
+      "name": "Hard Spun",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/hard+spun",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001375327/",
