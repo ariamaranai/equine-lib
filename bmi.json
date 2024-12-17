@@ -330,6 +330,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Vert De Grece",
+    "year": 2012,
+    "hh": 160,
+    "wt": 459,
+    "bmi": 179.3,
+    "href": "https://www.pedigreequery.com/vert+de+grece",
+    "sire": "Verglas",
+    "gsire": "Grand Lodge",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Papyrus",
     "year": 1920,
     "hh": 160,
@@ -361,6 +372,17 @@
     "sire": "Shamardal",
     "gsire": "Selkirk",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Last Kingdom",
+    "year": 2012,
+    "hh": 160,
+    "wt": 474,
+    "bmi": 185.2,
+    "href": "https://www.pedigreequery.com/last+kingdom",
+    "sire": "Frankel",
+    "gsire": "Kingmambo",
+    "mstn": ["--","CT","CC"]
   },
   {
     "name": "Antonius Pius",
@@ -416,6 +438,17 @@
     "sire": "High Chaparral",
     "gsire": "Woodman",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "One World",
+    "year": 2004,
+    "hh": 160,
+    "wt": 486,
+    "bmi": 189.5,
+    "href": "https://www.pedigreequery.com/oneworld",
+    "sire": "Danehill Dancer",
+    "gsire": "Hurricane Sky",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "スパロービート",
@@ -1672,6 +1705,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "My Admiration",
+    "year": 2007,
+    "hh": 163,
+    "wt": 494,
+    "bmi": 186.0,
+    "href": "https://www.pedigreequery.com/my+admiration2",
+    "sire": "Encosta De Lago",
+    "gsire": "Redoutes Choice",
+    "mstn": ["--","--","CC"]
+  },
+  {
     "name": "レイデオロ",
     "year": 2014,
     "hh": 163,
@@ -1793,6 +1837,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Supreme Class",
+    "year": 2002,
+    "hh": 163,
+    "wt": 519,
+    "bmi": 195.3,
+    "href": "https://www.pedigreequery.com/supreme+class2",
+    "sire": "Redoutes Choice",
+    "gsire": "Snaadee",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Eclipse",
     "year": 1764,
     "hh": 163,
@@ -1907,8 +1962,8 @@
     "year": 2004,
     "hh": 164,
     "wt": 449,
-    "bmi": 167.0,
-    "href": "https://www.jbis.or.jp/horse/0001211343/",
+    "bmi": 166.9,
+    "href": "https://www.pedigreequery.com/gris+de+gris",
     "sire": "Slickly",
     "gsire": "Lead on Time",
     "mstn": ["--","--","--"]
@@ -3157,6 +3212,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Electronic Zone",
+    "year": 1994,
+    "hh": 165,
+    "wt": 497,
+    "bmi": 182.6,
+    "href": "https://www.pedigreequery.com/electronic+zone",
+    "sire": "Rahy",
+    "gsire": "Prince John",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "ファイングレイン",
     "year": 2003,
     "hh": 165,
@@ -3748,7 +3814,18 @@
     "href": "https://www.pedigreequery.com/akeed+mofeed",
     "sire": "Dubawi",
     "gsire": "Tiger Hill",
-    "mstn": ["--","cT","CT"]
+    "mstn": ["--","CT","CT"]
+  },
+  {
+    "name": "Floral Pegasus",
+    "year": 2002,
+    "hh": 165,
+    "wt": 550,
+    "bmi": 202.0,
+    "href": "https://www.pedigreequery.com/floral+pegasus",
+    "sire": "Fusaichi Pegasus",
+    "gsire": "Mill Reef",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "War Emblem",
@@ -3793,6 +3870,17 @@
     "sire": "Miswaki",
     "gsire": "Sharpen Up",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Casino Prince",
+    "year": 1993,
+    "hh": 166,
+    "wt": 465,
+    "bmi": 168.7,
+    "href": "https://www.pedigreequery.com/casino+prince3",
+    "sire": "Flying Spur",
+    "gsire": "Last Tycoon",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Guignol",
@@ -5005,6 +5093,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Ekraar",
+    "year": 1997,
+    "hh": 168,
+    "wt": 506,
+    "bmi": 179.3,
+    "href": "https://www.pedigreequery.com/ekraar",
+    "sire": "Red Ransom",
+    "gsire": "Raja Baba",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "アドマイヤメイン",
     "year": 2003,
     "hh": 168,
@@ -5014,6 +5113,17 @@
     "sire": "Sunday Silence",
     "gsire": "Hector Protector",
     "mstn": ["TT","TT","--"]
+  },
+  {
+    "name": "Estejo",
+    "year": 2004,
+    "hh": 168,
+    "wt": 507,
+    "bmi": 179.6,
+    "href": "https://www.pedigreequery.com/estejo",
+    "sire": "Johan Cruyff",
+    "gsire": "The Noble Player",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Talkin Man",
