@@ -99,6 +99,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Cayoke",
+    "year": 1997,
+    "hh": 157,
+    "wt": 489,
+    "bmi": 198.4,
+    "href": "https://www.pedigreequery.com/cayoke",
+    "sire": "Always Fair",
+    "gsire": "Pharly",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ドリームジャーニー",
     "year": 2004,
     "hh": 158,
@@ -5400,6 +5411,17 @@
     "sire": "Roman Ruler",
     "gsire": "Giants Causeway",
     "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "Champions Gallery",
+    "year": 2019,
+    "hh": 168,
+    "wt": 541,
+    "bmi": 191.7,
+    "href": "https://www.pedigreequery.com/champions+gallery",
+    "sire": "Dansili",
+    "gsire": "Slip Anchor",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "スマートロビン",
