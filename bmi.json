@@ -198,7 +198,7 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Henry of Navarre",
+    "name": "Henry Of Navarre",
     "year": 1891,
     "hh": 155,
     "wt": 500,
@@ -303,8 +303,8 @@
     "wt": 445,
     "bmi": 173.9,
     "href": "https://www.pedigreequery.com/society+rock",
-    "sire": "Rock of Gibraltar",
-    "gsire": "Key of Luck",
+    "sire": "Rock Of Gibraltar",
+    "gsire": "Key Of Luck",
     "mstn": ["--","--","--"]
   },
   {
@@ -403,7 +403,7 @@
     "bmi": 186.0,
     "href": "https://www.pedigreequery.com/antonius+pius",
     "sire": "Danzig",
-    "gsire": "Pursuit of Love",
+    "gsire": "Pursuit Of Love",
     "mstn": ["--","CC","--"]
   },
   {
@@ -581,6 +581,17 @@
     "sire": "Warning",
     "gsire": "Darshaan",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "ディヴァインライト",
+    "year": 1995,
+    "hh": 161,
+    "wt": 462,
+    "bmi": 178.3,
+    "href": "https://www.jbis.or.jp/horse/0000298477/",
+    "sire": "Sunday Silence",
+    "gsire": "Northern Taste",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "ナカヤマフェスタ",
@@ -777,7 +788,7 @@
     "bmi": 196.0,
     "href": "https://www.jbis.or.jp/horse/0000310467/",
     "sire": "End Sweep",
-    "gsire": "Star de Naskra",
+    "gsire": "Star De Naskra",
     "mstn": ["--","--","--"]
   },
   {
@@ -867,6 +878,17 @@
     "sire": "ステイゴールド",
     "gsire": "French Deputy",
     "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "Onest",
+    "year": 2019,
+    "hh": 162,
+    "wt": 454,
+    "bmi": 173.0,
+    "href": "https://www.pedigreequery.com/onesto2",
+    "sire": "Frankel",
+    "gsire": "Sea The Stars",
+    "mstn": ["--","CT","CT"]
   },
   {
     "name": "コントレイル",
@@ -974,7 +996,7 @@
     "wt": 467,
     "bmi": 178.0,
     "href": "https://www.pedigreequery.com/mshawish",
-    "sire": "Medaglia doro",
+    "sire": "Medaglia Doro",
     "gsire": "Thunder Gulch",
     "mstn": ["--","--","--"]
   },
@@ -1139,7 +1161,7 @@
     "wt": 488,
     "bmi": 186.0,
     "href": "https://www.jbis.or.jp/horse/0000714234/",
-    "sire": "Seeking the Gold",
+    "sire": "Seeking The Gold",
     "gsire": "Secretariat",
     "mstn": ["--","CC","CT"]
   },
@@ -1282,12 +1304,12 @@
     "wt": 538,
     "bmi": 205.0,
     "href": "https://www.jbis.or.jp/horse/0001144181/",
-    "sire": "Tale of the Cat",
+    "sire": "Tale Of The Cat",
     "gsire": "Unbridleds Song",
     "mstn": ["CC","CC","--"]
   },
   {
-    "name": "Rock of Gibraltar",
+    "name": "Rock Of Gibraltar",
     "year": 1999,
     "hh": 162,
     "wt": 543,
@@ -1635,11 +1657,11 @@
     "bmi": 181.8,
     "href": "https://www.jbis.or.jp/horse/0000314130/",
     "sire": "Sunday Silence",
-    "gsire": "Seeking the Gold",
+    "gsire": "Seeking The Gold",
     "mstn": ["--","TT","CC"]
   },
   {
-    "name": "Charge daffaires",
+    "name": "Charge Daffaires",
     "year": 1995,
     "hh": 163,
     "wt": 486,
@@ -1679,7 +1701,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001141719/",
     "sire": "ディープインパクト",
-    "gsire": "Rock of Gibraltar",
+    "gsire": "Rock Of Gibraltar",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -1749,17 +1771,6 @@
     "mstn": ["CT","TT","--"]
   },
   {
-    "name": "Elvstroem",
-    "year": 2000,
-    "hh": 163,
-    "wt": 498,
-    "bmi": 187.5,
-    "href": "https://www.pedigreequery.com/elvstroem",
-    "sire": "Danehill",
-    "gsire": "Marscay",
-    "mstn": ["--","CC","--"]
-  },
-  {
     "name": "Timboroa",
     "year": 1996,
     "hh": 163,
@@ -1788,7 +1799,7 @@
     "wt": 501,
     "bmi": 188.6,
     "href": "https://www.jbis.or.jp/horse/0000626398/",
-    "sire": "Star of Cozzene",
+    "sire": "Star Of Cozzene",
     "gsire": "Northern Taste",
     "mstn": ["--","--","--"]
   },
@@ -1969,14 +1980,14 @@
     "mstn": ["--","TT","--"]
   },
   {
-    "name": "Gris de Gris",
+    "name": "Gris De Gris",
     "year": 2004,
     "hh": 164,
     "wt": 449,
     "bmi": 166.9,
     "href": "https://www.pedigreequery.com/gris+de+gris",
     "sire": "Slickly",
-    "gsire": "Lead on Time",
+    "gsire": "Lead On Time",
     "mstn": ["--","--","--"]
   },
   {
@@ -2024,7 +2035,7 @@
     "mstn": ["--","CT","--"]
   },
   {
-    "name": "Vision detat",
+    "name": "Vision Detat",
     "year": 2005,
     "hh": 164,
     "wt": 473,
@@ -2052,7 +2063,7 @@
     "wt": 476,
     "bmi": 177.0,
     "href": "https://www.jbis.or.jp/horse/0000759900/",
-    "sire": "Rodrigo de Triano",
+    "sire": "Rodrigo De Triano",
     "gsire": "El Senor",
     "mstn": ["--","--","--"]
   },
@@ -2108,7 +2119,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0001050184/",
     "sire": "フジキセキ",
-    "gsire": "Mark of Esteem",
+    "gsire": "Mark Of Esteem",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2262,7 +2273,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001051916/",
     "sire": "Forest Wildcat",
-    "gsire": "Cure the Blues",
+    "gsire": "Cure The Blues",
     "mstn": ["--","--","--"]
   },
   {
@@ -2286,6 +2297,17 @@
     "sire": "キングカメハメハ",
     "gsire": "Storm Cat",
     "mstn": ["CC","CT","CC"]
+  },
+  {
+    "name": "Elvstroem",
+    "year": 2000,
+    "hh": 164,
+    "wt": 498,
+    "bmi": 185.2,
+    "href": "https://www.pedigreequery.com/elvstroem",
+    "sire": "Danehill",
+    "gsire": "Marscay",
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "ヴリル",
@@ -2316,7 +2338,7 @@
     "wt": 499,
     "bmi": 185.6,
     "href": "https://www.jbis.or.jp/horse/0001049453/",
-    "sire": "Roses in May",
+    "sire": "Roses In May",
     "gsire": "マイネルラヴ",
     "mstn": ["--","--","--"]
   },
@@ -2614,7 +2636,7 @@
     "bmi": 162.8,
     "href": "https://www.pedigreequery.com/treasure+beach3",
     "sire": "Galileo",
-    "gsire": "Mark of Esteem",
+    "gsire": "Mark Of Esteem",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2768,7 +2790,7 @@
     "bmi": 172.7,
     "href": "https://www.jbis.or.jp/horse/0001173702/",
     "sire": "アドマイヤムーン",
-    "gsire": "Mark of Esteem",
+    "gsire": "Mark Of Esteem",
     "mstn": ["--","--","--"]
   },
   {
@@ -2805,7 +2827,7 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Robin of Navan",
+    "name": "Robin Of Navan",
     "year": 2013,
     "hh": 165,
     "wt": 473,
@@ -2902,6 +2924,17 @@
     "sire": "Galileo",
     "gsire": "Danehill",
     "mstn": ["--","TT","CC"]
+  },
+  {
+    "name": "Slade Power",
+    "year": 2009,
+    "hh": 165,
+    "wt": 482,
+    "bmi": 177.1,
+    "href": "https://www.pedigreequery.com/slade+power",
+    "sire": "Dutch Art",
+    "gsire": "Key Of Luck",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ワールドプレミア",
@@ -3087,7 +3120,7 @@
     "bmi": 180.4,
     "href": "https://www.pedigreequery.com/criterion8",
     "sire": "Sebring",
-    "gsire": "Bite the Bullet",
+    "gsire": "Bite The Bullet",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3113,7 +3146,7 @@
     "mstn": ["--","TT","CC"]
   },
   {
-    "name": "Quest for Fame",
+    "name": "Quest For Fame",
     "year": 1987,
     "hh": 165,
     "wt": 492,
@@ -3168,7 +3201,7 @@
     "mstn": ["--","TT","CC"]
   },
   {
-    "name": "Fruits of Love",
+    "name": "Fruits Of Love",
     "year": 1995,
     "hh": 165,
     "wt": 496,
@@ -3366,14 +3399,14 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Inns of Court",
+    "name": "Inns Of Court",
     "year": 2014,
     "hh": 165,
     "wt": 506,
     "bmi": 185.9,
     "href": "https://www.pedigreequery.com/inns+of+court2",
     "sire": "Invincible Spirit",
-    "gsire": "Seeking the Gold",
+    "gsire": "Seeking The Gold",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -3504,7 +3537,7 @@
     "wt": 514,
     "bmi": 188.8,
     "href": "https://www.jbis.or.jp/horse/0001127268/",
-    "sire": "Medaglia doro",
+    "sire": "Medaglia Doro",
     "gsire": "Afleet",
     "mstn": ["--","--","--"]
   },
@@ -3652,7 +3685,7 @@
     "mstn": ["--","TT","TT"]
   },
   {
-    "name": "Show a Heart",
+    "name": "Show A Heart",
     "year": 1997,
     "hh": 165,
     "wt": 523,
@@ -3746,7 +3779,7 @@
     "wt": 531,
     "bmi": 195.1,
     "href": "https://www.pedigreequery.com/american+pharoah",
-    "sire": "Pioneerof the Nile",
+    "sire": "Pioneerof The Nile",
     "gsire": "Yankee Gentleman",
     "mstn": ["CT","--","--"]
   },
@@ -3870,6 +3903,17 @@
     "sire": "Swept Overboard",
     "gsire": "ゴールドアリュール",
     "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "Mendociano",
+    "year": 2015,
+    "hh": 166,
+    "wt": 463,
+    "bmi": 168.0,
+    "href": "https://www.pedigreequery.com/mendocino10",
+    "sire": "Adlerflug",
+    "gsire": "Pivotal",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Allied Forces",
@@ -4004,6 +4048,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ローゼンカバリー",
+    "year": 1993,
+    "hh": 166,
+    "wt": 489,
+    "bmi": 177.5,
+    "href": "https://www.jbis.or.jp/horse/0000274869/",
+    "sire": "Sunday Silence",
+    "gsire": "Northern Taste",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "バブルガムフェロー",
     "year": 1993,
     "hh": 166,
@@ -4109,7 +4164,7 @@
     "wt": 502,
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/talismanic2",
-    "sire": "Medaglia doro",
+    "sire": "Medaglia Doro",
     "gsire": "Machiavellian",
     "mstn": ["--","--","--"]
   },
@@ -4285,7 +4340,7 @@
     "wt": 512,
     "bmi": 185.9,
     "href": "https://www.jbis.or.jp/horse/0001136717/",
-    "sire": "Statue of Liberty",
+    "sire": "Statue Of Liberty",
     "gsire": "ダンスインザダーク",
     "mstn": ["--","CC","TT"]
   },
@@ -4330,7 +4385,7 @@
     "bmi": 190.9,
     "href": "https://www.jbis.or.jp/horse/0001191607/",
     "sire": "ディープインパクト",
-    "gsire": "Essence of Dubai",
+    "gsire": "Essence Of Dubai",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4934,7 +4989,7 @@
     "wt": 480,
     "bmi": 170.1,
     "href": "https://www.jbis.or.jp/horse/0000305175/",
-    "sire": "Commander in Chief",
+    "sire": "Commander In Chief",
     "gsire": "Miswaki",
     "mstn": ["--","--","--"]
   },
@@ -5181,14 +5236,14 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Ange gabriel",
+    "name": "Ange Gabriel",
     "year": 1998,
     "hh": 168,
     "wt": 514,
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/ange+gabriel",
     "sire": "Kaldounevees",
-    "gsire": "Head for Heights",
+    "gsire": "Head For Heights",
     "mstn": ["--","--","--"]
   },
   {
@@ -5816,7 +5871,7 @@
     "bmi": 177.2,
     "href": "https://www.jbis.or.jp/horse/0000313435/",
     "sire": "Sunday Silence",
-    "gsire": "Carr de Naskra",
+    "gsire": "Carr De Naskra",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6290,7 +6345,7 @@
     "bmi": 173.7,
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
-    "gsire": "Only for Life",
+    "gsire": "Only For Life",
     "mstn": ["--","--","--"]
   },
   {
