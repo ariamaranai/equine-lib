@@ -1254,6 +1254,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Thank Heavens",
+    "year": 2005,
+    "hh": 162,
+    "wt": 513,
+    "bmi": 195.5,
+    "href": "https://www.pedigreequery.com/thank+heavens2",
+    "sire": "Theatrical Charmer",
+    "gsire": "Glint Of Gold",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "シルポート",
     "year": 2005,
     "hh": 162,
@@ -1274,6 +1285,17 @@
     "sire": "Ravens Pass",
     "gsire": "Dalakhani",
     "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "Acclamation",
+    "year": 1999,
+    "hh": 162,
+    "wt": 524,
+    "bmi": 199.7,
+    "href": "https://www.pedigreequery.com/acclamation2",
+    "sire": "Royal Applause",
+    "gsire": "Ahonoora",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ナムラタイタン",
@@ -1826,6 +1848,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Giants Steps",
+    "year": 2009,
+    "hh": 163,
+    "wt": 505,
+    "bmi": 190.1,
+    "href": "https://www.pedigreequery.com/giants+steps",
+    "sire": "Giants Causeway",
+    "gsire": "Hennessy",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Frost Giant",
     "year": 2003,
     "hh": 163,
@@ -1934,6 +1967,17 @@
     "sire": "Danehill",
     "gsire": "Kingmambo",
     "mstn": ["--","CC","CC"]
+  },
+  {
+    "name": "Hidden Dragon",
+    "year": 1999,
+    "hh": 163,
+    "wt": 544,
+    "bmi": 204.7,
+    "href": "https://www.pedigreequery.com/hidden+dragon2",
+    "sire": "Danehill",
+    "gsire": "Citidancer",
+    "mstn": ["CC","CC","--"]
   },
   {
     "name": "Ribot",
@@ -2187,6 +2231,17 @@
     "sire": "Dansili",
     "gsire": "Sadlers Wells",
     "mstn": ["--","CT","TT"]
+  },
+  {
+    "name": "Protektor",
+    "year": 1989,
+    "hh": 164,
+    "wt": 485,
+    "bmi": 180.4,
+    "href": "https://www.pedigreequery.com/protektor",
+    "sire": "Acatenango",
+    "gsire": "Frontal",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ルヴァンスレーヴ",
@@ -4158,6 +4213,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "Taipan",
+    "year": 1992,
+    "hh": 166,
+    "wt": 501,
+    "bmi": 181.8,
+    "href": "https://www.pedigreequery.com/taipan2",
+    "sire": "Last Tycoon",
+    "gsire": "Chief Singer",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Talismanic",
     "year": 2013,
     "hh": 166,
@@ -4475,6 +4541,17 @@
     "sire": "Henny Hughes",
     "gsire": "Running Stag",
     "mstn": ["--","CC","--"]
+  },
+  {
+    "name": "Oxalagu",
+    "year": 1992,
+    "hh": 167,
+    "wt": 453,
+    "bmi": 162.4,
+    "href": "https://www.pedigreequery.com/oxalagu",
+    "sire": "Lagunas",
+    "gsire": "Ashmore",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "スペシャルウィーク",
@@ -6072,17 +6149,6 @@
     "sire": "Tapit",
     "gsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
-  },
-  {
-    "name": "Hitotsu",
-    "year": 2018,
-    "hh": 170,
-    "wt": 560,
-    "bmi": 193.8,
-    "href": "https://www.pedigreequery.com/hitotsu2",
-    "sire": "モーリス",
-    "gsire": "Redoutes Choice",
-    "mstn": ["--","CT","--"]
   },
   {
     "name": "アポロケンタッキー",
