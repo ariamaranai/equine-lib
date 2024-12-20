@@ -4419,7 +4419,7 @@
     "href": "https://www.jbis.or.jp/horse/0001216121/",
     "sire": "ロードカナロア",
     "gsire": "サクラバクシンオー",
-    "mstn": ["--","CC","CC"]  
+    "mstn": ["--","CC","CC"]
   },
   {
     "name": "Campanologist",
@@ -4430,7 +4430,18 @@
     "href": "https://www.pedigreequery.com/campanologist",
     "sire": "Kingmambo",
     "gsire": "Sadlers Wells",
-    "mstn": ["--","CC","TT"]  
+    "mstn": ["--","CC","TT"]
+  },
+  {
+    "name": "Wizard King",
+    "year": 1991,
+    "hh": 166,
+    "wt": 519,
+    "bmi": 188.4,
+    "href": "https://www.pedigreequery.com/wizard+king",
+    "sire": "Shaadi",
+    "gsire": "Habitat",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "トゥザワールド",
@@ -4441,7 +4452,7 @@
     "href": "https://www.jbis.or.jp/horse/0001134576/",
     "sire": "キングカメハメハ",
     "gsire": "Sunday Silence",
-    "mstn": ["--","CT","TT"]  
+    "mstn": ["--","CT","TT"]
   },
   {
     "name": "アルアイン",
