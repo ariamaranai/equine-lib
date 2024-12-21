@@ -1903,6 +1903,39 @@
     "mstn": ["CT","TT","--"]
   },
   {
+    "name": "Dr Green",
+    "year": 2003,
+    "hh": 163,
+    "wt": 510,
+    "bmi": 192.0,
+    "href": "https://www.pedigreequery.com/dr+green2",
+    "sire": "Fusaichi Pegasus",
+    "gsire": "Last Tycoon",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Chateau Istana",
+    "year": 2003,
+    "hh": 163,
+    "wt": 511,
+    "bmi": 192.3,
+    "href": "https://www.pedigreequery.com/chateau+istana",
+    "sire": "Grand Lodge",
+    "gsire": "Miswaki",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "レモンポップ",
+    "year": 2018,
+    "hh": 163,
+    "wt": 516,
+    "bmi": 194.2,
+    "href": "https://www.jbis.or.jp/horse/0001314074/",
+    "sire": "Lemon Drop Kid",
+    "gsire": "Giants Causeway",
+    "mstn": ["--","--","CT"]
+  },
+  {
     "name": "シゲルカガ",
     "year": 2011,
     "hh": 163,
@@ -2044,6 +2077,17 @@
     "sire": "Sunday Silence",
     "gsire": "Alzao",
     "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "Alexandros",
+    "year": 2005,
+    "hh": 164,
+    "wt": 448,
+    "bmi": 166.6,
+    "href": "https://www.pedigreequery.com/alexandros7",
+    "sire": "Kingmambo",
+    "gsire": "King Of Kings",
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "Gris De Gris",
@@ -2901,6 +2945,17 @@
     "href": "https://www.pedigreequery.com/hawkster",
     "sire": "Silver Hawk",
     "gsire": "Chieftain",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Loup Breton",
+    "year": 2004,
+    "hh": 165,
+    "wt": 473,
+    "bmi": 173.8,
+    "href": "https://www.pedigreequery.com/loup+breton",
+    "sire": "Anabaa",
+    "gsire": "Irish River",
     "mstn": ["--","--","--"]
   },
   {
@@ -3946,6 +4001,17 @@
     "href": "https://www.pedigreequery.com/floral+pegasus",
     "sire": "Fusaichi Pegasus",
     "gsire": "Mill Reef",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Cheval De Troy",
+    "year": 2001,
+    "hh": 165,
+    "wt": 561,
+    "bmi": 206.1,
+    "href": "https://www.pedigreequery.com/cheval+de+troy",
+    "sire": "Zabeel",
+    "gsire": "Success Express",
     "mstn": ["--","--","--"]
   },
   {
@@ -5677,6 +5743,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "Kahal",
+    "year": 1994,
+    "hh": 168,
+    "wt": 562,
+    "bmi": 1991,
+    "href": "https://www.pedigreequery.com/kahal",
+    "sire": "Machiavellian",
+    "gsire": "Green Desert",
+    "mstn": ["--","--","CC"]
+  },
+  {
     "name": "Ferrule",
     "year": 1998,
     "hh": 168,
@@ -6040,6 +6117,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "Rojo Dinero",
+    "year": 1994,
+    "hh": 170,
+    "wt": 524,
+    "bmi": 181.3,
+    "sire": "Red Ransom",
+    "gsire": "Wardlaw",
+    "href": "https://www.pedigreequery.com/rojo+dinero",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ゴールドドリーム",
     "year": 2013,
     "hh": 170,
@@ -6150,6 +6238,17 @@
     "mstn": ["CT","--","CT"]
   },
   {
+    "name": "Silver Patriarch",
+    "year": 1994,
+    "hh": 170,
+    "wt": 542,
+    "bmi": 187.5,
+    "href": "https://www.pedigreequery.com/silver+patriarch",
+    "sire": "Saddlers Hall",
+    "gsire": "Grey Dawn",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Native Dancer",
     "year": 1950,
     "hh": 170,
@@ -6159,7 +6258,6 @@
     "sire": "Polynesian",
     "gsire": "Discovery",
     "mstn": ["--","--","--"]
-
   },
   {
     "name": "Silky Sullivan",
