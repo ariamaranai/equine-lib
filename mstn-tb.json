@@ -2104,7 +2104,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/exceed+and+excel",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -5028,7 +5028,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/exceed+and+excel",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -7358,7 +7358,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/exceed+and+excel",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Bahia",
@@ -10911,6 +10911,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/mr+prospector",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "Exceed And Excel",
+      "year": 2000,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/exceed+and+excel",
+      "mstn": "CC"
+    },
+    {
+      "name": "Danehill",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/danehill",
+      "mstn": "CC"
+    },
+    {
+      "name": "Patrona",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/patrona",
+      "mstn": ""
+    },
+    {
+      "name": "Lomond",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/lomond2",
+      "mstn": ""
     }
   ],
   [
