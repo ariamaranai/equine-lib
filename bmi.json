@@ -77,6 +77,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Saonois",
+    "year": 2009,
+    "hh": 157,
+    "wt": 449,
+    "bmi": 182.2,
+    "href": "https://www.pedigreequery.com/saonois",
+    "sire": "Chichicastenango",
+    "gsire": "Homme De Loi",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "キャプテントゥーレ",
     "year": 2005,
     "hh": 157,
@@ -5806,6 +5817,17 @@
     "sire": "ゴールドアリュール",
     "gsire": "エルコンドルパサー",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "Trade Storm",
+    "year": 2008,
+    "hh": 168,
+    "wt": 549,
+    "bmi": 194.5,
+    "href": "https://www.pedigreequery.com/trade+storm",
+    "sire": "Trade Fair",
+    "gsire": "Slip Anchor",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Student Council",
