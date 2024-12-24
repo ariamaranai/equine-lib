@@ -6149,6 +6149,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Silverwave",
+    "year": 2012,
+    "hh": 170,
+    "wt": 503,
+    "bmi": 174.0,
+    "href": "https://www.pedigreequery.com/silverwave",
+    "sire": "Silver Frost",
+    "gsire": "River Mist",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "マンハッタンカフェ",
     "year": 1998,
     "hh": 170,
