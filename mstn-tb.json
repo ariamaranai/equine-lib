@@ -31098,7 +31098,7 @@
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.pedigreequery.com/rolls",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Mr Prospector",
@@ -31587,6 +31587,40 @@
   ],
   [
     {
+      "name": "Rolls",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/rolls",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mr Prospector",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mr+prospector",
+      "mstn": "CC"
+    },
+    {
+      "name": "Grand Luxe",
+      "year": 1974,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/grand+luxe",
+      "mstn": ""
+    },
+    {
+      "name": "Sir Ivor",
+      "year": 1965,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sir+ivor",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Weekend Surprise",
       "year": 1980,
       "cnty": "USA",
@@ -31634,7 +31668,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/roberto",
-      "mstn": ""
+      "mstn": "TT"
     },
     {
       "name": "Desert Vixen",
@@ -41086,7 +41120,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/roberto",
-      "mstn": ""
+      "mstn": "TT"
     },
     {
       "name": "Sharp Queen",
@@ -41136,6 +41170,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/charlottesville",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Roberto",
+      "year": 1969,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/roberto",
+      "mstn": "TT"
+    },
+    {
+      "name": "Hail To Reason",
+      "year": 1958,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/hail+to+reason",
+      "mstn": ""
+    },
+    {
+      "name": "Bramalea",
+      "year": 1959,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bramalea",
+      "mstn": ""
+    },
+    {
+      "name": "Nashua",
+      "year": 1952,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/nashua",
       "mstn": ""
     }
   ],
