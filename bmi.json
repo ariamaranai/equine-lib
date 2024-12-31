@@ -5046,7 +5046,7 @@
     "href": "https://www.pedigreequery.com/tizway",
     "sire": "Tiznow",
     "gsire": "Dayjur",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "カネヒキリ",
@@ -6642,6 +6642,17 @@
     "sire": "Wootton Bassett",
     "gsire": "Verglas",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Gemologist",
+    "year": 2009,
+    "hh": 173,
+    "wt": 590,
+    "bmi": 197.1,
+    "href": "https://www.pedigreequery.com/gemologist2",
+    "sire": "Tiznow",
+    "gsire": "Mr Prospector",
+    "mstn": ["--","CT","CC"]
   },
   {
     "name": "Mobile Bay",
