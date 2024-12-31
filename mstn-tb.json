@@ -2075,6 +2075,40 @@
   ],
   [
     {
+      "name": "Sea Seraphim",
+      "year": 2021,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/sea+seraphim",
+      "mstn": "CC"
+    },
+    {
+      "name": "Jersey Town",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/jersey+town",
+      "mstn": ""
+    },
+    {
+      "name": "Bronze Sea",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bronze+sea",
+      "mstn": ""
+    },
+    {
+      "name": "High Brite",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/high+brite",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Shamrock Bay",
       "year": 2021,
       "cnty": "GB",
@@ -12100,6 +12134,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/carr+tech",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Queens Sceptre",
+      "year": 2024,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/queens+sceptre3",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mo Forza",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mo+forza",
+      "mstn": ""
+    },
+    {
+      "name": "Party At Midnight",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/party+at+midnight",
+      "mstn": ""
+    },
+    {
+      "name": "K One King",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/k+one+king",
       "mstn": ""
     }
   ],
