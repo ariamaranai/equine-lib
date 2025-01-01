@@ -14158,7 +14158,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001162905/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "スーンシャイン",
@@ -15382,7 +15382,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001162905/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "パーフェクトラヴ",
@@ -16130,7 +16130,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001162905/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "グルーヴィクイーン",
@@ -22947,6 +22947,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/real+shadai",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "サトノクラウン",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001162905/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Marju",
+      "year": 1988,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000341019/",
+      "mstn": ""
+    },
+    {
+      "name": "Jioconda",
+      "year": 2003,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/jioconda",
+      "mstn": ""
+    },
+    {
+      "name": "Rossini",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/rossini2",
+      "mstn": ""
     }
   ],
   [
