@@ -12481,6 +12481,40 @@
     {
       "name": "-",
       "year": 2023,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Maxfield",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/maxfield2",
+      "mstn": ""
+    },
+    {
+      "name": "French Passport",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/french+passport",
+      "mstn": ""
+    },
+    {
+      "name": "Elusive Quality",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/elusive+quality",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001375202/",
@@ -15670,6 +15704,40 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.pedigreequery.com/dubawi",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Justifiable Belle",
+      "year": 2020,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/justifiable+belle",
+      "mstn": "CT"
+    },
+    {
+      "name": "Justify",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/justify11",
+      "mstn": ""
+    },
+    {
+      "name": "Bow Bells",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bow+bells9",
+      "mstn": ""
+    },
+    {
+      "name": "Giants Causeway",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/giants+causeway",
       "mstn": "CT"
     }
   ],
@@ -19309,6 +19377,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/galileo4",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Smooth Like Strait",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/smooth+like+strait",
+      "mstn": "CT"
+    },
+    {
+      "name": "Midnight Lute",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/midnight+lute",
+      "mstn": ""
+    },
+    {
+      "name": "Smooth As Usual",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/smooth+as+usual",
+      "mstn": ""
+    },
+    {
+      "name": "Flower Alley",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/flower+alley",
+      "mstn": ""
     }
   ],
   [
@@ -33185,6 +33287,40 @@
   ],
   [
     {
+      "name": "Au Contraire",
+      "year": 2022,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/au+contraire5",
+      "mstn": "TT"
+    },
+    {
+      "name": "Tapit",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tapit",
+      "mstn": ""
+    },
+    {
+      "name": "Dream Rush",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dream+rush",
+      "mstn": ""
+    },
+    {
+      "name": "Wild Rush",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/wild+rush3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "First Alarm",
       "year": 2022,
       "cnty": "CAN",
@@ -33792,6 +33928,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000881793/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Digital Soldier",
+      "year": 2021,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/digital+soldier",
+      "mstn": "TT"
+    },
+    {
+      "name": "Goldencents",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/goldencents",
+      "mstn": ""
+    },
+    {
+      "name": "Specification",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/specification2",
+      "mstn": ""
+    },
+    {
+      "name": "Empire Maker",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/empire+maker",
       "mstn": ""
     }
   ],
