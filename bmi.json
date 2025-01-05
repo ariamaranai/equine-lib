@@ -5599,6 +5599,17 @@
     "mstn": ["--","CC","TT"]
   },
   {
+    "name": "Teuflesberg",
+    "year": 2004,
+    "hh": 168,
+    "wt": 522,
+    "bmi": 185.0,
+    "href": "https://www.pedigreequery.com/teuflesberg",
+    "sire": "Johannesburg",
+    "gsire": "Devils Bag",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ビッグアーサー",
     "year": 2011,
     "hh": 168,
@@ -6204,6 +6215,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Honor A P",
+    "year": 2017,
+    "hh": 170,
+    "wt": 518,
+    "bmi": 179.2,
+    "href": "https://www.pedigreequery.com/honor+a+p",
+    "sire": "Honor Code",
+    "gsire": "Wild Rush",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "グリーングラス",
     "year": 1973,
     "hh": 170,
@@ -6234,6 +6256,17 @@
     "sire": "Red Ransom",
     "gsire": "Wardlaw",
     "href": "https://www.pedigreequery.com/rojo+dinero",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Bienamado",
+    "year": 1996,
+    "hh": 170,
+    "wt": 526,
+    "bmi": 182.0,
+    "sire": "Bien Bien",
+    "gsire": "Vitiges",
+    "href": "https://www.pedigreequery.com/bienamado",
     "mstn": ["--","--","--"]
   },
   {
