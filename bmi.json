@@ -319,6 +319,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Dubleo",
+    "year": 2002,
+    "hh": 160,
+    "wt": 442,
+    "bmi": 172.7,
+    "href": "https://www.pedigreequery.com/dubleo",
+    "sire": "Southern Halo",
+    "gsire": "Secretariat",
+    "mstn": ["--","--","CT"]
+  },
+  {
     "name": "Society Rock",
     "year": 2007,
     "hh": 160,
@@ -6094,17 +6105,6 @@
     "mstn": ["--","CT","TT"]
   },
   {
-    "name": "Curlin",
-    "year": 2004,
-    "hh": 169,
-    "wt": 658,
-    "bmi": 230.4,
-    "href": "https://www.pedigreequery.com/curlin",
-    "sire": "Smart Strike",
-    "gsire": "Deputy Minister",
-    "mstn": ["--","--","--"]
-  },
-  {
     "name": "サムソンハッピー",
     "year": 1998,
     "hh": 170,
@@ -6471,8 +6471,8 @@
     "name": "Catalina Cruiser",
     "year": 2014,
     "hh": 170,
-    "wt": 567,
-    "bmi": 196.2,
+    "wt": 580,
+    "bmi": 200.7,
     "href": "https://www.pedigreequery.com/catalina+cruiser",
     "sire": "Union Rags",
     "gsire": "Mineshaft",
@@ -6664,6 +6664,17 @@
     "sire": "Thunder Gulch",
     "gsire": "Turkoman",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Hold Me Back",
+    "year": 2006,
+    "hh": 173,
+    "wt": 567,
+    "bmi": 189.4,
+    "href": "https://www.pedigreequery.com/hold+me+back",
+    "sire": "Giants Causeway",
+    "gsire": "Unbridleds Song",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "King Of Steel",
