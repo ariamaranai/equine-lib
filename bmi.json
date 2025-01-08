@@ -231,6 +231,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Extreme Choice",
+    "year": 2013,
+    "hh": 159,
+    "wt": 450,
+    "bmi": 178.4,
+    "href": "https://www.pedigreequery.com/extreme+choice",
+    "sire": "Redoutes Choice",
+    "gsire": "",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "ダノンキングリー",
     "year": 2016,
     "hh": 159,
@@ -6468,6 +6479,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Menari",
+    "year": 2014,
+    "hh": 170,
+    "wt": 570,
+    "bmi": 197.2,
+    "href": "https://www.pedigreequery.com/menari",
+    "sire": "Snitzel",
+    "gsire": "General Nediym",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Catalina Cruiser",
     "year": 2014,
     "hh": 170,
@@ -6510,6 +6532,17 @@
     "sire": "Lope De Vega",
     "gsire": "Green Desert",
     "mstn": ["--","CT","CC"]
+  },
+  {
+    "name": "Exosphere",
+    "year": 2012,
+    "hh": 170,
+    "wt": 600,
+    "bmi": 207.7,
+    "href": "https://www.pedigreequery.com/exosphere",
+    "sire": "Lonhro",
+    "gsire": "Shadea",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ポアゾンブラック",
