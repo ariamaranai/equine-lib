@@ -2761,6 +2761,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "Invincible Army",
+    "year": 2015,
+    "hh": 164,
+    "wt": 540,
+    "bmi": 200.8,
+    "href": "https://www.pedigreequery.com/invincible+army",
+    "sire": "Invincible Spirit",
+    "gsire": "Diktat",
+    "mstn": ["--","-CT","--"]
+  },
+  {
     "name": "Falbrav",
     "year": 1998,
     "hh": 164,
@@ -6479,17 +6490,6 @@
     "mstn": ["--","CT","--"]
   },
   {
-    "name": "Menari",
-    "year": 2014,
-    "hh": 170,
-    "wt": 570,
-    "bmi": 197.2,
-    "href": "https://www.pedigreequery.com/menari",
-    "sire": "Snitzel",
-    "gsire": "General Nediym",
-    "mstn": ["--","--","--"]
-  },
-  {
     "name": "Catalina Cruiser",
     "year": 2014,
     "hh": 170,
@@ -6751,6 +6751,17 @@
     "href": "https://www.pedigreequery.com/sentinel",
     "sire": "No Reprieve",
     "gsire": "Wilwyn",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Menari",
+    "year": 2014,
+    "hh": 173,
+    "wt": 610,
+    "bmi": 203.8,
+    "href": "https://www.pedigreequery.com/menari",
+    "sire": "Snitzel",
+    "gsire": "General Nediym",
     "mstn": ["--","--","--"]
   },
   {
