@@ -1408,6 +1408,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Shalaa",
+    "year": 2013,
+    "hh": 163,
+    "wt": 450,
+    "bmi": 169.4,
+    "href": "https://www.pedigreequery.com/shalaa",
+    "sire": "Invincible Spirit",
+    "gsire": "War Chant",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "アドマイヤドン",
     "year": 1999,
     "hh": 163,
@@ -6784,17 +6795,6 @@
     "href": "https://www.pedigreequery.com/fio+rito",
     "sire": "Dreaming Native",
     "gsire": "Sea Charger",
-    "mstn": ["--","--","--"]
-  },
-  {
-    "name": "Whywhywhy",
-    "year": 2000,
-    "hh": 175,
-    "wt": 658,
-    "bmi": 214.9,
-    "href": "https://www.pedigreequery.com/whywhywhy",
-    "sire": "Mr Greeley",
-    "gsire": "Quiet American",
     "mstn": ["--","--","--"]
   },
   {
