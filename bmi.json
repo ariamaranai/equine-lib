@@ -4125,6 +4125,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Rich Enuff",
+    "year": 2011,
+    "hh": 165,
+    "wt": 580,
+    "bmi": 213.0,
+    "href": "https://www.pedigreequery.com/rich+enuff",
+    "sire": "Written Tycoon",
+    "gsire": "Spartacus",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "War Emblem",
     "year": 1999,
     "hh": 166,
