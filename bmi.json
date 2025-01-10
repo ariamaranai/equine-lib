@@ -238,7 +238,7 @@
     "bmi": 178.4,
     "href": "https://www.pedigreequery.com/extreme+choice",
     "sire": "Redoutes Choice",
-    "gsire": "",
+    "gsire": "Hussonet",
     "mstn": ["--","CC","--"]
   },
   {
@@ -6553,6 +6553,17 @@
     "href": "https://www.pedigreequery.com/exosphere",
     "sire": "Lonhro",
     "gsire": "Shadea",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Sargent Stalker",
+    "year": 2016,
+    "hh": 170,
+    "wt": 635,
+    "bmi": 219.7,
+    "href": "https://www.pedigreequery.com/sargent+stalker",
+    "sire": "Tizbud",
+    "gsire": "Petersburg",
     "mstn": ["--","--","--"]
   },
   {
