@@ -470,7 +470,7 @@
     "href": "https://www.pedigreequery.com/kitwood",
     "sire": "Nureyev",
     "gsire": "Sea Bird",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "ダイアトニック",
@@ -602,7 +602,7 @@
     "href": "https://www.jbis.or.jp/horse/0000287600/",
     "sire": "Nureyev",
     "gsire": "Silver Hawk",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "ステイゴールド",
@@ -932,7 +932,7 @@
     "href": "https://www.jbis.or.jp/horse/0001107309/",
     "sire": "ディープインパクト",
     "gsire": "Nureyev",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","TT","CC"]
   },
   {
     "name": "レインボーライン",
@@ -1130,7 +1130,7 @@
     "href": "https://www.jbis.or.jp/horse/0000325200/",
     "sire": "Tony Bin",
     "gsire": "Nureyev",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","--","CC"]
   },
   {
     "name": "カデナ",
@@ -1614,7 +1614,7 @@
     "href": "https://www.pedigreequery.com/samum",
     "sire": "Monsun",
     "gsire": "Old Vic",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "Silvano",
@@ -1889,7 +1889,7 @@
     "href": "https://www.jbis.or.jp/horse/0001189721/",
     "sire": "キングカメハメハ",
     "gsire": "シンボリクリスエス",
-    "mstn": ["--","CT","TT"]
+    "mstn": ["TT","CT","TT"]
   },
   {
     "name": "Var",
@@ -2164,7 +2164,7 @@
     "href": "https://www.pedigreequery.com/waldgeist4",
     "sire": "Galileo",
     "gsire": "Monsun",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","TT","TT"]
   },
   {
     "name": "ディープインパクト",
@@ -2450,7 +2450,7 @@
     "href": "https://www.pedigreequery.com/bago2",
     "sire": "Nashwan",
     "gsire": "Nureyev",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","--","CC"]
   },
   {
     "name": "Egerton",
@@ -4232,7 +4232,7 @@
     "href": "https://www.pedigreequery.com/guignol5",
     "sire": "Cape Cross",
     "gsire": "Monsun",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "Papal Bull",
@@ -6080,7 +6080,7 @@
     "href": "https://www.jbis.or.jp/horse/0000619768/",
     "sire": "Nureyev",
     "gsire": "Sunday Silence",
-    "mstn": ["CT","--","TT"]
+    "mstn": ["CT","CC","TT"]
   },
   {
     "name": "モーリス",
@@ -6179,7 +6179,7 @@
     "href": "https://www.jbis.or.jp/horse/0000325276/",
     "sire": "Sunday Silence",
     "gsire": "Nureyev",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","TT","CC"]
   },
   {
     "name": "ダイナガリバー",
@@ -6311,7 +6311,7 @@
     "href": "https://www.pedigreequery.com/free+port+lux",
     "sire": "Oasis Dream",
     "gsire": "Monsun",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "Rojo Dinero",
@@ -6355,7 +6355,7 @@
     "href": "https://www.jbis.or.jp/horse/0000701785/",
     "sire": "Sunday Silence",
     "gsire": "Nureyev",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","TT","CC"]
   },
   {
     "name": "サンライズノヴァ",
