@@ -286,6 +286,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Decathlon",
+    "year": 1953,
+    "hh": 160,
+    "wt": 431,
+    "bmi": 168.4,
+    "href": "https://www.pedigreequery.com/decathlon",
+    "sire": "Olympia",
+    "gsire": "Bull Dog",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Okawango",
     "year": 1998,
     "hh": 160,
@@ -514,6 +525,17 @@
     "href": "https://www.jbis.or.jp/horse/0000882996/",
     "sire": "サウスヴィグラス",
     "gsire": "Park Regent",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Paynter",
+    "year": 2009,
+    "hh": 160,
+    "wt": 499,
+    "bmi": 195.0,
+    "href": "https://www.pedigreequery.com/paynter",
+    "sire": "Awesome Again",
+    "gsire": "Cees Tizzy",
     "mstn": ["--","--","--"]
   },
   {
