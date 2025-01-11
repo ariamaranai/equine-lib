@@ -26372,7 +26372,7 @@
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0000316406/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "メジロマックイーン",
@@ -31174,6 +31174,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/seattle+song",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "オリエンタルアート",
+      "year": 1997,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000316406/",
+      "mstn": "CT"
+    },
+    {
+      "name": "メジロマックイーン",
+      "year": 1987,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000203356/",
+      "mstn": ""
+    },
+    {
+      "name": "エレクトロアート",
+      "year": 1986,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000190821/",
+      "mstn": ""
+    },
+    {
+      "name": "Northern Taste",
+      "year": 1971,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/northern+taste",
       "mstn": ""
     }
   ],
