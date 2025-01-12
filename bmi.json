@@ -231,17 +231,6 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Extreme Choice",
-    "year": 2013,
-    "hh": 159,
-    "wt": 450,
-    "bmi": 178.4,
-    "href": "https://www.pedigreequery.com/extreme+choice",
-    "sire": "Redoutes Choice",
-    "gsire": "Hussonet",
-    "mstn": ["--","CC","--"]
-  },
-  {
     "name": "ダノンキングリー",
     "year": 2016,
     "hh": 159,
@@ -262,6 +251,17 @@
     "sire": "In The Wings",
     "gsire": "Common Grounds",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Extreme Choice",
+    "year": 2013,
+    "hh": 159,
+    "wt": 460,
+    "bmi": 182.0,
+    "href": "https://www.pedigreequery.com/extreme+choice",
+    "sire": "Not A Single Doubt",
+    "gsire": "Hussonet",
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "デュランダル",
