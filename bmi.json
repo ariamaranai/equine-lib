@@ -4026,6 +4026,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Toronado",
+    "year": 2010,
+    "hh": 165,
+    "wt": 530,
+    "bmi": 194.7,
+    "href": "https://www.pedigreequery.com/toronado4",
+    "sire": "High Chaparral",
+    "gsire": "Grand Slam",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "アーネストリー",
     "year": 2005,
     "hh": 165,
@@ -4134,6 +4145,17 @@
     "sire": "Fusaichi Pegasus",
     "gsire": "Mill Reef",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Aristophanes",
+    "year": 1948,
+    "hh": 165,
+    "wt": 560,
+    "bmi": 205.7,
+    "href": "https://www.pedigreequery.com/aristophanes",
+    "sire": "Hyperion",
+    "gsire": "MIeuxce",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "Cheval De Troy",
@@ -4805,6 +4827,17 @@
     "sire": "Henny Hughes",
     "gsire": "Running Stag",
     "mstn": ["--","CC","--"]
+  },
+  {
+    "name": "Starcraft",
+    "year": 2000,
+    "hh": 166,
+    "wt": 555,
+    "bmi": 201.4,
+    "href": "https://www.pedigreequery.com/starcraft",
+    "sire": "Soviet Star",
+    "gsire": "Pompeii Court",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Oxalagu",
