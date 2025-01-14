@@ -184,7 +184,7 @@
     "href": "https://www.jbis.or.jp/horse/0001187704/",
     "sire": "サウスヴィグラス",
     "gsire": "Brians Time",
-    "mstn": ["CT","--","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ノボジャック",
@@ -6861,6 +6861,17 @@
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
     "gsire": "Only For Life",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Quality Road",
+    "year": 2006,
+    "hh": 175,
+    "wt": 567,
+    "bmi": 185.1,
+    "href": "https://www.pedigreequery.com/quality+road",
+    "sire": "Elusive Quality",
+    "gsire": "Strawberry Road",
     "mstn": ["--","--","--"]
   },
   {
