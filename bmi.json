@@ -1155,6 +1155,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Pinatubo",
+    "year": 2017,
+    "hh": 162,
+    "wt": 480,
+    "bmi": 182.9,
+    "href": "https://www.pedigreequery.com/pinatubo5",
+    "sire": "Shamardal",
+    "gsire": "Dalakhani",
+    "mstn": ["--","--","CT"]
+  },
+  {
     "name": "グアンチャーレ",
     "year": 2012,
     "hh": 162,
@@ -2893,6 +2904,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "Dalakhani",
+    "year": 2000,
+    "hh": 165,
+    "wt": 445,
+    "bmi": 163.5,
+    "href": "https://www.pedigreequery.com/dalakhani",
+    "sire": "Darshaan",
+    "gsire": "Miswaki",
+    "mstn": ["CT","--","--"]
+  },
+  {
     "name": "High-rise",
     "year": 1995,
     "hh": 165,
@@ -3496,6 +3518,17 @@
     "sire": "Creative Cause",
     "gsire": "Marias Mon",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Sakhee",
+    "year": 1997,
+    "hh": 165,
+    "wt": 496,
+    "bmi": 182.2,
+    "href": "https://www.pedigreequery.com/sakhee",
+    "sire": "Bahri",
+    "gsire": "Sadlers Wells",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "ディープブリランテ",
@@ -4741,6 +4774,17 @@
     "mstn": ["--","CT","TT"]
   },
   {
+    "name": "Dancing Brave",
+    "year": 1983,
+    "hh": 166,
+    "wt": 524,
+    "bmi": 190.2,
+    "href": "https://www.pedigreequery.com/dancing+brave",
+    "sire": "Lyphard",
+    "gsire": "Drone",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "アルアイン",
     "year": 2014,
     "hh": 166,
@@ -5621,6 +5665,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Teofilo",
+    "year": 2004,
+    "hh": 168,
+    "wt": 510,
+    "bmi": 180.7,
+    "href": "https://www.pedigreequery.com/teofilo2",
+    "sire": "Galileo",
+    "gsire": "Danehill",
+    "mstn": ["CT","TT","CC"]
+  },
+  {
     "name": "Epalo",
     "year": 1999,
     "hh": 168,
@@ -5762,6 +5817,17 @@
     "sire": "ゼンノロブロイ",
     "gsire": "Candy Stripes",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Sea The Stars",
+    "year": 2006,
+    "hh": 168,
+    "wt": 522,
+    "bmi": 185.0,
+    "href": "https://www.pedigreequery.com/sea+the+stars",
+    "sire": "Cape Cross",
+    "gsire": "Miswaki",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Preferment",
@@ -6037,6 +6103,17 @@
     "sire": "Declaration Of War",
     "gsire": "Petionville",
     "mstn": ["--","CT",""]
+  },
+  {
+    "name": "Azamour",
+    "year": 2001,
+    "hh": 168,
+    "wt": 620,
+    "bmi": 219.7,
+    "href": "https://www.pedigreequery.com/azamour",
+    "sire": "Night Shift",
+    "gsire": "Lear Fan",
+    "mstn": ["--","--",""]
   },
   {
     "name": "サングレーザー",
