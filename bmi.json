@@ -2475,6 +2475,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "The Autumn Sun",
+    "year": 2015,
+    "hh": 164,
+    "wt": 490,
+    "bmi": 182.2,
+    "href": "https://www.pedigreequery.com/the+autumn+sun",
+    "sire": "Redoutes Choice",
+    "gsire": "Galileo",
+    "mstn": ["--","CC","TT"]
+  },
+  {
     "name": "エイシンフラッシュ",
     "year": 2007,
     "hh": 164,
@@ -3447,11 +3458,22 @@
     "year": 1998,
     "hh": 165,
     "wt": 494,
-    "bmi": 181.5,
+    "bmi": 181.8,
     "href": "https://www.jbis.or.jp/horse/0000325213/",
     "sire": "Sunday Silence",
     "gsire": "Danzig",
     "mstn": ["--","TT","CC"]
+  },
+  {
+    "name": "Hvasstan",
+    "year": 2009,
+    "hh": 165,
+    "wt": 495,
+    "bmi": 182.2,
+    "href": "https://www.pedigreequery.com/hvasstan",
+    "sire": "Fastnet Rock",
+    "gsire": "True Hero",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Fruits Of Love",
@@ -5852,6 +5874,17 @@
     "mstn": ["--","CT","TT"]
   },
   {
+    "name": "Haradasun",
+    "year": 2003,
+    "hh": 168,
+    "wt": 540,
+    "bmi": 191.4,
+    "href": "https://www.pedigreequery.com/haradasun",
+    "sire": "Fusaichi Pegasus",
+    "gsire": "Marscay",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "マスクゾロ",
     "year": 2011,
     "hh": 168,
@@ -6477,6 +6510,17 @@
     "sire": "Timber Country",
     "gsire": "ゴールドアリュール",
     "mstn": ["CT","--","CT"]
+  },
+  {
+    "name": "Polanski",
+    "year": 2010,
+    "hh": 170,
+    "wt": 540,
+    "bmi": 187.5,
+    "href": "https://www.pedigreequery.com/polanski6",
+    "sire": "Rakti",
+    "gsire": "Citidancer",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Silver Patriarch",
