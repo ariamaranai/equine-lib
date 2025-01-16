@@ -6076,11 +6076,22 @@
     "year": 1994,
     "hh": 168,
     "wt": 562,
-    "bmi": 1991,
+    "bmi": 199.1,
     "href": "https://www.pedigreequery.com/kahal",
     "sire": "Machiavellian",
     "gsire": "Green Desert",
     "mstn": ["--","--","CC"]
+  },
+  {
+    "name": "Bolt Doro",
+    "year": 2015,
+    "hh": 168,
+    "wt": 555,
+    "bmi": 196.7,
+    "href": "https://www.pedigreequery.com/bolt+doro",
+    "sire": "Medaglia Doro",
+    "gsire": "Ap Indy",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "Ferrule",
@@ -6633,6 +6644,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Tiznow",
+    "year": 1977,
+    "hh": 170,
+    "wt": 544,
+    "bmi": 188.3,
+    "href": "https://www.pedigreequery.com/tiznow",
+    "sire": "Cees Tizzy",
+    "gsire": "Seattle Song",
+    "mstn": ["CT","--","--"]
+  },
+  {
     "name": "Gronkowsk",
     "year": 2015,
     "hh": 170,
@@ -6675,6 +6697,17 @@
     "sire": "ゴールドアリュール",
     "gsire": "French Deputy",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "Outwork",
+    "year": 2013,
+    "hh": 170,
+    "wt": 567,
+    "bmi": 196.2,
+    "href": "https://www.pedigreequery.com/outwork",
+    "sire": "Uncle Mo",
+    "gsire": "Empire Maker",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Catalina Cruiser",
