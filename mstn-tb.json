@@ -3430,7 +3430,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/encosta+de+lago",
-      "mstn": "CT"
+      "mstn": ""
     }
   ],
   [
@@ -11760,7 +11760,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/northern+taste",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -11964,6 +11964,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/forli",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Northern Taste",
+      "year": 1971,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/northern+taste",
+      "mstn": "CC"
+    },
+    {
+      "name": "Northern Dancer",
+      "year": 1961,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/northern+dancer",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lady Victoria",
+      "year": 1962,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/lady+victoria",
+      "mstn": ""
+    },
+    {
+      "name": "Victoria Park",
+      "year": 1957,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/victoria+park",
       "mstn": ""
     }
   ],
@@ -29984,7 +30018,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/northern+taste",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -30630,7 +30664,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/northern+taste",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -31208,7 +31242,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/northern+taste",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
