@@ -880,6 +880,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Stronger",
+    "year": 2016,
+    "hh": 161,
+    "wt": 517,
+    "bmi": 199.4,
+    "href": "https://www.pedigreequery.com/stronger8",
+    "sire": "Not A Single Doubt",
+    "gsire": "Starcraft",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "サリオス",
     "year": 2017,
     "hh": 161,
@@ -3441,6 +3452,17 @@
     "sire": "Rainbow Quest",
     "gsire": "Green Dancer",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Tiz The Law",
+    "year": 2017,
+    "hh": 165,
+    "wt": 492,
+    "bmi": 180.8,
+    "href": "https://www.pedigreequery.com/tiz+the+law",
+    "sire": "Constitution",
+    "gsire": "Tiznow",
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "アグネスタキオン",
@@ -6059,6 +6081,17 @@
     "sire": "Kingmambo",
     "gsire": "Kris S",
     "mstn": ["CT","CC","TT"]
+  },
+  {
+    "name": "Vancouver",
+    "year": 2012,
+    "hh": 168,
+    "wt": 550,
+    "bmi": 194.9,
+    "href": "https://www.pedigreequery.com/vancouver23",
+    "sire": "Medaglia Doro",
+    "gsire": "Danehill",
+    "mstn": ["--","--","CC"]
   },
   {
     "name": "ミッキーグローリー",
