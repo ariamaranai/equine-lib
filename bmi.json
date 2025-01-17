@@ -143,6 +143,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Tom Rolfe",
+    "year": 1962,
+    "hh": 158,
+    "wt": 453,
+    "bmi": 181.5,
+    "href": "https://www.pedigreequery.com/tom+rolfe",
+    "sire": "Ribot",
+    "gsire": "Roman",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Dr Devious",
     "year": 1989,
     "hh": 158,
@@ -283,6 +294,17 @@
     "href": "https://www.jbis.or.jp/horse/0001171106/",
     "sire": "トーセンファントム",
     "gsire": "トウカイテイオー",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Determine",
+    "year": 1951,
+    "hh": 160,
+    "wt": 397,
+    "bmi": 155.1,
+    "href": "https://www.pedigreequery.com/determine",
+    "sire": "Alibhai",
+    "gsire": "Mahmoud",
     "mstn": ["--","--","--"]
   },
   {
@@ -921,6 +943,17 @@
     "href": "https://www.pedigreequery.com/four+wheel+drive6",
     "sire": "American Pharoah",
     "gsire": "More Than Ready",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Brians Time",
+    "year": 1985,
+    "hh": 162,
+    "wt": 431,
+    "bmi": 164.2,
+    "href": "https://www.pedigreequery.com/brians+time",
+    "sire": "Roberto",
+    "gsire": "Graustark",
     "mstn": ["--","--","--"]
   },
   {
