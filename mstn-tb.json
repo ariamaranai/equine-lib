@@ -47700,6 +47700,40 @@
   ],
   [
     {
+      "name": "Slieveluachra",
+      "year": 1981,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/slieveluachra",
+      "mstn": "T1"
+    },
+    {
+      "name": "Edmund Burke",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/edmund+burke",
+      "mstn": ""
+    },
+    {
+      "name": "Golden Brief",
+      "year": 1974,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/golden+brief",
+      "mstn": ""
+    },
+    {
+      "name": "Awkward Brief",
+      "year": 1957,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/awkward+brief",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Wundermaedel",
       "year": 1979,
       "cnty": "GER",
@@ -47797,40 +47831,6 @@
       "cnty": "GER",
       "sex": "F",
       "href": "https://www.pedigreequery.com/masetto2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "Slieveluachra",
-      "year": 0,
-      "cnty": "IRE",
-      "sex": "F",
-      "href": "https://www.allbreedpedigree.com/slieveluachra",
-      "mstn": "T1"
-    },
-    {
-      "name": "Edmund Burke",
-      "year": 1973,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/edmund+burke",
-      "mstn": ""
-    },
-    {
-      "name": "Golden Brief",
-      "year": 1974,
-      "cnty": "IRE",
-      "sex": "F",
-      "href": "https://www.allbreedpedigree.com/golden+brief",
-      "mstn": ""
-    },
-    {
-      "name": "Awkward Brief",
-      "year": 1957,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/awkward+brief",
       "mstn": ""
     }
   ]
