@@ -6732,17 +6732,6 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Tiznow",
-    "year": 1977,
-    "hh": 170,
-    "wt": 544,
-    "bmi": 188.3,
-    "href": "https://www.pedigreequery.com/tiznow",
-    "sire": "Cees Tizzy",
-    "gsire": "Seattle Song",
-    "mstn": ["CT","--","--"]
-  },
-  {
     "name": "Silentio",
     "year": 2009,
     "hh": 170,
@@ -6752,6 +6741,17 @@
     "sire": "Silent Name",
     "gsire": "Ap Indy",
     "mstn": ["--","--","TT"]
+  },
+  {
+    "name": "Silky Sullivan",
+    "year": 1955,
+    "hh": 170,
+    "wt": 544,
+    "bmi": 188.3,
+    "href": "https://www.pedigreequery.com/silky+sullivan",
+    "sire": "Sullivan",
+    "gsire": "Ambrose Light",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Tiznow",
