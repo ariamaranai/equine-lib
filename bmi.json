@@ -2915,6 +2915,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Commands",
+    "year": 1996,
+    "hh": 164,
+    "wt": 546,
+    "bmi": 203.1,
+    "href": "https://www.pedigreequery.com/commands",
+    "sire": "Danehill",
+    "gsire": "My Swanee",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Delhi",
     "year": 1901,
     "hh": 164,
@@ -6799,7 +6810,7 @@
   },
   {
     "name": "Tiznow",
-    "year": 1977,
+    "year": 1997,
     "hh": 170,
     "wt": 544,
     "bmi": 188.3,
