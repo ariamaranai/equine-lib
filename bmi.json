@@ -1958,6 +1958,17 @@
     "mstn": ["--","--","CC"]
   },
   {
+    "name": "ブレークアップ",
+    "year": 2018,
+    "hh": 163,
+    "wt": 494,
+    "bmi": 186.0,
+    "href": "https://www.jbis.or.jp/horse/0001265810/",
+    "sire": "Novelist",
+    "gsire": "クロフネ",
+    "mstn": ["--","CT","CT"]
+  },
+  {
     "name": "レイデオロ",
     "year": 2014,
     "hh": 163,
@@ -4048,6 +4059,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "プロミストウォリア",
+    "year": 2017,
+    "hh": 165,
+    "wt": 518,
+    "bmi": 190.3,
+    "href": "https://www.jbis.or.jp/horse/0001229475/",
+    "sire": "Majestic Warrior",
+    "gsire": "フジキセキ",
+    "mstn": ["--","CT","CT"]
+  },
+  {
     "name": "メイショウサムソン",
     "year": 2003,
     "hh": 165,
@@ -5203,6 +5225,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ジャスティンミラノ",
+    "year": 2021,
+    "hh": 167,
+    "wt": 512,
+    "bmi": 183.6,
+    "href": "https://www.jbis.or.jp/horse/0001340173/",
+    "sire": "キズナ",
+    "gsire": "Exceed And Excel",
+    "mstn": ["--","CT","CC"]
+  },
+  {
     "name": "タップダンスシチー",
     "year": 1997,
     "hh": 167,
@@ -6003,6 +6036,17 @@
     "href": "https://www.jbis.or.jp/horse/0001040066/",
     "sire": "Mineshaft",
     "gsire": "Deputy Minister",
+    "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "ドライスタウト",
+    "year": 2019,
+    "hh": 168,
+    "wt": 534,
+    "bmi": 189.3,
+    "href": "https://www.jbis.or.jp/horse/0001307217/",
+    "sire": "Sinister Minister",
+    "gsire": "Afleet",
     "mstn": ["--","CT","--"]
   },
   {
