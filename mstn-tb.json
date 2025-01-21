@@ -33155,6 +33155,40 @@
       "year": 2023,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001367689/",
+      "mstn": "TT"
+    },
+    {
+      "name": "フィエールマン",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001204307/",
+      "mstn": ""
+    },
+    {
+      "name": "シャインプレジャー",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000991082/",
+      "mstn": ""
+    },
+    {
+      "name": "アグネスデジタル",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000321138/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001378039/",
       "mstn": "TT"
     },
