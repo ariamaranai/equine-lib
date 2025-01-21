@@ -3740,6 +3740,17 @@
     "mstn": ["CT","--","--"]
   },
   {
+    "name": "セントライト",
+    "year": 1938,
+    "hh": 165,
+    "wt": 500,
+    "bmi": 183.7,
+    "href": "https://www.jbis.or.jp/horse/0000333076/",
+    "sire": "Diolite",
+    "gsire": "Flamboyant",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "エイシンヒカリ",
     "year": 2011,
     "hh": 165,
