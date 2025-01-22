@@ -132,6 +132,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Esops Foibles",
+    "year": 1975,
+    "hh": 158,
+    "wt": 408,
+    "bmi": 163.4,
+    "href": "https://www.pedigreequery.com/esops+foibles",
+    "sire": "Nashua",
+    "gsire": "Ribot",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ドリームジャーニー",
     "year": 2004,
     "hh": 158,
@@ -275,6 +286,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Dapper Dan",
+    "year": 1962,
+    "hh": 159,
+    "wt": 454,
+    "bmi": 179.6,
+    "href": "https://www.pedigreequery.com/dapper+dan",
+    "sire": "Ribot",
+    "gsire": "Nasrullah",
+    "mstn": ["--","--","CT"]
+  },
+  {
     "name": "Extreme Choice",
     "year": 2013,
     "hh": 159,
@@ -405,6 +427,17 @@
     "sire": "Danzig",
     "gsire": "Alydar",
     "mstn": ["--","CC","--"]
+  },
+  {
+    "name": "Shergar",
+    "year": 1978,
+    "hh": 160,
+    "wt": 449,
+    "bmi": 175.4,
+    "href": "https://www.pedigreequery.com/shergar",
+    "sire": "Great Nephew",
+    "gsire": "Val De Loir",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Pentire",
@@ -569,6 +602,17 @@
     "href": "https://www.jbis.or.jp/horse/0000882996/",
     "sire": "サウスヴィグラス",
     "gsire": "Park Regent",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Mister Frisky",
+    "year": 1987,
+    "hh": 160,
+    "wt": 499,
+    "bmi": 194.9,
+    "href": "https://www.pedigreequery.com/mister+frisky",
+    "sire": "Marsayas",
+    "gsire": "Highest Tide",
     "mstn": ["--","--","--"]
   },
   {
@@ -1540,6 +1584,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Afleet Alex",
+    "year": 2002,
+    "hh": 163,
+    "wt": 454,
+    "bmi": 170.9,
+    "href": "https://www.pedigreequery.com/afleet+alex",
+    "sire": "Northern Afleet",
+    "gsire": "Hawkster",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Auguste Rodin",
     "year": 2020,
     "hh": 163,
@@ -1549,6 +1604,17 @@
     "sire": "ディープインパクト",
     "gsire": "Galileo",
     "mstn": ["--","TT","TT"]
+  },
+  {
+    "name": "Tamerlane",
+    "year": 1952,
+    "hh": 163,
+    "wt": 454,
+    "bmi": 170.9,
+    "href": "https://www.pedigreequery.com/tamerlane",
+    "sire": "Persian Gulf",
+    "gsire": "Nearco",
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "The Bird",
@@ -1771,6 +1837,39 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Arts And Letters",
+    "year": 1966,
+    "hh": 163,
+    "wt": 476,
+    "bmi": 179.2,
+    "href": "https://www.pedigreequery.com/arts+and+letters",
+    "sire": "Ribot",
+    "gsire": "Battlefield",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Hill Rise",
+    "year": 1961,
+    "hh": 163,
+    "wt": 476,
+    "bmi": 179.2,
+    "href": "https://www.pedigreequery.com/hill+rise",
+    "sire": "Hillary",
+    "gsire": "Russia",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Riva Ridge",
+    "year": 1969,
+    "hh": 163,
+    "wt": 476,
+    "bmi": 179.2,
+    "href": "https://www.pedigreequery.com/riva+ridge",
+    "sire": "First Landing",
+    "gsire": "Heliopolis",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "バンブーエール",
     "year": 2003,
     "hh": 163,
@@ -1923,6 +2022,17 @@
     "sire": "ディープインパクト",
     "gsire": "Brians Time",
     "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "Citation",
+    "year": 1945,
+    "hh": 163,
+    "wt": 487,
+    "bmi": 183.3,
+    "href": "https://www.pedigreequery.com/citation",
+    "sire": "Bull Lea",
+    "gsire": "Hyperion",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "ミッキーアイル",
@@ -2156,6 +2266,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "Greek Game",
+    "year": 1954,
+    "hh": 163,
+    "wt": 517,
+    "bmi": 194.6,
+    "href": "https://www.pedigreequery.com/greek+game",
+    "sire": "Olympia",
+    "gsire": "Questionnaire",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "シゲルカガ",
     "year": 2011,
     "hh": 163,
@@ -2297,6 +2418,17 @@
     "sire": "Galileo",
     "gsire": "Monsun",
     "mstn": ["--","TT","TT"]
+  },
+  {
+    "name": "Summer Squall",
+    "year": 1987,
+    "hh": 164,
+    "wt": 431,
+    "bmi": 160.2,
+    "href": "https://www.pedigreequery.com/summer+squall",
+    "sire": "Storm Bird",
+    "gsire": "Secretariat",
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "ディープインパクト",
@@ -3771,6 +3903,17 @@
     "sire": "Frankel",
     "gsire": "Kingmambo",
     "mstn": ["--","CT","CC"]
+  },
+  {
+    "name": "Quadrangle",
+    "year": 1961,
+    "hh": 165,
+    "wt": 499,
+    "bmi": 183.3,
+    "href": "https://www.pedigreequery.com/quadrangle",
+    "sire": "Cohoes",
+    "gsire": "Bull Lea",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Tapiture",
@@ -5610,6 +5753,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Ridan",
+    "year": 1959,
+    "hh": 168,
+    "wt": 476,
+    "bmi": 168.7,
+    "href": "https://www.pedigreequery.com/ridan",
+    "sire": "Nantallah",
+    "gsire": "Gold Bridge",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "レッドベルジュール",
     "year": 2017,
     "hh": 168,
@@ -5893,6 +6047,17 @@
     "href": "https://www.jbis.or.jp/horse/0000990619/",
     "sire": "Charismatic",
     "gsire": "Pleasant Tap",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Candy Spots",
+    "year": 1960,
+    "hh": 168,
+    "wt": 510,
+    "bmi": 180.7,
+    "href": "https://www.pedigreequery.com/candy+spots",
+    "sire": "Nigromante",
+    "gsire": "Khaled",
     "mstn": ["--","--","--"]
   },
   {
@@ -7326,6 +7491,28 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Black Mackee",
+    "year": 1976,
+    "hh": 173,
+    "wt": 612,
+    "bmi": 204.5,
+    "href": "https://www.pedigreequery.com/black+mackee",
+    "sire": "Captain Courageous",
+    "gsire": "Six Fifteen",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Bates Motel",
+    "year": 1979,
+    "hh": 173,
+    "wt": 635,
+    "bmi": 212.2,
+    "href": "https://www.pedigreequery.com/bates+motel",
+    "sire": "Sir Ivor",
+    "gsire": "Tv Lark",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ホリスキー",
     "year": 1979,
     "hh": 174,
@@ -7334,6 +7521,17 @@
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
     "gsire": "Only For Life",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Jatski",
+    "year": 1974,
+    "hh": 175,
+    "wt": 522,
+    "bmi": 170.4,
+    "href": "https://www.pedigreequery.com/jatski",
+    "sire": "Jatullah",
+    "gsire": "Greek Game",
     "mstn": ["--","--","--"]
   },
   {
