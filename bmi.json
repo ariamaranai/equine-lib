@@ -242,6 +242,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Azure Te",
+    "year": 1962,
+    "hh": 158,
+    "wt": 500,
+    "bmi": 200.3,
+    "href": "https://www.pedigreequery.com/azure+te",
+    "sire": "Nashville",
+    "gsire": "Count Fleet",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Henry Of Navarre",
     "year": 1891,
     "hh": 158,
@@ -7574,7 +7585,7 @@
     "wt": 590,
     "bmi": 182.1,
     "href": "https://www.pedigreequery.com/best+turn",
-    "sire": "Turn To",
+    "sire": "Turn-to",
     "gsire": "Swaps",
     "mstn": ["--","--","--"]
   },
