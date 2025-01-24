@@ -264,6 +264,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Sir Barton",
+    "year": 1916,
+    "hh": 158,
+    "wt": 500,
+    "bmi": 200.3,
+    "href": "https://www.pedigreequery.com/sir+barton",
+    "sire": "Star Shoot",
+    "gsire": "Hanover",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "オーシャンブルー",
     "year": 2008,
     "hh": 159,
@@ -660,6 +671,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Sun Briar",
+    "year": 1915,
+    "hh": 160,
+    "wt": 513,
+    "bmi": 200.4,
+    "href": "https://www.pedigreequery.com/sun+briar",
+    "sire": "Sundridge",
+    "gsire": "St Frusquin",
+    "mstn": ["--","--","TT"]
+  },
+  {
     "name": "モジアナフレイバー",
     "year": 2015,
     "hh": 160,
@@ -1032,6 +1054,17 @@
     "sire": "American Pharoah",
     "gsire": "More Than Ready",
     "mstn": ["--","CT","CT"]
+  },
+  {
+    "name": "Hindoo",
+    "year": 1878,
+    "hh": 162,
+    "wt": 408,
+    "bmi": 155.4,
+    "href": "https://www.pedigreequery.com/hindoo",
+    "sire": "Virgil",
+    "gsire": "Lexington",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Brians Time",
@@ -6545,6 +6578,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Animal Kingdom",
+    "year": 2008,
+    "hh": 168,
+    "wt": 590,
+    "bmi": 209.0,
+    "href": "https://www.pedigreequery.com/animal+kingdom",
+    "sire": "Leroidesanimaux",
+    "gsire": "Acatenango",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Gufo",
     "year": 2017,
     "hh": 168,
@@ -7555,6 +7599,17 @@
     "sire": "Elusive Quality",
     "gsire": "Strawberry Road",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Verrazano",
+    "year": 2010,
+    "hh": 175,
+    "wt": 578,
+    "bmi": 188.7,
+    "href": "https://www.pedigreequery.com/verrazano6",
+    "sire": "More Than Ready",
+    "gsire": "Giants Causeway",
+    "mstn": ["--","CT","CT"]
   },
   {
     "name": "Fio Rito",
