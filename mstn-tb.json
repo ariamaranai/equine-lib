@@ -786,40 +786,6 @@
       "name": "-",
       "year": 2022,
       "cnty": "AUS",
-      "sex": "F",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "Capitalist",
-      "year": 2013,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/capitalist10",
-      "mstn": ""
-    },
-    {
-      "name": "Dejavu Rock",
-      "year": 2007,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/dejavu+rock",
-      "mstn": ""
-    },
-    {
-      "name": "Fastnet Rock",
-      "year": 2001,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/fastnet+rock2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2022,
-      "cnty": "AUS",
       "sex": "M",
       "href": "",
       "mstn": "CC"
@@ -949,6 +915,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/nicconi",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "Kung Fu Kid",
+      "year": 2022,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Capitalist",
+      "year": 2013,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/capitalist10",
+      "mstn": ""
+    },
+    {
+      "name": "Dejavu Rock",
+      "year": 2007,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dejavu+rock",
+      "mstn": ""
+    },
+    {
+      "name": "Fastnet Rock",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/fastnet+rock2",
+      "mstn": ""
     }
   ],
   [
@@ -33493,40 +33493,6 @@
     {
       "name": "-",
       "year": 2022,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "",
-      "mstn": "TT"
-    },
-    {
-      "name": "Hard Spun",
-      "year": 2004,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/hard+spun",
-      "mstn": "CT"
-    },
-    {
-      "name": "Sudestada",
-      "year": 2012,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/sudestada3",
-      "mstn": ""
-    },
-    {
-      "name": "Street Cry",
-      "year": 1998,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/street+cry",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2022,
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001360202/",
@@ -33691,6 +33657,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/street+sense",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Spooky Gal",
+      "year": 2022,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/spooky+gal",
+      "mstn": "TT"
+    },
+    {
+      "name": "Hard Spun",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/hard+spun",
+      "mstn": "CT"
+    },
+    {
+      "name": "Sudestada",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sudestada3",
+      "mstn": ""
+    },
+    {
+      "name": "Street Cry",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/street+cry",
+      "mstn": "CT"
     }
   ],
   [
