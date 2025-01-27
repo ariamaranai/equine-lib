@@ -338,7 +338,7 @@
     "href": "https://www.jbis.or.jp/horse/0000619835/",
     "sire": "Sunday Silence",
     "gsire": "Northern Taste",
-    "mstn": ["CT","TT","CC"]
+    "mstn": ["--","TT","CC"]
   },
   {
     "name": "ブレイブスマッシュ",
@@ -2109,7 +2109,7 @@
     "href": "https://www.jbis.or.jp/horse/0001206350/",
     "sire": "キングカメハメハ",
     "gsire": "デュランダル",
-    "mstn": ["--","CT","CT"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "ウインブライト",
