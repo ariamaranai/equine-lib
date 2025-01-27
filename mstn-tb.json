@@ -2818,7 +2818,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000619835/",
-      "mstn": "CT"
+      "mstn": ""
     }
   ],
   [
@@ -30800,40 +30800,6 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/nureyev",
-      "mstn": "CC"
-    }
-  ],
-  [
-    {
-      "name": "デュランダル",
-      "year": 1999,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000619835/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Sunday Silence",
-      "year": 1986,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/sunday+silence",
-      "mstn": "TT"
-    },
-    {
-      "name": "サワヤカプリンセス",
-      "year": 1986,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000190874/",
-      "mstn": ""
-    },
-    {
-      "name": "Northern Taste",
-      "year": 1971,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/northern+taste",
       "mstn": "CC"
     }
   ],
