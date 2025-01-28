@@ -605,6 +605,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Just As Well",
+    "year": 2003,
+    "hh": 160,
+    "wt": 486,
+    "bmi": 189.5,
+    "href": "https://www.pedigreequery.com/just+as+well",
+    "sire": "Ap Indy",
+    "gsire": "Nureyev",
+    "mstn": ["CT","TT","CC"]
+  },
+  {
     "name": "One World",
     "year": 2004,
     "hh": 160,
@@ -1318,6 +1329,17 @@
     "sire": "Johannesburg",
     "gsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
+  },
+  {
+    "name": "Capri",
+    "year": 2014,
+    "hh": 162,
+    "wt": 480,
+    "bmi": 182.9,
+    "href": "https://www.pedigreequery.com/capri36",
+    "sire": "Galileo",
+    "gsire": "Anabaa",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "Pinatubo",
@@ -5332,6 +5354,17 @@
     "href": "https://www.pedigreequery.com/dominant13",
     "sire": "Cacique",
     "gsire": "Inchinor",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Timos",
+    "year": 2005,
+    "hh": 167,
+    "wt": 488,
+    "bmi": 175.0,
+    "href": "https://www.pedigreequery.com/timos",
+    "sire": "Sholokhov",
+    "gsire": "Surumu",
     "mstn": ["--","--","--"]
   },
   {
