@@ -6369,6 +6369,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Uncle Mo",
+    "year": 2008,
+    "hh": 168,
+    "wt": 535,
+    "bmi": 189.6,
+    "href": "https://www.pedigreequery.com/uncle+mo",
+    "sire": "Indian Charlie",
+    "gsire": "Arch",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "アジュディミツオー",
     "year": 2001,
     "hh": 168,
@@ -7236,6 +7247,17 @@
     "sire": "Union Rags",
     "gsire": "Mineshaft",
     "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "Flower Allery",
+    "year": 2002,
+    "hh": 170,
+    "wt": 590,
+    "bmi": 204.2,
+    "href": "https://www.pedigreequery.com/flower+alleya",
+    "sire": "Distorted Humor",
+    "gsire": "Lycius",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Graydar",
