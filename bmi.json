@@ -3003,6 +3003,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "リュウノユキナ",
+    "year": 2015,
+    "hh": 164,
+    "wt": 499,
+    "bmi": 185.6,
+    "href": "https://www.jbis.or.jp/horse/0001203106/",
+    "sire": "ヴァーミリアン",
+    "gsire": "クロフネ",
+    "mstn": ["--","--","CT"]
+  },
+  {
     "name": "Sweet Orange",
     "year": 2008,
     "hh": 164,
@@ -5520,6 +5531,17 @@
     "sire": "Sholokhov",
     "gsire": "Surumu",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "レッドベルオーブ",
+    "year": 2018,
+    "hh": 167,
+    "wt": 488,
+    "bmi": 175.0,
+    "href": "https://www.jbis.or.jp/horse/0001268970/",
+    "sire": "ディープインパクト",
+    "gsire": "Unbridleds Song",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "ブラックタイド",
