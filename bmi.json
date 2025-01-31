@@ -627,6 +627,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Capot",
+    "year": 1946,
+    "hh": 160,
+    "wt": 490,
+    "bmi": 191.4,
+    "href": "https://www.pedigreequery.com/capot",
+    "sire": "Menow",
+    "gsire": "St Germans",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "スパロービート",
     "year": 2005,
     "hh": 160,
@@ -2373,7 +2384,7 @@
     "href": "https://www.jbis.or.jp/horse/0001314074/",
     "sire": "Lemon Drop Kid",
     "gsire": "Giants Causeway",
-    "mstn": ["--","--","CT"]
+    "mstn": ["CC","--","CT"]
   },
   {
     "name": "Greek Game",
@@ -2530,17 +2541,6 @@
     "mstn": ["--","TT","TT"]
   },
   {
-    "name": "Summer Squall",
-    "year": 1987,
-    "hh": 164,
-    "wt": 431,
-    "bmi": 160.2,
-    "href": "https://www.pedigreequery.com/summer+squall",
-    "sire": "Storm Bird",
-    "gsire": "Secretariat",
-    "mstn": ["--","--","CT"]
-  },
-  {
     "name": "ディープインパクト",
     "year": 2002,
     "hh": 164,
@@ -2572,6 +2572,17 @@
     "sire": "Slickly",
     "gsire": "Lead On Time",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Summer Squall",
+    "year": 1987,
+    "hh": 164,
+    "wt": 465,
+    "bmi": 172.9,
+    "href": "https://www.pedigreequery.com/summer+squall",
+    "sire": "Storm Bird",
+    "gsire": "Secretariat",
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "Rajsaman",
@@ -3628,6 +3639,17 @@
     "sire": "ジャングルポケット",
     "gsire": "Northern Taste",
     "mstn": ["--","--","CC"]
+  },
+  {
+    "name": "Bien Bien",
+    "year": 1989,
+    "hh": 165,
+    "wt": 481,
+    "bmi": 176.7,
+    "href": "https://www.pedigreequery.com/bien+bien",
+    "sire": "Manila",
+    "gsire": "Graustark",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Japan",
