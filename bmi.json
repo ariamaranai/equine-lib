@@ -33,6 +33,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "メジロティターン",
+    "year": 1978,
+    "hh": 156,
+    "wt": 458,
+    "bmi": 188.2,
+    "href": "https://www.jbis.or.jp/horse/0000110447/",
+    "sire": "メジロアサマ",
+    "gsire": "Snob",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ショウナンカンプ",
     "year": 1998,
     "hh": 156,
@@ -162,6 +173,17 @@
     "href": "https://www.jbis.or.jp/horse/0000009867/",
     "sire": "Solonaway",
     "gsire": "Migoli",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Battleship",
+    "year": 1927,
+    "hh": 158,
+    "wt": 449,
+    "bmi": 179.9,
+    "href": "https://www.pedigreequery.com/battleship",
+    "sire": "Man O War",
+    "gsire": "Sea Sick",
     "mstn": ["--","--","--"]
   },
   {
@@ -481,6 +503,17 @@
     "href": "https://www.pedigreequery.com/birdstone",
     "sire": "Grindstone",
     "gsire": "Storm Bird",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Count Fleet",
+    "year": 1940,
+    "hh": 160,
+    "wt": 454,
+    "bmi": 177.3,
+    "href": "https://www.pedigreequery.com/count+fleet",
+    "sire": "Reigh Count",
+    "gsire": "Haste",
     "mstn": ["--","--","--"]
   },
   {
