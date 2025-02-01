@@ -616,6 +616,17 @@
     "mstn": ["--","CC","TT"]
   },
   {
+    "name": "Sir Percy",
+    "year": 2003,
+    "hh": 160,
+    "wt": 480,
+    "bmi": 187.5,
+    "href": "https://www.pedigreequery.com/sir+percy3",
+    "sire": "Mark Of Esteem",
+    "gsire": "Blakeney",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "インディチャンプ",
     "year": 2015,
     "hh": 160,
@@ -4807,6 +4818,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Starman",
+    "year": 2017,
+    "hh": 165,
+    "wt": 588,
+    "bmi": 216.0,
+    "href": "https://www.pedigreequery.com/starman11",
+    "sire": "Dutch Art",
+    "gsire": "Montjeu",
+    "mstn": ["--","--","TT"]
+  },
+  {
     "name": "War Emblem",
     "year": 1999,
     "hh": 166,
@@ -6059,6 +6081,17 @@
     "sire": "ディープインパクト",
     "gsire": "Unbridleds Song",
     "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "Double Trigger",
+    "year": 1991,
+    "hh": 168,
+    "wt": 477,
+    "bmi": 169.0,
+    "href": "https://www.pedigreequery.com/double+trigger",
+    "sire": "Ela-mana-mou",
+    "gsire": "Gay Lussac",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Dear Doctor",
