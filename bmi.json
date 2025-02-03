@@ -2596,6 +2596,17 @@
     "mstn": ["CC","CC","--"]
   },
   {
+    "name": "Gayego",
+    "year": 2005,
+    "hh": 163,
+    "wt": 550,
+    "bmi": 207.0,
+    "href": "https://www.pedigreequery.com/gayego",
+    "sire": "Gilded Time",
+    "gsire": "Lost Code",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Ribot",
     "year": 1952,
     "hh": 164,
@@ -6809,6 +6820,17 @@
     "mstn": ["CC","--","--"]
   },
   {
+    "name": "Lil E Tee",
+    "year": 1989,
+    "hh": 168,
+    "wt": 544,
+    "bmi": 192.8,
+    "href": "https://www.pedigreequery.com/lil+e+tee",
+    "sire": "At The Threshold",
+    "gsire": "For The Moment",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Secretariat",
     "year": 1970,
     "hh": 168,
@@ -7950,6 +7972,28 @@
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
     "gsire": "Only For Life",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Songandaprayer",
+    "year": 1998,
+    "hh": 174,
+    "wt": 547,
+    "bmi": 180.7,
+    "href": "https://www.pedigreequery.com/songandaprayer",
+    "sire": "Unbridleds Song",
+    "gsire": "Premiership",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Whopper",
+    "year": 1932,
+    "hh": 174,
+    "wt": 635,
+    "bmi": 209.7,
+    "href": "https://www.pedigreequery.com/whopper",
+    "sire": "Pharamond",
+    "gsire": "Luke Mcluke",
     "mstn": ["--","--","--"]
   },
   {
