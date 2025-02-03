@@ -154,6 +154,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Fisherman",
+    "year": 1951,
+    "hh": 158,
+    "wt": 408,
+    "bmi": 163.4,
+    "href": "https://www.pedigreequery.com/fisherman2",
+    "sire": "Phalanx",
+    "gsire": "Halcyon",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Esops Foibles",
     "year": 1975,
     "hh": 158,
@@ -3685,6 +3696,17 @@
     "mstn": ["CT","--","--"]
   },
   {
+    "name": "Bimelech",
+    "year": 1937,
+    "hh": 165,
+    "wt": 476,
+    "bmi": 174.9,
+    "href": "https://www.pedigreequery.com/bimelech",
+    "sire": "Black Toney",
+    "gsire": "Teddy",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Orb",
     "year": 1997,
     "hh": 165,
@@ -5575,6 +5597,17 @@
     "sire": "Bernstein",
     "gsire": "Grand Slam",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "Palace Malice",
+    "year": 2010,
+    "hh": 166,
+    "wt": 547,
+    "bmi": 198.5,
+    "href": "https://www.pedigreequery.com/palace+malice",
+    "sire": "Curlin",
+    "gsire": "Royal Anthem",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "アジアエクスプレス",
