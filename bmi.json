@@ -2376,6 +2376,17 @@
     "mstn": ["--","--","CC"]
   },
   {
+    "name": "Red Bullet",
+    "year": 1997,
+    "hh": 163,
+    "wt": 502,
+    "bmi": 188.9,
+    "href": "https://www.pedigreequery.com/red+bullet",
+    "sire": "Unbridled",
+    "dsire": "Caro",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "California Chrome",
     "year": 2011,
     "hh": 163,
@@ -3594,6 +3605,17 @@
     "href": "https://www.pedigreequery.com/cannock+chase",
     "sire": "Lemon Drop Kid",
     "dsire": "Horse Chestnut",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Sorbie Tower",
+    "year": 1993,
+    "hh": 165,
+    "wt": 462,
+    "bmi": 169.7,
+    "href": "https://www.pedigreequery.com/sorbie+tower",
+    "sire": "Soviet Lad",
+    "dsire": "Nishapour",
     "mstn": ["--","--","--"]
   },
   {
