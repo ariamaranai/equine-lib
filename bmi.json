@@ -7,7 +7,7 @@
     "bmi": 176.6,
     "href": "https://www.pedigreequery.com/larry+the+legend",
     "sire": "Local Talent",
-    "gsire": "Ticket To Sail",
+    "dsire": "Ticket To Sail",
     "mstn": ["--","--","--"]
   },
   {
@@ -18,7 +18,7 @@
     "bmi": 196.1,
     "href": "https://www.pedigreequery.com/assault",
     "sire": "Bold Venture",
-    "gsire": "Equipoise",
+    "dsire": "Equipoise",
     "mstn": ["--","--","--"]
   },
   {
@@ -29,7 +29,7 @@
     "bmi": 177.4,
     "href": "https://www.pedigreequery.com/northern+dancer",
     "sire": "Nearctic",
-    "gsire": "Native Dancer",
+    "dsire": "Native Dancer",
     "mstn": ["CT","CC","--"]
   },
   {
@@ -40,7 +40,7 @@
     "bmi": 189.8,
     "href": "https://www.jbis.or.jp/horse/0000005240/",
     "sire": "Bouffleur",
-    "gsire": "Primero",
+    "dsire": "Primero",
     "mstn": ["--","--","--"]
   },
   {
@@ -51,7 +51,7 @@
     "bmi": 188.2,
     "href": "https://www.jbis.or.jp/horse/0000110447/",
     "sire": "メジロアサマ",
-    "gsire": "Snob",
+    "dsire": "Snob",
     "mstn": ["--","--","--"]
   },
   {
@@ -62,7 +62,7 @@
     "bmi": 198.9,
     "href": "https://www.jbis.or.jp/horse/0000325977/",
     "sire": "サクラバクシンオー",
-    "gsire": "Lucky Sovereign",
+    "dsire": "Lucky Sovereign",
     "mstn": ["--","CC","--"]
   },
   {
@@ -73,7 +73,7 @@
     "bmi": 172.1,
     "href": "https://www.pedigreequery.com/iquitos7",
     "sire": "Adlerflug",
-    "gsire": "Areion",
+    "dsire": "Areion",
     "mstn": ["--","--","--"]
   },
   {
@@ -84,7 +84,7 @@
     "bmi": 176.1,
     "href": "https://www.pedigreequery.com/daliapour",
     "sire": "Sadlers Wells",
-    "gsire": "Doyoun",
+    "dsire": "Doyoun",
     "mstn": ["--","TT","--"]
   },
   {
@@ -95,7 +95,7 @@
     "bmi": 176.5,
     "href": "https://www.pedigreequery.com/war+admiral",
     "sire": "Man O War",
-    "gsire": "Sweep",
+    "dsire": "Sweep",
     "mstn": ["--","--","--"]
   },
   {
@@ -106,7 +106,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0000002195/",
     "sire": "クモハタ",
-    "gsire": "Primero",
+    "dsire": "Primero",
     "mstn": ["--","--","--"]
   },
   {
@@ -117,7 +117,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/saonois",
     "sire": "Chichicastenango",
-    "gsire": "Homme De Loi",
+    "dsire": "Homme De Loi",
     "mstn": ["--","--","--"]
   },
   {
@@ -128,7 +128,7 @@
     "bmi": 188.3,
     "href": "https://www.jbis.or.jp/horse/0000887465/",
     "sire": "アグネスタキオン",
-    "gsire": "Tony Bin",
+    "dsire": "Tony Bin",
     "mstn": ["--","--","--"]
   },
   {
@@ -139,7 +139,7 @@
     "bmi": 193.1,
     "href": "https://www.jbis.or.jp/horse/0001296553/",
     "sire": "Frankel",
-    "gsire": "Harlington",
+    "dsire": "Harlington",
     "mstn": ["--","CT","--"]
   },
   {
@@ -150,7 +150,7 @@
     "bmi": 198.4,
     "href": "https://www.pedigreequery.com/cayoke",
     "sire": "Always Fair",
-    "gsire": "Pharly",
+    "dsire": "Pharly",
     "mstn": ["--","--","--"]
   },
   {
@@ -161,7 +161,7 @@
     "bmi": 163.4,
     "href": "https://www.pedigreequery.com/fisherman2",
     "sire": "Phalanx",
-    "gsire": "Halcyon",
+    "dsire": "Halcyon",
     "mstn": ["--","--","--"]
   },
   {
@@ -172,7 +172,7 @@
     "bmi": 163.4,
     "href": "https://www.pedigreequery.com/esops+foibles",
     "sire": "Nashua",
-    "gsire": "Ribot",
+    "dsire": "Ribot",
     "mstn": ["--","--","--"]
   },
   {
@@ -183,7 +183,7 @@
     "bmi": 169.9,
     "href": "https://www.jbis.or.jp/horse/0000804714/",
     "sire": "ステイゴールド",
-    "gsire": "メジロマックイーン",
+    "dsire": "メジロマックイーン",
     "mstn": ["--","TT","--"]
   },
   {
@@ -194,7 +194,7 @@
     "bmi": 178.7,
     "href": "https://www.jbis.or.jp/horse/0000009867/",
     "sire": "Solonaway",
-    "gsire": "Migoli",
+    "dsire": "Migoli",
     "mstn": ["--","--","--"]
   },
   {
@@ -205,7 +205,7 @@
     "bmi": 179.9,
     "href": "https://www.pedigreequery.com/battleship",
     "sire": "Man O War",
-    "gsire": "Sea Sick",
+    "dsire": "Sea Sick",
     "mstn": ["--","--","--"]
   },
   {
@@ -216,7 +216,7 @@
     "bmi": 181.5,
     "href": "https://www.pedigreequery.com/tom+rolfe",
     "sire": "Ribot",
-    "gsire": "Roman",
+    "dsire": "Roman",
     "mstn": ["--","--","--"]
   },
   {
@@ -227,7 +227,7 @@
     "bmi": 182.7,
     "href": "https://www.pedigreequery.com/dr+devious",
     "sire": "Ahonoora",
-    "gsire": "Alleged",
+    "dsire": "Alleged",
     "mstn": ["--","--","--"]
   },
   {
@@ -238,7 +238,7 @@
     "bmi": 185.1,
     "href": "https://www.jbis.or.jp/horse/0000308300/",
     "sire": "Cozzene",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","--","CC"]
   },
   {
@@ -249,7 +249,7 @@
     "bmi": 189.1,
     "href": "https://www.pedigreequery.com/seabiscuit",
     "sire": "Hard Tack",
-    "gsire": "Whisk Broom",
+    "dsire": "Whisk Broom",
     "mstn": ["CT","--","--"]
   },
   {
@@ -260,7 +260,7 @@
     "bmi": 190.7,
     "href": "https://www.jbis.or.jp/horse/0001187704/",
     "sire": "サウスヴィグラス",
-    "gsire": "Brians Time",
+    "dsire": "Brians Time",
     "mstn": ["--","--","--"]
   },
   {
@@ -271,7 +271,7 @@
     "bmi": 193.5,
     "href": "https://www.jbis.or.jp/horse/0000321265/",
     "sire": "French Deputy",
-    "gsire": "Afleet",
+    "dsire": "Afleet",
     "mstn": ["--","--","--"]
   },
   {
@@ -282,7 +282,7 @@
     "bmi": 195.9,
     "href": "https://www.jbis.or.jp/horse/0001094189/",
     "sire": "アグネスタキオン",
-    "gsire": "Machiavellian",
+    "dsire": "Machiavellian",
     "mstn": ["--","--","--"]
   },
   {
@@ -293,7 +293,7 @@
     "bmi": 200.3,
     "href": "https://www.pedigreequery.com/azure+te",
     "sire": "Nashville",
-    "gsire": "Count Fleet",
+    "dsire": "Count Fleet",
     "mstn": ["--","--","--"]
   },
   {
@@ -304,7 +304,7 @@
     "bmi": 200.3,
     "href": "https://www.pedigreequery.com/henry+of+navarre",
     "sire": "Knight Of Ellerslie",
-    "gsire": "The Ill-used",
+    "dsire": "The Ill-used",
     "mstn": ["--","--","--"]
   },
   {
@@ -315,7 +315,7 @@
     "bmi": 200.3,
     "href": "https://www.pedigreequery.com/sir+barton",
     "sire": "Star Shoot",
-    "gsire": "Hanover",
+    "dsire": "Hanover",
     "mstn": ["--","--","--"]
   },
   {
@@ -326,7 +326,7 @@
     "bmi": 170.1,
     "href": "https://www.pedigreequery.com/javas+war",
     "sire": "War Pass",
-    "gsire": "Rainbow Quest",
+    "dsire": "Rainbow Quest",
     "mstn": ["--","--","--"]
   },
   {
@@ -337,7 +337,7 @@
     "bmi": 176.5,
     "href": "https://www.jbis.or.jp/horse/0001094278/",
     "sire": "ステイゴールド",
-    "gsire": "Dashing Blade",
+    "dsire": "Dashing Blade",
     "mstn": ["--","TT","--"]
   },
   {
@@ -348,7 +348,7 @@
     "bmi": 178.4,
     "href": "https://www.jbis.or.jp/horse/0001221761/",
     "sire": "ディープインパクト",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -359,7 +359,7 @@
     "bmi": 179.6,
     "href": "https://www.pedigreequery.com/soldier+hollow",
     "sire": "In The Wings",
-    "gsire": "Common Grounds",
+    "dsire": "Common Grounds",
     "mstn": ["--","--","--"]
   },
   {
@@ -370,7 +370,7 @@
     "bmi": 179.6,
     "href": "https://www.pedigreequery.com/dapper+dan",
     "sire": "Ribot",
-    "gsire": "Nasrullah",
+    "dsire": "Nasrullah",
     "mstn": ["--","--","CT"]
   },
   {
@@ -381,7 +381,7 @@
     "bmi": 182.0,
     "href": "https://www.pedigreequery.com/extreme+choice",
     "sire": "Not A Single Doubt",
-    "gsire": "Hussonet",
+    "dsire": "Hussonet",
     "mstn": ["--","CC","--"]
   },
   {
@@ -392,7 +392,7 @@
     "bmi": 182.0,
     "href": "https://www.jbis.or.jp/horse/0000619835/",
     "sire": "Sunday Silence",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -403,7 +403,7 @@
     "bmi": 197.0,
     "href": "https://www.jbis.or.jp/horse/0001171106/",
     "sire": "トーセンファントム",
-    "gsire": "トウカイテイオー",
+    "dsire": "トウカイテイオー",
     "mstn": ["--","--","--"]
   },
   {
@@ -414,7 +414,7 @@
     "bmi": 155.1,
     "href": "https://www.pedigreequery.com/determine",
     "sire": "Alibhai",
-    "gsire": "Mahmoud",
+    "dsire": "Mahmoud",
     "mstn": ["--","--","--"]
   },
   {
@@ -425,7 +425,7 @@
     "bmi": 168.4,
     "href": "https://www.pedigreequery.com/decathlon",
     "sire": "Olympia",
-    "gsire": "Bull Dog",
+    "dsire": "Bull Dog",
     "mstn": ["--","--","--"]
   },
   {
@@ -436,7 +436,7 @@
     "bmi": 168.4,
     "href": "https://www.pedigreequery.com/okawango2",
     "sire": "Kingmambo",
-    "gsire": "Kris",
+    "dsire": "Kris",
     "mstn": ["--","CC","--"]
   },
   {
@@ -447,7 +447,7 @@
     "bmi": 169.2,
     "href": "https://www.pedigreequery.com/firebreak",
     "sire": "Charnwood Forest",
-    "gsire": "Song",
+    "dsire": "Song",
     "mstn": ["CC","--","--"]
   },
   {
@@ -458,7 +458,7 @@
     "bmi": 171.9,
     "href": "https://www.pedigreequery.com/raintrap",
     "sire": "Rainbow Quest",
-    "gsire": "Roberto",
+    "dsire": "Roberto",
     "mstn": ["--","--","--"]
   },
   {
@@ -469,7 +469,7 @@
     "bmi": 171.9,
     "href": "https://www.jbis.or.jp/horse/0001124751/",
     "sire": "Aldebaran",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -480,7 +480,7 @@
     "bmi": 172.7,
     "href": "https://www.pedigreequery.com/dubleo",
     "sire": "Southern Halo",
-    "gsire": "Secretariat",
+    "dsire": "Secretariat",
     "mstn": ["--","--","CT"]
   },
   {
@@ -491,7 +491,7 @@
     "bmi": 173.9,
     "href": "https://www.pedigreequery.com/society+rock",
     "sire": "Rock Of Gibraltar",
-    "gsire": "Key Of Luck",
+    "dsire": "Key Of Luck",
     "mstn": ["--","--","--"]
   },
   {
@@ -502,7 +502,7 @@
     "bmi": 174.7,
     "href": "https://www.pedigreequery.com/bertolini",
     "sire": "Danzig",
-    "gsire": "Alydar",
+    "dsire": "Alydar",
     "mstn": ["--","CC","--"]
   },
   {
@@ -513,7 +513,7 @@
     "bmi": 175.4,
     "href": "https://www.pedigreequery.com/shergar",
     "sire": "Great Nephew",
-    "gsire": "Val De Loir",
+    "dsire": "Val De Loir",
     "mstn": ["--","--","--"]
   },
   {
@@ -524,7 +524,7 @@
     "bmi": 175.8,
     "href": "https://www.pedigreequery.com/pentire",
     "sire": "Be My Guest",
-    "gsire": "Mill Reef",
+    "dsire": "Mill Reef",
     "mstn": ["--","--","TT"]
   },
   {
@@ -535,7 +535,7 @@
     "bmi": 177.0,
     "href": "https://www.pedigreequery.com/birdstone",
     "sire": "Grindstone",
-    "gsire": "Storm Bird",
+    "dsire": "Storm Bird",
     "mstn": ["--","--","--"]
   },
   {
@@ -546,7 +546,7 @@
     "bmi": 177.3,
     "href": "https://www.pedigreequery.com/count+fleet",
     "sire": "Reigh Count",
-    "gsire": "Haste",
+    "dsire": "Haste",
     "mstn": ["--","--","--"]
   },
   {
@@ -557,7 +557,7 @@
     "bmi": 178.2,
     "href": "https://www.pedigreequery.com/scintillo",
     "sire": "Fantastic Light",
-    "gsire": "Thatching",
+    "dsire": "Thatching",
     "mstn": ["--","--","--"]
   },
   {
@@ -568,7 +568,7 @@
     "bmi": 179.3,
     "href": "https://www.pedigreequery.com/vert+de+grece",
     "sire": "Verglas",
-    "gsire": "Grand Lodge",
+    "dsire": "Grand Lodge",
     "mstn": ["--","--","--"]
   },
   {
@@ -579,7 +579,7 @@
     "bmi": 183.2,
     "href": "https://www.pedigreequery.com/papyrus",
     "sire": "Tracery",
-    "gsire": "Miss Matty",
+    "dsire": "Miss Matty",
     "mstn": ["--","--","--"]
   },
   {
@@ -590,7 +590,7 @@
     "bmi": 183.2,
     "href": "https://www.pedigreequery.com/zev",
     "sire": "The Finn",
-    "gsire": "Miss Kearney",
+    "dsire": "Miss Kearney",
     "mstn": ["--","--","--"]
   },
   {
@@ -601,7 +601,7 @@
     "bmi": 185.2,
     "href": "https://www.pedigreequery.com/dariyan",
     "sire": "Shamardal",
-    "gsire": "Selkirk",
+    "dsire": "Selkirk",
     "mstn": ["--","--","--"]
   },
   {
@@ -612,7 +612,7 @@
     "bmi": 185.2,
     "href": "https://www.pedigreequery.com/last+kingdom",
     "sire": "Frankel",
-    "gsire": "Kingmambo",
+    "dsire": "Kingmambo",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -623,7 +623,7 @@
     "bmi": 186.0,
     "href": "https://www.pedigreequery.com/antonius+pius",
     "sire": "Danzig",
-    "gsire": "Pursuit Of Love",
+    "dsire": "Pursuit Of Love",
     "mstn": ["--","CC","--"]
   },
   {
@@ -634,7 +634,7 @@
     "bmi": 186.8,
     "href": "https://www.pedigreequery.com/kitwood",
     "sire": "Nureyev",
-    "gsire": "Sea Bird",
+    "dsire": "Sea Bird",
     "mstn": ["--","CC","--"]
   },
   {
@@ -645,7 +645,7 @@
     "bmi": 186.8,
     "href": "https://www.jbis.or.jp/horse/0001201716/",
     "sire": "ロードカナロア",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CC","TT"]
   },
   {
@@ -656,7 +656,7 @@
     "bmi": 187.5,
     "href": "https://www.pedigreequery.com/sir+percy3",
     "sire": "Mark Of Esteem",
-    "gsire": "Blakeney",
+    "dsire": "Blakeney",
     "mstn": ["--","--","--"]
   },
   {
@@ -667,7 +667,7 @@
     "bmi": 187.9,
     "href": "https://www.jbis.or.jp/horse/0001206175/",
     "sire": "ステイゴールド",
-    "gsire": "キングカメハメハ",
+    "dsire": "キングカメハメハ",
     "mstn": ["CT","TT","CT"]
   },
   {
@@ -678,7 +678,7 @@
     "bmi": 189.5,
     "href": "https://www.pedigreequery.com/redwood8",
     "sire": "High Chaparral",
-    "gsire": "Woodman",
+    "dsire": "Woodman",
     "mstn": ["--","CT","--"]
   },
   {
@@ -689,7 +689,7 @@
     "bmi": 189.5,
     "href": "https://www.pedigreequery.com/just+as+well",
     "sire": "Ap Indy",
-    "gsire": "Nureyev",
+    "dsire": "Nureyev",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -700,7 +700,7 @@
     "bmi": 189.5,
     "href": "https://www.pedigreequery.com/oneworld",
     "sire": "Danehill Dancer",
-    "gsire": "Hurricane Sky",
+    "dsire": "Hurricane Sky",
     "mstn": ["--","--","--"]
   },
   {
@@ -711,7 +711,7 @@
     "bmi": 191.4,
     "href": "https://www.pedigreequery.com/capot",
     "sire": "Menow",
-    "gsire": "St Germans",
+    "dsire": "St Germans",
     "mstn": ["--","--","--"]
   },
   {
@@ -722,7 +722,7 @@
     "bmi": 194.2,
     "href": "https://www.jbis.or.jp/horse/0000882996/",
     "sire": "サウスヴィグラス",
-    "gsire": "Park Regent",
+    "dsire": "Park Regent",
     "mstn": ["--","--","--"]
   },
   {
@@ -733,7 +733,7 @@
     "bmi": 194.9,
     "href": "https://www.pedigreequery.com/mister+frisky",
     "sire": "Marsayas",
-    "gsire": "Highest Tide",
+    "dsire": "Highest Tide",
     "mstn": ["--","--","--"]
   },
   {
@@ -744,7 +744,7 @@
     "bmi": 195.4,
     "href": "https://www.jbis.or.jp/horse/0001162905/",
     "sire": "Marju",
-    "gsire": "Rossini",
+    "dsire": "Rossini",
     "mstn": ["CT","--","--"]
   },
   {
@@ -755,7 +755,7 @@
     "bmi": 196.1,
     "href": "https://www.pedigreequery.com/falvelon",
     "sire": "Alannon",
-    "gsire": "Zephyr Zing",
+    "dsire": "Zephyr Zing",
     "mstn": ["--","--","--"]
   },
   {
@@ -766,7 +766,7 @@
     "bmi": 200.4,
     "href": "https://www.pedigreequery.com/sun+briar",
     "sire": "Sundridge",
-    "gsire": "St Frusquin",
+    "dsire": "St Frusquin",
     "mstn": ["--","--","TT"]
   },
   {
@@ -777,7 +777,7 @@
     "bmi": 201.2,
     "href": "https://www.jbis.or.jp/horse/0001206689/",
     "sire": "Battle Plan",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","--","--"]
   },
   {
@@ -788,7 +788,7 @@
     "bmi": 203.2,
     "href": "https://www.pedigreequery.com/benbatl",
     "sire": "Dubawi",
-    "gsire": "Selkirk",
+    "dsire": "Selkirk",
     "mstn": ["--","CT","--"]
   },
   {
@@ -799,7 +799,7 @@
     "bmi": 204.0,
     "href": "https://www.pedigreequery.com/erupt",
     "sire": "Dubawi",
-    "gsire": "Caerleon",
+    "dsire": "Caerleon",
     "mstn": ["--","CT","--"]
   },
   {
@@ -810,7 +810,7 @@
     "bmi": 206.3,
     "href": "https://www.jbis.or.jp/horse/0000287600/",
     "sire": "Nureyev",
-    "gsire": "Silver Hawk",
+    "dsire": "Silver Hawk",
     "mstn": ["--","CC","--"]
   },
   {
@@ -821,7 +821,7 @@
     "bmi": 165.9,
     "href": "https://www.jbis.or.jp/horse/0000286968/",
     "sire": "Sunday Silence",
-    "gsire": "Dictus",
+    "dsire": "Dictus",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -832,7 +832,7 @@
     "bmi": 169.7,
     "href": "https://www.pedigreequery.com/fantastic+moon3",
     "sire": "Sea The Moon",
-    "gsire": "Jukebox Jury",
+    "dsire": "Jukebox Jury",
     "mstn": ["--","--","TT"]
   },
   {
@@ -843,7 +843,7 @@
     "bmi": 171.7,
     "href": "https://www.jbis.or.jp/horse/0001162685/",
     "sire": "Macho Uno",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -854,7 +854,7 @@
     "bmi": 172.1,
     "href": "https://www.jbis.or.jp/horse/0000309103/",
     "sire": "Sunday Silence",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -865,8 +865,19 @@
     "bmi": 172.5,
     "href": "https://www.jbis.or.jp/horse/0000617048/",
     "sire": "Warning",
-    "gsire": "Darshaan",
+    "dsire": "Darshaan",
     "mstn": ["--","--","--"]
+  },
+    {
+    "name": "シャフリヤール",
+    "year": 2018,
+    "hh": 161,
+    "wt": 458,
+    "bmi": 176.7,
+    "href": "https://www.jbis.or.jp/horse/0001268912/",
+    "sire": "ディープインパクト",
+    "dsire": "Essence of Dubai",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "ディヴァインライト",
@@ -876,7 +887,7 @@
     "bmi": 178.3,
     "href": "https://www.jbis.or.jp/horse/0000298477/",
     "sire": "Sunday Silence",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -887,7 +898,7 @@
     "bmi": 178.3,
     "href": "https://www.jbis.or.jp/horse/0000992448/",
     "sire": "ステイゴールド",
-    "gsire": "Tight Spot",
+    "dsire": "Tight Spot",
     "mstn": ["--","TT","--"]
   },
   {
@@ -898,7 +909,7 @@
     "bmi": 178.3,
     "href": "https://www.jbis.or.jp/horse/0000805347/",
     "sire": "キングヘイロー",
-    "gsire": "Tenby",
+    "dsire": "Tenby",
     "mstn": ["--","--","--"]
   },
   {
@@ -909,7 +920,7 @@
     "bmi": 179.8,
     "href": "https://www.jbis.or.jp/horse/0000994820/",
     "sire": "タニノギムレット",
-    "gsire": "マーベラスサンデー",
+    "dsire": "マーベラスサンデー",
     "mstn": ["--","--","--"]
   },
   {
@@ -920,7 +931,7 @@
     "bmi": 181.4,
     "href": "https://www.jbis.or.jp/horse/0000853225/",
     "sire": "Giants Causeway",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","CT","--"]
   },
   {
@@ -931,7 +942,7 @@
     "bmi": 182.1,
     "href": "https://www.jbis.or.jp/horse/0001136641/",
     "sire": "アドマイヤドン",
-    "gsire": "ダンスインザダーク",
+    "dsire": "ダンスインザダーク",
     "mstn": ["--","--","TT"]
   },
   {
@@ -942,7 +953,7 @@
     "bmi": 182.1,
     "href": "https://www.jbis.or.jp/horse/0001110454/",
     "sire": "ダイワメジャー",
-    "gsire": "Grindstone",
+    "dsire": "Grindstone",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -953,7 +964,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0000701701/",
     "sire": "Sunday Silence",
-    "gsire": "Judge Angelucci",
+    "dsire": "Judge Angelucci",
     "mstn": ["--","TT","--"]
   },
   {
@@ -964,7 +975,7 @@
     "bmi": 184.5,
     "href": "https://www.jbis.or.jp/horse/0001043988/",
     "sire": "マンハッタンカフェ",
-    "gsire": "Generous",
+    "dsire": "Generous",
     "mstn": ["--","TT","--"]
   },
   {
@@ -975,7 +986,7 @@
     "bmi": 185.2,
     "href": "https://www.jbis.or.jp/horse/0001237701/",
     "sire": "ロードカナロア",
-    "gsire": "Montjeu",
+    "dsire": "Montjeu",
     "mstn": ["CT","CC","TT"]
   },
   {
@@ -986,7 +997,7 @@
     "bmi": 186.0,
     "href": "https://www.jbis.or.jp/horse/0001142398/",
     "sire": "フジキセキ",
-    "gsire": "Cozzene",
+    "dsire": "Cozzene",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -997,7 +1008,7 @@
     "bmi": 189.1,
     "href": "https://www.jbis.or.jp/horse/0001205529/",
     "sire": "ディープインパクト",
-    "gsire": "キングカメハメハ",
+    "dsire": "キングカメハメハ",
     "mstn": ["--","TT","CT"]
   },
   {
@@ -1008,7 +1019,7 @@
     "bmi": 189.1,
     "href": "https://www.jbis.or.jp/horse/0000801447/",
     "sire": "グラスワンダー",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -1019,7 +1030,7 @@
     "bmi": 189.9,
     "href": "https://www.jbis.or.jp/horse/0001213491/",
     "sire": "Frankel",
-    "gsire": "Hennessy",
+    "dsire": "Hennessy",
     "mstn": ["--","CT","--"]
   },
   {
@@ -1030,7 +1041,7 @@
     "bmi": 190.6,
     "href": "https://www.jbis.or.jp/horse/0001204521/",
     "sire": "ロードカナロア",
-    "gsire": "Falbrav",
+    "dsire": "Falbrav",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1041,7 +1052,7 @@
     "bmi": 191.4,
     "href": "https://www.jbis.or.jp/horse/0000759656/",
     "sire": "クロフネ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -1052,7 +1063,7 @@
     "bmi": 194.5,
     "href": "https://www.jbis.or.jp/horse/0001171881/",
     "sire": "キンシャサノキセキ",
-    "gsire": "Kingmambo",
+    "dsire": "Kingmambo",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -1063,7 +1074,7 @@
     "bmi": 195.3,
     "href": "https://www.jbis.or.jp/horse/0000299089/",
     "sire": "Silver Hawk",
-    "gsire": "Danzig",
+    "dsire": "Danzig",
     "mstn": ["--","--","CC"]
   },
   {
@@ -1074,7 +1085,7 @@
     "bmi": 196.0,
     "href": "https://www.jbis.or.jp/horse/0000310467/",
     "sire": "End Sweep",
-    "gsire": "Star De Naskra",
+    "dsire": "Star De Naskra",
     "mstn": ["--","--","--"]
   },
   {
@@ -1085,7 +1096,7 @@
     "bmi": 196.0,
     "href": "https://www.jbis.or.jp/horse/0001218470/",
     "sire": "ジャスタウェイ",
-    "gsire": "Deputy Minister",
+    "dsire": "Deputy Minister",
     "mstn": ["--","CT","--"]
   },
   {
@@ -1096,7 +1107,7 @@
     "bmi": 196.8,
     "href": "https://www.jbis.or.jp/horse/0001101652/",
     "sire": "ゴールドヘイロー",
-    "gsire": "Mill George",
+    "dsire": "Mill George",
     "mstn": ["--","--","--"]
   },
   {
@@ -1107,7 +1118,7 @@
     "bmi": 199.4,
     "href": "https://www.pedigreequery.com/stronger8",
     "sire": "Not A Single Doubt",
-    "gsire": "Starcraft",
+    "dsire": "Starcraft",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1118,7 +1129,7 @@
     "bmi": 204.5,
     "href": "https://www.jbis.or.jp/horse/0001237164/",
     "sire": "ハーツクライ",
-    "gsire": "Lomitas",
+    "dsire": "Lomitas",
     "mstn": ["--","CT","--"]
   },
   {
@@ -1129,7 +1140,7 @@
     "bmi": 204.5,
     "href": "https://www.pedigreequery.com/johannesburg",
     "sire": "Hennessy",
-    "gsire": "Ogygian",
+    "dsire": "Ogygian",
     "mstn": ["--","--","--"]
   },
   {
@@ -1140,7 +1151,7 @@
     "bmi": 206.4,
     "href": "https://www.pedigreequery.com/four+wheel+drive6",
     "sire": "American Pharoah",
-    "gsire": "More Than Ready",
+    "dsire": "More Than Ready",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -1151,7 +1162,7 @@
     "bmi": 155.4,
     "href": "https://www.pedigreequery.com/hindoo",
     "sire": "Virgil",
-    "gsire": "Lexington",
+    "dsire": "Lexington",
     "mstn": ["--","--","--"]
   },
   {
@@ -1162,7 +1173,7 @@
     "bmi": 164.2,
     "href": "https://www.pedigreequery.com/brians+time",
     "sire": "Roberto",
-    "gsire": "Graustark",
+    "dsire": "Graustark",
     "mstn": ["--","--","--"]
   },
   {
@@ -1173,7 +1184,7 @@
     "bmi": 168.5,
     "href": "https://www.pedigreequery.com/poseidon+adventure",
     "sire": "Sadlers Wells",
-    "gsire": "Gulch",
+    "dsire": "Gulch",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1184,7 +1195,7 @@
     "bmi": 169.2,
     "href": "https://www.jbis.or.jp/horse/0001107309/",
     "sire": "ディープインパクト",
-    "gsire": "Nureyev",
+    "dsire": "Nureyev",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -1195,7 +1206,7 @@
     "bmi": 172.3,
     "href": "https://www.jbis.or.jp/horse/0001169928/",
     "sire": "ステイゴールド",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1206,7 +1217,7 @@
     "bmi": 173.0,
     "href": "https://www.pedigreequery.com/onesto2",
     "sire": "Frankel",
-    "gsire": "Sea The Stars",
+    "dsire": "Sea The Stars",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -1217,7 +1228,7 @@
     "bmi": 173.8,
     "href": "https://www.jbis.or.jp/horse/0001237042/",
     "sire": "ディープインパクト",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1228,7 +1239,7 @@
     "bmi": 173.8,
     "href": "https://www.jbis.or.jp/horse/0001095857/",
     "sire": "ディープインパクト",
-    "gsire": "Caerleon",
+    "dsire": "Caerleon",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1239,7 +1250,7 @@
     "bmi": 175.3,
     "href": "https://www.pedigreequery.com/denon",
     "sire": "Pleasant Colony",
-    "gsire": "Northfields",
+    "dsire": "Northfields",
     "mstn": ["--","--","--"]
   },
   {
@@ -1250,7 +1261,7 @@
     "bmi": 176.0,
     "href": "https://www.jbis.or.jp/horse/0000130523/",
     "sire": "トウショウボーイ",
-    "gsire": "Topyo",
+    "dsire": "Topyo",
     "mstn": ["--","--","--"]
   },
   {
@@ -1261,7 +1272,7 @@
     "bmi": 175.3,
     "href": "https://www.pedigreequery.com/tobougg",
     "sire": "Barathea",
-    "gsire": "Majestic Light",
+    "dsire": "Majestic Light",
     "mstn": ["--","--","--"]
   },
   {
@@ -1272,7 +1283,7 @@
     "bmi": 176.9,
     "href": "https://www.jbis.or.jp/horse/0000626072/",
     "sire": "Kingmambo",
-    "gsire": "Blushing Groom",
+    "dsire": "Blushing Groom",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1283,7 +1294,7 @@
     "bmi": 177.6,
     "href": "https://www.jbis.or.jp/horse/0000321138/",
     "sire": "Crafty Prospector",
-    "gsire": "Chiefs Crown",
+    "dsire": "Chiefs Crown",
     "mstn": ["--","--","--"]
   },
   {
@@ -1294,7 +1305,7 @@
     "bmi": 177.6,
     "href": "https://www.pedigreequery.com/conduit4",
     "sire": "Dalakhani",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -1305,7 +1316,7 @@
     "bmi": 177.6,
     "href": "https://www.jbis.or.jp/horse/0001154658/",
     "sire": "キングカメハメハ",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","CT","--"]
   },
   {
@@ -1316,7 +1327,7 @@
     "bmi": 178.0,
     "href": "https://www.pedigreequery.com/mshawish",
     "sire": "Medaglia Doro",
-    "gsire": "Thunder Gulch",
+    "dsire": "Thunder Gulch",
     "mstn": ["CT","--","--"]
   },
   {
@@ -1327,7 +1338,7 @@
     "bmi": 178.4,
     "href": "https://www.jbis.or.jp/horse/0001149061/",
     "sire": "ディープインパクト",
-    "gsire": "Dr Devious",
+    "dsire": "Dr Devious",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1338,7 +1349,7 @@
     "bmi": 178.7,
     "href": "https://www.pedigreequery.com/red+rocks2",
     "sire": "Galileo",
-    "gsire": "Machiavellian",
+    "dsire": "Machiavellian",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1349,7 +1360,7 @@
     "bmi": 179.9,
     "href": "https://www.pedigreequery.com/muchea",
     "sire": "Shalford",
-    "gsire": "Hotfoot",
+    "dsire": "Hotfoot",
     "mstn": ["--","--","--"]
   },
   {
@@ -1360,7 +1371,7 @@
     "bmi": 180.3,
     "href": "https://www.pedigreequery.com/chemical+charge",
     "sire": "Sea The Stars",
-    "gsire": "Kingmambo",
+    "dsire": "Kingmambo",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -1371,7 +1382,7 @@
     "bmi": 180.3,
     "href": "https://www.pedigreequery.com/linngari",
     "sire": "Indian Ridge",
-    "gsire": "Kahyasi",
+    "dsire": "Kahyasi",
     "mstn": ["--","--","--"]
   },
   {
@@ -1382,7 +1393,7 @@
     "bmi": 180.3,
     "href": "https://www.jbis.or.jp/horse/0000891710/",
     "sire": "War Emblem",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -1393,7 +1404,7 @@
     "bmi": 181.4,
     "href": "https://www.jbis.or.jp/horse/0000325200/",
     "sire": "Tony Bin",
-    "gsire": "Nureyev",
+    "dsire": "Nureyev",
     "mstn": ["--","--","CC"]
   },
   {
@@ -1404,7 +1415,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001186808/",
     "sire": "ディープインパクト",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1415,7 +1426,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001139796/",
     "sire": "Johannesburg",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -1426,7 +1437,7 @@
     "bmi": 182.9,
     "href": "https://www.pedigreequery.com/capri36",
     "sire": "Galileo",
-    "gsire": "Anabaa",
+    "dsire": "Anabaa",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1437,7 +1448,7 @@
     "bmi": 182.9,
     "href": "https://www.pedigreequery.com/pinatubo5",
     "sire": "Shamardal",
-    "gsire": "Dalakhani",
+    "dsire": "Dalakhani",
     "mstn": ["--","--","CT"]
   },
   {
@@ -1448,7 +1459,7 @@
     "bmi": 182.9,
     "href": "https://www.jbis.or.jp/horse/0001153071/",
     "sire": "スクリーンヒーロー",
-    "gsire": "Diablo",
+    "dsire": "Diablo",
     "mstn": ["--","--","--"]
   },
   {
@@ -1459,7 +1470,7 @@
     "bmi": 182.9,
     "href": "https://www.jbis.or.jp/horse/0001202832/",
     "sire": "ルーラーシップ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -1470,7 +1481,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001122040/",
     "sire": "キングカメハメハ",
-    "gsire": "ダンスインザダーク",
+    "dsire": "ダンスインザダーク",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -1481,7 +1492,7 @@
      "bmi": 184.5,
     "href": "https://www.jbis.or.jp/horse/0001201986/",
     "sire": "クロフネ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -1492,7 +1503,7 @@
     "bmi": 185.2,
     "href": "https://www.jbis.or.jp/horse/0000620083/",
     "sire": "Sunday Silence",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -1503,7 +1514,7 @@
     "bmi": 185.2,
     "href": "https://www.jbis.or.jp/horse/0001208483/",
     "sire": "ディープインパクト",
-    "gsire": "Silver Hawk",
+    "dsire": "Silver Hawk",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1514,7 +1525,7 @@
     "bmi": 186.0,
     "href": "https://www.jbis.or.jp/horse/0000714234/",
     "sire": "Seeking The Gold",
-    "gsire": "Secretariat",
+    "dsire": "Secretariat",
     "mstn": ["--","CC","CT"]
   },
   {
@@ -1525,7 +1536,7 @@
     "bmi": 186.7,
     "href": "https://www.pedigreequery.com/deportivo",
     "sire": "Night Shift",
-    "gsire": "Kenmare",
+    "dsire": "Kenmare",
     "mstn": ["--","--","--"]
   },
   {
@@ -1536,7 +1547,7 @@
     "bmi": 186.7,
     "href": "https://www.jbis.or.jp/horse/0001217307/",
     "sire": "ロードカナロア",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1547,7 +1558,7 @@
     "bmi": 187.5,
     "href": "https://www.pedigreequery.com/white+muzzle",
     "sire": "Dancing Brave",
-    "gsire": "Ela-mana-mou",
+    "dsire": "Ela-mana-mou",
     "mstn": ["--","--","--"]
   },
   {
@@ -1558,7 +1569,7 @@
     "bmi": 188.3,
     "href": "https://www.jbis.or.jp/horse/0001124297/",
     "sire": "シンボリクリスエス",
-    "gsire": "スペシャルウィーク",
+    "dsire": "スペシャルウィーク",
     "mstn": ["TT","TT","TT"]
   },
   {
@@ -1569,7 +1580,7 @@
     "bmi": 191.3,
     "href": "https://www.jbis.or.jp/horse/0000299078/",
     "sire": "Danzig",
-    "gsire": "Seattle Slew",
+    "dsire": "Seattle Slew",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1580,7 +1591,7 @@
     "bmi": 192.1,
     "href": "https://www.jbis.or.jp/horse/0000225628/",
     "sire": "サクラユタカオー",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["CC","--","CC"]
   },
   {
@@ -1591,7 +1602,7 @@
     "bmi": 192.1,
     "href": "https://www.jbis.or.jp/horse/0001303553/",
     "sire": "Kingman",
-    "gsire": "Soldier Hollow",
+    "dsire": "Soldier Hollow",
     "mstn": ["--","--","--"]
   },
   {
@@ -1602,7 +1613,7 @@
     "bmi": 193.6,
     "href": "https://www.jbis.or.jp/horse/0001215724/",
     "sire": "ロードカナロア",
-    "gsire": "スペシャルウィーク",
+    "dsire": "スペシャルウィーク",
     "mstn": ["CT","CC","TT"]
   },
   {
@@ -1613,7 +1624,7 @@
     "bmi": 194.4,
     "href": "https://www.jbis.or.jp/horse/0000803089/",
     "sire": "ジャングルポケット",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -1624,7 +1635,7 @@
     "bmi": 195.5,
     "href": "https://www.pedigreequery.com/thank+heavens2",
     "sire": "Theatrical Charmer",
-    "gsire": "Glint Of Gold",
+    "dsire": "Glint Of Gold",
     "mstn": ["--","--","--"]
   },
   {
@@ -1635,7 +1646,7 @@
     "bmi": 195.9,
     "href": "https://www.jbis.or.jp/horse/0000888992/",
     "sire": "White Muzzle",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -1646,7 +1657,7 @@
     "bmi": 196.7,
     "href": "https://www.jbis.or.jp/horse/0001209439/",
     "sire": "Ravens Pass",
-    "gsire": "Dalakhani",
+    "dsire": "Dalakhani",
     "mstn": ["--","--","CT"]
   },
   {
@@ -1657,7 +1668,7 @@
     "bmi": 199.7,
     "href": "https://www.pedigreequery.com/acclamation2",
     "sire": "Royal Applause",
-    "gsire": "Ahonoora",
+    "dsire": "Ahonoora",
     "mstn": ["--","--","--"]
   },
   {
@@ -1668,7 +1679,7 @@
     "bmi": 200.5,
     "href": "https://www.jbis.or.jp/horse/0000990058/",
     "sire": "サウスヴィグラス",
-    "gsire": "Afleet",
+    "dsire": "Afleet",
     "mstn": ["--","--","--"]
   },
   {
@@ -1679,7 +1690,7 @@
     "bmi": 202.4,
     "href": "https://www.jbis.or.jp/horse/0001222285/",
     "sire": "Speightstown",
-    "gsire": "Rahy",
+    "dsire": "Rahy",
     "mstn": ["--","CC","CT"]
   },
   {
@@ -1690,7 +1701,7 @@
     "bmi": 205.0,
     "href": "https://www.jbis.or.jp/horse/0001144181/",
     "sire": "Tale Of The Cat",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["CC","CC","--"]
   },
   {
@@ -1701,7 +1712,7 @@
     "bmi": 207.0,
     "href": "https://www.pedigreequery.com/rock+of+gibraltar2",
     "sire": "Danehill",
-    "gsire": "Be My Guest",
+    "dsire": "Be My Guest",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1712,7 +1723,7 @@
     "bmi": 209.2,
     "href": "https://www.jbis.or.jp/horse/0001049689/",
     "sire": "White Muzzle",
-    "gsire": "アドマイヤベガ",
+    "dsire": "アドマイヤベガ",
     "mstn": ["--","--","--"]
   },
   {
@@ -1723,7 +1734,7 @@
     "bmi": 164.9,
     "href": "https://www.pedigreequery.com/hernando",
     "sire": "Niniski",
-    "gsire": "Miswaki",
+    "dsire": "Miswaki",
     "mstn": ["--","--","--"]
   },
   {
@@ -1734,7 +1745,7 @@
     "bmi": 169.4,
     "href": "https://www.pedigreequery.com/shalaa",
     "sire": "Invincible Spirit",
-    "gsire": "War Chant",
+    "dsire": "War Chant",
     "mstn": ["--","--","--"]
   },
   {
@@ -1745,7 +1756,7 @@
     "bmi": 170.2,
     "href": "https://www.jbis.or.jp/horse/0000620131/",
     "sire": "Timber Country",
-    "gsire": "Tony Bin",
+    "dsire": "Tony Bin",
     "mstn": ["--","--","--"]
   },
   {
@@ -1756,7 +1767,7 @@
     "bmi": 170.9,
     "href": "https://www.pedigreequery.com/afleet+alex",
     "sire": "Northern Afleet",
-    "gsire": "Hawkster",
+    "dsire": "Hawkster",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1767,7 +1778,7 @@
     "bmi": 170.9,
     "href": "https://www.pedigreequery.com/auguste+rodin",
     "sire": "ディープインパクト",
-    "gsire": "Galileo",
+    "dsire": "Galileo",
     "mstn": ["--","TT","TT"]
   },
   {
@@ -1778,7 +1789,7 @@
     "bmi": 170.9,
     "href": "https://www.pedigreequery.com/tamerlane",
     "sire": "Persian Gulf",
-    "gsire": "Nearco",
+    "dsire": "Nearco",
     "mstn": ["--","--","CT"]
   },
   {
@@ -1789,7 +1800,7 @@
     "bmi": 171.6,
     "href": "https://www.pedigreequery.com/the+bard",
     "sire": "Longfellow",
-    "gsire": "War Dance",
+    "dsire": "War Dance",
     "mstn": ["--","--","--"]
   },
   {
@@ -1800,7 +1811,7 @@
     "bmi": 172.4,
     "href": "https://www.jbis.or.jp/horse/0001045066/",
     "sire": "キングカメハメハ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -1811,7 +1822,7 @@
     "bmi": 173.9,
     "href": "https://www.jbis.or.jp/horse/0001208666/",
     "sire": "ディープインパクト",
-    "gsire": "Swept Overboard",
+    "dsire": "Swept Overboard",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1822,7 +1833,7 @@
     "bmi": 173.9,
     "href": "https://www.jbis.or.jp/horse/0000742581/",
     "sire": "Sunday Silence",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -1833,7 +1844,7 @@
     "bmi": 174.7,
     "href": "https://www.pedigreequery.com/cigar2",
     "sire": "Palace Music",
-    "gsire": "Seattle Slew",
+    "dsire": "Seattle Slew",
     "mstn": ["--","--","--"]
   },
   {
@@ -1844,7 +1855,7 @@
     "bmi": 174.7,
     "href": "https://www.pedigreequery.com/free+eagle",
     "sire": "High Chaparral",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -1855,7 +1866,7 @@
     "bmi": 175.4,
     "href": "https://www.jbis.or.jp/horse/0001090360/",
     "sire": "ステイゴールド",
-    "gsire": "メジロマックイーン",
+    "dsire": "メジロマックイーン",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -1866,7 +1877,7 @@
     "bmi": 175.8,
     "href": "https://www.pedigreequery.com/byword",
     "sire": "Peintre Celebre",
-    "gsire": "Woodman",
+    "dsire": "Woodman",
     "mstn": ["CT","--","--"]
   },
   {
@@ -1877,7 +1888,7 @@
     "bmi": 175.8,
     "href": "https://www.pedigreequery.com/paco+boy",
     "sire": "Desert Style",
-    "gsire": "Sandhurst Prince",
+    "dsire": "Sandhurst Prince",
     "mstn": ["--","--","--"]
   },
   {
@@ -1888,7 +1899,7 @@
     "bmi": 175.8,
     "href": "https://www.pedigreequery.com/polish+summer",
     "sire": "Polish Precedent",
-    "gsire": "Rainbow Quest",
+    "dsire": "Rainbow Quest",
     "mstn": ["--","--","--"]
   },
   {
@@ -1899,7 +1910,7 @@
     "bmi": 176.2,
     "href": "https://www.pedigreequery.com/westerner",
     "sire": "Danehill",
-    "gsire": "Troy",
+    "dsire": "Troy",
     "mstn": ["CT","CC","--"]
   },
   {
@@ -1910,7 +1921,7 @@
     "bmi": 176.6,
     "href": "https://www.pedigreequery.com/dupont",
     "sire": "Zafonic",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -1921,7 +1932,7 @@
     "bmi": 176.9,
     "href": "https://www.pedigreequery.com/imperial+dancer3",
     "sire": "Primo Dominie",
-    "gsire": "Nordico",
+    "dsire": "Nordico",
     "mstn": ["--","--","--"]
   },
   {
@@ -1932,7 +1943,7 @@
     "bmi": 177.7,
     "href": "https://www.pedigreequery.com/samum",
     "sire": "Monsun",
-    "gsire": "Old Vic",
+    "dsire": "Old Vic",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1943,7 +1954,7 @@
     "bmi": 177.7,
     "href": "https://www.pedigreequery.com/silvano",
     "sire": "Lomitas",
-    "gsire": "Beaus Eagle",
+    "dsire": "Beaus Eagle",
     "mstn": ["CT","--","--"]
   },
   {
@@ -1954,7 +1965,7 @@
     "bmi": 177.7,
     "href": "https://www.jbis.or.jp/horse/0000739144/",
     "sire": "Sunday Silence",
-    "gsire": "Fairy King",
+    "dsire": "Fairy King",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1965,7 +1976,7 @@
     "bmi": 177.7,
     "href": "https://www.jbis.or.jp/horse/0001045360/",
     "sire": "マンハッタンカフェ",
-    "gsire": "Lammtarra",
+    "dsire": "Lammtarra",
     "mstn": ["--","TT","--"]
   },
   {
@@ -1976,7 +1987,7 @@
     "bmi": 178.5,
     "href": "https://www.pedigreequery.com/emperor+jones",
     "sire": "Danzig",
-    "gsire": "Native Royalty",
+    "dsire": "Native Royalty",
     "mstn": ["--","CC","--"]
   },
   {
@@ -1987,7 +1998,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0001267543/",
     "sire": "ドゥラメンテ",
-    "gsire": "Motivator",
+    "dsire": "Motivator",
     "mstn": ["--","CT","--"]
   },
   {
@@ -1998,7 +2009,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0001134867/",
     "sire": "Swept Overboard",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -2009,7 +2020,7 @@
     "bmi": 179.2,
     "href": "https://www.pedigreequery.com/arts+and+letters",
     "sire": "Ribot",
-    "gsire": "Battlefield",
+    "dsire": "Battlefield",
     "mstn": ["--","--","--"]
   },
   {
@@ -2020,7 +2031,7 @@
     "bmi": 179.2,
     "href": "https://www.pedigreequery.com/hill+rise",
     "sire": "Hillary",
-    "gsire": "Russia",
+    "dsire": "Russia",
     "mstn": ["--","--","--"]
   },
   {
@@ -2031,7 +2042,7 @@
     "bmi": 179.2,
     "href": "https://www.pedigreequery.com/riva+ridge",
     "sire": "First Landing",
-    "gsire": "Heliopolis",
+    "dsire": "Heliopolis",
     "mstn": ["--","--","--"]
   },
   {
@@ -2042,7 +2053,7 @@
     "bmi": 179.2,
     "href": "https://www.jbis.or.jp/horse/0000761992/",
     "sire": "Afleet",
-    "gsire": "Rainbow Quest",
+    "dsire": "Rainbow Quest",
     "mstn": ["--","--","--"]
   },
   {
@@ -2053,7 +2064,7 @@
     "bmi": 179.6,
     "href": "https://www.pedigreequery.com/chineur",
     "sire": "Fasliyev",
-    "gsire": "Sharpo",
+    "dsire": "Sharpo",
     "mstn": ["--","--","--"]
   },
   {
@@ -2064,7 +2075,7 @@
     "bmi": 179.6,
     "href": "https://www.pedigreequery.com/phoenix+reach",
     "sire": "Alhaarth",
-    "gsire": "Hatim",
+    "dsire": "Hatim",
     "mstn": ["--","--","--"]
   },
   {
@@ -2075,7 +2086,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0000737164/",
     "sire": "Sunday Silence",
-    "gsire": "Caerleon",
+    "dsire": "Caerleon",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2086,7 +2097,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0001111008/",
     "sire": "ディープインパクト",
-    "gsire": "Acatenango",
+    "dsire": "Acatenango",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2097,7 +2108,7 @@
     "bmi": 180.3,
     "href": "https://www.pedigreequery.com/adam5",
     "sire": "Rubiton",
-    "gsire": "Long Row",
+    "dsire": "Long Row",
     "mstn": ["--","--","--"]
   },
   {
@@ -2108,7 +2119,7 @@
     "bmi": 180.3,
     "href": "https://www.pedigreequery.com/gitano+hernando",
     "sire": "Hernando",
-    "gsire": "Perugino",
+    "dsire": "Perugino",
     "mstn": ["--","--","--"]
   },
   {
@@ -2119,7 +2130,7 @@
     "bmi": 180.7,
     "href": "https://www.pedigreequery.com/rebel+dane",
     "sire": "California Dane",
-    "gsire": "More Than Ready",
+    "dsire": "More Than Ready",
     "mstn": ["CT","--","CT"]
   },
   {
@@ -2130,7 +2141,7 @@
     "bmi": 181.5,
     "href": "https://www.jbis.or.jp/horse/0001108175/",
     "sire": "アドマイヤムーン",
-    "gsire": "サクラバクシンオー",
+    "dsire": "サクラバクシンオー",
     "mstn": ["--","--","CC"]
   },
   {
@@ -2141,7 +2152,7 @@
     "bmi": 181.8,
     "href": "https://www.pedigreequery.com/david+junior",
     "sire": "Pleasant Tap",
-    "gsire": "Irish River",
+    "dsire": "Irish River",
     "mstn": ["--","--","--"]
   },
   {
@@ -2152,7 +2163,7 @@
     "bmi": 181.8,
     "href": "https://www.jbis.or.jp/horse/0000314130/",
     "sire": "Sunday Silence",
-    "gsire": "Seeking The Gold",
+    "dsire": "Seeking The Gold",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -2163,7 +2174,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/starborough",
     "sire": "Soviet Star",
-    "gsire": "Desert Wine",
+    "dsire": "Desert Wine",
     "mstn": ["--","--","--"]
   },
   {
@@ -2174,7 +2185,7 @@
     "bmi": 183.0,
     "href": "https://www.pedigreequery.com/charge+daffaires",
     "sire": "Kendor",
-    "gsire": "Secreto",
+    "dsire": "Secreto",
     "mstn": ["--","--","--"]
   },
   {
@@ -2185,7 +2196,7 @@
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0000890061/",
     "sire": "ジャングルポケット",
-    "gsire": "Silver Deputy",
+    "dsire": "Silver Deputy",
     "mstn": ["--","--","--"]
   },
   {
@@ -2196,7 +2207,7 @@
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0001167517/",
     "sire": "ディープインパクト",
-    "gsire": "Brians Time",
+    "dsire": "Brians Time",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2207,7 +2218,7 @@
     "bmi": 183.3,
     "href": "https://www.pedigreequery.com/citation",
     "sire": "Bull Lea",
-    "gsire": "Hyperion",
+    "dsire": "Hyperion",
     "mstn": ["--","--","TT"]
   },
   {
@@ -2218,7 +2229,7 @@
     "bmi": 183.7,
     "href": "https://www.pedigreequery.com/platini",
     "sire": "Surumu",
-    "gsire": "Stanford",
+    "dsire": "Stanford",
     "mstn": ["--","--","--"]
   },
   {
@@ -2229,7 +2240,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001141719/",
     "sire": "ディープインパクト",
-    "gsire": "Rock Of Gibraltar",
+    "dsire": "Rock Of Gibraltar",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -2240,7 +2251,7 @@
     "bmi": 184.5,
     "href": "https://www.pedigreequery.com/sixties+icon",
     "sire": "Galileo",
-    "gsire": "Diesis",
+    "dsire": "Diesis",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2251,7 +2262,7 @@
     "bmi": 184.5,
     "href": "https://www.pedigreequery.com/fierce+impact",
     "sire": "ディープインパクト",
-    "gsire": "Smarty Jones",
+    "dsire": "Smarty Jones",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -2262,7 +2273,7 @@
     "bmi": 184.9,
     "href": "https://www.jbis.or.jp/horse/0001206350/",
     "sire": "キングカメハメハ",
-    "gsire": "デュランダル",
+    "dsire": "デュランダル",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2273,7 +2284,7 @@
     "bmi": 185.2,
     "href": "https://www.jbis.or.jp/horse/0001188466/",
     "sire": "ステイゴールド",
-    "gsire": "アドマイヤコジーン",
+    "dsire": "アドマイヤコジーン",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2284,7 +2295,7 @@
     "bmi": 186.0,
     "href": "https://www.pedigreequery.com/my+admiration2",
     "sire": "Encosta De Lago",
-    "gsire": "Redoutes Choice",
+    "dsire": "Redoutes Choice",
     "mstn": ["--","--","CC"]
   },
   {
@@ -2295,7 +2306,7 @@
     "bmi": 186.0,
     "href": "https://www.jbis.or.jp/horse/0001265810/",
     "sire": "Novellist",
-    "gsire": "クロフネ",
+    "dsire": "クロフネ",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -2306,7 +2317,7 @@
     "bmi": 186.0,
     "href": "https://www.jbis.or.jp/horse/0001189721/",
     "sire": "キングカメハメハ",
-    "gsire": "シンボリクリスエス",
+    "dsire": "シンボリクリスエス",
     "mstn": ["TT","CT","TT"]
   },
   {
@@ -2317,7 +2328,7 @@
     "bmi": 186.3,
     "href": "https://www.pedigreequery.com/var",
     "sire": "Forest Wildcat",
-    "gsire": "Zilzal",
+    "dsire": "Zilzal",
     "mstn": ["--","--","--"]
   },
   {
@@ -2328,7 +2339,7 @@
     "bmi": 186.7,
     "href": "https://www.jbis.or.jp/horse/0001171845/",
     "sire": "ディープインパクト",
-    "gsire": "Silver Hawk",
+    "dsire": "Silver Hawk",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -2339,7 +2350,7 @@
     "bmi": 188.2,
     "href": "https://www.pedigreequery.com/timboroa",
     "sire": "Salse",
-    "gsire": "Damister",
+    "dsire": "Damister",
     "mstn": ["--","--","--"]
   },
   {
@@ -2350,7 +2361,7 @@
     "bmi": 188.2,
     "href": "https://www.jbis.or.jp/horse/0001173652/",
     "sire": "ディープスカイ",
-    "gsire": "Gone West",
+    "dsire": "Gone West",
     "mstn": ["--","--","--"]
   },
   {
@@ -2361,7 +2372,7 @@
     "bmi": 188.6,
     "href": "https://www.jbis.or.jp/horse/0000626398/",
     "sire": "Star Of Cozzene",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","--","CC"]
   },
   {
@@ -2372,7 +2383,7 @@
     "bmi": 189.3,
     "href": "https://www.pedigreequery.com/california+chrome",
     "sire": "Lucky Pulpit",
-    "gsire": "Not For Love",
+    "dsire": "Not For Love",
     "mstn": ["CT","--","--"]
   },
   {
@@ -2383,7 +2394,7 @@
     "bmi": 189.7,
     "href": "https://www.pedigreequery.com/bated+breath3",
     "sire": "Dansili",
-    "gsire": "Distant View",
+    "dsire": "Distant View",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2394,7 +2405,7 @@
     "bmi": 189.7,
     "href": "https://www.jbis.or.jp/horse/0000804024/",
     "sire": "White Muzzle",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -2405,7 +2416,7 @@
     "bmi": 190.1,
     "href": "https://www.pedigreequery.com/giants+steps",
     "sire": "Giants Causeway",
-    "gsire": "Hennessy",
+    "dsire": "Hennessy",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2416,7 +2427,7 @@
     "bmi": 190.5,
     "href": "https://www.pedigreequery.com/frost+giant",
     "sire": "Giants Causeway",
-    "gsire": "Gone West",
+    "dsire": "Gone West",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2427,7 +2438,7 @@
     "bmi": 191.2,
     "href": "https://www.pedigreequery.com/ebony+grosve",
     "sire": "Grosvenor",
-    "gsire": "Indian Conquest",
+    "dsire": "Indian Conquest",
     "mstn": ["--","--","--"]
   },
   {
@@ -2438,7 +2449,7 @@
     "bmi": 191.2,
     "href": "https://www.pedigreequery.com/xtravagant",
     "sire": "Pentire",
-    "gsire": "Zabeel",
+    "dsire": "Zabeel",
     "mstn": ["--","--","--"]
   },
   {
@@ -2449,7 +2460,7 @@
     "bmi": 191.2,
     "href": "https://www.jbis.or.jp/horse/0000262443/",
     "sire": "Sunday Silence",
-    "gsire": "Le Fabuleux",
+    "dsire": "Le Fabuleux",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -2460,7 +2471,7 @@
     "bmi": 192.0,
     "href": "https://www.pedigreequery.com/dr+green2",
     "sire": "Fusaichi Pegasus",
-    "gsire": "Last Tycoon",
+    "dsire": "Last Tycoon",
     "mstn": ["--","--","--"]
   },
   {
@@ -2471,7 +2482,7 @@
     "bmi": 192.3,
     "href": "https://www.pedigreequery.com/chateau+istana",
     "sire": "Grand Lodge",
-    "gsire": "Miswaki",
+    "dsire": "Miswaki",
     "mstn": ["--","--","--"]
   },
   {
@@ -2482,7 +2493,7 @@
     "bmi": 192.7,
     "href": "https://www.jbis.or.jp/horse/0000220336/",
     "sire": "Magnitude",
-    "gsire": "Chalet",
+    "dsire": "Chalet",
     "mstn": ["--","--","--"]
   },
   {
@@ -2493,7 +2504,7 @@
     "bmi": 194.2,
     "href": "https://www.jbis.or.jp/horse/0001314074/",
     "sire": "Lemon Drop Kid",
-    "gsire": "Giants Causeway",
+    "dsire": "Giants Causeway",
     "mstn": ["CC","--","CT"]
   },
   {
@@ -2504,7 +2515,7 @@
     "bmi": 194.6,
     "href": "https://www.pedigreequery.com/greek+game",
     "sire": "Olympia",
-    "gsire": "Questionnaire",
+    "dsire": "Questionnaire",
     "mstn": ["--","--","--"]
   },
   {
@@ -2515,7 +2526,7 @@
     "bmi": 195.0,
     "href": "https://www.jbis.or.jp/horse/0001137087/",
     "sire": "Pyro",
-    "gsire": "Shanghai",
+    "dsire": "Shanghai",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2526,7 +2537,7 @@
     "bmi": 195.3,
     "href": "https://www.pedigreequery.com/supreme+class2",
     "sire": "Redoutes Choice",
-    "gsire": "Snaadee",
+    "dsire": "Snaadee",
     "mstn": ["--","CC","--"]
   },
   {
@@ -2537,7 +2548,7 @@
     "bmi": 196.5,
     "href": "https://www.pedigreequery.com/eclipse",
     "sire": "Marske",
-    "gsire": "Regulus",
+    "dsire": "Regulus",
     "mstn": ["TT","--","--"]
   },
   {
@@ -2548,7 +2559,7 @@
     "bmi": 196.9,
     "href": "https://www.pedigreequery.com/came+home",
     "sire": "Gone West",
-    "gsire": "Clever Trick",
+    "dsire": "Clever Trick",
     "mstn": ["--","--","--"]
   },
   {
@@ -2559,7 +2570,7 @@
     "bmi": 199.9,
     "href": "https://www.pedigreequery.com/mor+spirit",
     "sire": "Eskendereya",
-    "gsire": "Dixie Union",
+    "dsire": "Dixie Union",
     "mstn": ["--","--","--"]
   },
   {
@@ -2570,7 +2581,7 @@
     "bmi": 199.9,
     "href": "https://www.pedigreequery.com/super+easy2",
     "sire": "Danci Brahma",
-    "gsire": "Gold Brose",
+    "dsire": "Gold Brose",
     "mstn": ["--","--","--"]
   },
   {
@@ -2581,7 +2592,7 @@
     "bmi": 200.3,
     "href": "https://www.pedigreequery.com/testa+rossa",
     "sire": "Perugino",
-    "gsire": "Sir Dapper",
+    "dsire": "Sir Dapper",
     "mstn": ["--","--","--"]
   },
   {
@@ -2592,7 +2603,7 @@
     "bmi": 201.4,
     "href": "https://www.pedigreequery.com/quality+seeker",
     "sire": "Quality Road",
-    "gsire": "Arch",
+    "dsire": "Arch",
     "mstn": ["--","--","--"]
   },
   {
@@ -2603,7 +2614,7 @@
     "bmi": 202.9,
     "href": "https://www.pedigreequery.com/duke+of+marmalade2",
     "sire": "Danehill",
-    "gsire": "Kingmambo",
+    "dsire": "Kingmambo",
     "mstn": ["--","CC","CC"]
   },
   {
@@ -2614,7 +2625,7 @@
     "bmi": 204.7,
     "href": "https://www.pedigreequery.com/hidden+dragon2",
     "sire": "Danehill",
-    "gsire": "Citidancer",
+    "dsire": "Citidancer",
     "mstn": ["CC","CC","--"]
   },
   {
@@ -2625,7 +2636,7 @@
     "bmi": 207.0,
     "href": "https://www.pedigreequery.com/gayego",
     "sire": "Gilded Time",
-    "gsire": "Lost Code",
+    "dsire": "Lost Code",
     "mstn": ["--","CC","--"]
   },
   {
@@ -2636,7 +2647,7 @@
     "bmi": 152.4,
     "href": "https://www.pedigreequery.com/ribot",
     "sire": "Tenerani",
-    "gsire": "El Greco",
+    "dsire": "El Greco",
     "mstn": ["--","--","--"]
   },
   {
@@ -2647,7 +2658,7 @@
     "bmi": 156.2,
     "href": "https://www.pedigreequery.com/rekindling2",
     "sire": "High Chaparral",
-    "gsire": "Salse",
+    "dsire": "Salse",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2658,7 +2669,7 @@
     "bmi": 156.2,
     "href": "https://www.pedigreequery.com/waldgeist4",
     "sire": "Galileo",
-    "gsire": "Monsun",
+    "dsire": "Monsun",
     "mstn": ["--","TT","TT"]
   },
   {
@@ -2669,7 +2680,7 @@
     "bmi": 162.9,
     "href": "https://www.jbis.or.jp/horse/0000742976/",
     "sire": "Sunday Silence",
-    "gsire": "Alzao",
+    "dsire": "Alzao",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -2680,7 +2691,7 @@
     "bmi": 166.6,
     "href": "https://www.pedigreequery.com/alexandros7",
     "sire": "Kingmambo",
-    "gsire": "King Of Kings",
+    "dsire": "King Of Kings",
     "mstn": ["--","CC","--"]
   },
   {
@@ -2691,7 +2702,7 @@
     "bmi": 166.9,
     "href": "https://www.pedigreequery.com/gris+de+gris",
     "sire": "Slickly",
-    "gsire": "Lead On Time",
+    "dsire": "Lead On Time",
     "mstn": ["--","--","--"]
   },
   {
@@ -2702,7 +2713,7 @@
     "bmi": 172.9,
     "href": "https://www.pedigreequery.com/summer+squall",
     "sire": "Storm Bird",
-    "gsire": "Secretariat",
+    "dsire": "Secretariat",
     "mstn": ["--","--","CT"]
   },
   {
@@ -2713,7 +2724,7 @@
     "bmi": 174.4,
     "href": "https://www.pedigreequery.com/rajsaman",
     "sire": "Linamix",
-    "gsire": "Lammtarra",
+    "dsire": "Lammtarra",
     "mstn": ["--","--","--"]
   },
   {
@@ -2724,7 +2735,7 @@
     "bmi": 174.8,
     "href": "https://www.jbis.or.jp/horse/0001152403/",
     "sire": "ハーツクライ",
-    "gsire": "Machiavellian",
+    "dsire": "Machiavellian",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2735,7 +2746,7 @@
     "bmi": 174.8,
     "href": "https://www.jbis.or.jp/horse/0001208468/",
     "sire": "ロードカナロア",
-    "gsire": "Hard Spun",
+    "dsire": "Hard Spun",
     "mstn": ["CT","CC","CT"]
   },
   {
@@ -2746,7 +2757,7 @@
     "bmi": 175.5,
     "href": "https://www.pedigreequery.com/artiste+royal",
     "sire": "Danehill",
-    "gsire": "Manila",
+    "dsire": "Manila",
     "mstn": ["--","CC","--"]
   },
   {
@@ -2757,7 +2768,7 @@
     "bmi": 175.5,
     "href": "https://www.jbis.or.jp/horse/0001175196/",
     "sire": "キングカメハメハ",
-    "gsire": "Pivotal",
+    "dsire": "Pivotal",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2768,7 +2779,7 @@
     "bmi": 175.9,
     "href": "https://www.pedigreequery.com/vision+detat",
     "sire": "Chichicastenango",
-    "gsire": "Garde Royale",
+    "dsire": "Garde Royale",
     "mstn": ["--","--","--"]
   },
   {
@@ -2779,7 +2790,7 @@
     "bmi": 176.3,
     "href": "https://www.jbis.or.jp/horse/0000618798/",
     "sire": "フサイチコンコルド",
-    "gsire": "Allez Milord",
+    "dsire": "Allez Milord",
     "mstn": ["--","--","--"]
   },
   {
@@ -2790,7 +2801,7 @@
     "bmi": 177.0,
     "href": "https://www.jbis.or.jp/horse/0000759900/",
     "sire": "Rodrigo De Triano",
-    "gsire": "El Senor",
+    "dsire": "El Senor",
     "mstn": ["--","--","--"]
   },
   {
@@ -2801,7 +2812,7 @@
     "bmi": 177.0,
     "href": "https://www.jbis.or.jp/horse/0000882851/",
     "sire": "Coronados Quest",
-    "gsire": "Blushing Groom",
+    "dsire": "Blushing Groom",
     "mstn": ["--","--","--"]
   },
   {
@@ -2812,7 +2823,7 @@
     "bmi": 177.0,
     "href": "https://www.jbis.or.jp/horse/0000198919/",
     "sire": "ビゼンニシキ",
-    "gsire": "Never Beat",
+    "dsire": "Never Beat",
     "mstn": ["--","--","--"]
   },
   {
@@ -2823,7 +2834,7 @@
     "bmi": 177.8,
     "href": "https://www.jbis.or.jp/horse/0000249114/",
     "sire": "Brians Time",
-    "gsire": "Northern Dancer",
+    "dsire": "Northern Dancer",
     "mstn": ["--","--","CT"]
   },
   {
@@ -2834,7 +2845,7 @@
     "bmi": 178.5,
     "href": "https://www.pedigreequery.com/greys+inn",
     "sire": "Zabeel",
-    "gsire": "Christmas Tree",
+    "dsire": "Christmas Tree",
     "mstn": ["--","--","--"]
   },
   {
@@ -2845,7 +2856,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0000760831/",
     "sire": "エルコンドルパサー",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -2856,7 +2867,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0001050184/",
     "sire": "フジキセキ",
-    "gsire": "Mark Of Esteem",
+    "dsire": "Mark Of Esteem",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2867,7 +2878,7 @@
     "bmi": 178.9,
     "href": "https://www.jbis.or.jp/horse/0001221956/",
     "sire": "ダイワメジャー",
-    "gsire": "Medicean",
+    "dsire": "Medicean",
     "mstn": ["TT","CT","--"]
   },
   {
@@ -2878,7 +2889,7 @@
     "bmi": 179.3,
     "href": "https://www.jbis.or.jp/horse/0000611525/",
     "sire": "Brians Time",
-    "gsire": "Crystal Palace",
+    "dsire": "Crystal Palace",
     "mstn": ["--","--","--"]
   },
   {
@@ -2889,7 +2900,7 @@
     "bmi": 179.3,
     "href": "https://www.jbis.or.jp/horse/0000727032/",
     "sire": "タイキシャトル",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["CT","CT","CC"]
   },
   {
@@ -2900,7 +2911,7 @@
     "bmi": 179.6,
     "href": "https://www.jbis.or.jp/horse/0001233905/",
     "sire": "キングカメハメハ",
-    "gsire": "スペシャルウィーク",
+    "dsire": "スペシャルウィーク",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -2911,7 +2922,7 @@
     "bmi": 180.0,
     "href": "https://www.pedigreequery.com/muhtathir",
     "sire": "Elmaamul",
-    "gsire": "Al Nasr",
+    "dsire": "Al Nasr",
     "mstn": ["--","--","--"]
   },
   {
@@ -2922,7 +2933,7 @@
     "bmi": 180.0,
     "href": "https://www.pedigreequery.com/red+dubawi",
     "sire": "Dubawi",
-    "gsire": "Homme De Loi",
+    "dsire": "Homme De Loi",
     "mstn": ["--","CT","--"]
   },
   {
@@ -2933,7 +2944,7 @@
     "bmi": 180.4,
     "href": "https://www.pedigreequery.com/flintshire",
     "sire": "Dansili",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -2944,7 +2955,7 @@
     "bmi": 180.4,
     "href": "https://www.pedigreequery.com/protektor",
     "sire": "Acatenango",
-    "gsire": "Frontal",
+    "dsire": "Frontal",
     "mstn": ["--","--","--"]
   },
   {
@@ -2955,7 +2966,7 @@
     "bmi": 180.4,
     "href": "https://www.jbis.or.jp/horse/0001205475/",
     "sire": "シンボリクリスエス",
-    "gsire": "ネオユニヴァース",
+    "dsire": "ネオユニヴァース",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2966,7 +2977,7 @@
     "bmi": 180.7,
     "href": "https://www.jbis.or.jp/horse/0001221464/",
     "sire": "ディープインパクト",
-    "gsire": "Librettist",
+    "dsire": "Librettist",
     "mstn": ["--","TT","--"]
   },
   {
@@ -2977,7 +2988,7 @@
     "bmi": 181.5,
     "href": "https://www.pedigreequery.com/bago2",
     "sire": "Nashwan",
-    "gsire": "Nureyev",
+    "dsire": "Nureyev",
     "mstn": ["--","--","CC"]
   },
   {
@@ -2988,7 +2999,7 @@
     "bmi": 181.9,
     "href": "https://www.pedigreequery.com/egerton2",
     "sire": "Groom Dancer",
-    "gsire": "Niniski",
+    "dsire": "Niniski",
     "mstn": ["--","--","--"]
   },
   {
@@ -2999,7 +3010,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/romanised",
     "sire": "Holy Roman Emperor",
-    "gsire": "Indian Ridge",
+    "dsire": "Indian Ridge",
     "mstn": ["--","--","--"]
   },
   {
@@ -3010,7 +3021,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/the+autumn+sun",
     "sire": "Redoutes Choice",
-    "gsire": "Galileo",
+    "dsire": "Galileo",
     "mstn": ["--","CC","TT"]
   },
   {
@@ -3021,7 +3032,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001052586/",
     "sire": "Kings Best",
-    "gsire": "Platini",
+    "dsire": "Platini",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3032,7 +3043,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001138783/",
     "sire": "ハーツクライ",
-    "gsire": "タイキシャトル",
+    "dsire": "タイキシャトル",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -3043,7 +3054,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001051916/",
     "sire": "Forest Wildcat",
-    "gsire": "Cure The Blues",
+    "dsire": "Cure The Blues",
     "mstn": ["--","--","--"]
   },
   {
@@ -3054,7 +3065,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001241663/",
     "sire": "Scat Daddy",
-    "gsire": "Deputy Minister",
+    "dsire": "Deputy Minister",
     "mstn": ["--","--","--"]
   },
   {
@@ -3065,7 +3076,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001089850/",
     "sire": "キングカメハメハ",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["CC","CT","CC"]
   },
   {
@@ -3076,7 +3087,7 @@
     "bmi": 185.2,
     "href": "https://www.pedigreequery.com/elvstroem",
     "sire": "Danehill",
-    "gsire": "Marscay",
+    "dsire": "Marscay",
     "mstn": ["--","CC","--"]
   },
   {
@@ -3087,7 +3098,7 @@
     "bmi": 185.2,
     "href": "https://www.jbis.or.jp/horse/0000774786/",
     "sire": "Sunday Silence",
-    "gsire": "Mr Prospector",
+    "dsire": "Mr Prospector",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -3098,7 +3109,7 @@
     "bmi": 185.6,
     "href": "https://www.pedigreequery.com/paynter",
     "sire": "Awesome Again",
-    "gsire": "Cees Tizzy",
+    "dsire": "Cees Tizzy",
     "mstn": ["--","--","--"]
   },
   {
@@ -3109,7 +3120,7 @@
     "bmi": 185.6,
     "href": "https://www.pedigreequery.com/sabiango",
     "sire": "Acatenango",
-    "gsire": "Beaus Eagle",
+    "dsire": "Beaus Eagle",
     "mstn": ["--","--","--"]
   },
   {
@@ -3120,7 +3131,7 @@
     "bmi": 185.6,
     "href": "https://www.jbis.or.jp/horse/0001049453/",
     "sire": "Roses In May",
-    "gsire": "マイネルラヴ",
+    "dsire": "マイネルラヴ",
     "mstn": ["--","--","--"]
   },
   {
@@ -3131,7 +3142,7 @@
     "bmi": 185.6,
     "href": "https://www.jbis.or.jp/horse/0001203106/",
     "sire": "ヴァーミリアン",
-    "gsire": "クロフネ",
+    "dsire": "クロフネ",
     "mstn": ["--","--","CT"]
   },
   {
@@ -3142,7 +3153,7 @@
     "bmi": 186.3,
     "href": "https://www.pedigreequery.com/sweet+orange3",
     "sire": "War Front",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["--","--","--"]
   },
   {
@@ -3153,7 +3164,7 @@
     "bmi": 186.3,
     "href": "https://www.jbis.or.jp/horse/0001228749/",
     "sire": "Kittens Joy",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -3164,7 +3175,7 @@
     "bmi": 186.7,
     "href": "https://www.jbis.or.jp/horse/0000321318/",
     "sire": "Miswaki",
-    "gsire": "Caerleon",
+    "dsire": "Caerleon",
     "mstn": ["--","--","--"]
   },
   {
@@ -3175,7 +3186,7 @@
     "bmi": 187.1,
     "href": "https://www.pedigreequery.com/frankel3",
     "sire": "Galileo",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -3186,7 +3197,7 @@
     "bmi": 187.4,
     "href": "https://www.jbis.or.jp/horse/0001106251/",
     "sire": "ハーツクライ",
-    "gsire": "Wild Again",
+    "dsire": "Wild Again",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -3197,7 +3208,7 @@
     "bmi": 187.4,
     "href": "https://www.jbis.or.jp/horse/0001168238/",
     "sire": "ダノンシャンティ",
-    "gsire": "Alzao",
+    "dsire": "Alzao",
     "mstn": ["--","--","--"]
   },
   {
@@ -3208,7 +3219,7 @@
     "bmi": 188.2,
     "href": "https://www.jbis.or.jp/horse/0000061253/",
     "sire": "Tesco Boy",
-    "gsire": "Your Host",
+    "dsire": "Your Host",
     "mstn": ["--","--","--"]
   },
   {
@@ -3219,7 +3230,7 @@
     "bmi": 188.2,
     "href": "https://www.jbis.or.jp/horse/0000763904/",
     "sire": "Wild Rush",
-    "gsire": "Alydar",
+    "dsire": "Alydar",
     "mstn": ["--","--","--"]
   },
   {
@@ -3230,7 +3241,7 @@
     "bmi": 188.6,
     "href": "https://www.jbis.or.jp/horse/0001107477/",
     "sire": "キングカメハメハ",
-    "gsire": "Cherokee Run",
+    "dsire": "Cherokee Run",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3241,7 +3252,7 @@
     "bmi": 188.9,
     "href": "https://www.pedigreequery.com/seattle+slew",
     "sire": "Bold Reasoning",
-    "gsire": "Poker",
+    "dsire": "Poker",
     "mstn": ["--","--","--"]
   },
   {
@@ -3252,7 +3263,7 @@
     "bmi": 189.3,
     "href": "https://www.pedigreequery.com/powerscourt4",
     "sire": "Sadlers Wells",
-    "gsire": "Rainbow Quest",
+    "dsire": "Rainbow Quest",
     "mstn": ["--","TT","--"]
   },
   {
@@ -3263,8 +3274,19 @@
     "bmi": 189.7,
     "href": "https://www.pedigreequery.com/saxon+warrior7",
     "sire": "ディープインパクト",
-    "gsire": "Galileo",
+    "dsire": "Galileo",
     "mstn": ["--","TT","TT"]
+  },
+  {
+    "name": "ドウデュース",
+    "year": 2019,
+    "hh": 164,
+    "wt": 510,
+    "bmi": 189.7,
+    "href": "https://www.jbis.or.jp/horse/0001312226/",
+    "sire": "ハーツクライ",
+    "dsire": "Vindication",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "ダンシングプリンス",
@@ -3274,7 +3296,7 @@
     "bmi": 190.7,
     "href": "https://www.jbis.or.jp/horse/0001215803/",
     "sire": "パドトロワ",
-    "gsire": "バブルガムフェロー",
+    "dsire": "バブルガムフェロー",
     "mstn": ["--","--","--"]
   },
   {
@@ -3285,7 +3307,7 @@
     "bmi": 191.5,
     "href": "https://www.pedigreequery.com/spanish+moon4",
     "sire": "El Prado",
-    "gsire": "Rainbow Quest",
+    "dsire": "Rainbow Quest",
     "mstn": ["--","--","--"]
   },
   {
@@ -3296,7 +3318,7 @@
     "bmi": 191.9,
     "href": "https://www.pedigreequery.com/ramonti",
     "sire": "Martino Alonso",
-    "gsire": "El Gran Senor",
+    "dsire": "El Gran Senor",
     "mstn": ["--","--","--"]
   },
   {
@@ -3307,7 +3329,7 @@
     "bmi": 191.9,
     "href": "https://www.jbis.or.jp/horse/0001190850/",
     "sire": "ルーラーシップ",
-    "gsire": "ディープインパクト",
+    "dsire": "ディープインパクト",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -3318,7 +3340,7 @@
     "bmi": 194.1,
     "href": "https://www.jbis.or.jp/horse/0001314504/",
     "sire": "American Pharoah",
-    "gsire": "More Than Ready",
+    "dsire": "More Than Ready",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -3329,7 +3351,7 @@
     "bmi": 194.9,
     "href": "https://www.jbis.or.jp/horse/0001189892/",
     "sire": "Came Home",
-    "gsire": "Northern Afleet",
+    "dsire": "Northern Afleet",
     "mstn": ["--","--","CC"]
   },
   {
@@ -3340,7 +3362,7 @@
     "bmi": 195.6,
     "href": "https://www.jbis.or.jp/horse/0001190059/",
     "sire": "ハーツクライ",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -3351,7 +3373,7 @@
     "bmi": 197.8,
     "href": "https://www.jbis.or.jp/horse/0001295861/",
     "sire": "No Nay Never",
-    "gsire": "High Chaparral",
+    "dsire": "High Chaparral",
     "mstn": ["--","--","CT"]
   },
   {
@@ -3362,7 +3384,7 @@
     "bmi": 200.8,
     "href": "https://www.pedigreequery.com/invincible+army",
     "sire": "Invincible Spirit",
-    "gsire": "Diktat",
+    "dsire": "Diktat",
     "mstn": ["--","--","--"]
   },
   {
@@ -3373,7 +3395,7 @@
     "bmi": 203.1,
     "href": "https://www.pedigreequery.com/falbrav",
     "sire": "Fairy King",
-    "gsire": "Slewpy",
+    "dsire": "Slewpy",
     "mstn": ["--","--","--"]
   },
   {
@@ -3384,7 +3406,7 @@
     "bmi": 203.1,
     "href": "https://www.pedigreequery.com/commands",
     "sire": "Danehill",
-    "gsire": "My Swanee",
+    "dsire": "My Swanee",
     "mstn": ["--","CC","--"]
   },
   {
@@ -3395,7 +3417,7 @@
     "bmi": 209.0,
     "href": "https://www.pedigreequery.com/delhi2",
     "sire": "Ben Brush",
-    "gsire": "Mortemer",
+    "dsire": "Mortemer",
     "mstn": ["--","--","--"]
   },
   {
@@ -3406,7 +3428,7 @@
     "bmi": 155.1,
     "href": "https://www.pedigreequery.com/special+kaldoun",
     "sire": "Alzao",
-    "gsire": "Kaldoun",
+    "dsire": "Kaldoun",
     "mstn": ["--","--","--"]
   },
   {
@@ -3417,7 +3439,7 @@
     "bmi": 156.5,
     "href": "https://www.pedigreequery.com/tiger+groom2",
     "sire": "Arazi",
-    "gsire": "Ela-mana-mou",
+    "dsire": "Ela-mana-mou",
     "mstn": ["--","--","--"]
   },
   {
@@ -3428,7 +3450,7 @@
     "bmi": 162.0,
     "href": "https://www.pedigreequery.com/carry+back",
     "sire": "Saggy",
-    "gsire": "Star Blen",
+    "dsire": "Star Blen",
     "mstn": ["--","--","--"]
   },
   {
@@ -3439,7 +3461,7 @@
     "bmi": 162.4,
     "href": "https://www.pedigreequery.com/mondialiste",
     "sire": "Galileo",
-    "gsire": "Kaldoun",
+    "dsire": "Kaldoun",
     "mstn": ["--","TT","--"]
   },
   {
@@ -3450,7 +3472,7 @@
     "bmi": 162.8,
     "href": "https://www.pedigreequery.com/treasure+beach3",
     "sire": "Galileo",
-    "gsire": "Mark Of Esteem",
+    "dsire": "Mark Of Esteem",
     "mstn": ["--","TT","--"]
   },
   {
@@ -3461,7 +3483,7 @@
     "bmi": 163.5,
     "href": "https://www.pedigreequery.com/dalakhani",
     "sire": "Darshaan",
-    "gsire": "Miswaki",
+    "dsire": "Miswaki",
     "mstn": ["CT","--","--"]
   },
   {
@@ -3472,7 +3494,7 @@
     "bmi": 163.9,
     "href": "https://www.pedigreequery.com/high-rise",
     "sire": "High Estate",
-    "gsire": "High Line",
+    "dsire": "High Line",
     "mstn": ["--","--","--"]
   },
   {
@@ -3483,7 +3505,7 @@
     "bmi": 166.8,
     "href": "https://www.pedigreequery.com/affirmed",
     "sire": "Exclusive Native",
-    "gsire": "Crafty Admiral",
+    "dsire": "Crafty Admiral",
     "mstn": ["--","--","--"]
   },
   {
@@ -3494,7 +3516,7 @@
     "bmi": 166.8,
     "href": "https://www.pedigreequery.com/policy+maker",
     "sire": "Sadlers Wells",
-    "gsire": "Lear Fan",
+    "dsire": "Lear Fan",
     "mstn": ["--","TT","--"]
   },
   {
@@ -3505,7 +3527,7 @@
     "bmi": 167.1,
     "href": "https://www.pedigreequery.com/alleged",
     "sire": "Hoist The Flag",
-    "gsire": "Prince John",
+    "dsire": "Prince John",
     "mstn": ["--","--","--"]
   },
   {
@@ -3516,7 +3538,7 @@
     "bmi": 167.5,
     "href": "https://www.pedigreequery.com/alysheba",
     "sire": "Alyder",
-    "gsire": "Lt Stevens",
+    "dsire": "Lt Stevens",
     "mstn": ["--","--","--"]
   },
   {
@@ -3527,7 +3549,7 @@
     "bmi": 168.3,
     "href": "https://www.jbis.or.jp/horse/0000255813/",
     "sire": "Brians Time",
-    "gsire": "Blushing Groom",
+    "dsire": "Blushing Groom",
     "mstn": ["--","--","--"]
   },
   {
@@ -3538,7 +3560,7 @@
     "bmi": 168.6,
     "href": "https://www.pedigreequery.com/snow+sky2",
     "sire": "Nayef",
-    "gsire": "Dansili",
+    "dsire": "Dansili",
     "mstn": ["--","--","CT"]
   },
   {
@@ -3549,7 +3571,7 @@
     "bmi": 169.0,
     "href": "https://www.pedigreequery.com/chief+bearhart",
     "sire": "Chiefs Crown",
-    "gsire": "Bold Hour",
+    "dsire": "Bold Hour",
     "mstn": ["--","--","--"]
   },
   {
@@ -3560,7 +3582,7 @@
     "bmi": 169.0,
     "href": "https://www.pedigreequery.com/golden+snake",
     "sire": "Danzig",
-    "gsire": "High Line",
+    "dsire": "High Line",
     "mstn": ["CT","CC","--"]
   },
   {
@@ -3571,7 +3593,7 @@
     "bmi": 169.4,
     "href": "https://www.pedigreequery.com/cannock+chase",
     "sire": "Lemon Drop Kid",
-    "gsire": "Horse Chestnut",
+    "dsire": "Horse Chestnut",
     "mstn": ["--","--","--"]
   },
   {
@@ -3582,7 +3604,7 @@
     "bmi": 169.7,
     "href": "https://www.pedigreequery.com/storming+home",
     "sire": "Machiavellian",
-    "gsire": "Shareef Dancer",
+    "dsire": "Shareef Dancer",
     "mstn": ["--","--","--"]
   },
   {
@@ -3593,7 +3615,7 @@
     "bmi": 169.7,
     "href": "https://www.jbis.or.jp/horse/0001096885/",
     "sire": "ディープインパクト",
-    "gsire": "Lycius",
+    "dsire": "Lycius",
     "mstn": ["--","TT","--"]
   },
   {
@@ -3604,7 +3626,7 @@
     "bmi": 170.1,
     "href": "https://www.pedigreequery.com/pyledriver",
     "sire": "Harbour Watch",
-    "gsire": "Le Havre",
+    "dsire": "Le Havre",
     "mstn": ["--","--","--"]
   },
   {
@@ -3615,7 +3637,7 @@
     "bmi": 171.6,
     "href": "https://www.pedigreequery.com/bow+creek2",
     "sire": "Shamardal",
-    "gsire": "Most Welcome",
+    "dsire": "Most Welcome",
     "mstn": ["--","--","--"]
   },
   {
@@ -3626,7 +3648,7 @@
     "bmi": 172.7,
     "href": "https://www.jbis.or.jp/horse/0001173702/",
     "sire": "アドマイヤムーン",
-    "gsire": "Mark Of Esteem",
+    "dsire": "Mark Of Esteem",
     "mstn": ["--","--","--"]
   },
   {
@@ -3637,7 +3659,7 @@
     "bmi": 173.4,
     "href": "https://www.jbis.or.jp/horse/0000722529/",
     "sire": "Sunday Silence",
-    "gsire": "Mr Prospector",
+    "dsire": "Mr Prospector",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -3648,7 +3670,7 @@
     "bmi": 173.4,
     "href": "https://www.pedigreequery.com/halicarnassus",
     "sire": "Cape Cross",
-    "gsire": "Relaunch",
+    "dsire": "Relaunch",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3659,7 +3681,7 @@
     "bmi": 173.4,
     "href": "https://www.pedigreequery.com/hawkster",
     "sire": "Silver Hawk",
-    "gsire": "Chieftain",
+    "dsire": "Chieftain",
     "mstn": ["--","--","--"]
   },
   {
@@ -3670,7 +3692,7 @@
     "bmi": 173.8,
     "href": "https://www.pedigreequery.com/grandera",
     "sire": "Grand Lodge",
-    "gsire": "Alysheba",
+    "dsire": "Alysheba",
     "mstn": ["--","--","--"]
   },
   {
@@ -3681,7 +3703,7 @@
     "bmi": 173.8,
     "href": "https://www.pedigreequery.com/loup+breton",
     "sire": "Anabaa",
-    "gsire": "Irish River",
+    "dsire": "Irish River",
     "mstn": ["--","--","--"]
   },
   {
@@ -3692,7 +3714,7 @@
     "bmi": 173.8,
     "href": "https://www.pedigreequery.com/robin+of+navan",
     "sire": "American Post",
-    "gsire": "Muhtathir",
+    "dsire": "Muhtathir",
     "mstn": ["--","--","--"]
   },
   {
@@ -3703,7 +3725,7 @@
     "bmi": 174.2,
     "href": "https://www.pedigreequery.com/right+approach2",
     "sire": "Machiavellian",
-    "gsire": "Shadeed",
+    "dsire": "Shadeed",
     "mstn": ["CT","--","--"]
   },
   {
@@ -3714,7 +3736,7 @@
     "bmi": 174.9,
     "href": "https://www.pedigreequery.com/bimelech",
     "sire": "Black Toney",
-    "gsire": "Teddy",
+    "dsire": "Teddy",
     "mstn": ["--","--","--"]
   },
   {
@@ -3725,7 +3747,7 @@
     "bmi": 174.9,
     "href": "https://www.pedigreequery.com/orb7",
     "sire": "Malibu Moon",
-    "gsire": "Unbridled",
+    "dsire": "Unbridled",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3736,7 +3758,7 @@
     "bmi": 175.6,
     "href": "https://www.pedigreequery.com/lando",
     "sire": "Acatenango",
-    "gsire": "Sharpman",
+    "dsire": "Sharpman",
     "mstn": ["--","--","--"]
   },
   {
@@ -3747,7 +3769,7 @@
     "bmi": 175.6,
     "href": "https://www.jbis.or.jp/horse/0001188418/",
     "sire": "トーセンホマレボシ",
-    "gsire": "ジャングルポケット",
+    "dsire": "ジャングルポケット",
     "mstn": ["--","--","--"]
   },
   {
@@ -3758,7 +3780,7 @@
     "bmi": 176.4,
     "href": "https://www.jbis.or.jp/horse/0000760877/",
     "sire": "End Sweep",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -3769,7 +3791,7 @@
     "bmi": 176.4,
     "href": "https://www.jbis.or.jp/horse/0001157747/",
     "sire": "ディープインパクト",
-    "gsire": "Unusual Heat",
+    "dsire": "Unusual Heat",
     "mstn": ["--","TT","--"]
   },
   {
@@ -3780,7 +3802,7 @@
     "bmi": 176.4,
     "href": "https://www.jbis.or.jp/horse/0000991898/",
     "sire": "ジャングルポケット",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","--","CC"]
   },
   {
@@ -3791,7 +3813,7 @@
     "bmi": 176.7,
     "href": "https://www.pedigreequery.com/bien+bien",
     "sire": "Manila",
-    "gsire": "Graustark",
+    "dsire": "Graustark",
     "mstn": ["--","--","--"]
   },
   {
@@ -3802,7 +3824,7 @@
     "bmi": 177.1,
     "href": "https://www.pedigreequery.com/japan14",
     "sire": "Galileo",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -3813,7 +3835,7 @@
     "bmi": 177.1,
     "href": "https://www.pedigreequery.com/slade+power",
     "sire": "Dutch Art",
-    "gsire": "Key Of Luck",
+    "dsire": "Key Of Luck",
     "mstn": ["--","--","--"]
   },
   {
@@ -3824,7 +3846,7 @@
     "bmi": 177.1,
     "href": "https://www.jbis.or.jp/horse/0001218645/",
     "sire": "ディープインパクト",
-    "gsire": "Acatenango",
+    "dsire": "Acatenango",
     "mstn": ["--","TT","--"]
   },
   {
@@ -3835,7 +3857,7 @@
     "bmi": 177.8,
     "href": "https://www.pedigreequery.com/laverock3",
     "sire": "Octagonal",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -3846,7 +3868,7 @@
     "bmi": 178.2,
     "href": "https://www.pedigreequery.com/cityscape",
     "sire": "Selkirk",
-    "gsire": "Distant View",
+    "dsire": "Distant View",
     "mstn": ["--","--","--"]
   },
   {
@@ -3857,7 +3879,7 @@
     "bmi": 178.2,
     "href": "https://www.pedigreequery.com/durban+thunder2",
     "sire": "Samum",
-    "gsire": "Highland Chieftain",
+    "dsire": "Highland Chieftain",
     "mstn": ["--","--","--"]
   },
   {
@@ -3868,7 +3890,7 @@
     "bmi": 178.2,
     "href": "https://www.pedigreequery.com/elliptique",
     "sire": "New Approach",
-    "gsire": "Kendor",
+    "dsire": "Kendor",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3879,7 +3901,7 @@
     "bmi": 178.2,
     "href": "https://www.pedigreequery.com/jimmy+choux",
     "sire": "Thorn Park",
-    "gsire": "Centaine",
+    "dsire": "Centaine",
     "mstn": ["--","--","--"]
   },
   {
@@ -3890,7 +3912,7 @@
     "bmi": 178.2,
     "href": "https://www.pedigreequery.com/shamalgan",
     "sire": "Footstepsinthesand",
-    "gsire": "Unfuwain",
+    "dsire": "Unfuwain",
     "mstn": ["--","--","--"]
   },
   {
@@ -3901,7 +3923,7 @@
     "bmi": 178.2,
     "href": "https://www.jbis.or.jp/horse/0001141375/",
     "sire": "ディープインパクト",
-    "gsire": "クロフネ",
+    "dsire": "クロフネ",
     "mstn": ["--","TT","CT"]
   },
   {
@@ -3912,7 +3934,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0001205873/",
     "sire": "ディープインパクト",
-    "gsire": "Smarty Jones",
+    "dsire": "Smarty Jones",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -3923,7 +3945,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0000140567/",
     "sire": "Partholon",
-    "gsire": "スピードシンボリ",
+    "dsire": "スピードシンボリ",
     "mstn": ["--","--","--"]
   },
   {
@@ -3934,7 +3956,7 @@
     "bmi": 178.9,
     "href": "https://www.pedigreequery.com/youmzain",
     "sire": "Sinndar",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -3945,7 +3967,7 @@
     "bmi": 179.3,
     "href": "https://www.pedigreequery.com/dandino2",
     "sire": "Dansili",
-    "gsire": "Generous",
+    "dsire": "Generous",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3956,7 +3978,7 @@
     "bmi": 179.3,
     "href": "https://www.pedigreequery.com/jeune",
     "sire": "Kalaglow",
-    "gsire": "Green Dancer",
+    "dsire": "Green Dancer",
     "mstn": ["--","--","--"]
   },
   {
@@ -3967,7 +3989,7 @@
     "bmi": 179.3,
     "href": "https://www.jbis.or.jp/horse/0000294840/",
     "sire": "Dancing Brave",
-    "gsire": "Halo",
+    "dsire": "Halo",
     "mstn": ["--","--","--"]
   },
   {
@@ -3978,7 +4000,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0001203083/",
     "sire": "オルフェーヴル",
-    "gsire": "Forty Niner",
+    "dsire": "Forty Niner",
     "mstn": ["--","CT","--"]
   },
   {
@@ -3989,7 +4011,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0000702412/",
     "sire": "Sunday Silence",
-    "gsire": "マルゼンスキー",
+    "dsire": "マルゼンスキー",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4000,7 +4022,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0000725727/",
     "sire": "Sunday Silence",
-    "gsire": "Kingmambo",
+    "dsire": "Kingmambo",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -4011,7 +4033,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0001157776/",
     "sire": "ディープインパクト",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -4022,7 +4044,7 @@
     "bmi": 180.4,
     "href": "https://www.pedigreequery.com/criterion8",
     "sire": "Sebring",
-    "gsire": "Bite The Bullet",
+    "dsire": "Bite The Bullet",
     "mstn": ["TT","CT","--"]
   },
   {
@@ -4033,7 +4055,7 @@
     "bmi": 180.4,
     "href": "https://www.pedigreequery.com/harbinger11",
     "sire": "Dansili",
-    "gsire": "Bering",
+    "dsire": "Bering",
     "mstn": ["TT","CT","--"]
   },
   {
@@ -4044,7 +4066,7 @@
     "bmi": 180.4,
     "href": "https://www.pedigreequery.com/highland+reel8",
     "sire": "Galileo",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -4055,7 +4077,7 @@
     "bmi": 180.8,
     "href": "https://www.pedigreequery.com/quest+for+fame",
     "sire": "Rainbow Quest",
-    "gsire": "Green Dancer",
+    "dsire": "Green Dancer",
     "mstn": ["--","--","--"]
   },
   {
@@ -4066,7 +4088,7 @@
     "bmi": 180.8,
     "href": "https://www.pedigreequery.com/tiz+the+law",
     "sire": "Constitution",
-    "gsire": "Tiznow",
+    "dsire": "Tiznow",
     "mstn": ["--","--","CT"]
   },
   {
@@ -4077,7 +4099,7 @@
     "bmi": 180.8,
     "href": "https://www.jbis.or.jp/horse/0000324933/",
     "sire": "Sunday Silence",
-    "gsire": "Royal Ski",
+    "dsire": "Royal Ski",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4088,7 +4110,7 @@
     "bmi": 180.8,
     "href": "https://www.jbis.or.jp/horse/0000329953/",
     "sire": "Sunday Silence",
-    "gsire": "Brians Time",
+    "dsire": "Brians Time",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4099,7 +4121,7 @@
     "bmi": 181.5,
     "href": "https://www.pedigreequery.com/dream+eater",
     "sire": "Night Shift",
-    "gsire": "Simon Du Desert",
+    "dsire": "Simon Du Desert",
     "mstn": ["--","--","--"]
   },
   {
@@ -4110,7 +4132,7 @@
     "bmi": 181.8,
     "href": "https://www.jbis.or.jp/horse/0000325213/",
     "sire": "Sunday Silence",
-    "gsire": "Danzig",
+    "dsire": "Danzig",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -4121,7 +4143,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/hvasstan",
     "sire": "Fastnet Rock",
-    "gsire": "True Hero",
+    "dsire": "True Hero",
     "mstn": ["--","--","--"]
   },
   {
@@ -4132,7 +4154,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/fruits+of+love",
     "sire": "Hansel",
-    "gsire": "Secretariat",
+    "dsire": "Secretariat",
     "mstn": ["--","--","CT"]
   },
   {
@@ -4143,7 +4165,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/pavel",
     "sire": "Creative Cause",
-    "gsire": "Marias Mon",
+    "dsire": "Marias Mon",
     "mstn": ["--","--","--"]
   },
   {
@@ -4154,7 +4176,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/sakhee",
     "sire": "Bahri",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -4165,7 +4187,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001110554/",
     "sire": "ディープインパクト",
-    "gsire": "Loup Sauvage",
+    "dsire": "Loup Sauvage",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -4176,7 +4198,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001094558/",
     "sire": "タニノギムレット",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -4187,7 +4209,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001151314/",
     "sire": "キングカメハメハ",
-    "gsire": "Highest Honor",
+    "dsire": "Highest Honor",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4198,7 +4220,7 @@
     "bmi": 182.6,
     "href": "https://www.pedigreequery.com/electronic+zone",
     "sire": "Rahy",
-    "gsire": "Prince John",
+    "dsire": "Prince John",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4209,7 +4231,7 @@
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0000760700/",
     "sire": "Sunday Silence",
-    "gsire": "Polish Precedent",
+    "dsire": "Polish Precedent",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4220,7 +4242,7 @@
     "bmi": 183.0,
     "href": "https://www.pedigreequery.com/tiger+hill",
     "sire": "Danehill",
-    "gsire": "Appiani",
+    "dsire": "Appiani",
     "mstn": ["CT","CC","--"]
   },
   {
@@ -4231,7 +4253,7 @@
     "bmi": 183.3,
     "href": "https://www.pedigreequery.com/eminent17",
     "sire": "Frankel",
-    "gsire": "Kingmambo",
+    "dsire": "Kingmambo",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -4242,7 +4264,7 @@
     "bmi": 183.3,
     "href": "https://www.pedigreequery.com/quadrangle",
     "sire": "Cohoes",
-    "gsire": "Bull Lea",
+    "dsire": "Bull Lea",
     "mstn": ["--","--","--"]
   },
   {
@@ -4253,7 +4275,7 @@
     "bmi": 183.7,
     "href": "https://www.pedigreequery.com/tapiture",
     "sire": "Tapit",
-    "gsire": "Olympio",
+    "dsire": "Olympio",
     "mstn": ["CT","--","--"]
   },
   {
@@ -4264,7 +4286,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0000333076/",
     "sire": "Diolite",
-    "gsire": "Flamboyant",
+    "dsire": "Flamboyant",
     "mstn": ["--","--","--"]
   },
   {
@@ -4275,7 +4297,7 @@
     "bmi": 184.4,
     "href": "https://www.jbis.or.jp/horse/0001137511/",
     "sire": "ディープインパクト",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -4286,7 +4308,7 @@
     "bmi": 184.4,
     "href": "https://www.jbis.or.jp/horse/0001178407/",
     "sire": "Bernardini",
-    "gsire": "Lemon Drop Kid",
+    "dsire": "Lemon Drop Kid",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4297,7 +4319,7 @@
     "bmi": 184.8,
     "href": "https://www.pedigreequery.com/sugarfoot",
     "sire": "Thatching",
-    "gsire": "Northfields",
+    "dsire": "Northfields",
     "mstn": ["--","--","--"]
   },
   {
@@ -4308,7 +4330,7 @@
     "bmi": 185.2,
     "href": "https://www.pedigreequery.com/aldebaran",
     "sire": "Mr Prospector",
-    "gsire": "Private Account",
+    "dsire": "Private Account",
     "mstn": ["--","CC","--"]
   },
   {
@@ -4319,7 +4341,7 @@
     "bmi": 185.2,
     "href": "https://www.pedigreequery.com/carroll+house",
     "sire": "Lord Gayle",
-    "gsire": "Silver Shark",
+    "dsire": "Silver Shark",
     "mstn": ["--","--","--"]
   },
   {
@@ -4330,7 +4352,7 @@
     "bmi": 185.5,
     "href": "https://www.pedigreequery.com/lancaster+bomber2",
     "sire": "War Front",
-    "gsire": "Indian Ridge",
+    "dsire": "Indian Ridge",
     "mstn": ["--","--","--"]
   },
   {
@@ -4341,7 +4363,7 @@
     "bmi": 185.5,
     "href": "https://www.pedigreequery.com/planteur",
     "sire": "Danehill Dancer",
-    "gsire": "Giants Causeway",
+    "dsire": "Giants Causeway",
     "mstn": ["--","--","CT"]
   },
   {
@@ -4352,7 +4374,7 @@
     "bmi": 185.5,
     "href": "https://www.pedigreequery.com/vercingetorix7",
     "sire": "Silvano",
-    "gsire": "National Assembly",
+    "dsire": "National Assembly",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4363,7 +4385,7 @@
     "bmi": 185.9,
     "href": "https://www.pedigreequery.com/dolphin+street",
     "sire": "Bluebird",
-    "gsire": "Irish River",
+    "dsire": "Irish River",
     "mstn": ["--","--","--"]
   },
   {
@@ -4374,7 +4396,7 @@
     "bmi": 185.9,
     "href": "https://www.pedigreequery.com/inns+of+court2",
     "sire": "Invincible Spirit",
-    "gsire": "Seeking The Gold",
+    "dsire": "Seeking The Gold",
     "mstn": ["--","--","CC"]
   },
   {
@@ -4385,7 +4407,7 @@
     "bmi": 185.9,
     "href": "https://www.jbis.or.jp/horse/0000881793/",
     "sire": "ゴールドアリュール",
-    "gsire": "Mississipian",
+    "dsire": "Mississipian",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4396,7 +4418,7 @@
     "bmi": 186.6,
     "href": "https://www.pedigreequery.com/joshua+tree3",
     "sire": "Montjeu",
-    "gsire": "Grand Lodge",
+    "dsire": "Grand Lodge",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4407,7 +4429,7 @@
     "bmi": 186.6,
     "href": "https://www.pedigreequery.com/variety+club",
     "sire": "Var",
-    "gsire": "Secret Prospector",
+    "dsire": "Secret Prospector",
     "mstn": ["--","--","--"]
   },
   {
@@ -4418,7 +4440,7 @@
     "bmi": 186.6,
     "href": "https://www.jbis.or.jp/horse/0001217150/",
     "sire": "Henny Hughes",
-    "gsire": "グラスワンダー",
+    "dsire": "グラスワンダー",
     "mstn": ["--","CC","--"]
   },
   {
@@ -4429,7 +4451,7 @@
     "bmi": 186.6,
     "href": "https://www.jbis.or.jp/horse/0000326916/",
     "sire": "Sunday Silence",
-    "gsire": "Tony Bin",
+    "dsire": "Tony Bin",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4440,7 +4462,7 @@
     "bmi": 187.0,
     "href": "https://www.pedigreequery.com/paolini",
     "sire": "Lando",
-    "gsire": "Stanford",
+    "dsire": "Stanford",
     "mstn": ["--","--","--"]
   },
   {
@@ -4451,7 +4473,7 @@
     "bmi": 187.4,
     "href": "https://www.pedigreequery.com/artan",
     "sire": "Be My Native",
-    "gsire": "Tower Walk",
+    "dsire": "Tower Walk",
     "mstn": ["--","--","--"]
   },
   {
@@ -4462,7 +4484,7 @@
     "bmi": 187.4,
     "href": "https://www.jbis.or.jp/horse/0001208294/",
     "sire": "ディープインパクト",
-    "gsire": "Intikhab",
+    "dsire": "Intikhab",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -4473,7 +4495,7 @@
     "bmi": 187.4,
     "href": "https://www.jbis.or.jp/horse/0001171707/",
     "sire": "ディープインパクト",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4484,7 +4506,7 @@
     "bmi": 187.4,
     "href": "https://www.jbis.or.jp/horse/0001101689/",
     "sire": "ディープインパクト",
-    "gsire": "ニホンピロウイナー",
+    "dsire": "ニホンピロウイナー",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4495,7 +4517,7 @@
     "bmi": 188.1,
     "href": "https://www.jbis.or.jp/horse/0001133915/",
     "sire": "ネオユニヴァース",
-    "gsire": "Meadowlake",
+    "dsire": "Meadowlake",
     "mstn": ["--","--","--"]
   },
   {
@@ -4506,7 +4528,7 @@
     "bmi": 188.8,
     "href": "https://www.pedigreequery.com/pure+champion",
     "sire": "Footstepsinthesand",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["--","--","CC"]
   },
   {
@@ -4517,7 +4539,7 @@
     "bmi": 188.8,
     "href": "https://www.jbis.or.jp/horse/0001127268/",
     "sire": "Medaglia Doro",
-    "gsire": "Afleet",
+    "dsire": "Afleet",
     "mstn": ["--","--","--"]
   },
   {
@@ -4528,7 +4550,7 @@
     "bmi": 189.2,
     "href": "https://www.pedigreequery.com/americain",
     "sire": "Dynaformer",
-    "gsire": "Arazi",
+    "dsire": "Arazi",
     "mstn": ["--","--","--"]
   },
   {
@@ -4539,7 +4561,7 @@
     "bmi": 189.2,
     "href": "https://www.pedigreequery.com/major+cadeaux",
     "sire": "Cadeaux Genereux",
-    "gsire": "Woodman",
+    "dsire": "Woodman",
     "mstn": ["CC","--","--"]
   },
   {
@@ -4550,7 +4572,7 @@
     "bmi": 189.2,
     "href": "https://www.jbis.or.jp/horse/0001186327/",
     "sire": "ゴールドアリュール",
-    "gsire": "Carnegie",
+    "dsire": "Carnegie",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4561,7 +4583,7 @@
     "bmi": 189.6,
     "href": "https://www.pedigreequery.com/blue+point7",
     "sire": "Shamardal",
-    "gsire": "Royal Applause",
+    "dsire": "Royal Applause",
     "mstn": ["--","--","--"]
   },
   {
@@ -4572,7 +4594,7 @@
     "bmi": 189.6,
     "href": "https://www.jbis.or.jp/horse/0000891931/",
     "sire": "アグネスタキオン",
-    "gsire": "Chiefs Crown",
+    "dsire": "Chiefs Crown",
     "mstn": ["--","--","--"]
   },
   {
@@ -4583,7 +4605,7 @@
     "bmi": 189.6,
     "href": "https://www.jbis.or.jp/horse/0001153870/",
     "sire": "アドマイヤオーラ",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","--","--"]
   },
   {
@@ -4594,7 +4616,7 @@
     "bmi": 189.6,
     "href": "https://www.jbis.or.jp/horse/0001088812/",
     "sire": "ディープインパクト",
-    "gsire": "Meadowlake",
+    "dsire": "Meadowlake",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -4605,7 +4627,7 @@
     "bmi": 189.9,
     "href": "https://www.jbis.or.jp/horse/0001030158/",
     "sire": "Kings Best",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -4616,7 +4638,7 @@
     "bmi": 189.9,
     "href": "https://www.pedigreequery.com/sri+putra",
     "sire": "Oasis Dream",
-    "gsire": "In The Wings",
+    "dsire": "In The Wings",
     "mstn": ["--","--","--"]
   },
   {
@@ -4627,7 +4649,7 @@
     "bmi": 189.9,
     "href": "https://www.jbis.or.jp/horse/0001163175/",
     "sire": "Majestic Warrior",
-    "gsire": "Mr Greeley",
+    "dsire": "Mr Greeley",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4638,7 +4660,7 @@
     "bmi": 190.3,
     "href": "https://www.jbis.or.jp/horse/0001229475/",
     "sire": "Majestic Warrior",
-    "gsire": "フジキセキ",
+    "dsire": "フジキセキ",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -4649,7 +4671,7 @@
     "bmi": 191.1,
     "href": "https://www.jbis.or.jp/horse/0000760084/",
     "sire": "Opera House",
-    "gsire": "Dancing Brave",
+    "dsire": "Dancing Brave",
     "mstn": ["--","--","--"]
   },
   {
@@ -4660,7 +4682,7 @@
     "bmi": 191.8,
     "href": "https://www.jbis.or.jp/horse/0001187218/",
     "sire": "シンボリクリスエス",
-    "gsire": "スペシャルウィーク",
+    "dsire": "スペシャルウィーク",
     "mstn": ["--","TT","TT"]
   },
   {
@@ -4671,7 +4693,7 @@
     "bmi": 192.1,
     "href": "https://www.pedigreequery.com/show+a+heart",
     "sire": "Brave Warrior",
-    "gsire": "Regal Advice",
+    "dsire": "Regal Advice",
     "mstn": ["--","--","--"]
   },
   {
@@ -4681,7 +4703,7 @@
     "wt": 523,
     "bmi": 192.1,
     "sire": "Galileo",
-    "gsire": "Pivotal",
+    "dsire": "Pivotal",
     "href": "https://www.pedigreequery.com/the+united+states",
     "mstn": ["--","TT","--"]
   },
@@ -4693,7 +4715,7 @@
     "bmi": 192.5,
     "href": "https://www.jbis.or.jp/horse/0001266977/",
     "sire": "エピファネイア",
-    "gsire": "ハーツクライ",
+    "dsire": "ハーツクライ",
     "mstn": ["--","TT","CT"]
   },
   {
@@ -4704,7 +4726,7 @@
     "bmi": 193.3,
     "href": "https://www.pedigreequery.com/dumaani",
     "sire": "Danzig",
-    "gsire": "Lord Gayle",
+    "dsire": "Lord Gayle",
     "mstn": ["--","CC","--"]
   },
   {
@@ -4715,7 +4737,7 @@
     "bmi": 193.3,
     "href": "https://www.jbis.or.jp/horse/0000995651/",
     "sire": "マンハッタンカフェ",
-    "gsire": "フサイチコンコルド",
+    "dsire": "フサイチコンコルド",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4726,7 +4748,7 @@
     "bmi": 194.0,
     "href": "https://www.pedigreequery.com/boom+time4",
     "sire": "Flying Spur",
-    "gsire": "Snippets",
+    "dsire": "Snippets",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4737,7 +4759,7 @@
     "bmi": 194.0,
     "href": "https://www.jbis.or.jp/horse/0001173259/",
     "sire": "アドマイヤマックス",
-    "gsire": "サクラローレル",
+    "dsire": "サクラローレル",
     "mstn": ["--","--","--"]
   },
   {
@@ -4748,7 +4770,7 @@
     "bmi": 194.4,
     "href": "https://www.pedigreequery.com/norse+dancer2",
     "sire": "Halling",
-    "gsire": "Rousillon",
+    "dsire": "Rousillon",
     "mstn": ["--","--","--"]
   },
   {
@@ -4759,7 +4781,7 @@
     "bmi": 194.7,
     "href": "https://www.pedigreequery.com/toronado4",
     "sire": "High Chaparral",
-    "gsire": "Grand Slam",
+    "dsire": "Grand Slam",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4770,7 +4792,7 @@
     "bmi": 194.7,
     "href": "https://www.jbis.or.jp/horse/0000885246/",
     "sire": "グラスワンダー",
-    "gsire": "Tony Bin",
+    "dsire": "Tony Bin",
     "mstn": ["--","--","--"]
   },
   {
@@ -4781,7 +4803,7 @@
     "bmi": 195.1,
     "href": "https://www.pedigreequery.com/american+pharoah",
     "sire": "Pioneerof The Nile",
-    "gsire": "Yankee Gentleman",
+    "dsire": "Yankee Gentleman",
     "mstn": ["CT","--","--"]
   },
   {
@@ -4792,7 +4814,7 @@
     "bmi": 195.5,
     "href": "https://www.pedigreequery.com/martillo",
     "sire": "Anabaa",
-    "gsire": "Affirmed",
+    "dsire": "Affirmed",
     "mstn": ["--","--","--"]
   },
   {
@@ -4803,7 +4825,7 @@
     "bmi": 195.5,
     "href": "https://www.jbis.or.jp/horse/0001267989/",
     "sire": "モーリス",
-    "gsire": "キングヘイロー",
+    "dsire": "キングヘイロー",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4814,7 +4836,7 @@
     "bmi": 195.5,
     "href": "https://www.jbis.or.jp/horse/0000996958/",
     "sire": "タイキシャトル",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -4825,7 +4847,7 @@
     "bmi": 196.2,
     "href": "https://www.jbis.or.jp/horse/0001228783/",
     "sire": "Frankel",
-    "gsire": "タニノギムレット",
+    "dsire": "タニノギムレット",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4836,7 +4858,7 @@
     "bmi": 199.5,
     "href": "https://www.pedigreequery.com/tillerman",
     "sire": "In The Wings",
-    "gsire": "Roberto",
+    "dsire": "Roberto",
     "mstn": ["--","--","--"]
   },
   {
@@ -4847,7 +4869,7 @@
     "bmi": 199.8,
     "href": "https://www.pedigreequery.com/gallant+fox",
     "sire": "Sir Gallahad",
-    "gsire": "Celt",
+    "dsire": "Celt",
     "mstn": ["--","--","--"]
   },
   {
@@ -4858,7 +4880,7 @@
     "bmi": 201.0,
     "href": "https://www.pedigreequery.com/akeed+mofeed",
     "sire": "Dubawi",
-    "gsire": "Tiger Hill",
+    "dsire": "Tiger Hill",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -4869,7 +4891,7 @@
     "bmi": 202.0,
     "href": "https://www.pedigreequery.com/floral+pegasus",
     "sire": "Fusaichi Pegasus",
-    "gsire": "Mill Reef",
+    "dsire": "Mill Reef",
     "mstn": ["--","--","TT"]
   },
   {
@@ -4880,7 +4902,7 @@
     "bmi": 205.7,
     "href": "https://www.pedigreequery.com/aristophanes",
     "sire": "Hyperion",
-    "gsire": "MIeuxce",
+    "dsire": "MIeuxce",
     "mstn": ["--","TT","--"]
   },
   {
@@ -4891,7 +4913,7 @@
     "bmi": 206.1,
     "href": "https://www.pedigreequery.com/cheval+de+troy",
     "sire": "Zabeel",
-    "gsire": "Success Express",
+    "dsire": "Success Express",
     "mstn": ["--","--","--"]
   },
   {
@@ -4902,7 +4924,7 @@
     "bmi": 213.0,
     "href": "https://www.pedigreequery.com/rich+enuff",
     "sire": "Written Tycoon",
-    "gsire": "Spartacus",
+    "dsire": "Spartacus",
     "mstn": ["--","CC","--"]
   },
   {
@@ -4913,7 +4935,7 @@
     "bmi": 216.0,
     "href": "https://www.pedigreequery.com/starman11",
     "sire": "Dutch Art",
-    "gsire": "Montjeu",
+    "dsire": "Montjeu",
     "mstn": ["--","--","TT"]
   },
   {
@@ -4924,7 +4946,7 @@
     "bmi": 164.8,
     "href": "https://www.pedigreequery.com/war+emblem2",
     "sire": "Our Emblem",
-    "gsire": "Lord At War",
+    "dsire": "Lord At War",
     "mstn": ["--","--","--"]
   },
   {
@@ -4935,7 +4957,7 @@
     "bmi": 167.3,
     "href": "https://www.pedigreequery.com/dunaden",
     "sire": "Nicobar",
-    "gsire": "Kaldounevees",
+    "dsire": "Kaldounevees",
     "mstn": ["CT","--","--"]
   },
   {
@@ -4946,7 +4968,7 @@
     "bmi": 167.7,
     "href": "https://www.jbis.or.jp/horse/0001206059/",
     "sire": "Swept Overboard",
-    "gsire": "ゴールドアリュール",
+    "dsire": "ゴールドアリュール",
     "mstn": ["--","--","CT"]
   },
   {
@@ -4957,7 +4979,7 @@
     "bmi": 168.0,
     "href": "https://www.pedigreequery.com/mendocino10",
     "sire": "Adlerflug",
-    "gsire": "Pivotal",
+    "dsire": "Pivotal",
     "mstn": ["--","--","--"]
   },
   {
@@ -4968,7 +4990,7 @@
     "bmi": 168.4,
     "href": "https://www.pedigreequery.com/allied+forces",
     "sire": "Miswaki",
-    "gsire": "Sharpen Up",
+    "dsire": "Sharpen Up",
     "mstn": ["--","--","--"]
   },
   {
@@ -4979,7 +5001,7 @@
     "bmi": 168.7,
     "href": "https://www.pedigreequery.com/casino+prince3",
     "sire": "Flying Spur",
-    "gsire": "Last Tycoon",
+    "dsire": "Last Tycoon",
     "mstn": ["--","CT","--"]
   },
   {
@@ -4990,7 +5012,7 @@
     "bmi": 169.9,
     "href": "https://www.pedigreequery.com/guignol5",
     "sire": "Cape Cross",
-    "gsire": "Monsun",
+    "dsire": "Monsun",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -5001,7 +5023,7 @@
     "bmi": 171.3,
     "href": "https://www.pedigreequery.com/papal+bull2",
     "sire": "Montjeu",
-    "gsire": "Zafonic",
+    "dsire": "Zafonic",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5012,7 +5034,7 @@
     "bmi": 174.2,
     "href": "https://www.pedigreequery.com/war+decree2",
     "sire": "War Front",
-    "gsire": "Street Cry",
+    "dsire": "Street Cry",
     "mstn": ["--","--","CT"]
   },
   {
@@ -5023,7 +5045,7 @@
     "bmi": 175.0,
     "href": "https://www.pedigreequery.com/astarabad",
     "sire": "Alleged",
-    "gsire": "Darshaan",
+    "dsire": "Darshaan",
     "mstn": ["--","--","--"]
   },
   {
@@ -5034,7 +5056,7 @@
     "bmi": 175.0,
     "href": "https://www.pedigreequery.com/glass+harmonium",
     "sire": "Verglas",
-    "gsire": "Darshaan",
+    "dsire": "Darshaan",
     "mstn": ["--","--","--"]
   },
   {
@@ -5045,7 +5067,7 @@
     "bmi": 175.3,
     "href": "https://www.pedigreequery.com/neatico",
     "sire": "Medicean",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -5056,7 +5078,7 @@
     "bmi": 175.7,
     "href": "https://www.pedigreequery.com/montjeu",
     "sire": "Sadlers Wells",
-    "gsire": "Top Ville",
+    "dsire": "Top Ville",
     "mstn": ["TT","TT","TT"]
   },
   {
@@ -5067,7 +5089,7 @@
     "bmi": 176.4,
     "href": "https://www.jbis.or.jp/horse/0000993502/",
     "sire": "ネオユニヴァース",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -5078,7 +5100,7 @@
     "bmi": 176.4,
     "href": "https://www.jbis.or.jp/horse/0000728935/",
     "sire": "Sunday Silence",
-    "gsire": "Machiavellian",
+    "dsire": "Machiavellian",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5089,7 +5111,7 @@
     "bmi": 177.1,
     "href": "https://www.jbis.or.jp/horse/0001136428/",
     "sire": "スクリーンヒーロー",
-    "gsire": "キョウワアリシバ",
+    "dsire": "キョウワアリシバ",
     "mstn": ["--","--","--"]
   },
   {
@@ -5100,7 +5122,7 @@
     "bmi": 177.5,
     "href": "https://www.jbis.or.jp/horse/0000274869/",
     "sire": "Sunday Silence",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -5111,7 +5133,7 @@
     "bmi": 177.9,
     "href": "https://www.jbis.or.jp/horse/0000274914/",
     "sire": "Sunday Silence",
-    "gsire": "Lyphard",
+    "dsire": "Lyphard",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5122,7 +5144,7 @@
     "bmi": 179.3,
     "href": "https://www.jbis.or.jp/horse/0000318739/",
     "sire": "フジキセキ",
-    "gsire": "サクラユタカオー",
+    "dsire": "サクラユタカオー",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5133,7 +5155,7 @@
     "bmi": 179.3,
     "href": "https://www.jbis.or.jp/horse/0001110458/",
     "sire": "ステイゴールド",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -5144,7 +5166,7 @@
     "bmi": 179.7,
     "href": "https://www.pedigreequery.com/rakti",
     "sire": "Polish Precedent",
-    "gsire": "Rainbow Quest",
+    "dsire": "Rainbow Quest",
     "mstn": ["--","--","--"]
   },
   {
@@ -5155,7 +5177,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0001110810/",
     "sire": "アグネスタキオン",
-    "gsire": "Marju",
+    "dsire": "Marju",
     "mstn": ["--","--","--"]
   },
   {
@@ -5166,7 +5188,7 @@
     "bmi": 180.8,
     "href": "https://www.pedigreequery.com/court+masterpiece",
     "sire": "Polish Precedent",
-    "gsire": "Prince Sabo",
+    "dsire": "Prince Sabo",
     "mstn": ["--","--","--"]
   },
   {
@@ -5177,7 +5199,7 @@
     "bmi": 180.8,
     "href": "https://www.jbis.or.jp/horse/0001171762/",
     "sire": "アドマイヤムーン",
-    "gsire": "Capote",
+    "dsire": "Capote",
     "mstn": ["--","--","--"]
   },
   {
@@ -5188,7 +5210,7 @@
     "bmi": 180.8,
     "href": "https://www.jbis.or.jp/horse/0001151936/",
     "sire": "キングカメハメハ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["CT","CT","TT"]
   },
   {
@@ -5199,7 +5221,7 @@
     "bmi": 181.1,
     "href": "https://www.pedigreequery.com/fusaichi+pegasus",
     "sire": "Mr Prospector",
-    "gsire": "Danzig",
+    "dsire": "Danzig",
     "mstn": ["--","CC","CC"]
   },
   {
@@ -5210,7 +5232,7 @@
     "bmi": 181.1,
     "href": "https://www.pedigreequery.com/shakespeare10",
     "sire": "Theatrical",
-    "gsire": "Thats A Nice",
+    "dsire": "Thats A Nice",
     "mstn": ["--","--","--"]
   },
   {
@@ -5221,7 +5243,7 @@
     "bmi": 181.5,
     "href": "https://www.pedigreequery.com/lightning+spear",
     "sire": "Pivotal",
-    "gsire": "Royal Academy",
+    "dsire": "Royal Academy",
     "mstn": ["--","--","CT"]
   },
   {
@@ -5232,7 +5254,7 @@
     "bmi": 181.8,
     "href": "https://www.pedigreequery.com/taipan2",
     "sire": "Last Tycoon",
-    "gsire": "Chief Singer",
+    "dsire": "Chief Singer",
     "mstn": ["--","--","--"]
   },
   {
@@ -5243,7 +5265,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/talismanic2",
     "sire": "Medaglia Doro",
-    "gsire": "Machiavellian",
+    "dsire": "Machiavellian",
     "mstn": ["--","--","--"]
   },
   {
@@ -5254,7 +5276,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0000729458/",
     "sire": "Kingmambo",
-    "gsire": "Last Tycoon",
+    "dsire": "Last Tycoon",
     "mstn": ["CT","CC","--"]
   },
   {
@@ -5265,7 +5287,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0000806735/",
     "sire": "Chief Bearhart",
-    "gsire": "Westminster",
+    "dsire": "Westminster",
     "mstn": ["--","--","--"]
   },
   {
@@ -5276,7 +5298,7 @@
     "bmi": 183.0,
     "href": "https://www.pedigreequery.com/latrobe4",
     "sire": "Camelot",
-    "gsire": "Shamardal",
+    "dsire": "Shamardal",
     "mstn": ["--","--","--"]
   },
   {
@@ -5287,7 +5309,7 @@
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0000298391/",
     "sire": "サクラユタカオー",
-    "gsire": "Royal Ski",
+    "dsire": "Royal Ski",
     "mstn": ["--","--","--"]
   },
   {
@@ -5298,7 +5320,7 @@
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0000124927/",
     "sire": "Boysie Boy",
-    "gsire": "Venture",
+    "dsire": "Venture",
     "mstn": ["--","--","--"]
   },
   {
@@ -5309,7 +5331,7 @@
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0001233775/",
     "sire": "Sinister Minister",
-    "gsire": "マンハッタンカフェ",
+    "dsire": "マンハッタンカフェ",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -5320,7 +5342,7 @@
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0000225861/",
     "sire": "Secretariat",
-    "gsire": "Vaguely Noble",
+    "dsire": "Vaguely Noble",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5331,7 +5353,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0001126608/",
     "sire": "Sinister Minister",
-    "gsire": "Machiavellian",
+    "dsire": "Machiavellian",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5342,7 +5364,7 @@
     "bmi": 183.7,
     "href": "https://www.jbis.or.jp/horse/0000728098/",
     "sire": "Sunday Silence",
-    "gsire": "Law Society",
+    "dsire": "Law Society",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5353,7 +5375,7 @@
     "bmi": 184.0,
     "href": "https://www.pedigreequery.com/poets+word",
     "sire": "Poets Voice",
-    "gsire": "Nashwan",
+    "dsire": "Nashwan",
     "mstn": ["--","--","--"]
   },
   {
@@ -5364,7 +5386,7 @@
     "bmi": 184.4,
     "href": "https://www.jbis.or.jp/horse/0001104811/",
     "sire": "ステイゴールド",
-    "gsire": "メジロマックイーン",
+    "dsire": "メジロマックイーン",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -5375,7 +5397,7 @@
     "bmi": 184.4,
     "href": "https://www.jbis.or.jp/horse/0000762715/",
     "sire": "Sunday Silence",
-    "gsire": "Zafonic",
+    "dsire": "Zafonic",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5386,7 +5408,7 @@
     "bmi": 184.8,
     "href": "https://www.pedigreequery.com/carlton+house2",
     "sire": "Street Cry",
-    "gsire": "Bustino",
+    "dsire": "Bustino",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5397,7 +5419,7 @@
     "bmi": 184.8,
     "href": "https://www.pedigreequery.com/doctor+dino",
     "sire": "Muhtathir",
-    "gsire": "Priolo",
+    "dsire": "Priolo",
     "mstn": ["--","--","--"]
   },
   {
@@ -5408,7 +5430,7 @@
     "bmi": 185.9,
     "href": "https://www.pedigreequery.com/dawn+approach",
     "sire": "New Approach",
-    "gsire": "Phone Trick",
+    "dsire": "Phone Trick",
     "mstn": ["CC","CT","--"]
   },
   {
@@ -5419,7 +5441,7 @@
     "bmi": 185.9,
     "href": "https://www.jbis.or.jp/horse/0001136717/",
     "sire": "Statue Of Liberty",
-    "gsire": "ダンスインザダーク",
+    "dsire": "ダンスインザダーク",
     "mstn": ["--","CC","TT"]
   },
   {
@@ -5430,7 +5452,7 @@
     "bmi": 187.6,
     "href": "https://www.pedigreequery.com/creachadoir",
     "sire": "Kings Best",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -5441,7 +5463,7 @@
     "bmi": 188.0,
     "href": "https://www.pedigreequery.com/thunder+fantasy2",
     "sire": "Lucky Owners",
-    "gsire": "Galileo",
+    "dsire": "Galileo",
     "mstn": ["--","CC","TT"]
   },
   {
@@ -5452,7 +5474,7 @@
     "bmi": 188.0,
     "href": "https://www.jbis.or.jp/horse/0001216121/",
     "sire": "ロードカナロア",
-    "gsire": "サクラバクシンオー",
+    "dsire": "サクラバクシンオー",
     "mstn": ["--","CC","CC"]
   },
   {
@@ -5463,7 +5485,7 @@
     "bmi": 188.4,
     "href": "https://www.pedigreequery.com/campanologist",
     "sire": "Kingmambo",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","CC","TT"]
   },
   {
@@ -5474,7 +5496,7 @@
     "bmi": 188.4,
     "href": "https://www.pedigreequery.com/wizard+king",
     "sire": "Shaadi",
-    "gsire": "Habitat",
+    "dsire": "Habitat",
     "mstn": ["--","--","--"]
   },
   {
@@ -5485,7 +5507,7 @@
     "bmi": 190.2,
     "href": "https://www.jbis.or.jp/horse/0001134576/",
     "sire": "キングカメハメハ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -5496,7 +5518,7 @@
     "bmi": 190.2,
     "href": "https://www.pedigreequery.com/dancing+brave",
     "sire": "Lyphard",
-    "gsire": "Drone",
+    "dsire": "Drone",
     "mstn": ["--","--","--"]
   },
   {
@@ -5507,7 +5529,7 @@
     "bmi": 190.2,
     "href": "https://www.pedigreequery.com/saddex",
     "sire": "Sadlers Wells",
-    "gsire": "Irish River",
+    "dsire": "Irish River",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5518,7 +5540,7 @@
     "bmi": 190.9,
     "href": "https://www.jbis.or.jp/horse/0001191607/",
     "sire": "ディープインパクト",
-    "gsire": "Essence Of Dubai",
+    "dsire": "Essence Of Dubai",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5529,7 +5551,7 @@
     "bmi": 190.9,
     "href": "https://www.jbis.or.jp/horse/0001193277/",
     "sire": "Henny Hughes",
-    "gsire": "Distorted Humor",
+    "dsire": "Distorted Humor",
     "mstn": ["--","CC","--"]
   },
   {
@@ -5540,7 +5562,7 @@
     "bmi": 191.7,
     "href": "https://www.pedigreequery.com/china+cat4",
     "sire": "Storm Cat",
-    "gsire": "Babor",
+    "dsire": "Babor",
     "mstn": ["--","CC","--"]
   },
   {
@@ -5551,7 +5573,7 @@
     "bmi": 191.7,
     "href": "https://www.jbis.or.jp/horse/0001044310/",
     "sire": "Swept Overboard",
-    "gsire": "フジキセキ",
+    "dsire": "フジキセキ",
     "mstn": ["--","--","CT"]
   },
   {
@@ -5562,7 +5584,7 @@
     "bmi": 193.1,
     "href": "https://www.jbis.or.jp/horse/0001157765/",
     "sire": "キングカメハメハ",
-    "gsire": "Diktat",
+    "dsire": "Diktat",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5573,7 +5595,7 @@
     "bmi": 195.8,
     "href": "https://www.pedigreequery.com/summer+bird3",
     "sire": "Bridstone",
-    "gsire": "Summer Squall",
+    "dsire": "Summer Squall",
     "mstn": ["--","--","--"]
   },
   {
@@ -5584,7 +5606,7 @@
     "bmi": 196.0,
     "href": "https://www.pedigreequery.com/native+trail2",
     "sire": "Oasis Dream",
-    "gsire": "Observatory",
+    "dsire": "Observatory",
     "mstn": ["--","--","--"]
   },
   {
@@ -5595,7 +5617,7 @@
     "bmi": 197.5,
     "href": "https://www.pedigreequery.com/alydar",
     "sire": "Raise A Native",
-    "gsire": "On-and-on",
+    "dsire": "On-and-on",
     "mstn": ["--","--","--"]
   },
   {
@@ -5606,7 +5628,7 @@
     "bmi": 197.5,
     "href": "https://www.pedigreequery.com/charismatic2",
     "sire": "Summer Squall",
-    "gsire": "Drone",
+    "dsire": "Drone",
     "mstn": ["--","--","--"]
   },
   {
@@ -5617,7 +5639,7 @@
     "bmi": 197.5,
     "href": "https://www.jbis.or.jp/horse/0001052215/",
     "sire": "Bernstein",
-    "gsire": "Grand Slam",
+    "dsire": "Grand Slam",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5628,7 +5650,7 @@
     "bmi": 198.5,
     "href": "https://www.pedigreequery.com/palace+malice",
     "sire": "Curlin",
-    "gsire": "Royal Anthem",
+    "dsire": "Royal Anthem",
     "mstn": ["--","--","--"]
   },
   {
@@ -5639,7 +5661,7 @@
     "bmi": 201.1,
     "href": "https://www.jbis.or.jp/horse/0001177896/",
     "sire": "Henny Hughes",
-    "gsire": "Running Stag",
+    "dsire": "Running Stag",
     "mstn": ["--","CC","--"]
   },
   {
@@ -5650,7 +5672,7 @@
     "bmi": 201.4,
     "href": "https://www.pedigreequery.com/starcraft",
     "sire": "Soviet Star",
-    "gsire": "Pompeii Court",
+    "dsire": "Pompeii Court",
     "mstn": ["--","--","--"]
   },
   {
@@ -5661,7 +5683,7 @@
     "bmi": 162.4,
     "href": "https://www.pedigreequery.com/oxalagu",
     "sire": "Lagunas",
-    "gsire": "Ashmore",
+    "dsire": "Ashmore",
     "mstn": ["--","--","--"]
   },
   {
@@ -5672,7 +5694,7 @@
     "bmi": 166.4,
     "href": "https://www.jbis.or.jp/horse/0000293624/",
     "sire": "Sunday Silence",
-    "gsire": "マルゼンスキー",
+    "dsire": "マルゼンスキー",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -5683,7 +5705,7 @@
     "bmi": 172.5,
     "href": "https://www.pedigreequery.com/dominant13",
     "sire": "Cacique",
-    "gsire": "Inchinor",
+    "dsire": "Inchinor",
     "mstn": ["--","--","--"]
   },
   {
@@ -5694,7 +5716,7 @@
     "bmi": 175.0,
     "href": "https://www.pedigreequery.com/timos",
     "sire": "Sholokhov",
-    "gsire": "Surumu",
+    "dsire": "Surumu",
     "mstn": ["--","--","--"]
   },
   {
@@ -5705,7 +5727,7 @@
     "bmi": 175.0,
     "href": "https://www.jbis.or.jp/horse/0001268970/",
     "sire": "ディープインパクト",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5716,7 +5738,7 @@
     "bmi": 175.7,
     "href": "https://www.jbis.or.jp/horse/0000722797/",
     "sire": "Sunday Silence",
-    "gsire": "Alzao",
+    "dsire": "Alzao",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -5727,7 +5749,7 @@
     "bmi": 176.1,
     "href": "https://www.jbis.or.jp/horse/0000730684/",
     "sire": "エルコンドルパサー",
-    "gsire": "Deputy Minister",
+    "dsire": "Deputy Minister",
     "mstn": ["--","--","--"]
   },
   {
@@ -5738,7 +5760,7 @@
     "bmi": 176.5,
     "href": "https://www.pedigreequery.com/kandidate",
     "sire": "Kabool",
-    "gsire": "Royal Academy",
+    "dsire": "Royal Academy",
     "mstn": ["--","--","CT"]
   },
   {
@@ -5749,7 +5771,7 @@
     "bmi": 176.5,
     "href": "https://www.jbis.or.jp/horse/0000739053/",
     "sire": "Hennessy",
-    "gsire": "Real Shadai",
+    "dsire": "Real Shadai",
     "mstn": ["--","--","--"]
   },
   {
@@ -5760,7 +5782,7 @@
     "bmi": 177.2,
     "href": "https://www.jbis.or.jp/horse/0001089775/",
     "sire": "Fantastic Light",
-    "gsire": "Hector Protector",
+    "dsire": "Hector Protector",
     "mstn": ["--","--","--"]
   },
   {
@@ -5771,7 +5793,7 @@
     "bmi": 177.5,
     "href": "https://www.jbis.or.jp/horse/0000304500/",
     "sire": "Brians Time",
-    "gsire": "No Lute",
+    "dsire": "No Lute",
     "mstn": ["--","--","--"]
   },
   {
@@ -5782,7 +5804,7 @@
     "bmi": 177.9,
     "href": "https://www.jbis.or.jp/horse/0001170063/",
     "sire": "キングカメハメハ",
-    "gsire": "スペシャルウィーク",
+    "dsire": "スペシャルウィーク",
     "mstn": ["CT","CT","TT"]
   },
   {
@@ -5793,7 +5815,7 @@
     "bmi": 180.8,
     "href": "https://www.jbis.or.jp/horse/0001139037/",
     "sire": "ディープインパクト",
-    "gsire": "End Sweep",
+    "dsire": "End Sweep",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5804,7 +5826,7 @@
     "bmi": 181.1,
     "href": "https://www.pedigreequery.com/tiberian4",
     "sire": "Tiberius Caesar",
-    "gsire": "Marju",
+    "dsire": "Marju",
     "mstn": ["--","--","--"]
   },
   {
@@ -5815,7 +5837,7 @@
     "bmi": 181.5,
     "href": "https://www.jbis.or.jp/horse/0000888832/",
     "sire": "ゴールドアリュール",
-    "gsire": "Brians Time",
+    "dsire": "Brians Time",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5826,7 +5848,7 @@
     "bmi": 181.5,
     "href": "https://www.jbis.or.jp/horse/0001175221/",
     "sire": "ディープインパクト",
-    "gsire": "Orpen",
+    "dsire": "Orpen",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5837,7 +5859,7 @@
     "bmi": 181.5,
     "href": "https://www.jbis.or.jp/horse/0001110914/",
     "sire": "ディープインパクト",
-    "gsire": "Lycius",
+    "dsire": "Lycius",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5848,7 +5870,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001185710/",
     "sire": "ディープインパクト",
-    "gsire": "Boston Harbor",
+    "dsire": "Boston Harbor",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5859,7 +5881,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0000274915/",
     "sire": "Caerleon",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
   },
   {
@@ -5870,7 +5892,7 @@
     "bmi": 182.6,
     "href": "https://www.jbis.or.jp/horse/0000807282/",
     "sire": "Brians Time",
-    "gsire": "Mr Prospector",
+    "dsire": "Mr Prospector",
     "mstn": ["--","--","CC"]
   },
   {
@@ -5881,7 +5903,7 @@
     "bmi": 182.9,
     "href": "https://www.pedigreequery.com/majestic+prince",
     "sire": "Raise A Native",
-    "gsire": "Royal Charger",
+    "dsire": "Royal Charger",
     "mstn": ["--","--","CT"]
   },
   {
@@ -5892,7 +5914,7 @@
     "bmi": 183.6,
     "href": "https://www.jbis.or.jp/horse/0001340173/",
     "sire": "キズナ",
-    "gsire": "Exceed And Excel",
+    "dsire": "Exceed And Excel",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -5903,7 +5925,7 @@
     "bmi": 183.6,
     "href": "https://www.jbis.or.jp/horse/0000069360/",
     "sire": "Nijinsky",
-    "gsire": "Buckpasser",
+    "dsire": "Buckpasser",
     "mstn": ["--","TT","--"]
   },
   {
@@ -5914,7 +5936,7 @@
     "bmi": 183.6,
     "href": "https://www.jbis.or.jp/horse/0000321156/",
     "sire": "Pleasant Tap",
-    "gsire": "Northern Dancer",
+    "dsire": "Northern Dancer",
     "mstn": ["--","--","CT"]
   },
   {
@@ -5925,7 +5947,7 @@
     "bmi": 183.6,
     "href": "https://www.jbis.or.jp/horse/0001042049/",
     "sire": "キングカメハメハ",
-    "gsire": "Tony Bin",
+    "dsire": "Tony Bin",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -5936,7 +5958,7 @@
     "bmi": 184.4,
     "href": "https://www.pedigreequery.com/ungaro",
     "sire": "Goofalik",
-    "gsire": "Star Appeal",
+    "dsire": "Star Appeal",
     "mstn": ["--","--","--"]
   },
   {
@@ -5947,7 +5969,7 @@
     "bmi": 184.4,
     "href": "https://www.jbis.or.jp/horse/0001189935/",
     "sire": "ディープインパクト",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -5958,7 +5980,7 @@
     "bmi": 184.4,
     "href": "https://www.jbis.or.jp/horse/0001091384/",
     "sire": "アドマイヤコジーン",
-    "gsire": "タヤスツヨシ",
+    "dsire": "タヤスツヨシ",
     "mstn": ["--","--","--"]
   },
   {
@@ -5969,7 +5991,7 @@
     "bmi": 184.4,
     "href": "https://www.jbis.or.jp/horse/0001157711/",
     "sire": "ディープインパクト",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -5980,7 +6002,7 @@
     "bmi": 185.8,
     "href": "https://www.jbis.or.jp/horse/0001154998/",
     "sire": "キングカメハメハ",
-    "gsire": "グラスワンダー",
+    "dsire": "グラスワンダー",
     "mstn": ["--","CT","--"]
   },
   {
@@ -5991,7 +6013,7 @@
     "bmi": 186.5,
     "href": "https://www.jbis.or.jp/horse/0000701668/",
     "sire": "Sunday Silence",
-    "gsire": "Mining",
+    "dsire": "Mining",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6002,7 +6024,7 @@
     "bmi": 187.2,
     "href": "https://www.jbis.or.jp/horse/0000743002/",
     "sire": "Sunday Silence",
-    "gsire": "Lyphard",
+    "dsire": "Lyphard",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6013,7 +6035,7 @@
     "bmi": 189.4,
     "href": "https://www.pedigreequery.com/tizway",
     "sire": "Tiznow",
-    "gsire": "Dayjur",
+    "dsire": "Dayjur",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6024,7 +6046,7 @@
     "bmi": 189.4,
     "href": "https://www.jbis.or.jp/horse/0000742946/",
     "sire": "フジキセキ",
-    "gsire": "Deputy Minister",
+    "dsire": "Deputy Minister",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6035,7 +6057,7 @@
     "bmi": 190.1,
     "href": "https://www.jbis.or.jp/horse/0001135823/",
     "sire": "アッミラーレ",
-    "gsire": "Dayjur",
+    "dsire": "Dayjur",
     "mstn": ["--","--","--"]
   },
   {
@@ -6046,7 +6068,7 @@
     "bmi": 190.1,
     "href": "https://www.jbis.or.jp/horse/0000991842/",
     "sire": "スペシャルウィーク",
-    "gsire": "Seattle Slew",
+    "dsire": "Seattle Slew",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6057,7 +6079,7 @@
     "bmi": 191.9,
     "href": "https://www.jbis.or.jp/horse/0001188664/",
     "sire": "サウスヴィグラス",
-    "gsire": "Cacoethes",
+    "dsire": "Cacoethes",
     "mstn": ["--","--","--"]
   },
   {
@@ -6068,7 +6090,7 @@
     "bmi": 193.0,
     "href": "https://www.jbis.or.jp/horse/0000700008/",
     "sire": "Kris S",
-    "gsire": "Gold Meridian",
+    "dsire": "Gold Meridian",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -6079,7 +6101,7 @@
     "bmi": 193.7,
     "href": "https://www.pedigreequery.com/churchill11",
     "sire": "Galileo",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -6090,7 +6112,7 @@
     "bmi": 194.4,
     "href": "https://www.jbis.or.jp/horse/0001043835/",
     "sire": "キングカメハメハ",
-    "gsire": "メジロマックイーン",
+    "dsire": "メジロマックイーン",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6101,7 +6123,7 @@
     "bmi": 194.8,
     "href": "https://www.jbis.or.jp/horse/0001149689/",
     "sire": "ダイワメジャー",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -6112,7 +6134,7 @@
     "bmi": 200.8,
     "href": "https://www.pedigreequery.com/hey+gaman",
     "sire": "New Approach",
-    "gsire": "Dubawi",
+    "dsire": "Dubawi",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -6123,7 +6145,7 @@
     "bmi": 147.4,
     "href": "https://www.pedigreequery.com/tout+seul2",
     "sire": "Ali-royal",
-    "gsire": "Groom Dancer",
+    "dsire": "Groom Dancer",
     "mstn": ["--","--","--"]
   },
   {
@@ -6134,7 +6156,7 @@
     "bmi": 158.1,
     "href": "https://www.pedigreequery.com/ito8",
     "sire": "Adlerflug",
-    "gsire": "Tiger Hill",
+    "dsire": "Tiger Hill",
     "mstn": ["--","--","CT"]
   },
   {
@@ -6145,7 +6167,7 @@
     "bmi": 164.8,
     "href": "https://www.pedigreequery.com/passing+glance5",
     "sire": "Polar Falcon",
-    "gsire": "Robellino",
+    "dsire": "Robellino",
     "mstn": ["--","--","--"]
   },
   {
@@ -6156,7 +6178,7 @@
     "bmi": 165.2,
     "href": "https://www.pedigreequery.com/viscount+nelson",
     "sire": "Giants Causeway",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -6167,7 +6189,7 @@
     "bmi": 166.9,
     "href": "https://www.pedigreequery.com/fair+mix",
     "sire": "Linamix",
-    "gsire": "Wild Again",
+    "dsire": "Wild Again",
     "mstn": ["--","--","--"]
   },
   {
@@ -6178,7 +6200,7 @@
     "bmi": 168.7,
     "href": "https://www.pedigreequery.com/ridan",
     "sire": "Nantallah",
-    "gsire": "Gold Bridge",
+    "dsire": "Gold Bridge",
     "mstn": ["--","--","--"]
   },
   {
@@ -6189,7 +6211,7 @@
     "bmi": 168.7,
     "href": "https://www.jbis.or.jp/horse/0001236815/",
     "sire": "ディープインパクト",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6200,7 +6222,7 @@
     "bmi": 169.0,
     "href": "https://www.pedigreequery.com/double+trigger",
     "sire": "Ela-mana-mou",
-    "gsire": "Gay Lussac",
+    "dsire": "Gay Lussac",
     "mstn": ["--","--","--"]
   },
   {
@@ -6211,7 +6233,7 @@
     "bmi": 169.4,
     "href": "https://www.pedigreequery.com/dear+doctor",
     "sire": "Crystal Glitters",
-    "gsire": "Zeddaan",
+    "dsire": "Zeddaan",
     "mstn": ["--","--","--"]
   },
   {
@@ -6222,7 +6244,7 @@
     "bmi": 169.4,
     "href": "https://www.pedigreequery.com/way+to+paris2",
     "sire": "Champs Elysees",
-    "gsire": "Cozzene",
+    "dsire": "Cozzene",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6233,7 +6255,7 @@
     "bmi": 169.4,
     "href": "https://www.jbis.or.jp/horse/0001204307/",
     "sire": "ディープインパクト",
-    "gsire": "Green Tune",
+    "dsire": "Green Tune",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6244,7 +6266,7 @@
     "bmi": 170.1,
     "href": "https://www.jbis.or.jp/horse/0000305175/",
     "sire": "Commander In Chief",
-    "gsire": "Miswaki",
+    "dsire": "Miswaki",
     "mstn": ["--","--","--"]
   },
   {
@@ -6255,7 +6277,7 @@
     "bmi": 170.8,
     "href": "https://www.pedigreequery.com/mustameet",
     "sire": "Sahm",
-    "gsire": "Irish River",
+    "dsire": "Irish River",
     "mstn": ["--","--","--"]
   },
   {
@@ -6266,7 +6288,7 @@
     "bmi": 171.5,
     "href": "https://www.pedigreequery.com/bach2",
     "sire": "Caerleon",
-    "gsire": "Nashua",
+    "dsire": "Nashua",
     "mstn": ["--","--","--"]
   },
   {
@@ -6277,7 +6299,7 @@
     "bmi": 173.7,
     "href": "https://www.pedigreequery.com/helissio",
     "sire": "Fairy King",
-    "gsire": "Slewpy",
+    "dsire": "Slewpy",
     "mstn": ["--","--","--"]
   },
   {
@@ -6288,7 +6310,7 @@
     "bmi": 175.1,
     "href": "https://www.pedigreequery.com/ransom+note2",
     "sire": "Red Ransom",
-    "gsire": "Polish Precedent",
+    "dsire": "Polish Precedent",
     "mstn": ["--","--","--"]
   },
   {
@@ -6299,7 +6321,7 @@
     "bmi": 175.1,
     "href": "https://www.jbis.or.jp/horse/0001124405/",
     "sire": "ローエングリン",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["CT","--","TT"]
   },
   {
@@ -6310,7 +6332,7 @@
     "bmi": 175.8,
     "href": "https://www.pedigreequery.com/alkaased",
     "sire": "Kingmambo",
-    "gsire": "Niniski",
+    "dsire": "Niniski",
     "mstn": ["--","CC","--"]
   },
   {
@@ -6321,7 +6343,7 @@
     "bmi": 177.2,
     "href": "https://www.jbis.or.jp/horse/0000701577/",
     "sire": "Sunday Silence",
-    "gsire": "Kris",
+    "dsire": "Kris",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6332,7 +6354,7 @@
     "bmi": 177.2,
     "href": "https://www.jbis.or.jp/horse/0000722158/",
     "sire": "Sunday Silence",
-    "gsire": "Tony Bin",
+    "dsire": "Tony Bin",
     "mstn": ["CT","TT","--"]
   },
   {
@@ -6343,7 +6365,7 @@
     "bmi": 177.9,
     "href": "https://www.pedigreequery.com/mores+wells",
     "sire": "Sadlers Wells",
-    "gsire": "Warning",
+    "dsire": "Warning",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6354,7 +6376,7 @@
     "bmi": 177.9,
     "href": "https://www.pedigreequery.com/pilsudski",
     "sire": "Polish Precedent",
-    "gsire": "Troy",
+    "dsire": "Troy",
     "mstn": ["--","--","--"]
   },
   {
@@ -6365,7 +6387,7 @@
     "bmi": 177.9,
     "href": "https://www.jbis.or.jp/horse/0000762445/",
     "sire": "Sunday Silence",
-    "gsire": "Bel Bolide",
+    "dsire": "Bel Bolide",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6376,7 +6398,7 @@
     "bmi": 178.6,
     "href": "https://www.jbis.or.jp/horse/0001120570/",
     "sire": "ディープインパクト",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -6387,7 +6409,7 @@
     "bmi": 178.6,
     "href": "https://www.jbis.or.jp/horse/0001103854/",
     "sire": "ディープインパクト",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -6398,7 +6420,7 @@
     "bmi": 178.6,
     "href": "https://www.jbis.or.jp/horse/0001140023/",
     "sire": "スペシャルウィーク",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6409,7 +6431,7 @@
     "bmi": 179.3,
     "href": "https://www.pedigreequery.com/touch+of+land",
     "sire": "Lando",
-    "gsire": "Be My Guest",
+    "dsire": "Be My Guest",
     "mstn": ["--","--","--"]
   },
   {
@@ -6420,7 +6442,7 @@
     "bmi": 179.3,
     "href": "https://www.pedigreequery.com/ekraar",
     "sire": "Red Ransom",
-    "gsire": "Raja Baba",
+    "dsire": "Raja Baba",
     "mstn": ["--","--","--"]
   },
   {
@@ -6431,7 +6453,7 @@
     "bmi": 179.3,
     "href": "https://www.jbis.or.jp/horse/0000757705/",
     "sire": "Sunday Silence",
-    "gsire": "Hector Protector",
+    "dsire": "Hector Protector",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -6442,7 +6464,7 @@
     "bmi": 179.6,
     "href": "https://www.pedigreequery.com/estejo",
     "sire": "Johan Cruyff",
-    "gsire": "The Noble Player",
+    "dsire": "The Noble Player",
     "mstn": ["--","--","--"]
   },
   {
@@ -6453,7 +6475,7 @@
     "bmi": 180.0,
     "href": "https://www.pedigreequery.com/talkin+man",
     "sire": "With Approval",
-    "gsire": "Miswaki",
+    "dsire": "Miswaki",
     "mstn": ["--","--","--"]
   },
   {
@@ -6464,7 +6486,7 @@
     "bmi": 180.0,
     "href": "https://www.jbis.or.jp/horse/0000742996/",
     "sire": "Sunday Silence",
-    "gsire": "Tony Bin",
+    "dsire": "Tony Bin",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6475,7 +6497,7 @@
     "bmi": 180.4,
     "href": "https://www.jbis.or.jp/horse/0000990619/",
     "sire": "Charismatic",
-    "gsire": "Pleasant Tap",
+    "dsire": "Pleasant Tap",
     "mstn": ["--","--","--"]
   },
   {
@@ -6486,7 +6508,7 @@
     "bmi": 180.7,
     "href": "https://www.pedigreequery.com/candy+spots",
     "sire": "Nigromante",
-    "gsire": "Khaled",
+    "dsire": "Khaled",
     "mstn": ["--","--","--"]
   },
   {
@@ -6497,7 +6519,7 @@
     "bmi": 180.7,
     "href": "https://www.pedigreequery.com/teofilo2",
     "sire": "Galileo",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -6508,7 +6530,7 @@
     "bmi": 181.5,
     "href": "https://www.pedigreequery.com/epalo",
     "sire": "Lando",
-    "gsire": "Kris",
+    "dsire": "Kris",
     "mstn": ["--","--","--"]
   },
   {
@@ -6519,7 +6541,7 @@
     "bmi": 182.2,
     "href": "https://www.pedigreequery.com/ange+gabriel",
     "sire": "Kaldounevees",
-    "gsire": "Head For Heights",
+    "dsire": "Head For Heights",
     "mstn": ["--","--","--"]
   },
   {
@@ -6530,7 +6552,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001188522/",
     "sire": "ディープインパクト",
-    "gsire": "シンボリクリスエス",
+    "dsire": "シンボリクリスエス",
     "mstn": ["--","TT","TT"]
   },
   {
@@ -6541,7 +6563,7 @@
     "bmi": 182.2,
     "href": "https://www.jbis.or.jp/horse/0001233443/",
     "sire": "エイシンフラッシュ",
-    "gsire": "クロフネ",
+    "dsire": "クロフネ",
     "mstn": ["--","--","CT"]
   },
   {
@@ -6552,7 +6574,7 @@
     "bmi": 182.5,
     "href": "https://www.pedigreequery.com/azamour",
     "sire": "Night Shift",
-    "gsire": "Lear Fan",
+    "dsire": "Lear Fan",
     "mstn": ["--","--","--"]
   },
   {
@@ -6563,7 +6585,7 @@
     "bmi": 182.5,
     "href": "https://www.jbis.or.jp/horse/0000989072/",
     "sire": "Tony Bin",
-    "gsire": "Wild Rush",
+    "dsire": "Wild Rush",
     "mstn": ["--","--","--"]
   },
   {
@@ -6574,7 +6596,7 @@
     "bmi": 182.9,
     "href": "https://www.jbis.or.jp/horse/0000225911/",
     "sire": "Bikala",
-    "gsire": "Carvin",
+    "dsire": "Carvin",
     "mstn": ["--","--","--"]
   },
   {
@@ -6585,7 +6607,7 @@
     "bmi": 182.9,
     "href": "https://www.jbis.or.jp/horse/0000139946/",
     "sire": "Dandy Lute",
-    "gsire": "Minsky",
+    "dsire": "Minsky",
     "mstn": ["--","--","--"]
   },
   {
@@ -6596,7 +6618,7 @@
     "bmi": 184.3,
     "href": "https://www.jbis.or.jp/horse/0000615577/",
     "sire": "Classic Go Go",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["CT","--","--"]
   },
   {
@@ -6607,7 +6629,7 @@
     "bmi": 184.3,
     "href": "https://www.jbis.or.jp/horse/0001090394/",
     "sire": "サクラバクシンオー",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CC","TT"]
   },
   {
@@ -6618,7 +6640,7 @@
     "bmi": 185.0,
     "href": "https://www.pedigreequery.com/teuflesberg",
     "sire": "Johannesburg",
-    "gsire": "Devils Bag",
+    "dsire": "Devils Bag",
     "mstn": ["--","--","--"]
   },
   {
@@ -6629,7 +6651,7 @@
     "bmi": 185.0,
     "href": "https://www.jbis.or.jp/horse/0001142673/",
     "sire": "サクラバクシンオー",
-    "gsire": "Kingmambo",
+    "dsire": "Kingmambo",
     "mstn": ["CC","CC","CC"]
   },
   {
@@ -6640,7 +6662,7 @@
     "bmi": 185.0,
     "href": "https://www.jbis.or.jp/horse/0001043955/",
     "sire": "ゼンノロブロイ",
-    "gsire": "Candy Stripes",
+    "dsire": "Candy Stripes",
     "mstn": ["--","--","--"]
   },
   {
@@ -6651,7 +6673,7 @@
     "bmi": 185.0,
     "href": "https://www.pedigreequery.com/sea+the+stars",
     "sire": "Cape Cross",
-    "gsire": "Miswaki",
+    "dsire": "Miswaki",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -6662,7 +6684,7 @@
     "bmi": 186.4,
     "href": "https://www.pedigreequery.com/preferment3",
     "sire": "Zabeel",
-    "gsire": "Flying Spur",
+    "dsire": "Flying Spur",
     "mstn": ["--","--","CT"]
   },
   {
@@ -6673,7 +6695,7 @@
     "bmi": 187.1,
     "href": "https://www.pedigreequery.com/delzao",
     "sire": "Encosta De Lago",
-    "gsire": "Alzao",
+    "dsire": "Alzao",
     "mstn": ["--","--","--"]
   },
   {
@@ -6684,7 +6706,7 @@
     "bmi": 187.1,
     "href": "https://www.pedigreequery.com/tough+speed",
     "sire": "Miswaki",
-    "gsire": "Nijinsky",
+    "dsire": "Nijinsky",
     "mstn": ["--","--","TT"]
   },
   {
@@ -6695,7 +6717,7 @@
     "bmi": 187.5,
     "href": "https://www.pedigreequery.com/dylan+thomas",
     "sire": "Danehill",
-    "gsire": "Diesis",
+    "dsire": "Diesis",
     "mstn": ["CT","CC","--"]
   },
   {
@@ -6706,7 +6728,7 @@
     "bmi": 187.8,
     "href": "https://www.pedigreequery.com/luso",
     "sire": "Salse",
-    "gsire": "High Line",
+    "dsire": "High Line",
     "mstn": ["--","--","--"]
   },
   {
@@ -6717,7 +6739,7 @@
     "bmi": 187.8,
     "href": "https://www.jbis.or.jp/horse/0000287925/",
     "sire": "Devils Bag",
-    "gsire": "Caerleon",
+    "dsire": "Caerleon",
     "mstn": ["CT","--","--"]
   },
   {
@@ -6728,7 +6750,7 @@
     "bmi": 188.5,
     "href": "https://www.pedigreequery.com/danewin",
     "sire": "Danehill",
-    "gsire": "My Swanee",
+    "dsire": "My Swanee",
     "mstn": ["--","CC","--"]
   },
   {
@@ -6739,7 +6761,7 @@
     "bmi": 189.3,
     "href": "https://www.jbis.or.jp/horse/0001040066/",
     "sire": "Mineshaft",
-    "gsire": "Deputy Minister",
+    "dsire": "Deputy Minister",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6750,7 +6772,7 @@
     "bmi": 189.3,
     "href": "https://www.jbis.or.jp/horse/0001307217/",
     "sire": "Sinister Minister",
-    "gsire": "Afleet",
+    "dsire": "Afleet",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6761,7 +6783,7 @@
     "bmi": 189.6,
     "href": "https://www.pedigreequery.com/uncle+mo",
     "sire": "Indian Charlie",
-    "gsire": "Arch",
+    "dsire": "Arch",
     "mstn": ["--","--","--"]
   },
   {
@@ -6772,7 +6794,7 @@
     "bmi": 190.0,
     "href": "https://www.jbis.or.jp/horse/0000723355/",
     "sire": "Adjudicating",
-    "gsire": "Judge Angelucci",
+    "dsire": "Judge Angelucci",
     "mstn": ["--","--","--"]
   },
   {
@@ -6783,7 +6805,7 @@
     "bmi": 190.7,
     "href": "https://www.jbis.or.jp/horse/0001269426/",
     "sire": "ジャスタウェイ",
-    "gsire": "Dansili",
+    "dsire": "Dansili",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -6794,7 +6816,7 @@
     "bmi": 190.7,
     "href": "https://www.jbis.or.jp/horse/0001043831/",
     "sire": "キングカメハメハ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -6805,7 +6827,7 @@
     "bmi": 191.4,
     "href": "https://www.pedigreequery.com/haradasun",
     "sire": "Fusaichi Pegasus",
-    "gsire": "Marscay",
+    "dsire": "Marscay",
     "mstn": ["--","--","--"]
   },
   {
@@ -6816,7 +6838,7 @@
     "bmi": 191.4,
     "href": "https://www.jbis.or.jp/horse/0001177848/",
     "sire": "Roman Ruler",
-    "gsire": "Giants Causeway",
+    "dsire": "Giants Causeway",
     "mstn": ["--","--","CT"]
   },
   {
@@ -6827,7 +6849,7 @@
     "bmi": 191.7,
     "href": "https://www.pedigreequery.com/champions+gallery",
     "sire": "Dansili",
-    "gsire": "Slip Anchor",
+    "dsire": "Slip Anchor",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6838,7 +6860,7 @@
     "bmi": 192.1,
     "href": "https://www.jbis.or.jp/horse/0001092122/",
     "sire": "ディープインパクト",
-    "gsire": "Lyphard",
+    "dsire": "Lyphard",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6849,7 +6871,7 @@
     "bmi": 192.8,
     "href": "https://www.pedigreequery.com/gentlemen",
     "sire": "Robin Des Bois",
-    "gsire": "Loose Cannon",
+    "dsire": "Loose Cannon",
     "mstn": ["--","--","--"]
   },
   {
@@ -6860,7 +6882,7 @@
     "bmi": 192.8,
     "href": "https://www.pedigreequery.com/giacomo2",
     "sire": "Holly Bull",
-    "gsire": "Stop The Music",
+    "dsire": "Stop The Music",
     "mstn": ["--","--","--"]
   },
   {
@@ -6871,7 +6893,7 @@
     "bmi": 192.8,
     "href": "https://www.pedigreequery.com/gig+harbor2",
     "sire": "City Zip",
-    "gsire": "St Jovite",
+    "dsire": "St Jovite",
     "mstn": ["CC","--","--"]
   },
   {
@@ -6882,7 +6904,7 @@
     "bmi": 192.8,
     "href": "https://www.pedigreequery.com/lil+e+tee",
     "sire": "At The Threshold",
-    "gsire": "For The Moment",
+    "dsire": "For The Moment",
     "mstn": ["--","--","--"]
   },
   {
@@ -6893,7 +6915,7 @@
     "bmi": 192.8,
     "href": "https://www.pedigreequery.com/secretariat",
     "sire": "Bold Ruler",
-    "gsire": "Princequillo",
+    "dsire": "Princequillo",
     "mstn": ["CT","--","TT"]
   },
   {
@@ -6904,7 +6926,7 @@
     "bmi": 192.8,
     "href": "https://www.pedigreequery.com/swaps",
     "sire": "Khaled",
-    "gsire": "Beau Pepe",
+    "dsire": "Beau Pepe",
     "mstn": ["--","--","--"]
   },
   {
@@ -6915,7 +6937,7 @@
     "bmi": 192.8,
     "href": "https://www.jbis.or.jp/horse/0001263828/",
     "sire": "ブラックタイド",
-    "gsire": "サクラバクシンオー",
+    "dsire": "サクラバクシンオー",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -6926,7 +6948,7 @@
     "bmi": 193.5,
     "href": "https://www.jbis.or.jp/horse/0001215726/",
     "sire": "ゴールドアリュール",
-    "gsire": "エルコンドルパサー",
+    "dsire": "エルコンドルパサー",
     "mstn": ["--","CT","--"]
   },
   {
@@ -6937,7 +6959,7 @@
     "bmi": 194.5,
     "href": "https://www.pedigreequery.com/trade+storm",
     "sire": "Trade Fair",
-    "gsire": "Slip Anchor",
+    "dsire": "Slip Anchor",
     "mstn": ["--","--","--"]
   },
   {
@@ -6948,7 +6970,7 @@
     "bmi": 194.9,
     "href": "https://www.pedigreequery.com/born+to+jazz",
     "sire": "Kingmambo",
-    "gsire": "Kris S",
+    "dsire": "Kris S",
     "mstn": ["CT","CC","TT"]
   },
   {
@@ -6959,7 +6981,7 @@
     "bmi": 194.9,
     "href": "https://www.pedigreequery.com/vancouver23",
     "sire": "Medaglia Doro",
-    "gsire": "Danehill",
+    "dsire": "Danehill",
     "mstn": ["CT","--","CC"]
   },
   {
@@ -6970,7 +6992,7 @@
     "bmi": 196.3,
     "href": "https://www.jbis.or.jp/horse/0001171105/",
     "sire": "ディープインパクト",
-    "gsire": "White Muzzle",
+    "dsire": "White Muzzle",
     "mstn": ["--","TT","--"]
   },
   {
@@ -6981,7 +7003,7 @@
     "bmi": 199.1,
     "href": "https://www.pedigreequery.com/kahal",
     "sire": "Machiavellian",
-    "gsire": "Green Desert",
+    "dsire": "Green Desert",
     "mstn": ["--","--","CC"]
   },
   {
@@ -6992,7 +7014,7 @@
     "bmi": 196.7,
     "href": "https://www.pedigreequery.com/bolt+doro",
     "sire": "Medaglia Doro",
-    "gsire": "Ap Indy",
+    "dsire": "Ap Indy",
     "mstn": ["--","--","TT"]
   },
   {
@@ -7003,7 +7025,7 @@
     "bmi": 205.9,
     "href": "https://www.pedigreequery.com/ferrule",
     "sire": "Danehill",
-    "gsire": "Damascus",
+    "dsire": "Damascus",
     "mstn": ["--","CC","--"]
   },
   {
@@ -7014,7 +7036,7 @@
     "bmi": 209.0,
     "href": "https://www.pedigreequery.com/animal+kingdom",
     "sire": "Leroidesanimaux",
-    "gsire": "Acatenango",
+    "dsire": "Acatenango",
     "mstn": ["--","--","--"]
   },
   {
@@ -7025,7 +7047,7 @@
     "bmi": 209.0,
     "href": "https://www.pedigreequery.com/gufo",
     "sire": "Declaration Of War",
-    "gsire": "Petionville",
+    "dsire": "Petionville",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7036,7 +7058,7 @@
     "bmi": 170.2,
     "href": "https://www.jbis.or.jp/horse/0001185811/",
     "sire": "ディープインパクト",
-    "gsire": "Deputy Minister",
+    "dsire": "Deputy Minister",
     "mstn": ["--","TT","--"]
   },
   {
@@ -7047,7 +7069,7 @@
     "bmi": 171.6,
     "href": "https://www.jbis.or.jp/horse/0001090769/",
     "sire": "ディープインパクト",
-    "gsire": "Unbridled",
+    "dsire": "Unbridled",
     "mstn": ["--","TT","--"]
   },
   {
@@ -7058,7 +7080,7 @@
     "bmi": 173.0,
     "href": "https://www.jbis.or.jp/horse/0000274860/",
     "sire": "Sunday Silence",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -7069,7 +7091,7 @@
     "bmi": 173.0,
     "href": "https://www.jbis.or.jp/horse/0000901749/",
     "sire": "フジキセキ",
-    "gsire": "Pleasant Colony",
+    "dsire": "Pleasant Colony",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -7080,7 +7102,7 @@
     "bmi": 174.4,
     "href": "https://www.jbis.or.jp/horse/0001309176/",
     "sire": "キタサンブラック",
-    "gsire": "キングヘイロー",
+    "dsire": "キングヘイロー",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7091,7 +7113,7 @@
     "bmi": 174.8,
     "href": "https://www.jbis.or.jp/horse/0000334825/",
     "sire": "Fair Play",
-    "gsire": "Rock Sand",
+    "dsire": "Rock Sand",
     "mstn": ["--","--","--"]
   },
   {
@@ -7102,7 +7124,7 @@
     "bmi": 175.1,
     "href": "https://www.jbis.or.jp/horse/0000762497/",
     "sire": "Sunday Silence",
-    "gsire": "Alzao",
+    "dsire": "Alzao",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -7113,7 +7135,7 @@
     "bmi": 176.5,
     "href": "https://www.jbis.or.jp/horse/0000274883/",
     "sire": "Sunday Silence",
-    "gsire": "Nijinsky",
+    "dsire": "Nijinsky",
     "mstn": ["TT","TT","TT"]
   },
   {
@@ -7124,7 +7146,7 @@
     "bmi": 177.6,
     "href": "https://www.jbis.or.jp/horse/0001108609/",
     "sire": "Sinister Minister",
-    "gsire": "Assatis",
+    "dsire": "Assatis",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7135,7 +7157,7 @@
     "bmi": 178.6,
     "href": "https://www.jbis.or.jp/horse/0000619768/",
     "sire": "Nureyev",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["CT","CC","TT"]
   },
   {
@@ -7146,7 +7168,7 @@
     "bmi": 179.3,
     "href": "https://www.jbis.or.jp/horse/0000308973/",
     "sire": "Northern Taste",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CC","TT"]
   },
   {
@@ -7157,7 +7179,7 @@
     "bmi": 179.7,
     "href": "https://www.jbis.or.jp/horse/0001138240/",
     "sire": "スクリーンヒーロー",
-    "gsire": "Carnegie",
+    "dsire": "Carnegie",
     "mstn": ["CT","--","--"]
   },
   {
@@ -7168,7 +7190,7 @@
     "bmi": 180.7,
     "href": "https://www.jbis.or.jp/horse/0001193308/",
     "sire": "Wildcat Heir",
-    "gsire": "Two Punch",
+    "dsire": "Two Punch",
     "mstn": ["--","--","--"]
   },
   {
@@ -7179,7 +7201,7 @@
     "bmi": 182.1,
     "href": "https://www.jbis.or.jp/horse/0000995275/",
     "sire": "シンボリクリスエス",
-    "gsire": "Smart Strike",
+    "dsire": "Smart Strike",
     "mstn": ["--","TT","--"]
   },
   {
@@ -7190,7 +7212,7 @@
     "bmi": 183.5,
     "href": "https://www.jbis.or.jp/horse/0000201489/",
     "sire": "アンバーシャダイ",
-    "gsire": "メジロサンマン",
+    "dsire": "メジロサンマン",
     "mstn": ["--","--","--"]
   },
   {
@@ -7201,7 +7223,7 @@
     "bmi": 187.0,
     "href": "https://www.pedigreequery.com/arrogate2",
     "sire": "Unbridleds Song",
-    "gsire": "Distorted Humor",
+    "dsire": "Distorted Humor",
     "mstn": ["--","--","--"]
   },
   {
@@ -7212,7 +7234,7 @@
     "bmi": 187.4,
     "href": "https://www.pedigreequery.com/dano-mast",
     "sire": "Unfuwain",
-    "gsire": "Kalaglow",
+    "dsire": "Kalaglow",
     "mstn": ["--","--","--"]
   },
   {
@@ -7223,7 +7245,7 @@
     "bmi": 188.4,
     "href": "https://www.jbis.or.jp/horse/0000725485/",
     "sire": "Sunday Silence",
-    "gsire": "Northern Taste",
+    "dsire": "Northern Taste",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -7234,7 +7256,7 @@
     "bmi": 189.1,
     "href": "https://www.jbis.or.jp/horse/0001089854/",
     "sire": "キングカメハメハ",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -7245,7 +7267,7 @@
     "bmi": 167.5,
     "href": "https://www.jbis.or.jp/horse/0000325276/",
     "sire": "Sunday Silence",
-    "gsire": "Nureyev",
+    "dsire": "Nureyev",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -7256,7 +7278,7 @@
     "bmi": 170.2,
     "href": "https://www.jbis.or.jp/horse/0000158547/",
     "sire": "Northern Taste",
-    "gsire": "Bounteous",
+    "dsire": "Bounteous",
     "mstn": ["--","CC","--"]
   },
   {
@@ -7267,7 +7289,7 @@
     "bmi": 171.0,
     "href": "https://www.pedigreequery.com/mirage+dancer3",
     "sire": "Frankel",
-    "gsire": "Green Desert",
+    "dsire": "Green Desert",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -7278,7 +7300,7 @@
     "bmi": 173.8,
     "href": "https://www.pedigreequery.com/real+quiet",
     "sire": "Quiet American",
-    "gsire": "Believe It",
+    "dsire": "Believe It",
     "mstn": ["--","--","--"]
   },
   {
@@ -7289,7 +7311,7 @@
     "bmi": 173.1,
     "href": "https://www.jbis.or.jp/horse/0000617479/",
     "sire": "Danehill",
-    "gsire": "Alysheba",
+    "dsire": "Alysheba",
     "mstn": ["--","CC","--"]
   },
   {
@@ -7300,7 +7322,7 @@
     "bmi": 174.0,
     "href": "https://www.pedigreequery.com/silverwave",
     "sire": "Silver Frost",
-    "gsire": "River Mist",
+    "dsire": "River Mist",
     "mstn": ["--","--","--"]
   },
   {
@@ -7311,7 +7333,7 @@
     "bmi": 174.4,
     "href": "https://www.jbis.or.jp/horse/0000324971/",
     "sire": "Sunday Silence",
-    "gsire": "Law Society",
+    "dsire": "Law Society",
     "mstn": ["TT","TT","--"]
   },
   {
@@ -7322,7 +7344,7 @@
     "bmi": 176.5,
     "href": "https://www.jbis.or.jp/horse/0000723427/",
     "sire": "Sunday Silence",
-    "gsire": "Garde Royale",
+    "dsire": "Garde Royale",
     "mstn": ["--","TT","--"]
   },
   {
@@ -7333,7 +7355,7 @@
     "bmi": 177.2,
     "href": "https://www.jbis.or.jp/horse/0000313435/",
     "sire": "Sunday Silence",
-    "gsire": "Carr De Naskra",
+    "dsire": "Carr De Naskra",
     "mstn": ["--","TT","--"]
   },
   {
@@ -7344,7 +7366,7 @@
     "bmi": 178.6,
     "href": "https://www.jbis.or.jp/horse/0000742999/",
     "sire": "エルコンドルパサー",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -7355,7 +7377,7 @@
     "bmi": 179.2,
     "href": "https://www.pedigreequery.com/honor+a+p",
     "sire": "Honor Code",
-    "gsire": "Wild Rush",
+    "dsire": "Wild Rush",
     "mstn": ["--","--","--"]
   },
   {
@@ -7366,7 +7388,7 @@
     "bmi": 179.2,
     "href": "https://www.jbis.or.jp/horse/0000058685/",
     "sire": "Intermezzo",
-    "gsire": "Nimbus",
+    "dsire": "Nimbus",
     "mstn": ["--","--","--"]
   },
   {
@@ -7377,7 +7399,7 @@
     "bmi": 181.0,
     "href": "https://www.pedigreequery.com/free+port+lux",
     "sire": "Oasis Dream",
-    "gsire": "Monsun",
+    "dsire": "Monsun",
     "mstn": ["--","--","TT"]
   },
   {
@@ -7388,7 +7410,7 @@
     "bmi": 181.3,
     "href": "https://www.pedigreequery.com/rojo+dinero",
     "sire": "Red Ransom",
-    "gsire": "Wardlaw",
+    "dsire": "Wardlaw",
     "mstn": ["--","--","--"]
   },
   {
@@ -7399,7 +7421,7 @@
     "bmi": 182.0,
     "href": "https://www.pedigreequery.com/bienamado",
     "sire": "Bien Bien",
-    "gsire": "Vitiges",
+    "dsire": "Vitiges",
     "mstn": ["--","--","--"]
   },
   {
@@ -7410,7 +7432,7 @@
     "bmi": 184.1,
     "href": "https://www.jbis.or.jp/horse/0001170750/",
     "sire": "ゴールドアリュール",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7421,7 +7443,7 @@
     "bmi": 184.1,
     "href": "https://www.jbis.or.jp/horse/0000701785/",
     "sire": "Sunday Silence",
-    "gsire": "Nureyev",
+    "dsire": "Nureyev",
     "mstn": ["--","TT","CC"]
   },
   {
@@ -7432,7 +7454,7 @@
     "bmi": 184.1,
     "href": "https://www.jbis.or.jp/horse/0001191873/",
     "sire": "ゴールドアリュール",
-    "gsire": "Thunder Gulch",
+    "dsire": "Thunder Gulch",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7443,7 +7465,7 @@
     "bmi": 184.8,
     "href": "https://www.pedigreequery.com/ivanhowe",
     "sire": "Soldier Hollow",
-    "gsire": "Sternkonig",
+    "dsire": "Sternkonig",
     "mstn": ["--","--","--"]
   },
   {
@@ -7454,7 +7476,7 @@
     "bmi": 184.8,
     "href": "https://www.pedigreequery.com/mckinzie",
     "sire": "Street Sense",
-    "gsire": "Petionville",
+    "dsire": "Petionville",
     "mstn": ["--","--","--"]
   },
   {
@@ -7465,7 +7487,7 @@
     "bmi": 184.8,
     "href": "https://www.pedigreequery.com/workforce",
     "sire": "Kings Best",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","CT","TT"]
   },
   {
@@ -7476,7 +7498,7 @@
     "bmi": 184.8,
     "href": "https://www.jbis.or.jp/horse/0000145106/",
     "sire": "Never Beat",
-    "gsire": "Tesco Boy",
+    "dsire": "Tesco Boy",
     "mstn": ["--","--","--"]
   },
   {
@@ -7487,7 +7509,7 @@
     "bmi": 185.5,
     "href": "https://www.pedigreequery.com/marsh+side",
     "sire": "Gone West",
-    "gsire": "Pleasant Colony",
+    "dsire": "Pleasant Colony",
     "mstn": ["--","--","--"]
   },
   {
@@ -7498,7 +7520,7 @@
     "bmi": 186.2,
     "href": "https://www.jbis.or.jp/horse/0001142460/",
     "sire": "White Muzzle",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["--","--","--"]
   },
   {
@@ -7509,7 +7531,7 @@
     "bmi": 186.6,
     "href": "https://www.jbis.or.jp/horse/0001123166/",
     "sire": "Timber Country",
-    "gsire": "ゴールドアリュール",
+    "dsire": "ゴールドアリュール",
     "mstn": ["CT","--","CT"]
   },
   {
@@ -7520,7 +7542,7 @@
     "bmi": 187.5,
     "href": "https://www.pedigreequery.com/polanski6",
     "sire": "Rakti",
-    "gsire": "Citidancer",
+    "dsire": "Citidancer",
     "mstn": ["--","--","--"]
   },
   {
@@ -7531,7 +7553,7 @@
     "bmi": 187.5,
     "href": "https://www.pedigreequery.com/silver+patriarch",
     "sire": "Saddlers Hall",
-    "gsire": "Grey Dawn",
+    "dsire": "Grey Dawn",
     "mstn": ["--","--","--"]
   },
   {
@@ -7542,7 +7564,7 @@
     "bmi": 188.3,
     "href": "https://www.pedigreequery.com/friend+or+foe2",
     "sire": "Friends Lake",
-    "gsire": "Unbridled",
+    "dsire": "Unbridled",
     "mstn": ["--","--","--"]
   },
   {
@@ -7553,7 +7575,7 @@
     "bmi": 188.3,
     "href": "https://www.pedigreequery.com/native+dancer",
     "sire": "Polynesian",
-    "gsire": "Discovery",
+    "dsire": "Discovery",
     "mstn": ["--","--","--"]
   },
   {
@@ -7564,7 +7586,7 @@
     "bmi": 188.3,
     "href": "https://www.pedigreequery.com/silentio",
     "sire": "Silent Name",
-    "gsire": "Ap Indy",
+    "dsire": "Ap Indy",
     "mstn": ["--","--","TT"]
   },
   {
@@ -7575,7 +7597,7 @@
     "bmi": 188.3,
     "href": "https://www.pedigreequery.com/silky+sullivan",
     "sire": "Sullivan",
-    "gsire": "Ambrose Light",
+    "dsire": "Ambrose Light",
     "mstn": ["--","--","--"]
   },
   {
@@ -7586,7 +7608,7 @@
     "bmi": 188.3,
     "href": "https://www.pedigreequery.com/the+wicked+north",
     "sire": "Far North",
-    "gsire": "Good Behaving",
+    "dsire": "Good Behaving",
     "mstn": ["--","--","--"]
   },
   {
@@ -7597,7 +7619,7 @@
     "bmi": 188.3,
     "href": "https://www.pedigreequery.com/tiznow",
     "sire": "Cees Tizzy",
-    "gsire": "Seattle Song",
+    "dsire": "Seattle Song",
     "mstn": ["CT","--","--"]
   },
   {
@@ -7608,7 +7630,7 @@
     "bmi": 190.3,
     "href": "https://www.pedigreequery.com/gronkowski2",
     "sire": "Lonhro",
-    "gsire": "Lookin At Lucky",
+    "dsire": "Lookin At Lucky",
     "mstn": ["--","--","--"]
   },
   {
@@ -7619,7 +7641,7 @@
     "bmi": 191.7,
     "href": "https://www.jbis.or.jp/horse/0001194505/",
     "sire": "Tapit",
-    "gsire": "Sunday Silence",
+    "dsire": "Sunday Silence",
     "mstn": ["--","--","TT"]
   },
   {
@@ -7630,7 +7652,7 @@
     "bmi": 193.8,
     "href": "https://www.jbis.or.jp/horse/0001193283/",
     "sire": "Langfuhr",
-    "gsire": "Gone West",
+    "dsire": "Gone West",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7641,7 +7663,7 @@
     "bmi": 194.5,
     "href": "https://www.jbis.or.jp/horse/0001219361/",
     "sire": "ゴールドアリュール",
-    "gsire": "French Deputy",
+    "dsire": "French Deputy",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7652,7 +7674,7 @@
     "bmi": 196.2,
     "href": "https://www.pedigreequery.com/quality+road",
     "sire": "Elusive Quality",
-    "gsire": "Strawberry Road",
+    "dsire": "Strawberry Road",
     "mstn": ["--","--","--"]
   },
   {
@@ -7663,7 +7685,7 @@
     "bmi": 200.7,
     "href": "https://www.pedigreequery.com/catalina+cruiser",
     "sire": "Union Rags",
-    "gsire": "Mineshaft",
+    "dsire": "Mineshaft",
     "mstn": ["--","--","CT"]
   },
   {
@@ -7674,7 +7696,7 @@
     "bmi": 204.2,
     "href": "https://www.pedigreequery.com/flower+alleya",
     "sire": "Distorted Humor",
-    "gsire": "Lycius",
+    "dsire": "Lycius",
     "mstn": ["--","--","--"]
   },
   {
@@ -7685,7 +7707,7 @@
     "bmi": 204.2,
     "href": "https://www.pedigreequery.com/graydar",
     "sire": "Unbridleds Song",
-    "gsire": "Dehere",
+    "dsire": "Dehere",
     "mstn": ["CT","--","--"]
   },
   {
@@ -7696,7 +7718,7 @@
     "bmi": 204.2,
     "href": "https://www.pedigreequery.com/omaha",
     "sire": "Gallant Fox",
-    "gsire": "Wrack",
+    "dsire": "Wrack",
     "mstn": ["--","--","--"]
   },
   {
@@ -7707,7 +7729,7 @@
     "bmi": 207.7,
     "href": "https://www.pedigreequery.com/endless+drama",
     "sire": "Lope De Vega",
-    "gsire": "Green Desert",
+    "dsire": "Green Desert",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -7718,7 +7740,7 @@
     "bmi": 207.7,
     "href": "https://www.pedigreequery.com/exosphere",
     "sire": "Lonhro",
-    "gsire": "Shadea",
+    "dsire": "Shadea",
     "mstn": ["--","--","--"]
   },
   {
@@ -7729,7 +7751,7 @@
     "bmi": 219.7,
     "href": "https://www.pedigreequery.com/sargent+stalker",
     "sire": "Tizbud",
-    "gsire": "Petersburg",
+    "dsire": "Petersburg",
     "mstn": ["--","--","--"]
   },
   {
@@ -7740,7 +7762,7 @@
     "bmi": 174.4,
     "href": "https://www.jbis.or.jp/horse/0000316264/",
     "sire": "Sunday Silence",
-    "gsire": "Well Decorated",
+    "dsire": "Well Decorated",
     "mstn": ["--","TT","--"]
   },
   {
@@ -7751,7 +7773,7 @@
     "bmi": 178.6,
     "href": "https://www.jbis.or.jp/horse/0001109433/",
     "sire": "マイネルラヴ",
-    "gsire": "Chief Bearhart",
+    "dsire": "Chief Bearhart",
     "mstn": ["--","--","--"]
   },
   {
@@ -7762,7 +7784,7 @@
     "bmi": 181.3,
     "href": "https://www.jbis.or.jp/horse/0000036106/",
     "sire": "China Rock",
-    "gsire": "Karim",
+    "dsire": "Karim",
     "mstn": ["--","--","--"]
   },
   {
@@ -7773,7 +7795,7 @@
     "bmi": 201.8,
     "href": "https://www.pedigreequery.com/nadal15",
     "sire": "Blame",
-    "gsire": "Pulpit",
+    "dsire": "Pulpit",
     "mstn": ["--","--","CT"]
   },
   {
@@ -7784,7 +7806,7 @@
     "bmi": 167.4,
     "href": "https://www.pedigreequery.com/mac+swiney",
     "sire": "New Approach",
-    "gsire": "Teofilo",
+    "dsire": "Teofilo",
     "mstn": ["CT","CT","CT"]
   },
   {
@@ -7795,7 +7817,7 @@
     "bmi": 175.1,
     "href": "https://www.jbis.or.jp/horse/0000325218/",
     "sire": "Sunday Silence",
-    "gsire": "Sadlers Wells",
+    "dsire": "Sadlers Wells",
     "mstn": ["--","TT","TT"]
   },
   {
@@ -7806,7 +7828,7 @@
     "bmi": 175.8,
     "href": "https://www.jbis.or.jp/horse/0000029738/",
     "sire": "Hard Ridden",
-    "gsire": "Tiepolo",
+    "dsire": "Tiepolo",
     "mstn": ["--","--","--"]
   },
   {
@@ -7817,7 +7839,7 @@
     "bmi": 178.5,
     "href": "https://www.jbis.or.jp/horse/0001088803/",
     "sire": "ハーツクライ",
-    "gsire": "Storm Bird",
+    "dsire": "Storm Bird",
     "mstn": ["CT","CT","--"]
   },
   {
@@ -7828,7 +7850,7 @@
     "bmi": 179.5,
     "href": "https://www.jbis.or.jp/horse/0001137571/",
     "sire": "ディープインパクト",
-    "gsire": "Storm Cat",
+    "dsire": "Storm Cat",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -7839,7 +7861,7 @@
     "bmi": 182.6,
     "href": "https://www.jbis.or.jp/horse/0001155349/",
     "sire": "ブラックタイド",
-    "gsire": "サクラバクシンオー",
+    "dsire": "サクラバクシンオー",
     "mstn": ["CT","TT","CC"]
   },
   {
@@ -7850,7 +7872,7 @@
     "bmi": 194.4,
     "href": "https://www.pedigreequery.com/justify11",
     "sire": "Scat Daddy",
-    "gsire": "Ghostzapper",
+    "dsire": "Ghostzapper",
     "mstn": ["--","--","--"]
   },
   {
@@ -7861,7 +7883,7 @@
     "bmi": 173.8,
     "href": "https://www.jbis.or.jp/horse/0001046333/",
     "sire": "ネオユニヴァース",
-    "gsire": "Machiavellian",
+    "dsire": "Machiavellian",
     "mstn": ["--","--","--"]
   },
   {
@@ -7872,7 +7894,7 @@
     "bmi": 180.5,
     "href": "https://www.jbis.or.jp/horse/0000118750/",
     "sire": "Tudenham",
-    "gsire": "Solonaway",
+    "dsire": "Solonaway",
     "mstn": ["--","--","--"]
   },
   {
@@ -7883,7 +7905,7 @@
     "bmi": 180.8,
     "href": "https://www.jbis.or.jp/horse/0001207641/",
     "sire": "アドマイヤオーラ",
-    "gsire": "シンボリクリスエス",
+    "dsire": "シンボリクリスエス",
     "mstn": ["--","--","TT"]
   },
   {
@@ -7894,7 +7916,7 @@
     "bmi": 181.8,
     "href": "https://www.pedigreequery.com/eternal+prince",
     "sire": "Majestic Prince",
-    "gsire": "Fleet Nasrullah",
+    "dsire": "Fleet Nasrullah",
     "mstn": ["--","--","--"]
   },
   {
@@ -7905,7 +7927,7 @@
     "bmi": 185.8,
     "href": "https://www.pedigreequery.com/point+given",
     "sire": "Thunder Gulch",
-    "gsire": "Turkoman",
+    "dsire": "Turkoman",
     "mstn": ["--","--","--"]
   },
   {
@@ -7916,7 +7938,7 @@
     "bmi": 189.4,
     "href": "https://www.pedigreequery.com/hold+me+back",
     "sire": "Giants Causeway",
-    "gsire": "Unbridleds Song",
+    "dsire": "Unbridleds Song",
     "mstn": ["--","CT","--"]
   },
   {
@@ -7927,7 +7949,7 @@
     "bmi": 189.4,
     "href": "https://www.pedigreequery.com/outwork",
     "sire": "Uncle Mo",
-    "gsire": "Empire Maker",
+    "dsire": "Empire Maker",
     "mstn": ["--","--","--"]
   },
   {
@@ -7938,7 +7960,7 @@
     "bmi": 190.5,
     "href": "https://www.pedigreequery.com/king+of+steel3",
     "sire": "Wootton Bassett",
-    "gsire": "Verglas",
+    "dsire": "Verglas",
     "mstn": ["--","--","--"]
   },
   {
@@ -7949,7 +7971,7 @@
     "bmi": 194.1,
     "href": "https://www.pedigreequery.com/military",
     "sire": "Danzig",
-    "gsire": "Wavering Monarch",
+    "dsire": "Wavering Monarch",
     "mstn": ["--","CC","--"]
   },
   {
@@ -7960,7 +7982,7 @@
     "bmi": 197.1,
     "href": "https://www.pedigreequery.com/gemologist2",
     "sire": "Tiznow",
-    "gsire": "Mr Prospector",
+    "dsire": "Mr Prospector",
     "mstn": ["--","CT","CC"]
   },
   {
@@ -7971,7 +7993,7 @@
     "bmi": 197.1,
     "href": "https://www.pedigreequery.com/mobile+bay3",
     "sire": "Lone Star Special",
-    "gsire": "Out Of Place",
+    "dsire": "Out Of Place",
     "mstn": ["--","--","--"]
   },
   {
@@ -7982,7 +8004,7 @@
     "bmi": 200.5,
     "href": "https://www.pedigreequery.com/sentinel",
     "sire": "No Reprieve",
-    "gsire": "Wilwyn",
+    "dsire": "Wilwyn",
     "mstn": ["--","--","--"]
   },
   {
@@ -7993,7 +8015,7 @@
     "bmi": 203.8,
     "href": "https://www.pedigreequery.com/menari",
     "sire": "Snitzel",
-    "gsire": "General Nediym",
+    "dsire": "General Nediym",
     "mstn": ["--","--","--"]
   },
   {
@@ -8004,7 +8026,7 @@
     "bmi": 204.5,
     "href": "https://www.pedigreequery.com/black+mackee",
     "sire": "Captain Courageous",
-    "gsire": "Six Fifteen",
+    "dsire": "Six Fifteen",
     "mstn": ["--","--","--"]
   },
   {
@@ -8015,7 +8037,7 @@
     "bmi": 212.2,
     "href": "https://www.pedigreequery.com/bates+motel",
     "sire": "Sir Ivor",
-    "gsire": "Tv Lark",
+    "dsire": "Tv Lark",
     "mstn": ["--","--","--"]
   },
   {
@@ -8026,7 +8048,7 @@
     "bmi": 173.7,
     "href": "https://www.jbis.or.jp/horse/0000115064/",
     "sire": "マルゼンスキー",
-    "gsire": "Only For Life",
+    "dsire": "Only For Life",
     "mstn": ["--","--","--"]
   },
   {
@@ -8037,7 +8059,7 @@
     "bmi": 180.7,
     "href": "https://www.pedigreequery.com/songandaprayer",
     "sire": "Unbridleds Song",
-    "gsire": "Premiership",
+    "dsire": "Premiership",
     "mstn": ["--","--","--"]
   },
   {
@@ -8048,7 +8070,7 @@
     "bmi": 209.7,
     "href": "https://www.pedigreequery.com/whopper",
     "sire": "Pharamond",
-    "gsire": "Luke Mcluke",
+    "dsire": "Luke Mcluke",
     "mstn": ["--","--","--"]
   },
   {
@@ -8059,7 +8081,7 @@
     "bmi": 170.4,
     "href": "https://www.pedigreequery.com/jatski",
     "sire": "Jatullah",
-    "gsire": "Greek Game",
+    "dsire": "Greek Game",
     "mstn": ["--","--","--"]
   },
   {
@@ -8070,7 +8092,7 @@
     "bmi": 188.7,
     "href": "https://www.pedigreequery.com/verrazano6",
     "sire": "More Than Ready",
-    "gsire": "Giants Causeway",
+    "dsire": "Giants Causeway",
     "mstn": ["--","CT","CT"]
   },
   {
@@ -8081,7 +8103,7 @@
     "bmi": 192.7,
     "href": "https://www.pedigreequery.com/fio+rito",
     "sire": "Dreaming Native",
-    "gsire": "Sea Charger",
+    "dsire": "Sea Charger",
     "mstn": ["--","--","--"]
   },
   {
@@ -8092,7 +8114,7 @@
     "bmi": 183.4,
     "href": "https://www.pedigreequery.com/dortmund3",
     "sire": "Big Brown",
-    "gsire": "Tale Of The Cat",
+    "dsire": "Tale Of The Cat",
     "mstn": ["--","--","CC"]
   },
   {
@@ -8103,7 +8125,7 @@
     "bmi": 182.1,
     "href": "https://www.pedigreequery.com/best+turn",
     "sire": "Turn-to",
-    "gsire": "Swaps",
+    "dsire": "Swaps",
     "mstn": ["--","--","--"]
   },
   {
@@ -8114,7 +8136,7 @@
     "bmi": 233.7,
     "href": "https://www.pedigreequery.com/holy+roller3",
     "sire": "Sanction",
-    "gsire": "Imperial Prince",
+    "dsire": "Imperial Prince",
     "mstn": ["--","--","--"]
   }
 ]
