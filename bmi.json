@@ -2431,6 +2431,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Xtravagant",
+    "year": 2012,
+    "hh": 163,
+    "wt": 508,
+    "bmi": 191.2,
+    "href": "https://www.pedigreequery.com/xtravagant",
+    "sire": "Pentire",
+    "gsire": "Zabeel",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "フジキセキ",
     "year": 1992,
     "hh": 163,
@@ -5190,6 +5201,17 @@
     "sire": "Mr Prospector",
     "gsire": "Danzig",
     "mstn": ["--","CC","CC"]
+  },
+  {
+    "name": "Shakespeare",
+    "year": 2001,
+    "hh": 166,
+    "wt": 499,
+    "bmi": 181.1,
+    "href": "https://www.pedigreequery.com/shakespeare10",
+    "sire": "Theatrical",
+    "gsire": "Thats A Nice",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Lightning Spear",
