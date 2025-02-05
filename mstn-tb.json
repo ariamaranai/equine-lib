@@ -21319,6 +21319,40 @@
   ],
   [
     {
+      "name": "アーモンドアイ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001203363/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ロードカナロア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001089850/",
+      "mstn": "CC"
+    },
+    {
+      "name": "フサイチパンドラ",
+      "year": 2003,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000762056/",
+      "mstn": ""
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "インディチャンプ",
       "year": 2015,
       "cnty": "JPN",
