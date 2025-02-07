@@ -2596,6 +2596,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Choisir",
+    "year": 1999,
+    "hh": 163,
+    "wt": 530,
+    "bmi": 199.5,
+    "href": "https://www.pedigreequery.com/choisir",
+    "sire": "Danehill Dancer",
+    "dsire": "Lunchtime",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Mor Spirit",
     "year": 2013,
     "hh": 163,
@@ -7782,7 +7793,7 @@
     "hh": 170,
     "wt": 590,
     "bmi": 204.2,
-    "href": "https://www.pedigreequery.com/flower+alleya",
+    "href": "https://www.pedigreequery.com/flower+alley",
     "sire": "Distorted Humor",
     "dsire": "Lycius",
     "mstn": ["--","--","--"]
