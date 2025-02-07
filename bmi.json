@@ -209,6 +209,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Arazi",
+    "year": 1989,
+    "hh": 158,
+    "wt": 453,
+    "bmi": 181.5,
+    "href": "https://www.pedigreequery.com/arazi",
+    "sire": "Blushing Groom",
+    "dsire": "Northern Dancer",
+    "mstn": ["--","--","CT"]
+  },
+  {
     "name": "Tom Rolfe",
     "year": 1962,
     "hh": 158,
@@ -6919,6 +6930,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "Boat Trip",
+    "year": 2009,
+    "hh": 168,
+    "wt": 544,
+    "bmi": 192.8,
+    "href": "https://www.pedigreequery.com/boat+trip2",
+    "sire": "Harlans Holiday",
+    "dsire": "Seeking The Gold",
+    "mstn": ["--","--","CC"]
+  },
+  {
     "name": "Gentleman",
     "year": 2008,
     "hh": 168,
@@ -7588,6 +7610,17 @@
     "sire": "Timber Country",
     "dsire": "ゴールドアリュール",
     "mstn": ["CT","--","CT"]
+  },
+  {
+    "name": "Candy Boy",
+    "year": 2011,
+    "hh": 170,
+    "wt": 540,
+    "bmi": 187.5,
+    "href": "https://www.pedigreequery.com/candy+boy4",
+    "sire": "Candy Ride",
+    "dsire": "In Excess",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Polanski",
