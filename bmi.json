@@ -3033,7 +3033,7 @@
     "href": "https://www.pedigreequery.com/bago2",
     "sire": "Nashwan",
     "dsire": "Nureyev",
-    "mstn": ["--","--","CC"]
+    "mstn": ["CT","--","CC"]
   },
   {
     "name": "Egerton",
@@ -3243,6 +3243,17 @@
     "sire": "ハーツクライ",
     "dsire": "Wild Again",
     "mstn": ["CT","CT","--"]
+  },
+  {
+    "name": "ステラヴェローチェ",
+    "year": 2018,
+    "hh": 164,
+    "wt": 504,
+    "bmi": 187.4,
+    "href": "https://www.jbis.or.jp/horse/0001268890/",
+    "sire": "Bago",
+    "dsire": "ディープインパクト",
+    "mstn": ["--","CT","TT"]
   },
   {
     "name": "スマートオーディン",
@@ -5344,6 +5355,17 @@
     "sire": "Kingmambo",
     "dsire": "Last Tycoon",
     "mstn": ["CT","CC","--"]
+  },
+  {
+    "name": "セリフォス",
+    "year": 2019,
+    "hh": 166,
+    "wt": 502,
+    "bmi": 182.2,
+    "href": "https://www.jbis.or.jp/horse/0001312254/",
+    "sire": "ダイワメジャー",
+    "dsire": "Le Havre",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "ビービーガルサン",
