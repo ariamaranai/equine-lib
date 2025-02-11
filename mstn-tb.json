@@ -5645,6 +5645,40 @@
   ],
   [
     {
+      "name": "サリオス",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237164/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ハーツクライ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000722158/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Salomina",
+      "year": 2009,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/salomina",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lomitas",
+      "year": 1988,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/lomitas",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "スノージュエリー",
       "year": 2017,
       "cnty": "JPN",
@@ -26074,6 +26108,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/more+than+ready",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Salomina",
+      "year": 2009,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/salomina",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lomitas",
+      "year": 1988,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/lomitas",
+      "mstn": ""
+    },
+    {
+      "name": "Saldentigerin",
+      "year": 2001,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/saldentigerin",
+      "mstn": ""
+    },
+    {
+      "name": "Tiger Hill",
+      "year": 1995,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tiger+hill",
       "mstn": "CT"
     }
   ],
