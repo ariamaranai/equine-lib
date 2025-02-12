@@ -5764,6 +5764,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Bel Esprit",
+    "year": 1999,
+    "hh": 166,
+    "wt": 550,
+    "bmi": 199.6,
+    "href": "https://www.pedigreequery.com/bel+esprit2",
+    "sire": "Royal Academy",
+    "dsire": "Vain",
+    "mstn": ["CC","CT","--"]
+  },
+  {
     "name": "アジアエクスプレス",
     "year": 2011,
     "hh": 166,
