@@ -275,6 +275,40 @@
     {
       "name": "-",
       "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Maxfield",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/maxfield2",
+      "mstn": ""
+    },
+    {
+      "name": "Two Shakes",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/two+shakes2",
+      "mstn": ""
+    },
+    {
+      "name": "Exchange Rate",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/exchange+rate",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001369899/",
@@ -12887,6 +12921,40 @@
   ],
   [
     {
+      "name": "Doge",
+      "year": 2024,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "R F F Abracadabra",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/r+f+f+abracadabra",
+      "mstn": "CT"
+    },
+    {
+      "name": "Ask Jo Jo",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ask+jo+jo",
+      "mstn": ""
+    },
+    {
+      "name": "Cryptoclearance",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/cryptoclearance",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Dragonella",
       "year": 2024,
       "cnty": "USA",
@@ -22033,6 +22101,40 @@
   ],
   [
     {
+      "name": "Puffery",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/puffery2",
+      "mstn": "CT"
+    },
+    {
+      "name": "Flattery",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/flatter3",
+      "mstn": ""
+    },
+    {
+      "name": "Celestial Sweep",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/celestial+sweep",
+      "mstn": ""
+    },
+    {
+      "name": "Eddington",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/eddington3",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "Strategic",
       "year": 2015,
       "cnty": "IRE",
@@ -23769,8 +23871,8 @@
     {
       "name": "R F F Abracadabra",
       "year": 2013,
-      "cnty": "AUS",
-      "sex": "M",
+      "cnty": "USA",
+      "sex": "S",
       "href": "https://www.pedigreequery.com/r+f+f+abracadabra",
       "mstn": "CT"
     },
@@ -24136,6 +24238,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/celtic+swing",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Effortlessly",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/effortlessly4",
+      "mstn": "CT"
+    },
+    {
+      "name": "Run Away And Hide",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/run+away+and+hide",
+      "mstn": "CC"
+    },
+    {
+      "name": "Moonskipper",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/moonskipper",
+      "mstn": ""
+    },
+    {
+      "name": "Stephen Got Even",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/stephen+got+even",
       "mstn": ""
     }
   ],
@@ -37435,6 +37571,40 @@
   ],
   [
     {
+      "name": "Iowa",
+      "year": 2018,
+      "cnty": "IRE",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/iowa20",
+      "mstn": "TT"
+    },
+    {
+      "name": "Galileo",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/galileo4",
+      "mstn": "TT"
+    },
+    {
+      "name": "Bridal Dance",
+      "year": 2006,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bridal+dance3",
+      "mstn": ""
+    },
+    {
+      "name": "Danehill Dancer",
+      "year": 1993,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/danehill+dancer",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Meghato",
       "year": 2018,
       "cnty": "HUN",
@@ -41073,40 +41243,6 @@
   ],
   [
     {
-      "name": "Ladys Comet",
-      "year": 2011,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/ladys+comet",
-      "mstn": "TT"
-    },
-    {
-      "name": "Comet Shine",
-      "year": 1991,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/comet+shine",
-      "mstn": ""
-    },
-    {
-      "name": "Lady Coffee",
-      "year": 1991,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/lady+coffee",
-      "mstn": ""
-    },
-    {
-      "name": "Star Choice",
-      "year": 1979,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/star+choice",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Latoscana",
       "year": 2011,
       "cnty": "IRE",
@@ -41918,6 +42054,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/fort+chaffee",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Ladys Comet",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ladys+comet",
+      "mstn": "TT"
+    },
+    {
+      "name": "Comet Shine",
+      "year": 1991,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/comet+shine",
+      "mstn": ""
+    },
+    {
+      "name": "Lady Coffee",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lady+coffee",
+      "mstn": ""
+    },
+    {
+      "name": "Star Choice",
+      "year": 1979,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/star+choice",
       "mstn": ""
     }
   ],
