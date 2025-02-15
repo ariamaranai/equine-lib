@@ -5742,6 +5742,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Nashua",
+    "year": 1952,
+    "hh": 166,
+    "wt": 544,
+    "bmi": 197.5,
+    "href": "https://www.pedigreequery.com/nashua",
+    "sire": "Nasrullah",
+    "dsire": "Johnstown",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "ゴスホークケン",
     "year": 2005,
     "hh": 166,
