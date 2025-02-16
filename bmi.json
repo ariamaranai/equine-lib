@@ -550,6 +550,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Counterpoint",
+    "year": 1948,
+    "hh": 160,
+    "wt": 453,
+    "bmi": 177.0,
+    "href": "https://www.pedigreequery.com/counterpoint",
+    "sire": "Count Fleet",
+    "dsire": "Sickle",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Count Fleet",
     "year": 1940,
     "hh": 160,
