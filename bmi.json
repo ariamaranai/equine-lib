@@ -924,6 +924,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Singspiel",
+    "year": 1992,
+    "hh": 161,
+    "wt": 464,
+    "bmi": 179.0,
+    "href": "https://www.pedigreequery.com/singspiel4",
+    "sire": "In The Wings",
+    "dsire": "Halo",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "オウケンマジック",
     "year": 2006,
     "hh": 161,
