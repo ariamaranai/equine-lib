@@ -1,5 +1,16 @@
 [
   {
+    "name": "Silver Thistle",
+    "year": 1949,
+    "hh": 150,
+    "wt": 499,
+    "bmi": 221.8,
+    "href": "https://www.pedigreequery.com/silver+thistle",
+    "sire": "Green Flash",
+    "dsire": "Wildair",
+    "mstn": ["CC","--","--"]
+  },
+  {
     "name": "Larry The Legend",
     "year": 1992,
     "hh": 152,
@@ -41,6 +52,17 @@
     "href": "https://www.jbis.or.jp/horse/0000005240/",
     "sire": "Bouffleur",
     "dsire": "Primero",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Uncle Jimmie Gray",
+    "year": 1906,
+    "hh": 155,
+    "wt": 476,
+    "bmi": 198.1,
+    "href": "https://www.pedigreequery.com/uncle+jimmie+gray",
+    "sire": "Bonnie Joe",
+    "dsire": "Bowling Green",
     "mstn": ["--","--","--"]
   },
   {
@@ -5038,6 +5060,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Beduino",
+    "year": 1968,
+    "hh": 165,
+    "wt": 567,
+    "bmi": 208.3,
+    "href": "https://www.pedigreequery.com/beduino",
+    "sire": "Romany Royal",
+    "dsire": "Rejected",
+    "mstn": ["CC","--","--"]
+  },
+  {
     "name": "Rich Enuff",
     "year": 2011,
     "hh": 165,
@@ -5058,6 +5091,17 @@
     "sire": "Dutch Art",
     "dsire": "Montjeu",
     "mstn": ["--","--","TT"]
+  },
+  {
+    "name": "Heisanative",
+    "year": 1969,
+    "hh": 165,
+    "wt": 612,
+    "bmi": 224.8,
+    "href": "https://www.pedigreequery.com/heisanative",
+    "sire": "Raise A Native",
+    "dsire": "Double Jay",
+    "mstn": ["CC","CC","--"]
   },
   {
     "name": "War Emblem",
@@ -5761,7 +5805,7 @@
     "href": "https://www.pedigreequery.com/alydar",
     "sire": "Raise A Native",
     "dsire": "On-and-on",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "Charismatic",
@@ -6069,7 +6113,7 @@
     "href": "https://www.pedigreequery.com/majestic+prince",
     "sire": "Raise A Native",
     "dsire": "Royal Charger",
-    "mstn": ["--","--","CT"]
+    "mstn": ["--","CC","CT"]
   },
   {
     "name": "ジャスティンミラノ",
@@ -7929,6 +7973,17 @@
     "sire": "Lonhro",
     "dsire": "Shadea",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Kool Kingdom",
+    "year": 2017,
+    "hh": 170,
+    "wt": 635,
+    "bmi": 219.7,
+    "href": "https://www.pedigreequery.com/kool+kingdom",
+    "sire": "Animal Kingdom",
+    "dsire": "Tale Of The Cat",
+    "mstn": ["--","--","CC"]
   },
   {
     "name": "Sargent Stalker",

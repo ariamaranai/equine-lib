@@ -12696,7 +12696,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/raise+a+native",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Gold Digger",
@@ -12712,6 +12712,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/nashua",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Heisanative",
+      "year": 1969,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/heisanative",
+      "mstn": "CC"
+    },
+    {
+      "name": "Raise A Native",
+      "year": 1961,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/raise+a+native",
+      "mstn": "CC"
+    },
+    {
+      "name": "Times Two",
+      "year": 1958,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/times+two",
+      "mstn": ""
+    },
+    {
+      "name": "Double Jay",
+      "year": 1944,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/double+jay",
       "mstn": ""
     }
   ],
@@ -12819,6 +12853,40 @@
   ],
   [
     {
+      "name": "Raise A Native",
+      "year": 1961,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/raise+a+native",
+      "mstn": "CC"
+    },
+    {
+      "name": "Native Dancer",
+      "year": 1950,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/native+dancer",
+      "mstn": ""
+    },
+    {
+      "name": "Raise You",
+      "year": 1946,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/raise+you",
+      "mstn": ""
+    },
+    {
+      "name": "Case Ace",
+      "year": 1934,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/case+ace",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Nearctic",
       "year": 1954,
       "cnty": "CAN",
@@ -12849,6 +12917,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/hyperion",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Silver Thistle",
+      "year": 1949,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/silver+thistle",
+      "mstn": "CC"
+    },
+    {
+      "name": "Green Flash",
+      "year": 1938,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/green+flash",
+      "mstn": ""
+    },
+    {
+      "name": "Thistle Cleo",
+      "year": 1932,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/thistle+cleo",
+      "mstn": ""
+    },
+    {
+      "name": "Wildair",
+      "year": 1917,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/wildair",
+      "mstn": ""
     }
   ],
   [
