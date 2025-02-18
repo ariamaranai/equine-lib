@@ -330,6 +330,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Duck Dance",
+    "year": 1967,
+    "hh": 158,
+    "wt": 590,
+    "bmi": 236.3,
+    "href": "https://www.pedigreequery.com/duck+dance",
+    "sire": "Water Prince",
+    "dsire": "Swoons Son",
+    "mstn": ["CC","--","--"]
+  },
+  {
     "name": "Javas War",
     "year": 2010,
     "hh": 159,
