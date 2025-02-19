@@ -2420,6 +2420,17 @@
     "mstn": ["CT","TT","--"]
   },
   {
+    "name": "Burrow",
+    "year": 2018,
+    "hh": 163,
+    "wt": 499,
+    "bmi": 187.8,
+    "href": "https://www.pedigreequery.com/burrow",
+    "sire": "Candy Ride",
+    "dsire": "Menifee",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Timboroa",
     "year": 1996,
     "hh": 163,
@@ -2715,6 +2726,17 @@
     "sire": "Danehill",
     "dsire": "Kingmambo",
     "mstn": ["--","CC","CC"]
+  },
+  {
+    "name": "Candy Zip",
+    "year": 2015,
+    "hh": 163,
+    "wt": 544,
+    "bmi": 204.7,
+    "href": "https://www.pedigreequery.com/candy+zip",
+    "sire": "Sidneys Candy",
+    "dsire": "City Zip",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Hidden Dragon",
@@ -7269,6 +7291,28 @@
     "sire": "Declaration Of War",
     "dsire": "Petionville",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "Jackson",
+    "year": 2016,
+    "hh": 168,
+    "wt": 590,
+    "bmi": 209.0,
+    "href": "https://www.pedigreequery.com/jackson20",
+    "sire": "Kantharos",
+    "dsire": "Put It Back",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Tenpak",
+    "year": 2016,
+    "hh": 168,
+    "wt": 590,
+    "bmi": 209.0,
+    "href": "https://www.pedigreequery.com/tenpak",
+    "sire": "Chief White Fox",
+    "dsire": "Airdrie Apache",
+    "mstn": ["CT","--","--"]
   },
   {
     "name": "サングレーザー",
