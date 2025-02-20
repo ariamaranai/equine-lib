@@ -869,6 +869,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Ultimus",
+    "year": 1906,
+    "hh": 160,
+    "wt": 562,
+    "bmi": 219.5,
+    "href": "https://www.pedigreequery.com/ultimus",
+    "sire": "Commando",
+    "dsire": "Running Stream",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ステイゴールド",
     "year": 1994,
     "hh": 161,
