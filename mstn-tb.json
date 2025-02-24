@@ -69,6 +69,40 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001386801/",
+      "mstn": "CC"
+    },
+    {
+      "name": "グレーターロンドン",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149061/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ザデイ",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000988287/",
+      "mstn": "CT"
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "Merry Dancer",
       "year": 2024,
       "cnty": "USA",
@@ -24855,6 +24889,40 @@
   ],
   [
     {
+      "name": "グレーターロンドン",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149061/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ロンドンブリッジ",
+      "year": 1995,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000293158/",
+      "mstn": ""
+    },
+    {
+      "name": "Dr Devious",
+      "year": 1989,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dr+devious",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "サウンドアラムシャ",
       "year": 2012,
       "cnty": "JPN",
@@ -29678,6 +29746,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/fortunate+prospect",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ザデイ",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000988287/",
+      "mstn": "CT"
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ウエイアウト",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000250129/",
+      "mstn": ""
+    },
+    {
+      "name": "The Minstrel",
+      "year": 1974,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/the+minstrel",
       "mstn": ""
     }
   ],
