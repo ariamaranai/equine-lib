@@ -73,6 +73,40 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001389637/",
+      "mstn": "CC"
+    },
+    {
+      "name": "エフフォーリア",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001266977/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エンパイアブルー",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001151744/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Empire Maker",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/empire+maker",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001386801/",
       "mstn": "CC"
     },
@@ -13860,7 +13894,7 @@
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001151744/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Empire Maker",
@@ -16988,7 +17022,7 @@
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001151744/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Empire Maker",
@@ -17090,7 +17124,7 @@
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001151744/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Empire Maker",
@@ -19955,6 +19989,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/airdrie+apache",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "エフフォーリア",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001266977/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エピファネイア",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001124297/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ケイティーズハート",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001105037/",
+      "mstn": ""
+    },
+    {
+      "name": "ハーツクライ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000722158/",
+      "mstn": "CT"
     }
   ],
   [
@@ -24817,6 +24885,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/grand+lodge",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "エンパイアブルー",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001151744/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Empire Maker",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/empire+maker",
+      "mstn": ""
+    },
+    {
+      "name": "レフィナーダ",
+      "year": 2000,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000705382/",
+      "mstn": ""
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
     }
   ],
   [
@@ -35892,7 +35994,7 @@
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001151744/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Empire Maker",

@@ -4892,7 +4892,7 @@
     "href": "https://www.jbis.or.jp/horse/0001266977/",
     "sire": "エピファネイア",
     "dsire": "ハーツクライ",
-    "mstn": ["--","TT","CT"]
+    "mstn": ["CT","TT","CT"]
   },
   {
     "name": "Dumaani",
