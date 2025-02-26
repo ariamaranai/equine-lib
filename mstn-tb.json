@@ -13875,6 +13875,40 @@
     {
       "name": "-",
       "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001371318/",
+      "mstn": "CT"
+    },
+    {
+      "name": "オルフェーヴル",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001090360/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エナシャイズ",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001157667/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001374699/",
