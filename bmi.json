@@ -2211,6 +2211,17 @@
     "mstn": ["CT","--","CT"]
   },
   {
+    "name": "Smarty Jones",
+    "year": 2001,
+    "hh": 163,
+    "wt": 481,
+    "bmi": 181.0,
+    "href": "https://www.pedigreequery.com/smarty+jones",
+    "sire": "Elusive Quality",
+    "dsire": "Smile",
+    "mstn": ["CC","--","--"]
+  },
+  {
     "name": "ハクサンムーン",
     "year": 2009,
     "hh": 163,
@@ -8412,6 +8423,17 @@
     "href": "https://www.pedigreequery.com/fio+rito",
     "sire": "Dreaming Native",
     "dsire": "Sea Charger",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Roanoke",
+    "year": 1987,
+    "hh": 175,
+    "wt": 590,
+    "bmi": 192.7,
+    "href": "https://www.pedigreequery.com/roanoke2",
+    "sire": "Pleasant Colony",
+    "dsire": "Sea-bird",
     "mstn": ["--","--","--"]
   },
   {
