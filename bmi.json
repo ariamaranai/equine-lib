@@ -2101,17 +2101,6 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Hill Rise",
-    "year": 1961,
-    "hh": 163,
-    "wt": 476,
-    "bmi": 179.2,
-    "href": "https://www.pedigreequery.com/hill+rise",
-    "sire": "Hillary",
-    "dsire": "Russia",
-    "mstn": ["--","--","--"]
-  },
-  {
     "name": "Riva Ridge",
     "year": 1969,
     "hh": 163,
@@ -6589,6 +6578,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Hill Rise",
+    "year": 1961,
+    "hh": 168,
+    "wt": 499,
+    "bmi": 176.7,
+    "href": "https://www.pedigreequery.com/hill+rise",
+    "sire": "Hillary",
+    "dsire": "Russia",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ネオユニヴァース",
     "year": 2000,
     "hh": 168,
@@ -7126,6 +7126,17 @@
     "sire": "Harlans Holiday",
     "dsire": "Seeking The Gold",
     "mstn": ["--","--","CC"]
+  },
+  {
+    "name": "Gauchesco",
+    "year": 1961,
+    "hh": 168,
+    "wt": 544,
+    "bmi": 192.8,
+    "href": "https://www.pedigreequery.com/gauchesco",
+    "sire": "El Gaucho",
+    "dsire": "Sundodger",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Gentleman",
