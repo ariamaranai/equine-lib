@@ -2245,40 +2245,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2021,
-      "cnty": "AUS",
-      "sex": "M",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "So You Think",
-      "year": 2006,
-      "cnty": "NZ",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/so+you+think",
-      "mstn": "CT"
-    },
-    {
-      "name": "Coralina",
-      "year": 2009,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/coralina11/",
-      "mstn": ""
-    },
-    {
-      "name": "Dylan Thomas",
-      "year": 2003,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/dylan+thomas",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
       "name": "Acapulco Girl",
       "year": 2021,
       "cnty": "NZ",
@@ -2649,6 +2615,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/efisio",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Thinking Sensation",
+      "year": 2021,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/thinking+sensation",
+      "mstn": "CC"
+    },
+    {
+      "name": "So You Think",
+      "year": 2006,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/so+you+think",
+      "mstn": "CT"
+    },
+    {
+      "name": "Coralina",
+      "year": 2009,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/coralina11/",
+      "mstn": ""
+    },
+    {
+      "name": "Dylan Thomas",
+      "year": 2003,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dylan+thomas",
+      "mstn": "CT"
     }
   ],
   [
@@ -14893,40 +14893,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2022,
-      "cnty": "USA",
-      "sex": "M",
-      "href": "",
-      "mstn": "CT"
-    },
-    {
-      "name": "Oscar Performance",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/oscar+performance2",
-      "mstn": ""
-    },
-    {
-      "name": "Lady Of The Glen",
-      "year": 2010,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/lady+of+the+glen3",
-      "mstn": ""
-    },
-    {
-      "name": "Purim",
-      "year": 2002,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/purim3",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Art Laney",
       "year": 2022,
       "cnty": "AUS",
@@ -14957,6 +14923,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/shackleford",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Astar",
+      "year": 2022,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/astar6",
+      "mstn": "CT"
+    },
+    {
+      "name": "Oscar Performance",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/oscar+performance2",
+      "mstn": ""
+    },
+    {
+      "name": "Lady Of The Glen",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lady+of+the+glen3",
+      "mstn": ""
+    },
+    {
+      "name": "Purim",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/purim3",
+      "mstn": ""
     }
   ],
   [
