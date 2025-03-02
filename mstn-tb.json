@@ -1089,40 +1089,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2022,
-      "cnty": "AUS",
-      "sex": "M",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "Farnan",
-      "year": 2017,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/farnan2",
-      "mstn": ""
-    },
-    {
-      "name": "Impulsive",
-      "year": 2014,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/impulsive18",
-      "mstn": ""
-    },
-    {
-      "name": "So You Think",
-      "year": 2006,
-      "cnty": "NZ",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/so+you+think",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
       "name": "Apocalyptic",
       "year": 2022,
       "cnty": "AUS",
@@ -1425,6 +1391,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/all+too+hard",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Ninja",
+      "year": 2022,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/ninja28",
+      "mstn": "CC"
+    },
+    {
+      "name": "Farnan",
+      "year": 2017,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/farnan2",
+      "mstn": ""
+    },
+    {
+      "name": "Impulsive",
+      "year": 2014,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/impulsive18",
+      "mstn": ""
+    },
+    {
+      "name": "So You Think",
+      "year": 2006,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/so+you+think",
+      "mstn": "CT"
     }
   ],
   [
