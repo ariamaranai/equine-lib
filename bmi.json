@@ -2255,6 +2255,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "タイガーカフェ",
+    "year": 1999,
+    "hh": 163,
+    "wt": 484,
+    "bmi": 182.2,
+    "href": "https://www.jbis.or.jp/horse/0000619851/",
+    "sire": "Sunday Silence",
+    "dsire": "Bellotto",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "Charge Daffaires",
     "year": 1995,
     "hh": 163,
@@ -2968,6 +2979,17 @@
     "sire": "Brians Time",
     "dsire": "Northern Dancer",
     "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "Wallace",
+    "year": 1996,
+    "hh": 164,
+    "wt": 479,
+    "bmi": 178.1,
+    "href": "https://www.pedigreequery.com/wallace3",
+    "sire": "Royal Academy",
+    "dsire": "Darshaan",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Greys Inn",
@@ -4662,6 +4684,17 @@
     "sire": "ディープインパクト",
     "dsire": "Intikhab",
     "mstn": ["CT","TT","--"]
+  },
+  {
+    "name": "ポップロック",
+    "year": 2001,
+    "hh": 165,
+    "wt": 510,
+    "bmi": 187.4,
+    "href": "https://www.jbis.or.jp/horse/0000729003/",
+    "sire": "Helissio",
+    "dsire": "Sunday Silence",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "マカヒキ",
