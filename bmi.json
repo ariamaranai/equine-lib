@@ -2849,6 +2849,28 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "アドマイヤオーラ",
+    "year": 2004,
+    "hh": 164,
+    "wt": 456,
+    "bmi": 169.5,
+    "href": "https://www.jbis.or.jp/horse/0000801496/",
+    "sire": "アグネスタキオン",
+    "dsire": "Caerleon",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "ステキシンスケクン",
+    "year": 2003,
+    "hh": 164,
+    "wt": 464,
+    "bmi": 172.5,
+    "href": "https://www.jbis.or.jp/horse/0000880182/",
+    "sire": "Danzig",
+    "dsire": "Mr Prospector",
+    "mstn": ["--","CC","CC"]
+  },
+  {
     "name": "Summer Squall",
     "year": 1987,
     "hh": 164,
