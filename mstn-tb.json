@@ -23903,6 +23903,40 @@
   ],
   [
     {
+      "name": "ワイルドテイル",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001190479/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Came Home",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/came+home",
+      "mstn": ""
+    },
+    {
+      "name": "オーマイクリス",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001047847/",
+      "mstn": ""
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "Beowulf Divine",
       "year": 2013,
       "cnty": "CAN",
@@ -36172,6 +36206,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/empire+maker",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ホスマニエン",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001358563/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Dunkirk",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dunkirk9",
+      "mstn": "CT"
+    },
+    {
+      "name": "ワイルドテイル",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001190479/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Came Home",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/came+home",
       "mstn": ""
     }
   ],
