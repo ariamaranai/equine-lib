@@ -4060,7 +4060,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bully+pulpit",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Brynhild",
@@ -4110,7 +4110,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bully+pulpit",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -4264,7 +4264,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bully+pulpit",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Kespark",
@@ -4434,7 +4434,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bully+pulpit",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Macabea",
@@ -4468,7 +4468,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bully+pulpit",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Mazsola",
@@ -4774,7 +4774,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bully+pulpit",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Salalah",
@@ -4808,7 +4808,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bully+pulpit",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Sunny Girl",
@@ -11931,6 +11931,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/mr+prospector",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "Bully Pulpit",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/bully+pulpit",
+      "mstn": "CC"
+    },
+    {
+      "name": "Pulpit",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pulpit",
+      "mstn": "CT"
+    },
+    {
+      "name": "Madame Pandit",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/madame+pandit",
+      "mstn": ""
+    },
+    {
+      "name": "Wild Again",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/wild+again",
+      "mstn": ""
     }
   ],
   [
