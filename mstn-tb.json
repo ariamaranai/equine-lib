@@ -1730,7 +1730,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000701701/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -32573,6 +32573,40 @@
   ],
   [
     {
+      "name": "オレハマッテルゼ",
+      "year": 2000,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000701701/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
+    },
+    {
+      "name": "カーリーエンジェル",
+      "year": 1990,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000233038/",
+      "mstn": ""
+    },
+    {
+      "name": "Judge Angelucci",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/judge+angelucci",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Ap Jetter",
       "year": 1999,
       "cnty": "USA",
@@ -34778,40 +34812,6 @@
       "cnty": "",
       "sex": "S",
       "href": "",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 0,
-      "cnty": "ARG",
-      "sex": "",
-      "href": "https://thumbs2.rural-ftp.com/upload/w_600,q_60,o_input/https://ftp.rural-server.com/ofertas/images/nMFzbenD2Ci4gHSp.jpg",
-      "mstn": "CT"
-    },
-    {
-      "name": "Open Suegro",
-      "year": 1993,
-      "cnty": "ARG",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/open+suegro",
-      "mstn": ""
-    },
-    {
-      "name": "Chapaleufu Puritana",
-      "year": 2007,
-      "cnty": "ARG",
-      "sex": "F",
-      "href": "",
-      "mstn": ""
-    },
-    {
-      "name": "Polo Nevadito Ii",
-      "year": 1995,
-      "cnty": "ARG",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/polo+nevadito+ii",
       "mstn": ""
     }
   ],
@@ -37634,6 +37634,40 @@
       "cnty": "NZ",
       "sex": "S",
       "href": "https://www.pedigreequery.com/zabeel",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Yapa Santita",
+      "year": 2019,
+      "cnty": "ARG",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/yapa+santita",
+      "mstn": "CT"
+    },
+    {
+      "name": "Open Suegro",
+      "year": 1993,
+      "cnty": "ARG",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/open+suegro",
+      "mstn": ""
+    },
+    {
+      "name": "Chapaleufu Puritana",
+      "year": 2007,
+      "cnty": "ARG",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/chapaleufu+puritana",
+      "mstn": ""
+    },
+    {
+      "name": "Polo Nevadito Ii",
+      "year": 1995,
+      "cnty": "ARG",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/polo+nevadito+ii",
       "mstn": ""
     }
   ],
@@ -45207,7 +45241,7 @@
       "year": 2007,
       "cnty": "ARG",
       "sex": "F",
-      "href": "",
+      "href": "https://www.allbreedpedigree.com/chapaleufu+puritana",
       "mstn": ""
     },
     {
