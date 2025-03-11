@@ -7991,40 +7991,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2012,
-      "cnty": "AUS",
-      "sex": "M",
-      "href": "https://inglis.com.au/sale/2014-Melbourne-Premier-Yearling-Sale?tab=Catalogue&Selected_Lot=255",
-      "mstn": "CC"
-    },
-    {
-      "name": "Starcraft",
-      "year": 2000,
-      "cnty": "NZ",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/starcraft",
-      "mstn": ""
-    },
-    {
-      "name": "Fairessa",
-      "year": 1999,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/fairessa",
-      "mstn": ""
-    },
-    {
-      "name": "Encosta De Lago",
-      "year": 1993,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/encosta+de+lago",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Acceptance",
       "year": 2012,
       "cnty": "USA",
@@ -8496,6 +8462,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/gold+fever",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Staressa",
+      "year": 2012,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/staressa",
+      "mstn": "CC"
+    },
+    {
+      "name": "Starcraft",
+      "year": 2000,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/starcraft",
+      "mstn": ""
+    },
+    {
+      "name": "Fairessa",
+      "year": 1999,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/fairessa",
+      "mstn": ""
+    },
+    {
+      "name": "Encosta De Lago",
+      "year": 1993,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/encosta+de+lago",
       "mstn": ""
     }
   ],
