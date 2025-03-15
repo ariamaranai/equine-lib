@@ -1768,7 +1768,7 @@
     "href": "https://www.jbis.or.jp/horse/0001222285/",
     "sire": "Speightstown",
     "dsire": "Rahy",
-    "mstn": ["--","CC","CT"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "エーシントップ",
@@ -4430,7 +4430,7 @@
     "href": "https://www.pedigreequery.com/electronic+zone",
     "sire": "Rahy",
     "dsire": "Prince John",
-    "mstn": ["--","CT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ファイングレイン",
