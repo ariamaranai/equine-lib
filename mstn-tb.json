@@ -2755,6 +2755,40 @@
   ],
   [
     {
+      "name": "キタノマティーニ",
+      "year": 2021,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001340718/",
+      "mstn": "CC"
+    },
+    {
+      "name": "エスポワールシチー",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000888832/",
+      "mstn": ""
+    },
+    {
+      "name": "キタノユーリン",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001192621/",
+      "mstn": ""
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "スカイキャンバス",
       "year": 2021,
       "cnty": "JPN",
