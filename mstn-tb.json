@@ -6223,6 +6223,40 @@
   ],
   [
     {
+      "name": "ファストーゾ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001234008/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ロードカナロア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001089850/",
+      "mstn": "CC"
+    },
+    {
+      "name": "エーソングフォー",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001051918/",
+      "mstn": ""
+    },
+    {
+      "name": "More Than Ready",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/more+than+ready",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "プライムライン",
       "year": 2017,
       "cnty": "JPN",
