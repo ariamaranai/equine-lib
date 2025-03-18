@@ -817,6 +817,40 @@
   ],
   [
     {
+      "name": "シャンペトルブーケ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001371131/",
+      "mstn": "CC"
+    },
+    {
+      "name": "サトノダイヤモンド",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001175221/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エクストラペトル",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001155139/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "スウィープシャルム",
       "year": 2023,
       "cnty": "JPN",
@@ -14872,7 +14906,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001175221/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ブライトメッセージ",
@@ -15790,7 +15824,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001175221/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "トレサンセール",
@@ -16067,7 +16101,7 @@
     {
       "name": "スプリングノート",
       "year": 2014,
-      "cnty": "USA",
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001192324/",
       "mstn": "CT"
@@ -24646,6 +24680,40 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.pedigreequery.com/tony+bin",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "サトノダイヤモンド",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001175221/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Malpensa",
+      "year": 2006,
+      "cnty": "ARG",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/malpensa",
+      "mstn": ""
+    },
+    {
+      "name": "Orpen",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/orpen2",
       "mstn": ""
     }
   ],
@@ -35633,6 +35701,40 @@
   ],
   [
     {
+      "name": "アンフルラージュ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    },
+    {
+      "name": "スプリングノート",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001192324/",
+      "mstn": "CT"
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "カフラー",
       "year": 2023,
       "cnty": "USA",
@@ -36156,7 +36258,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001175221/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ケイココサージュ",
