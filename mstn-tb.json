@@ -6529,6 +6529,40 @@
   ],
   [
     {
+      "name": "フレンドゾーン",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001215800/",
+      "mstn": "CC"
+    },
+    {
+      "name": "サウスヴィグラス",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000310467/",
+      "mstn": ""
+    },
+    {
+      "name": "マルカフレンドリー",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000750302/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "Azpeitia",
       "year": 2015,
       "cnty": "GB",
@@ -12780,7 +12814,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/his+majesty",
-      "mstn": "TT"
+      "mstn": ""
     }
   ],
   [
@@ -32233,6 +32267,40 @@
   ],
   [
     {
+      "name": "マルカフレンドリー",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000750302/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
+    },
+    {
+      "name": "Friendly Beauty",
+      "year": 1992,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/friendly+beauty",
+      "mstn": ""
+    },
+    {
+      "name": "Stalwart",
+      "year": 1979,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/stalwart",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Eddington",
       "year": 2001,
       "cnty": "USA",
@@ -34728,7 +34796,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/his+majesty",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "Spring Adieu",
@@ -44876,40 +44944,6 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/hardicanute",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "His Majesty",
-      "year": 1968,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/his+majesty",
-      "mstn": "TT"
-    },
-    {
-      "name": "Ribot",
-      "year": 1952,
-      "cnty": "GB",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/ribot",
-      "mstn": ""
-    },
-    {
-      "name": "Flower Bowl",
-      "year": 1952,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/flower+bowl",
-      "mstn": ""
-    },
-    {
-      "name": "Alibhai",
-      "year": 1938,
-      "cnty": "GB",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/alibhai",
       "mstn": ""
     }
   ],
