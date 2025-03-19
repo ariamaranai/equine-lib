@@ -6529,6 +6529,40 @@
   ],
   [
     {
+      "name": "ファニーフラッシュ",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001217057/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ゴールドアリュール",
+      "year": 1999,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000619768/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ファニーストーリー",
+      "year": 2004,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000879965/",
+      "mstn": ""
+    },
+    {
+      "name": "Distorted Humor",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/distorted+humor",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "フレンドゾーン",
       "year": 2016,
       "cnty": "JPN",
