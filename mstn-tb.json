@@ -24188,7 +24188,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000324971/",
-      "mstn": "TT"
+      "mstn": "CT"
     },
     {
       "name": "ネヴァーピリオド",
@@ -33622,6 +33622,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/classic+go+go",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "マンハッタンカフェ",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000324971/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
+    },
+    {
+      "name": "Subtle Change",
+      "year": 1988,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/subtle+change",
+      "mstn": ""
+    },
+    {
+      "name": "Law Society",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/law+society",
       "mstn": ""
     }
   ],
@@ -44502,40 +44536,6 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/miswaki",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "マンハッタンカフェ",
-      "year": 1998,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000324971/",
-      "mstn": "TT"
-    },
-    {
-      "name": "Sunday Silence",
-      "year": 1986,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/sunday+silence",
-      "mstn": "TT"
-    },
-    {
-      "name": "Subtle Change",
-      "year": 1988,
-      "cnty": "IRE",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/subtle+change",
-      "mstn": ""
-    },
-    {
-      "name": "Law Society",
-      "year": 1982,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/law+society",
       "mstn": ""
     }
   ],
