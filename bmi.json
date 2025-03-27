@@ -1053,7 +1053,7 @@
     "href": "https://www.jbis.or.jp/horse/0001043988/",
     "sire": "マンハッタンカフェ",
     "dsire": "Generous",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "パンサラッサ",
@@ -2054,7 +2054,7 @@
     "href": "https://www.jbis.or.jp/horse/0001045360/",
     "sire": "マンハッタンカフェ",
     "dsire": "Lammtarra",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Emperor Jones",
@@ -4969,7 +4969,7 @@
     "href": "https://www.jbis.or.jp/horse/0000995651/",
     "sire": "マンハッタンカフェ",
     "dsire": "フサイチコンコルド",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Boom Time",
@@ -5596,7 +5596,7 @@
     "href": "https://www.jbis.or.jp/horse/0001233775/",
     "sire": "Sinister Minister",
     "dsire": "マンハッタンカフェ",
-    "mstn": ["--","CT","TT"]
+    "mstn": ["--","CT","CT"]
   },
   {
     "name": "ヒシマサル",
@@ -7697,7 +7697,7 @@
     "href": "https://www.jbis.or.jp/horse/0000324971/",
     "sire": "Sunday Silence",
     "dsire": "Law Society",
-    "mstn": ["TT","TT","--"]
+    "mstn": ["CT","TT","--"]
   },
   {
     "name": "レゴラス",
