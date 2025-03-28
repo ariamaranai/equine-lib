@@ -294,7 +294,7 @@
     "href": "https://www.jbis.or.jp/horse/0001187704/",
     "sire": "サウスヴィグラス",
     "dsire": "Brians Time",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "ノボジャック",
@@ -778,7 +778,7 @@
     "href": "https://www.jbis.or.jp/horse/0000882996/",
     "sire": "サウスヴィグラス",
     "dsire": "Park Regent",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "Mister Frisky",
@@ -1163,7 +1163,7 @@
     "href": "https://www.jbis.or.jp/horse/0000310467/",
     "sire": "End Sweep",
     "dsire": "Star De Naskra",
-    "mstn": ["--","--","--"]
+    "mstn": ["CC","--","--"]
   },
   {
     "name": "マスターフェンサー",
@@ -1757,7 +1757,7 @@
     "href": "https://www.jbis.or.jp/horse/0000990058/",
     "sire": "サウスヴィグラス",
     "dsire": "Afleet",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "マテラスカイ",
@@ -2296,7 +2296,7 @@
     "href": "https://www.jbis.or.jp/horse/0001167517/",
     "sire": "ディープインパクト",
     "dsire": "Brians Time",
-    "mstn": ["--","TT","--"]
+    "mstn": ["CT","TT","--"]
   },
   {
     "name": "Citation",
@@ -6388,7 +6388,7 @@
     "href": "https://www.jbis.or.jp/horse/0001188664/",
     "sire": "サウスヴィグラス",
     "dsire": "Cacoethes",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "シンボリクリスエス",

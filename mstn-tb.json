@@ -472,7 +472,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000310467/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -817,6 +817,40 @@
   ],
   [
     {
+      "name": "シュヴァルニブロン",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001372078/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ディーマジェスティ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001167517/",
+      "mstn": "CT"
+    },
+    {
+      "name": "メガホワイティ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001174048/",
+      "mstn": ""
+    },
+    {
+      "name": "キャプテントゥーレ",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000887465/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "スウィープシャルム",
       "year": 2023,
       "cnty": "JPN",
@@ -923,7 +957,7 @@
       "year": 2023,
       "cnty": "USA",
       "sex": "M",
-      "href": "",
+      "href": "https://www.jbis.or.jp/horse/0001404689/",
       "mstn": "CC"
     },
     {
@@ -949,6 +983,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/malibu+moon",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ベイビークエスト",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001369999/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Firenze Fire",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/firenze+fire",
+      "mstn": ""
+    },
+    {
+      "name": "ナムラエンジェル",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001133962/",
+      "mstn": ""
+    },
+    {
+      "name": "サウスヴィグラス",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000310467/",
+      "mstn": "CC"
     }
   ],
   [
@@ -2886,7 +2954,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000310467/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -6610,7 +6678,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000310467/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "マルカフレンドリー",
@@ -12679,6 +12747,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/secretariat",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "サウスヴィグラス",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000310467/",
+      "mstn": "CC"
+    },
+    {
+      "name": "End Sweep",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/end+sweep",
+      "mstn": ""
+    },
+    {
+      "name": "Darkest Star",
+      "year": 1989,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/darkest+star",
+      "mstn": ""
+    },
+    {
+      "name": "Star De Naskra",
+      "year": 1975,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/star+de+naskra",
+      "mstn": ""
     }
   ],
   [
@@ -24918,6 +25020,40 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000321292/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ディーマジェスティ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001167517/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    },
+    {
+      "name": "エルメスティアラ",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000329252/",
+      "mstn": ""
+    },
+    {
+      "name": "Brians Time",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/brians+time",
       "mstn": ""
     }
   ],
