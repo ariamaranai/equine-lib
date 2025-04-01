@@ -13091,6 +13091,40 @@
   ],
   [
     {
+      "name": "Deputy Minister",
+      "year": 1979,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/deputy+minister",
+      "mstn": "CC"
+    },
+    {
+      "name": "Vice Regent",
+      "year": 1967,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/vice+regent",
+      "mstn": ""
+    },
+    {
+      "name": "Mini Copy",
+      "year": 1970,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/mint+copy",
+      "mstn": ""
+    },
+    {
+      "name": "Buntys Flight",
+      "year": 1953,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/buntys+flight",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Danzig",
       "year": 1977,
       "cnty": "USA",
@@ -30766,7 +30800,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/deputy+minister",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
