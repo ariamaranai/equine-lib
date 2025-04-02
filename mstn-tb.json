@@ -13410,7 +13410,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/native+dancer",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Raise You",
@@ -13461,6 +13461,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/hyperion",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Native Dancer",
+      "year": 1950,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/native+dancer",
+      "mstn": "CC"
+    },
+    {
+      "name": "Polynesian",
+      "year": 1942,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/polynesian",
+      "mstn": ""
+    },
+    {
+      "name": "Geisha",
+      "year": 1943,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/geisha",
+      "mstn": ""
+    },
+    {
+      "name": "Discovery",
+      "year": 1931,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/discovery",
+      "mstn": ""
     }
   ],
   [
@@ -35212,7 +35246,7 @@
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.pedigreequery.com/natalma",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Native Dancer",
@@ -35220,6 +35254,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/native+dancer",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "Natalma",
+      "year": 1957,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/natalma",
+      "mstn": "CT"
+    },
+    {
+      "name": "Native Dancer",
+      "year": 1950,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/native+dancer",
+      "mstn": "CC"
+    },
+    {
+      "name": "Almahmoud",
+      "year": 1947,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/almahmoud",
+      "mstn": ""
+    },
+    {
+      "name": "Mahmoud",
+      "year": 1933,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mahmoud",
       "mstn": ""
     }
   ],

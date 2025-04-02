@@ -41,7 +41,7 @@
     "href": "https://www.pedigreequery.com/northern+dancer",
     "sire": "Nearctic",
     "dsire": "Native Dancer",
-    "mstn": ["CT","CC","--"]
+    "mstn": ["CT","CC","CC"]
   },
   {
     "name": "コダマ",
@@ -3432,17 +3432,6 @@
     "mstn": ["--","CT","--"]
   },
   {
-    "name": "Seattle Slew",
-    "year": 1974,
-    "hh": 164,
-    "wt": 508,
-    "bmi": 188.9,
-    "href": "https://www.pedigreequery.com/seattle+slew",
-    "sire": "Bold Reasoning",
-    "dsire": "Poker",
-    "mstn": ["--","--","--"]
-  },
-  {
     "name": "Powerscourt",
     "year": 2000,
     "hh": 164,
@@ -6787,6 +6776,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Seattle Slew",
+    "year": 1974,
+    "hh": 168,
+    "wt": 508,
+    "bmi": 180.0,
+    "href": "https://www.pedigreequery.com/seattle+slew",
+    "sire": "Bold Reasoning",
+    "dsire": "Poker",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Talkin Man",
     "year": 1992,
     "hh": 168,
@@ -7950,7 +7950,7 @@
     "href": "https://www.pedigreequery.com/native+dancer",
     "sire": "Polynesian",
     "dsire": "Discovery",
-    "mstn": ["--","--","--"]
+    "mstn": ["CC","--","--"]
   },
   {
     "name": "Silentio",
