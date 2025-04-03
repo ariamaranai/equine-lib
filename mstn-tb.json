@@ -11030,7 +11030,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/red+ransom",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Staging",
@@ -31600,7 +31600,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/red+ransom",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Fairy Lights",
@@ -34919,6 +34919,40 @@
   ],
   [
     {
+      "name": "Red Ransom",
+      "year": 1987,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/red+ransom",
+      "mstn": "CT"
+    },
+    {
+      "name": "Roberto",
+      "year": 1969,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/roberto",
+      "mstn": "TT"
+    },
+    {
+      "name": "Arabia",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/arabia",
+      "mstn": ""
+    },
+    {
+      "name": "Damascus",
+      "year": 1964,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/damascus",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Royal Academy",
       "year": 1987,
       "cnty": "USA",
@@ -37838,7 +37872,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/red+ransom",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -45064,7 +45098,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/roberto",
-      "mstn": ""
+      "mstn": "TT"
     },
     {
       "name": "Sharp Queen",
@@ -45148,6 +45182,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/hardicanute",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Roberto",
+      "year": 1969,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/roberto",
+      "mstn": "TT"
+    },
+    {
+      "name": "Hail To Reason",
+      "year": 1958,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/hail+to+reason",
+      "mstn": "TT"
+    },
+    {
+      "name": "Bramalea",
+      "year": 1959,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bramalea",
+      "mstn": ""
+    },
+    {
+      "name": "Nashua",
+      "year": 1952,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/nashua",
       "mstn": ""
     }
   ],

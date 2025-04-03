@@ -503,7 +503,7 @@
     "href": "https://www.pedigreequery.com/raintrap",
     "sire": "Rainbow Quest",
     "dsire": "Roberto",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "ダンスディレクター",
@@ -1251,7 +1251,7 @@
     "href": "https://www.pedigreequery.com/brians+time",
     "sire": "Roberto",
     "dsire": "Graustark",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "Poseidon Adventure",
@@ -5079,7 +5079,7 @@
     "href": "https://www.pedigreequery.com/tillerman",
     "sire": "In The Wings",
     "dsire": "Roberto",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "Gallant Fox",
@@ -6608,7 +6608,7 @@
     "href": "https://www.pedigreequery.com/ransom+note2",
     "sire": "Red Ransom",
     "dsire": "Polish Precedent",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "ロゴタイプ",
@@ -6751,7 +6751,7 @@
     "href": "https://www.pedigreequery.com/ekraar",
     "sire": "Red Ransom",
     "dsire": "Raja Baba",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "アドマイヤメイン",
@@ -7774,7 +7774,7 @@
     "href": "https://www.pedigreequery.com/rojo+dinero",
     "sire": "Red Ransom",
     "dsire": "Wardlaw",
-    "mstn": ["--","--","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Bienamado",
