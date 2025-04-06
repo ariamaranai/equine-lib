@@ -6212,7 +6212,7 @@
     "href": "https://www.jbis.or.jp/horse/0000069360/",
     "sire": "Nijinsky",
     "dsire": "Buckpasser",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "タップダンスシチー",
@@ -7026,7 +7026,7 @@
     "href": "https://www.pedigreequery.com/tough+speed",
     "sire": "Miswaki",
     "dsire": "Nijinsky",
-    "mstn": ["--","--","TT"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Dylan Thomas",
@@ -7499,7 +7499,7 @@
     "href": "https://www.jbis.or.jp/horse/0000274883/",
     "sire": "Sunday Silence",
     "dsire": "Nijinsky",
-    "mstn": ["TT","TT","TT"]
+    "mstn": ["TT","TT","--"]
   },
   {
     "name": "ダブルスター",

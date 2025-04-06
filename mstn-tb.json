@@ -12390,7 +12390,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/royal+academy2",
-      "mstn": "CT"
+      "mstn": ""
     },
     {
       "name": "Bespoken",
@@ -29390,7 +29390,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/royal+academy2",
-      "mstn": "CT"
+      "mstn": ""
     },
     {
       "name": "Another Legend",
@@ -29542,7 +29542,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/royal+academy2",
-      "mstn": "CT"
+      "mstn": ""
     }
   ],
   [
@@ -29780,7 +29780,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/royal+academy2",
-      "mstn": "CT"
+      "mstn": ""
     }
   ],
   [
@@ -30868,7 +30868,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/royal+academy2",
-      "mstn": "CT"
+      "mstn": ""
     }
   ],
   [
@@ -34030,7 +34030,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/nijinsky2",
-      "mstn": "TT"
+      "mstn": ""
     }
   ],
   [
@@ -34260,7 +34260,7 @@
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.pedigreequery.com/maplejinsky",
-      "mstn": "CT"
+      "mstn": ""
     },
     {
       "name": "Nijinsky",
@@ -34268,7 +34268,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/nijinsky2",
-      "mstn": "TT"
+      "mstn": ""
     }
   ],
   [
@@ -34626,7 +34626,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/royal+academy2",
-      "mstn": "CT"
+      "mstn": ""
     },
     {
       "name": "Saviour",
@@ -35021,40 +35021,6 @@
   ],
   [
     {
-      "name": "Royal Academy",
-      "year": 1987,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/royal+academy2",
-      "mstn": "CT"
-    },
-    {
-      "name": "Nijinsky",
-      "year": 1967,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/nijinsky2",
-      "mstn": "TT"
-    },
-    {
-      "name": "Crimson Saint",
-      "year": 1969,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/crimson+saint",
-      "mstn": ""
-    },
-    {
-      "name": "Crimson Satan",
-      "year": 1959,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/crimson+satan",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Scenic",
       "year": 1986,
       "cnty": "IRE",
@@ -35085,40 +35051,6 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/foolish+pleasure",
       "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "Maplejinsky",
-      "year": 1985,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/maplejinsky",
-      "mstn": "CT"
-    },
-    {
-      "name": "Nijinsky",
-      "year": 1967,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/nijinsky2",
-      "mstn": "TT"
-    },
-    {
-      "name": "Gold Beauty",
-      "year": 1979,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/gold+beauty",
-      "mstn": ""
-    },
-    {
-      "name": "Mr Prospector",
-      "year": 1970,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/mr+prospector",
-      "mstn": "CC"
     }
   ],
   [
@@ -44978,7 +44910,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/nijinsky2",
-      "mstn": "TT"
+      "mstn": ""
     }
   ],
   [
@@ -45319,40 +45251,6 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/princequillo",
       "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "Nijinsky",
-      "year": 1967,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/nijinsky2",
-      "mstn": "TT"
-    },
-    {
-      "name": "Northern Dancer",
-      "year": 1961,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/northern+dancer",
-      "mstn": "CT"
-    },
-    {
-      "name": "Flaming Page",
-      "year": 1959,
-      "cnty": "CAN",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/flaming+page",
-      "mstn": ""
-    },
-    {
-      "name": "Bull Page",
-      "year": 1947,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/bull+page",
-      "mstn": ""
     }
   ],
   [
