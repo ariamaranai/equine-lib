@@ -3011,7 +3011,7 @@
     "href": "https://www.pedigreequery.com/wallace3",
     "sire": "Royal Academy",
     "dsire": "Darshaan",
-    "mstn": ["--","CT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Greys Inn",
@@ -5486,7 +5486,7 @@
     "href": "https://www.pedigreequery.com/lightning+spear",
     "sire": "Pivotal",
     "dsire": "Royal Academy",
-    "mstn": ["--","--","CT"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Taipan",
@@ -5937,7 +5937,7 @@
     "href": "https://www.pedigreequery.com/bel+esprit2",
     "sire": "Royal Academy",
     "dsire": "Vain",
-    "mstn": ["CC","CT","--"]
+    "mstn": ["CC","--","--"]
   },
   {
     "name": "アジアエクスプレス",
@@ -6047,7 +6047,7 @@
     "href": "https://www.pedigreequery.com/kandidate",
     "sire": "Kabool",
     "dsire": "Royal Academy",
-    "mstn": ["--","--","CT"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "サンライズバッカス",
