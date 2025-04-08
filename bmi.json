@@ -1848,6 +1848,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Archipenko",
+    "year": 2004,
+    "hh": 163,
+    "wt": 454,
+    "bmi": 170.9,
+    "href": "https://www.pedigreequery.com/archipenko2",
+    "sire": "Kingmambo",
+    "dsire": "Nijinsky",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Auguste Rodin",
     "year": 2020,
     "hh": 163,
@@ -3738,6 +3749,17 @@
     "sire": "Nayef",
     "dsire": "Dansili",
     "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "Indian Creek",
+    "year": 1998,
+    "hh": 165,
+    "wt": 459,
+    "bmi": 168.6,
+    "href": "https://www.pedigreequery.com/indian+creek4",
+    "sire": "Indian Ridge",
+    "dsire": "Bering",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Chief Bearhart",
