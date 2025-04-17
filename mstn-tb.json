@@ -207,6 +207,40 @@
     {
       "name": "-",
       "year": 2023,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Wootton Bassett",
+      "year": 2008,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/wootton+bassett",
+      "mstn": ""
+    },
+    {
+      "name": "Tessneem",
+      "year": 2017,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/tessneem",
+      "mstn": ""
+    },
+    {
+      "name": "Lonhro",
+      "year": 1998,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/lonhro",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
       "cnty": "USA",
       "sex": "M",
       "href": "",
@@ -14004,6 +14038,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/elusive+quality",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "The Autumn Sun",
+      "year": 2015,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/the+autumn+sun",
+      "mstn": ""
+    },
+    {
+      "name": "Islands",
+      "year": 2016,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/islands2",
+      "mstn": ""
+    },
+    {
+      "name": "I Am Invincible",
+      "year": 2004,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/i+am+invincible",
       "mstn": ""
     }
   ],
