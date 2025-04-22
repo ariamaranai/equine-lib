@@ -374,6 +374,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Okawango",
+    "year": 1998,
+    "hh": 159,
+    "wt": 431,
+    "bmi": 170.4,
+    "href": "https://www.pedigreequery.com/okawango2",
+    "sire": "Kingmambo",
+    "dsire": "Kris",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "オーシャンブルー",
     "year": 2008,
     "hh": 159,
@@ -471,17 +482,6 @@
     "sire": "Olympia",
     "dsire": "Bull Dog",
     "mstn": ["--","--","--"]
-  },
-  {
-    "name": "Okawango",
-    "year": 1998,
-    "hh": 160,
-    "wt": 431,
-    "bmi": 168.4,
-    "href": "https://www.pedigreequery.com/okawango2",
-    "sire": "Kingmambo",
-    "dsire": "Kris",
-    "mstn": ["--","CC","--"]
   },
   {
     "name": "Firebreak",
@@ -1120,6 +1120,17 @@
     "sire": "ロードカナロア",
     "dsire": "Falbrav",
     "mstn": ["--","CC","--"]
+  },
+  {
+    "name": "バスラットレオン",
+    "year": 2018,
+    "hh": 161,
+    "wt": 495,
+    "bmi": 191.0,
+    "href": "https://www.jbis.or.jp/horse/0001270615/",
+    "sire": "キズナ",
+    "dsire": "New Approach",
+    "mstn": ["CT","CT","CT"]
   },
   {
     "name": "フサイチリシャール",
