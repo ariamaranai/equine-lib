@@ -4461,9 +4461,9 @@
     "wt": 498,
     "bmi": 183.0,
     "href": "https://www.jbis.or.jp/horse/0000760700/",
-    "sire": "Sunday Silence",
+    "sire": "フジキセキ",
     "dsire": "Polish Precedent",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Tiger Hill",
@@ -6774,6 +6774,17 @@
     "sire": "Polish Precedent",
     "dsire": "Troy",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "シャドウゲイト",
+    "year": 2002,
+    "hh": 168,
+    "wt": 502,
+    "bmi": 177.9,
+    "href": "https://www.jbis.or.jp/horse/0000750233/",
+    "sire": "White Muzzle",
+    "dsire": "Sunday Silence",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "マツリダゴッホ",
