@@ -1364,6 +1364,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Zieten",
+    "year": 1990,
+    "hh": 162,
+    "wt": 460,
+    "bmi": 175.3,
+    "href": "https://www.pedigreequery.com/zieten",
+    "sire": "Danzig",
+    "dsire": "Habitat",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "ミスターシービー",
     "year": 1980,
     "hh": 162,
@@ -2605,6 +2616,17 @@
     "sire": "Giants Causeway",
     "dsire": "Gone West",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "Charyn",
+    "year": 2020,
+    "hh": 163,
+    "wt": 508,
+    "bmi": 191.2,
+    "href": "https://www.pedigreequery.com/charyn2",
+    "sire": "Dark Angel",
+    "dsire": "Kodiac",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Ebony Grosve",
@@ -4134,6 +4156,17 @@
     "sire": "Selkirk",
     "dsire": "Distant View",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Diktat",
+    "year": 1995,
+    "hh": 165,
+    "wt": 490,
+    "bmi": 180.0,
+    "href": "https://www.pedigreequery.com/diktat",
+    "sire": "Warning",
+    "dsire": "Sadlers Wells",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "Durban Thunder",
