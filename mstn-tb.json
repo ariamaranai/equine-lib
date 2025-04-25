@@ -3924,7 +3924,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/arrogate2",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Soothing Touch",
@@ -4094,7 +4094,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/arrogate2",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Pressurizing",
@@ -13155,40 +13155,6 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/secretariat",
       "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "Deputy Minister",
-      "year": 1979,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/deputy+minister",
-      "mstn": "CC"
-    },
-    {
-      "name": "Vice Regent",
-      "year": 1967,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/vice+regent",
-      "mstn": ""
-    },
-    {
-      "name": "Mini Copy",
-      "year": 1970,
-      "cnty": "CAN",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/mint+copy",
-      "mstn": ""
-    },
-    {
-      "name": "Buntys Flight",
-      "year": 1953,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/buntys+flight",
-      "mstn": ""
     }
   ],
   [
@@ -24787,6 +24753,40 @@
   ],
   [
     {
+      "name": "Arrogate",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/arrogate2",
+      "mstn": "CT"
+    },
+    {
+      "name": "Unbridleds Song",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/unbridleds+song",
+      "mstn": ""
+    },
+    {
+      "name": "Bubbler",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/bubbler3",
+      "mstn": ""
+    },
+    {
+      "name": "Distorted Humor",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/distorted+humor",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Beowulf Divine",
       "year": 2013,
       "cnty": "CAN",
@@ -31106,7 +31106,7 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/deputy+minister",
-      "mstn": "CC"
+      "mstn": ""
     }
   ],
   [

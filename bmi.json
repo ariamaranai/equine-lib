@@ -1196,7 +1196,7 @@
     "href": "https://www.jbis.or.jp/horse/0001218470/",
     "sire": "ジャスタウェイ",
     "dsire": "Deputy Minister",
-    "mstn": ["--","CT","CC"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "トウケイヘイロー",
@@ -3330,7 +3330,7 @@
     "href": "https://www.jbis.or.jp/horse/0001241663/",
     "sire": "Scat Daddy",
     "dsire": "Deputy Minister",
-    "mstn": ["--","--","CC"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ロードカナロア",
@@ -6179,7 +6179,7 @@
     "href": "https://www.jbis.or.jp/horse/0000730684/",
     "sire": "エルコンドルパサー",
     "dsire": "Deputy Minister",
-    "mstn": ["--","--","CC"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Kandidate",
@@ -6476,7 +6476,7 @@
     "href": "https://www.jbis.or.jp/horse/0000742946/",
     "sire": "フジキセキ",
     "dsire": "Deputy Minister",
-    "mstn": ["--","CT","CC"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "ブラックブロッサム",
@@ -7268,7 +7268,7 @@
     "href": "https://www.jbis.or.jp/horse/0001040066/",
     "sire": "Mineshaft",
     "dsire": "Deputy Minister",
-    "mstn": ["--","CT","CC"]
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "ドライスタウト",
@@ -7609,7 +7609,7 @@
     "href": "https://www.jbis.or.jp/horse/0001185811/",
     "sire": "ディープインパクト",
     "dsire": "Deputy Minister",
-    "mstn": ["--","TT","CC"]
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "ダノンバラード",
@@ -7774,7 +7774,7 @@
     "href": "https://www.pedigreequery.com/arrogate2",
     "sire": "Unbridleds Song",
     "dsire": "Distorted Humor",
-    "mstn": ["--","--","--"]
+    "mstn": ["CT","--","--"]
   },
   {
     "name": "Dano-mast",
@@ -8665,7 +8665,7 @@
     "href": "https://www.pedigreequery.com/the+big+beast",
     "sire": "Yes Its True",
     "dsire": "Deputy Minister",
-    "mstn": ["--","--","CC"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Verrazano",
