@@ -18395,6 +18395,40 @@
   ],
   [
     {
+      "name": "Timeonlees",
+      "year": 2020,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/timeonlees",
+      "mstn": "CT"
+    },
+    {
+      "name": "Turn Me Loose",
+      "year": 2011,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/turn+me+loose5",
+      "mstn": ""
+    },
+    {
+      "name": "Caramellos",
+      "year": 2011,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/caramellos",
+      "mstn": ""
+    },
+    {
+      "name": "Pins",
+      "year": 1996,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pins",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Tommis Takeover",
       "year": 2020,
       "cnty": "USA",
@@ -37566,6 +37600,40 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/pins",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Litzdeel",
+      "year": 2021,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/litzdeel",
+      "mstn": "TT"
+    },
+    {
+      "name": "Dundeel",
+      "year": 2009,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dundeel",
+      "mstn": ""
+    },
+    {
+      "name": "Geblitzt",
+      "year": 2006,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/geblitzt",
+      "mstn": ""
+    },
+    {
+      "name": "Testa Rossa",
+      "year": 1996,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/testa+rossa",
       "mstn": ""
     }
   ],
