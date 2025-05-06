@@ -1837,6 +1837,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Unusual Heat",
+    "year": 1990,
+    "hh": 162,
+    "wt": 544,
+    "bmi": 207.3,
+    "href": "https://www.pedigreequery.com/unusual+heat",
+    "sire": "Nureyev",
+    "dsire": "Glacial",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "ニホンピロアワーズ",
     "year": 2007,
     "hh": 162,
@@ -7456,6 +7467,17 @@
     "sire": "Khaled",
     "dsire": "Beau Pepe",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Toms Detat",
+    "year": 2013,
+    "hh": 168,
+    "wt": 544,
+    "bmi": 192.8,
+    "href": "https://www.pedigreequery.com/toms+detat",
+    "sire": "Smart Strike",
+    "dsire": "Giants Causeway",
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "ネクサスハート",
