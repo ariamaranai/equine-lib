@@ -344,40 +344,6 @@
       "name": "-",
       "year": 2023,
       "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001373548/",
-      "mstn": "CC"
-    },
-    {
-      "name": "Makfi",
-      "year": 2007,
-      "cnty": "GB",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/makfi",
-      "mstn": ""
-    },
-    {
-      "name": "エフティアテナ",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001204700/",
-      "mstn": ""
-    },
-    {
-      "name": "ルーラーシップ",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001042049/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001372803/",
       "mstn": "CC"
@@ -948,6 +914,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "トラステッド",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001373548/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Makfi",
+      "year": 2007,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/makfi",
+      "mstn": ""
+    },
+    {
+      "name": "エフティアテナ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001204700/",
+      "mstn": ""
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
       "mstn": "CT"
     }
   ],
@@ -14181,40 +14181,6 @@
     {
       "name": "-",
       "year": 2023,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001370670/",
-      "mstn": "CT"
-    },
-    {
-      "name": "クリソベリル",
-      "year": 2016,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001215726/",
-      "mstn": ""
-    },
-    {
-      "name": "Saunta",
-      "year": 2009,
-      "cnty": "GB",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/saunta",
-      "mstn": ""
-    },
-    {
-      "name": "Invincible Spirit",
-      "year": 1997,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/invincible+spirit",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
       "cnty": "GB",
       "sex": "F",
       "href": "",
@@ -14311,40 +14277,6 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001370428/",
-      "mstn": "CT"
-    },
-    {
-      "name": "クリソベリル",
-      "year": 2016,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001215726/",
-      "mstn": ""
-    },
-    {
-      "name": "ウィットウォーター",
-      "year": 2011,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001140750/",
-      "mstn": ""
-    },
-    {
-      "name": "Johannesburg",
-      "year": 1999,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/johannesburg",
-      "mstn": ""
     }
   ],
   [
@@ -15165,6 +15097,40 @@
   ],
   [
     {
+      "name": "フレンズプラス",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001370428/",
+      "mstn": "CT"
+    },
+    {
+      "name": "クリソベリル",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001215726/",
+      "mstn": ""
+    },
+    {
+      "name": "ウィットウォーター",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001140750/",
+      "mstn": ""
+    },
+    {
+      "name": "Johannesburg",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/johannesburg",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ホランドパーク",
       "year": 2023,
       "cnty": "JPN",
@@ -15365,6 +15331,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/majestic+warrior2",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ライクシュガー",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001370670/",
+      "mstn": "CT"
+    },
+    {
+      "name": "クリソベリル",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001215726/",
+      "mstn": ""
+    },
+    {
+      "name": "Saunta",
+      "year": 2009,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/saunta",
+      "mstn": ""
+    },
+    {
+      "name": "Invincible Spirit",
+      "year": 1997,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/invincible+spirit",
+      "mstn": ""
     }
   ],
   [
@@ -36147,40 +36147,6 @@
       "year": 2023,
       "cnty": "JPN",
       "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001375327/",
-      "mstn": "TT"
-    },
-    {
-      "name": "New Years Day",
-      "year": 2011,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/new+years+day4",
-      "mstn": ""
-    },
-    {
-      "name": "Verbouwen",
-      "year": 2013,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/verbouwen",
-      "mstn": ""
-    },
-    {
-      "name": "Kittens Joy",
-      "year": 2001,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/kittens+joy",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "JPN",
-      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001367689/",
       "mstn": "TT"
     },
@@ -36206,74 +36172,6 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000321138/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001376367/",
-      "mstn": "TT"
-    },
-    {
-      "name": "キタサンブラック",
-      "year": 2012,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001155349/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ジュエルインザサン",
-      "year": 2016,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001217742/",
-      "mstn": ""
-    },
-    {
-      "name": "ルーラーシップ",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001042049/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001372120/",
-      "mstn": "TT"
-    },
-    {
-      "name": "ダノンバラード",
-      "year": 2006,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001090769/",
-      "mstn": ""
-    },
-    {
-      "name": "スプリングガール",
-      "year": 2013,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001174502/",
-      "mstn": ""
-    },
-    {
-      "name": "トーセンブライト",
-      "year": 2001,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000722261/",
       "mstn": ""
     }
   ],
@@ -36411,6 +36309,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/more+than+ready",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ハルノアメ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001372120/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ダノンバラード",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001090769/",
+      "mstn": ""
+    },
+    {
+      "name": "スプリングガール",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001174502/",
+      "mstn": ""
+    },
+    {
+      "name": "トーセンブライト",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000722261/",
+      "mstn": ""
     }
   ],
   [
@@ -36649,6 +36581,74 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000294840/",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ルージュダズリング",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001376367/",
+      "mstn": "TT"
+    },
+    {
+      "name": "キタサンブラック",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001155349/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ジュエルインザサン",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001217742/",
+      "mstn": ""
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ローレルエース",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001377635/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ヤマカツエース",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001154998/",
+      "mstn": ""
+    },
+    {
+      "name": "ウインクルジニー",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001230474/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
     }
   ],
   [
@@ -37363,6 +37363,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001042049/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "リケアマカロニ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001375327/",
+      "mstn": "TT"
+    },
+    {
+      "name": "New Years Day",
+      "year": 2011,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/new+years+day4",
+      "mstn": ""
+    },
+    {
+      "name": "Verbouwen",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/verbouwen",
+      "mstn": ""
+    },
+    {
+      "name": "Kittens Joy",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kittens+joy",
+      "mstn": ""
     }
   ],
   [
