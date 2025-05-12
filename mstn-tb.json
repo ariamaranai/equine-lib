@@ -36107,6 +36107,40 @@
       "mstn": ""
     }
   ],
+    [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001376082/",
+      "mstn": "TT"
+    },
+    {
+      "name": "エピファネイア",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001124297/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Flying Gem",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/flying+gem4",
+      "mstn": ""
+    },
+    {
+      "name": "Mineshaft",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mineshaft",
+      "mstn": "CT"
+    }
+  ],
   [
     {
       "name": "-",
