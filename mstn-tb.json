@@ -14349,40 +14349,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2023,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001375891/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ディープブリランテ",
-      "year": 2009,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001110554/",
-      "mstn": "CT"
-    },
-    {
-      "name": "リゼブルー",
-      "year": 2016,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001222870/",
-      "mstn": ""
-    },
-    {
-      "name": "Dunkirk",
-      "year": 2006,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/dunkirk9",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
       "name": "Katsumi Orochi",
       "year": 2023,
       "cnty": "AUS",
@@ -15161,6 +15127,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/johannesburg",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "フロステリオン",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001375891/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープブリランテ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001110554/",
+      "mstn": "CT"
+    },
+    {
+      "name": "リゼブルー",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001222870/",
+      "mstn": ""
+    },
+    {
+      "name": "Dunkirk",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dunkirk9",
+      "mstn": "CT"
     }
   ],
   [
@@ -40253,6 +40253,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000757705/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Spiritofthedance",
+      "year": 2017,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/spiritofthedance2",
+      "mstn": "TT"
+    },
+    {
+      "name": "Tango Event",
+      "year": 2010,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tango+event",
+      "mstn": ""
+    },
+    {
+      "name": "Imanuptowngirl",
+      "year": 2007,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/imanuptowngirl",
+      "mstn": ""
+    },
+    {
+      "name": "North Light",
+      "year": 2001,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/north+light",
+      "mstn": ""
     }
   ],
   [
