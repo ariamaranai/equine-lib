@@ -681,6 +681,40 @@
   ],
   [
     {
+      "name": "オルフセン",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001374037/",
+      "mstn": "CC"
+    },
+    {
+      "name": "キズナ",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001120570/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Stars Aligned",
+      "year": 2011,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/stars+aligned3",
+      "mstn": ""
+    },
+    {
+      "name": "Sea The Stars",
+      "year": 2006,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sea+the+stars",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "オールドマイディア",
       "year": 2023,
       "cnty": "JPN",
@@ -1866,6 +1900,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/shamardal",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "エマダイヤモンド",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001355502/",
+      "mstn": "CC"
+    },
+    {
+      "name": "サトノダイヤモンド",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001175221/",
+      "mstn": "CT"
+    },
+    {
+      "name": "シナスタジア",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001131145/",
+      "mstn": ""
+    },
+    {
+      "name": "Gone West",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/gone+west",
       "mstn": ""
     }
   ],
@@ -21832,7 +21900,7 @@
       "name": "Gold Trip",
       "year": 2017,
       "cnty": "FR",
-      "sex": "M",
+      "sex": "S",
       "href": "https://www.pedigreequery.com/gold+trip3",
       "mstn": "CT"
     },
@@ -36343,6 +36411,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/more+than+ready",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "シャローアロス",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001374042/",
+      "mstn": "TT"
+    },
+    {
+      "name": "キタサンブラック",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001155349/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Light In Paris",
+      "year": 2012,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/light+in+paris",
+      "mstn": ""
+    },
+    {
+      "name": "Aussie Rules",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/aussie+rules2",
+      "mstn": ""
     }
   ],
   [
