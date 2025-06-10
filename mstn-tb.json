@@ -276,6 +276,40 @@
       "name": "-",
       "year": 2023,
       "cnty": "AUS",
+      "sex": "M",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Capitalist",
+      "year": 2013,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/capitalist10",
+      "mstn": ""
+    },
+    {
+      "name": "Impetuous",
+      "year": 2009,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/impetuous15",
+      "mstn": ""
+    },
+    {
+      "name": "Fastnet Rock",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/fastnet+rock2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "AUS",
       "sex": "F",
       "href": "",
       "mstn": "CC"
