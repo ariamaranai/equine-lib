@@ -37,6 +37,40 @@
     {
       "name": "-",
       "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001395198/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "Ava Malone",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ava+malone",
+      "mstn": ""
+    },
+    {
+      "name": "Curlin",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/curlin",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
       "cnty": "GB",
       "sex": "M",
       "href": "",
@@ -167,6 +201,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001396793/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "ニーズヘッグ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001232072/",
+      "mstn": ""
+    },
+    {
+      "name": "Henny Hughes",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/henny+hughes",
+      "mstn": "CC"
     }
   ],
   [
@@ -1187,6 +1255,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000310467/",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "ベイビーモンストル",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001370588/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Van Gogh",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/van+gogh15",
+      "mstn": ""
+    },
+    {
+      "name": "ボウピープ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001142772/",
+      "mstn": ""
+    },
+    {
+      "name": "ディープスカイ",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000891931/",
+      "mstn": ""
     }
   ],
   [
@@ -13971,6 +14073,74 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/french+deputy",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001391762/",
+      "mstn": "CT"
+    },
+    {
+      "name": "スワーヴリチャード",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001190059/",
+      "mstn": "CT"
+    },
+    {
+      "name": "トレサンセール",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001194122/",
+      "mstn": ""
+    },
+    {
+      "name": "Rip Van Winkle",
+      "year": 2006,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/rip+van+winkle3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001396830/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "ブエラプーラ",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001312626/",
+      "mstn": ""
+    },
+    {
+      "name": "キンシャサノキセキ",
+      "year": 2003,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000901749/",
+      "mstn": "CT"
     }
   ],
   [
@@ -36249,6 +36419,40 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001394752/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ジャンダルム",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001228749/",
+      "mstn": ""
+    },
+    {
+      "name": "Well Away",
+      "year": 2010,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/well+away5",
+      "mstn": ""
+    },
+    {
+      "name": "Monsun",
+      "year": 1990,
+      "cnty": "GER",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/monsun",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001390729/",
       "mstn": "TT"
     },
@@ -36275,6 +36479,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000742976/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001389756/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ディーマジェスティ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001167517/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ハルダヨリ",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001153730/",
+      "mstn": ""
+    },
+    {
+      "name": "Falbrav",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/falbrav",
+      "mstn": ""
     }
   ],
   [
