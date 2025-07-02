@@ -1958,6 +1958,17 @@
     "mstn": ["--","CT","TT"]
   },
   {
+    "name": "オメガパフューム",
+    "year": 2015,
+    "hh": 163,
+    "wt": 462,
+    "bmi": 173.9,
+    "href": "https://www.jbis.or.jp/horse/0001206059/",
+    "sire": "Swept Overboard",
+    "dsire": "ゴールドアリュール",
+    "mstn": ["--","--","CT"]
+  },
+  {
     "name": "グローリーヴェイズ",
     "year": 2015,
     "hh": 163,
@@ -5355,17 +5366,6 @@
     "sire": "Nicobar",
     "dsire": "Kaldounevees",
     "mstn": ["CC","--","--"]
-  },
-  {
-    "name": "オメガパフューム",
-    "year": 2015,
-    "hh": 166,
-    "wt": 462,
-    "bmi": 167.7,
-    "href": "https://www.jbis.or.jp/horse/0001206059/",
-    "sire": "Swept Overboard",
-    "dsire": "ゴールドアリュール",
-    "mstn": ["--","--","CT"]
   },
   {
     "name": "Mendociano",
