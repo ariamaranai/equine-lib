@@ -14995,6 +14995,40 @@
   ],
   [
     {
+      "name": "イノリ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001367478/",
+      "mstn": "CT"
+    },
+    {
+      "name": "キセキ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001190850/",
+      "mstn": "CT"
+    },
+    {
+      "name": "メイユーブルーム",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000888777/",
+      "mstn": ""
+    },
+    {
+      "name": "ダンスインザダーク",
+      "year": 1993,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000274883/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "オルブライト",
       "year": 2023,
       "cnty": "USA",
