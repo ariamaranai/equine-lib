@@ -701,7 +701,7 @@
     "href": "https://www.jbis.or.jp/horse/0001201716/",
     "sire": "ロードカナロア",
     "dsire": "Sunday Silence",
-    "mstn": ["--","CC","TT"]
+    "mstn": ["CT","CC","TT"]
   },
   {
     "name": "Sir Percy",
@@ -5794,7 +5794,7 @@
     "href": "https://www.jbis.or.jp/horse/0001104811/",
     "sire": "ステイゴールド",
     "dsire": "メジロマックイーン",
-    "mstn": ["TT","TT","--"]
+    "mstn": ["CT","TT","--"]
   },
   {
     "name": "マルカシェンク",
