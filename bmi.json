@@ -5013,7 +5013,7 @@
     "href": "https://www.jbis.or.jp/horse/0001163175/",
     "sire": "Majestic Warrior",
     "dsire": "Mr Greeley",
-    "mstn": ["--","CT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "プロミストウォリア",
@@ -5024,7 +5024,7 @@
     "href": "https://www.jbis.or.jp/horse/0001229475/",
     "sire": "Majestic Warrior",
     "dsire": "フジキセキ",
-    "mstn": ["--","CT","CT"]
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "メイショウサムソン",
