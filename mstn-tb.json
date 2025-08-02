@@ -2687,6 +2687,40 @@
   ],
   [
     {
+      "name": "マカニ",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001352375/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ルヴァンスレーヴ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001205475/",
+      "mstn": "CT"
+    },
+    {
+      "name": "デヒアバーズ",
+      "year": 2004,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000806865/",
+      "mstn": ""
+    },
+    {
+      "name": "Dehere",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dehere",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "マクマード",
       "year": 2022,
       "cnty": "JPN",
@@ -15892,7 +15926,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001205475/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "エンパイアブルー",
@@ -25021,6 +25055,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/sunday+silence",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "ルヴァンスレーヴ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001205475/",
+      "mstn": "CT"
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
+      "mstn": "TT"
+    },
+    {
+      "name": "マエストラーレ",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000992627/",
+      "mstn": ""
+    },
+    {
+      "name": "ネオユニヴァース",
+      "year": 2000,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000701577/",
+      "mstn": ""
     }
   ],
   [
