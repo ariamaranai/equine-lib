@@ -15505,6 +15505,40 @@
   ],
   [
     {
+      "name": "アルティーノ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001371461/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アルアイン",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001191607/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ティノ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001166487/",
+      "mstn": ""
+    },
+    {
+      "name": "キンシャサノキセキ",
+      "year": 2003,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000901749/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "アンチヒーロー",
       "year": 2023,
       "cnty": "JPN",
