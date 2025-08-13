@@ -15709,6 +15709,40 @@
   ],
   [
     {
+      "name": "シャインブラスト",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001370473/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Pyro",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pyro3",
+      "mstn": "CT"
+    },
+    {
+      "name": "シュシュブリーズ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001141447/",
+      "mstn": "CT"
+    },
+    {
+      "name": "フジキセキ",
+      "year": 1992,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000262443/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "スターサンスルー",
       "year": 2023,
       "cnty": "JPN",
