@@ -14350,6 +14350,74 @@
   [
     {
       "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001414664/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アルアイン",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001191607/",
+      "mstn": ""
+    },
+    {
+      "name": "スカーレットテイル",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001270405/",
+      "mstn": ""
+    },
+    {
+      "name": "Harbinger",
+      "year": 2006,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/harbinger11",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001411759/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エフフォーリア",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001266977/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ブラーノ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001205809/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
       "year": 2024,
       "cnty": "GB",
       "sex": "F",
