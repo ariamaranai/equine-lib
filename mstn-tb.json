@@ -15139,40 +15139,6 @@
       "mstn": "CT"
     },
     {
-      "name": "The Autumn Sun",
-      "year": 2015,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/the+autumn+sun",
-      "mstn": ""
-    },
-    {
-      "name": "Islands",
-      "year": 2016,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/islands2",
-      "mstn": ""
-    },
-    {
-      "name": "I Am Invincible",
-      "year": 2004,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/i+am+invincible",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "",
-      "mstn": "CT"
-    },
-    {
       "name": "Tarzino",
       "year": 2012,
       "cnty": "NZ",
@@ -15365,6 +15331,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/snitzel",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "Pacifico",
+      "year": 2023,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/pacifico18",
+      "mstn": "CT"
+    },
+    {
+      "name": "The Autumn Sun",
+      "year": 2015,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/the+autumn+sun",
+      "mstn": ""
+    },
+    {
+      "name": "Islands",
+      "year": 2016,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/islands2",
+      "mstn": ""
+    },
+    {
+      "name": "I Am Invincible",
+      "year": 2004,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/i+am+invincible",
+      "mstn": ""
     }
   ],
   [
