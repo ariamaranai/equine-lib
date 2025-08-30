@@ -2143,6 +2143,40 @@
   ],
   [
     {
+      "name": "アジュマン",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001361813/",
+      "mstn": "CC"
+    },
+    {
+      "name": "アルアイン",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001191607/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ジレーネ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001236778/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "アスゴッド",
       "year": 2022,
       "cnty": "JPN",
@@ -14362,7 +14396,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001191607/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "スカーレットテイル",
@@ -15806,6 +15840,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000262443/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "シャオママル",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001375060/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アルアイン",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001191607/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ジレーネ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001236778/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
       "mstn": "CT"
     }
   ],
@@ -25870,6 +25938,40 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/domesday3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "アルアイン",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001191607/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Dubai Majesty",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dubai+majesty",
+      "mstn": ""
+    },
+    {
+      "name": "Essence Of Dubai",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/essence+of+dubai",
       "mstn": ""
     }
   ],
