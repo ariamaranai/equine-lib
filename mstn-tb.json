@@ -15168,74 +15168,6 @@
       "name": "-",
       "year": 2023,
       "cnty": "USA",
-      "sex": "F",
-      "href": "",
-      "mstn": "CT"
-    },
-    {
-      "name": "Maxfield",
-      "year": 2017,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/maxfield2",
-      "mstn": ""
-    },
-    {
-      "name": "French Passport",
-      "year": 2012,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/french+passport",
-      "mstn": ""
-    },
-    {
-      "name": "Elusive Quality",
-      "year": 1993,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/elusive+quality",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "",
-      "mstn": "CT"
-    },
-    {
-      "name": "Tarzino",
-      "year": 2012,
-      "cnty": "NZ",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/tarzino",
-      "mstn": "CT"
-    },
-    {
-      "name": "Legramor",
-      "year": 2013,
-      "cnty": "NZ",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/legramor",
-      "mstn": ""
-    },
-    {
-      "name": "Commands",
-      "year": 1996,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/commands",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "USA",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001404690/",
       "mstn": "CT"
@@ -15365,6 +15297,74 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Eye Of The Storm",
+      "year": 2023,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/eye+of+the+storm12",
+      "mstn": "CT"
+    },
+    {
+      "name": "Tarzino",
+      "year": 2012,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tarzino",
+      "mstn": "CT"
+    },
+    {
+      "name": "Legramor",
+      "year": 2013,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/legramor",
+      "mstn": ""
+    },
+    {
+      "name": "Commands",
+      "year": 1996,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/commands",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Glamorize",
+      "year": 2023,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/glamorize5",
+      "mstn": "CT"
+    },
+    {
+      "name": "Maxfield",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/maxfield2",
+      "mstn": ""
+    },
+    {
+      "name": "French Passport",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/french+passport",
+      "mstn": ""
+    },
+    {
+      "name": "Elusive Quality",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/elusive+quality",
+      "mstn": ""
     }
   ],
   [
@@ -50315,7 +50315,6 @@
       "year": 1966,
       "cnty": "USA",
       "sex": "S",
-      "type": "TB",
       "href": "https://www.pedigreequery.com/texas+dancer",
       "mstn": ""
     }
@@ -52187,6 +52186,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/sun+power",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Diamond Lou",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/diamond+lou2",
+      "mstn": "T1"
+    },
+    {
+      "name": "Refuse To Lose",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/refuse+to+lose",
+      "mstn": ""
+    },
+    {
+      "name": "Spunkhieba",
+      "year": 1987,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/spunkhieba",
+      "mstn": ""
+    },
+    {
+      "name": "Mokhieba",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mokhieba",
       "mstn": ""
     }
   ],
