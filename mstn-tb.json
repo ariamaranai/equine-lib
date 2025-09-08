@@ -2619,6 +2619,40 @@
   ],
   [
     {
+      "name": "バイアーナ",
+      "year": 2022,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001354050/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Shanghai Bobby",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/shanghai+bobby",
+      "mstn": "CT"
+    },
+    {
+      "name": "サンバホイッスル",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001095086/",
+      "mstn": ""
+    },
+    {
+      "name": "サウスヴィグラス",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000310467/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "パトリオットゲーム",
       "year": 2022,
       "cnty": "JPN",
@@ -4144,6 +4178,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000619835/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ルシール",
+      "year": 2020,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001321279/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ホッコータルマエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001107477/",
+      "mstn": ""
+    },
+    {
+      "name": "ギタートウショウ",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001092371/",
+      "mstn": ""
+    },
+    {
+      "name": "アグネスデジタル",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000321138/",
       "mstn": ""
     }
   ],
@@ -14420,6 +14488,40 @@
       "name": "-",
       "year": 2025,
       "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001415130/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ブルドッグボス",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149689/",
+      "mstn": ""
+    },
+    {
+      "name": "クライアンテル",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001375206/",
+      "mstn": "CT"
+    },
+    {
+      "name": "American Patriot",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+patriot4",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001414664/",
       "mstn": "CT"
@@ -14718,6 +14820,40 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/uncaptured2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001396557/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ブルドッグボス",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149689/",
+      "mstn": ""
+    },
+    {
+      "name": "クライアンテル",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001375206/",
+      "mstn": "CT"
+    },
+    {
+      "name": "American Patriot",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+patriot4",
       "mstn": ""
     }
   ],
@@ -21281,6 +21417,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000293624/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "クライアンテル",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001375206/",
+      "mstn": "CT"
+    },
+    {
+      "name": "American Patriot",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+patriot4",
+      "mstn": ""
+    },
+    {
+      "name": "Alareen",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/alareen",
+      "mstn": ""
+    },
+    {
+      "name": "Selkirk",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/selkirk",
+      "mstn": ""
     }
   ],
   [
