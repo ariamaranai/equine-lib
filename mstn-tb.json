@@ -25161,40 +25161,6 @@
   ],
   [
     {
-      "name": "インディチャンプ",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001206175/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ステイゴールド",
-      "year": 1994,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
-    },
-    {
-      "name": "ウィルパワー",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001042633/",
-      "mstn": ""
-    },
-    {
-      "name": "キングカメハメハ",
-      "year": 2001,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000729458/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
       "name": "ウェディングソング",
       "year": 2015,
       "cnty": "JPN",
@@ -26262,7 +26228,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "Higher Love",
@@ -30784,7 +30750,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "De Laroche",
@@ -31396,7 +31362,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "オリエンタルアート",
@@ -31430,7 +31396,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "ポイントフラッグ",
@@ -43142,7 +43108,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
+      "mstn": ""
     }
   ],
   [
@@ -44180,7 +44146,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "Cativa",
@@ -47426,40 +47392,6 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000069360/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "ステイゴールド",
-      "year": 1994,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": "TT"
-    },
-    {
-      "name": "Sunday Silence",
-      "year": 1986,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/sunday+silence",
-      "mstn": "TT"
-    },
-    {
-      "name": "ゴールデンサッシュ",
-      "year": 1988,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000213942/",
-      "mstn": ""
-    },
-    {
-      "name": "Dictus",
-      "year": 1967,
-      "cnty": "FR",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/dictus",
       "mstn": ""
     }
   ],

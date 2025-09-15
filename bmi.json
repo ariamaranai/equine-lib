@@ -206,7 +206,7 @@
     "href": "https://www.jbis.or.jp/horse/0000804714/",
     "sire": "ステイゴールド",
     "dsire": "メジロマックイーン",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "キーストン",
@@ -393,7 +393,7 @@
     "href": "https://www.jbis.or.jp/horse/0001094278/",
     "sire": "ステイゴールド",
     "dsire": "Dashing Blade",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ダノンキングリー",
@@ -723,7 +723,7 @@
     "href": "https://www.jbis.or.jp/horse/0001206175/",
     "sire": "ステイゴールド",
     "dsire": "キングカメハメハ",
-    "mstn": ["CT","TT","CT"]
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "Redwood",
@@ -888,7 +888,7 @@
     "href": "https://www.jbis.or.jp/horse/0000286968/",
     "sire": "Sunday Silence",
     "dsire": "Dictus",
-    "mstn": ["TT","TT","--"]
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "Fantastic Moon",
@@ -976,7 +976,7 @@
     "href": "https://www.jbis.or.jp/horse/0000992448/",
     "sire": "ステイゴールド",
     "dsire": "Tight Spot",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ローレルゲレイロ",
@@ -1317,7 +1317,7 @@
     "href": "https://www.jbis.or.jp/horse/0001169928/",
     "sire": "ステイゴールド",
     "dsire": "French Deputy",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Onest",
@@ -2021,7 +2021,7 @@
     "href": "https://www.jbis.or.jp/horse/0001090360/",
     "sire": "ステイゴールド",
     "dsire": "メジロマックイーン",
-    "mstn": ["CT","TT","--"]
+    "mstn": ["CT","--","--"]
   },
   {
     "name": "Byword",
@@ -2461,7 +2461,7 @@
     "href": "https://www.jbis.or.jp/horse/0001188466/",
     "sire": "ステイゴールド",
     "dsire": "アドマイヤコジーン",
-    "mstn": ["--","TT","--"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "My Admiration",
@@ -5552,7 +5552,7 @@
     "href": "https://www.jbis.or.jp/horse/0001110458/",
     "sire": "ステイゴールド",
     "dsire": "Danehill",
-    "mstn": ["CT","TT","CC"]
+    "mstn": ["CT","--","CC"]
   },
   {
     "name": "Rakti",
@@ -5794,7 +5794,7 @@
     "href": "https://www.jbis.or.jp/horse/0001104811/",
     "sire": "ステイゴールド",
     "dsire": "メジロマックイーン",
-    "mstn": ["CT","TT","--"]
+    "mstn": ["CT","--","--"]
   },
   {
     "name": "マルカシェンク",
