@@ -46887,40 +46887,6 @@
   ],
   [
     {
-      "name": "オンファイア",
-      "year": 2003,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000762497/",
-      "mstn": "TT"
-    },
-    {
-      "name": "Sunday Silence",
-      "year": 1986,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/sunday+silence",
-      "mstn": "TT"
-    },
-    {
-      "name": "Wind In Her Hair",
-      "year": 1991,
-      "cnty": "IRE",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/wind+in+her+hair",
-      "mstn": "TT"
-    },
-    {
-      "name": "Alzao",
-      "year": 1980,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/alzao",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "A P Arrow",
       "year": 2002,
       "cnty": "USA",
@@ -47044,7 +47010,7 @@
       "cnty": "IRE",
       "sex": "F",
       "href": "https://www.pedigreequery.com/wind+in+her+hair",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "Alzao",
@@ -47146,7 +47112,7 @@
       "cnty": "IRE",
       "sex": "F",
       "href": "https://www.pedigreequery.com/wind+in+her+hair",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "Alzao",
@@ -47426,40 +47392,6 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.pedigreequery.com/nijinsky2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "Wind In Her Hair",
-      "year": 1991,
-      "cnty": "IRE",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/wind+in+her+hair",
-      "mstn": "TT"
-    },
-    {
-      "name": "Alzao",
-      "year": 1980,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/alzao",
-      "mstn": ""
-    },
-    {
-      "name": "Burghclere",
-      "year": 1977,
-      "cnty": "GB",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/burghclere",
-      "mstn": ""
-    },
-    {
-      "name": "Busted",
-      "year": 1963,
-      "cnty": "GB",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/busted",
       "mstn": ""
     }
   ],
