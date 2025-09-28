@@ -14930,6 +14930,40 @@
       "name": "-",
       "year": 2024,
       "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001394524/",
+      "mstn": "CT"
+    },
+    {
+      "name": "タニノフランケル",
+      "year": 2015,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001228783/",
+      "mstn": ""
+    },
+    {
+      "name": "サトノブルーム",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001265213/",
+      "mstn": ""
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001391270/",
       "mstn": "CT"
@@ -14991,6 +15025,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/rip+van+winkle3",
       "mstn": ""
+    }
+  ],
+  [
+      {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001386460/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ナスカ",
+      "year": 2003,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000752040/",
+      "mstn": ""
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
     }
   ],
   [
@@ -15263,40 +15331,6 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/afleet+alex",
       "mstn": ""
-    }
-  ],
-  [
-      {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001386460/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ルーラーシップ",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001042049/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ナスカ",
-      "year": 2003,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000752040/",
-      "mstn": ""
-    },
-    {
-      "name": "Sunday Silence",
-      "year": 1986,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/sunday+silence",
-      "mstn": "TT"
     }
   ],
   [
