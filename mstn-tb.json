@@ -14760,6 +14760,40 @@
       "name": "-",
       "year": 2024,
       "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001392384/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エフフォーリア",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001266977/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アドヴェンチャレス",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001206623/",
+      "mstn": ""
+    },
+    {
+      "name": "ロードカナロア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001089850/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001389181/",
       "mstn": "CT"
@@ -14829,74 +14863,6 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001387287/",
-      "mstn": "CT"
-    },
-    {
-      "name": "モズアスコット",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001213491/",
-      "mstn": ""
-    },
-    {
-      "name": "ステラリード",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001048499/",
-      "mstn": "TT"
-    },
-    {
-      "name": "スペシャルウィーク",
-      "year": 1995,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000293624/",
-      "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001394872/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Majestic Warrior",
-      "year": 2005,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/majestic+warrior2",
-      "mstn": ""
-    },
-    {
-      "name": "ストームハート",
-      "year": 2016,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001296859/",
-      "mstn": "CC"
-    },
-    {
-      "name": "Uncaptured",
-      "year": 2010,
-      "cnty": "CAN",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/uncaptured2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001396557/",
       "mstn": "CT"
     },
@@ -14957,6 +14923,74 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000742976/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001387287/",
+      "mstn": "CT"
+    },
+    {
+      "name": "モズアスコット",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001213491/",
+      "mstn": ""
+    },
+    {
+      "name": "ステラリード",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001048499/",
+      "mstn": "TT"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "year": 1995,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000293624/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001394872/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Majestic Warrior",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/majestic+warrior2",
+      "mstn": ""
+    },
+    {
+      "name": "ストームハート",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001296859/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Uncaptured",
+      "year": 2010,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/uncaptured2",
+      "mstn": ""
     }
   ],
   [
@@ -15058,6 +15092,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001388483/",
+      "mstn": "CT"
+    },
+    {
+      "name": "American Patriot",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+patriot4",
+      "mstn": ""
+    },
+    {
+      "name": "バアゼルザウバー",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001122422/",
+      "mstn": ""
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
     }
   ],
