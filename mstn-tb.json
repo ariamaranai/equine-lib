@@ -139,6 +139,40 @@
     {
       "name": "-",
       "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001395288/",
+      "mstn": "CC"
+    },
+    {
+      "name": "エフフォーリア",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001266977/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Shailene",
+      "year": 2015,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/shailene",
+      "mstn": ""
+    },
+    {
+      "name": "Rip Van Winkle",
+      "year": 2006,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/rip+van+winkle3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
       "cnty": "USA",
       "sex": "M",
       "href": "",
@@ -269,6 +303,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001392335/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ホッコータルマエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001107477/",
+      "mstn": "CC"
+    },
+    {
+      "name": "シンデレラメイク",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001206061/",
+      "mstn": ""
+    },
+    {
+      "name": "ディープブリランテ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001110554/",
+      "mstn": "CT"
     }
   ],
   [
@@ -3890,7 +3958,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001107477/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "ゼロカラノキセキ",
@@ -4298,7 +4366,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001107477/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "ギタートウショウ",
@@ -4910,7 +4978,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001107477/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "マロノヴィーナス",
@@ -10945,6 +11013,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000262443/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ホッコータルマエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001107477/",
+      "mstn": "CC"
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    },
+    {
+      "name": "マダムチェロキー",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000722526/",
+      "mstn": ""
+    },
+    {
+      "name": "Cherokee Run",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/cherokee+run",
+      "mstn": ""
     }
   ],
   [
@@ -18102,7 +18204,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001107477/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "ロマンスガッサン",
@@ -18238,7 +18340,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001107477/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "キタサンアカツキ",
