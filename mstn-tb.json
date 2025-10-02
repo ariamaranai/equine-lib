@@ -277,6 +277,40 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001394411/",
+      "mstn": "CC"
+    },
+    {
+      "name": "リアルスティール",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001157711/",
+      "mstn": "CT"
+    },
+    {
+      "name": "サンキューベイリー",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001261871/",
+      "mstn": ""
+    },
+    {
+      "name": "モーリス",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001138240/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001386801/",
       "mstn": "CC"
     },
@@ -303,6 +337,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001388192/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ホッコータルマエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001107477/",
+      "mstn": "CC"
+    },
+    {
+      "name": "シルショコラティエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001111101/",
+      "mstn": ""
+    },
+    {
+      "name": "Cacoethes",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/cacoethes",
+      "mstn": ""
     }
   ],
   [
