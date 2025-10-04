@@ -8723,6 +8723,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Endeavour",
+    "year": 1942,
+    "hh": 177,
+    "wt": 567,
+    "bmi": 180.1,
+    "href": "https://www.pedigreequery.com/endeavour",
+    "sire": "British Empire",
+    "dsire": "Hunters Moon",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Dortmund",
     "year": 2012,
     "hh": 178,
