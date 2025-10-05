@@ -8228,6 +8228,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Schiaparelli",
+    "year": 2003,
+    "hh": 170,
+    "wt": 560,
+    "bmi": 193.8,
+    "href": "https://www.pedigreequery.com/schiaparelli4",
+    "sire": "Monsun",
+    "dsire": "Old Vic",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "アポロケンタッキー",
     "year": 2012,
     "hh": 170,
