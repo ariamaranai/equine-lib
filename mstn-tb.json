@@ -208,6 +208,40 @@
       "name": "-",
       "year": 2024,
       "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001393446/",
+      "mstn": "CC"
+    },
+    {
+      "name": "グレーターロンドン",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149061/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エスカルラータ",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001221259/",
+      "mstn": ""
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001389637/",
       "mstn": "CC"
@@ -405,6 +439,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001110554/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001392037/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ディーマジェスティ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001167517/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ナイトスプライト",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001202884/",
+      "mstn": ""
+    },
+    {
+      "name": "Turtle Bowl",
+      "year": 2002,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/turtle+bowl",
+      "mstn": ""
     }
   ],
   [
@@ -15066,6 +15134,40 @@
       "name": "-",
       "year": 2024,
       "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001392066/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "クリストフォリ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001203168/",
+      "mstn": ""
+    },
+    {
+      "name": "Henny Hughes",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/henny+hughes",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001394524/",
       "mstn": "CT"
@@ -15093,6 +15195,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000742976/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001396962/",
+      "mstn": "CT"
+    },
+    {
+      "name": "オメガパフューム",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001206059/",
+      "mstn": ""
+    },
+    {
+      "name": "ショウナンバービー",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001235905/",
+      "mstn": ""
+    },
+    {
+      "name": "トゥザワールド",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001134576/",
+      "mstn": ""
     }
   ],
   [
