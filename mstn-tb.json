@@ -40665,6 +40665,40 @@
   ],
   [
     {
+      "name": "サブマリーナ",
+      "year": 2021,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001337837/",
+      "mstn": "TT"
+    },
+    {
+      "name": "スワーヴリチャード",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001190059/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ヒシサブリナ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001164995/",
+      "mstn": ""
+    },
+    {
+      "name": "Bernardini",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/bernardini",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "ジーベック",
       "year": 2021,
       "cnty": "JPN",
