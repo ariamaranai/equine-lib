@@ -19789,6 +19789,40 @@
   ],
   [
     {
+      "name": "スターダストレイン",
+      "year": 2021,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001339616/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エスポワールシチー",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000888832/",
+      "mstn": ""
+    },
+    {
+      "name": "イントリーグ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001206846/",
+      "mstn": ""
+    },
+    {
+      "name": "タニノギムレット",
+      "year": 1999,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000611525/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "スパークリシャール",
       "year": 2021,
       "cnty": "JPN",
