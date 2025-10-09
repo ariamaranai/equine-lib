@@ -5379,6 +5379,17 @@
     "mstn": ["CC","--","--"]
   },
   {
+    "name": "Latency",
+    "year": 2001,
+    "hh": 166,
+    "wt": 463,
+    "bmi": 168.0,
+    "href": "https://www.pedigreequery.com/latency",
+    "sire": "Slew Gin Fizz",
+    "dsire": "El Asesor",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Mendociano",
     "year": 2015,
     "hh": 166,
