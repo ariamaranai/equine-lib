@@ -8338,6 +8338,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "Dublin",
+    "year": 2007,
+    "hh": 170,
+    "wt": 590,
+    "bmi": 204.2,
+    "href": "https://www.pedigreequery.com/dublin17",
+    "sire": "Afleet Alex",
+    "dsire": "Storm Bird",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Flower Allery",
     "year": 2002,
     "hh": 170,
