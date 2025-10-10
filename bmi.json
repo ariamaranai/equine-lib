@@ -8811,6 +8811,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Mucho Macho Man",
+    "year": 2008,
+    "hh": 178,
+    "wt": 544,
+    "bmi": 171.7,
+    "href": "https://www.pedigreequery.com/mucho+macho+man",
+    "sire": "Macho Uno",
+    "dsire": "Ponche",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "Dortmund",
     "year": 2012,
     "hh": 178,
