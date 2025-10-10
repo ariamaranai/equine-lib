@@ -209,6 +209,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Gallant Man",
+    "year": 1954,
+    "hh": 158,
+    "wt": 431,
+    "bmi": 172.6,
+    "href": "https://www.pedigreequery.com/gallant+man",
+    "sire": "Migoli",
+    "dsire": "Mahmoud",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "キーストン",
     "year": 1962,
     "hh": 158,
@@ -5676,6 +5687,17 @@
     "mstn": ["--","CC","CC"]
   },
   {
+    "name": "Native Charger",
+    "year": 1962,
+    "hh": 166,
+    "wt": 499,
+    "bmi": 181.1,
+    "href": "https://www.pedigreequery.com/native+charger",
+    "sire": "Native Dancer",
+    "dsire": "Heliopolis",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Shakespeare",
     "year": 2001,
     "hh": 166,
@@ -6303,6 +6325,17 @@
     "mstn": ["CT","CT","TT"]
   },
   {
+    "name": "リオンディーズ",
+    "year": 2013,
+    "hh": 167,
+    "wt": 496,
+    "bmi": 177.9,
+    "href": "https://www.jbis.or.jp/horse/0001170063/",
+    "sire": "キングカメハメハ",
+    "dsire": "スペシャルウィーク",
+    "mstn": ["CT","CT","TT"]
+  },
+  {
     "name": "トーセンスターダム",
     "year": 2011,
     "hh": 167,
@@ -6444,6 +6477,17 @@
     "sire": "キングカメハメハ",
     "dsire": "Tony Bin",
     "mstn": ["CT","CT","--"]
+  },
+  {
+    "name": "Bold Ruler",
+    "year": 1954,
+    "hh": 167,
+    "wt": 513,
+    "bmi": 183.9,
+    "href": "https://www.pedigreequery.com/bold+ruler",
+    "sire": "Nasrullah",
+    "dsire": "Discovery",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Ungaro",
@@ -6875,6 +6919,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Lil E Tee",
+    "year": 1989,
+    "hh": 168,
+    "wt": 497,
+    "bmi": 176.1,
+    "href": "https://www.pedigreequery.com/lil+e+tee",
+    "sire": "At The Threshold",
+    "dsire": "For The Moment",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Hill Rise",
     "year": 1961,
     "hh": 168,
@@ -6884,6 +6939,17 @@
     "sire": "Hillary",
     "dsire": "Russia",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Hurry To Market",
+    "year": 1961,
+    "hh": 163,
+    "wt": 522,
+    "bmi": 176.7,
+    "href": "https://www.pedigreequery.com/hurry+to+market",
+    "sire": "To Market",
+    "dsire": "Princequillo",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "ネオユニヴァース",
@@ -7489,17 +7555,6 @@
     "sire": "City Zip",
     "dsire": "St Jovite",
     "mstn": ["CC","--","--"]
-  },
-  {
-    "name": "Lil E Tee",
-    "year": 1989,
-    "hh": 168,
-    "wt": 544,
-    "bmi": 192.8,
-    "href": "https://www.pedigreequery.com/lil+e+tee",
-    "sire": "At The Threshold",
-    "dsire": "For The Moment",
-    "mstn": ["--","--","--"]
   },
   {
     "name": "Secretariat",
