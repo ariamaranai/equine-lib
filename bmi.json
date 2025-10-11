@@ -8338,6 +8338,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Timber Country",
+    "year": 1992,
+    "hh": 170,
+    "wt": 554,
+    "bmi": 192.4,
+    "href": "https://www.pedigreequery.com/timber+country",
+    "sire": "Woodman",
+    "dsire": "Pretense",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Schiaparelli",
     "year": 2003,
     "hh": 170,
