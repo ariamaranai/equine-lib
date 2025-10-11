@@ -616,6 +616,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Mister Frisky",
+    "year": 1987,
+    "hh": 160,
+    "wt": 454,
+    "bmi": 177.3,
+    "href": "https://www.pedigreequery.com/mister+frisky",
+    "sire": "Marsayas",
+    "dsire": "Highest Tide",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Scintillo",
     "year": 2005,
     "hh": 160,
@@ -790,17 +801,6 @@
     "sire": "サウスヴィグラス",
     "dsire": "Park Regent",
     "mstn": ["--","CC","--"]
-  },
-  {
-    "name": "Mister Frisky",
-    "year": 1987,
-    "hh": 160,
-    "wt": 499,
-    "bmi": 194.9,
-    "href": "https://www.pedigreequery.com/mister+frisky",
-    "sire": "Marsayas",
-    "dsire": "Highest Tide",
-    "mstn": ["--","--","--"]
   },
   {
     "name": "サトノクラウン",
@@ -7568,6 +7568,17 @@
     "mstn": ["CT","--","TT"]
   },
   {
+    "name": "Spy Song",
+    "year": 1943,
+    "hh": 168,
+    "wt": 544,
+    "bmi": 192.8,
+    "href": "https://www.pedigreequery.com/spy+song",
+    "sire": "Balladier",
+    "dsire": "Peter Hastings",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Swaps",
     "year": 1952,
     "hh": 168,
@@ -8212,9 +8223,9 @@
     "wt": 539,
     "bmi": 186.6,
     "href": "https://www.jbis.or.jp/horse/0001123166/",
-    "sire": "Timber Country",
-    "dsire": "ゴールドアリュール",
-    "mstn": ["CT","--","CT"]
+    "sire": "ゴールドアリュール",
+    "dsire": "Timber Country",
+    "mstn": ["CT","CT","--"]
   },
   {
     "name": "Candy Boy",
