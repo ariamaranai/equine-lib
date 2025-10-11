@@ -15883,40 +15883,6 @@
       "year": 2023,
       "cnty": "USA",
       "sex": "M",
-      "href": "",
-      "mstn": "CT"
-    },
-    {
-      "name": "Practical Joke",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/practical+joke3",
-      "mstn": ""
-    },
-    {
-      "name": "Factfull",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/factfull",
-      "mstn": ""
-    },
-    {
-      "name": "The Factor",
-      "year": 2008,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/the+factor2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "USA",
-      "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001404690/",
       "mstn": "CT"
     },
@@ -16112,6 +16078,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/elusive+quality",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Gotcha",
+      "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/gotcha10",
+      "mstn": "CT"
+    },
+    {
+      "name": "Practical Joke",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/practical+joke3",
+      "mstn": ""
+    },
+    {
+      "name": "Factfull",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/factfull",
+      "mstn": ""
+    },
+    {
+      "name": "The Factor",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/the+factor2",
       "mstn": ""
     }
   ],
