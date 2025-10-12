@@ -11,6 +11,17 @@
     "mstn": ["CC","--","--"]
   },
   {
+    "name": "Herat",
+    "year": 1982,
+    "hh": 152,
+    "wt": 408,
+    "bmi": 176.6,
+    "href": "https://www.pedigreequery.com/herat",
+    "sire": "Northern Dancer",
+    "dsire": "Damascus",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "Larry The Legend",
     "year": 1992,
     "hh": 152,
@@ -1263,6 +1274,17 @@
     "sire": "American Pharoah",
     "dsire": "More Than Ready",
     "mstn": ["--","CT","CT"]
+  },
+  {
+    "name": "Expert Eye",
+    "year": 2015,
+    "hh": 161,
+    "wt": 560,
+    "bmi": 216.0,
+    "href": "https://www.pedigreequery.com/expert+eye",
+    "sire": "Acclamation",
+    "dsire": "Dansili",
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "Hindoo",
@@ -8272,6 +8294,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Jump Start",
+    "year": 1999,
+    "hh": 170,
+    "wt": 544,
+    "bmi": 188.3,
+    "href": "https://www.pedigreequery.com/jump+start",
+    "sire": "Ap Indy",
+    "dsire": "Storm Cat",
+    "mstn": ["--","TT","CC"]
+  },
+  {
     "name": "Native Dancer",
     "year": 1950,
     "hh": 170,
@@ -8676,6 +8709,28 @@
     "href": "https://www.pedigreequery.com/eternal+prince",
     "sire": "Majestic Prince",
     "dsire": "Fleet Nasrullah",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Rock Hard Ten",
+    "year": 2001,
+    "hh": 173,
+    "wt": 544,
+    "bmi": 181.8,
+    "href": "https://www.pedigreequery.com/rock+hard+ten",
+    "sire": "Kris S",
+    "dsire": "Mr Prospector",
+    "mstn": ["--","TT","CC"]
+  },
+  {
+    "name": "Tencendur",
+    "year": 2012,
+    "hh": 173,
+    "wt": 544,
+    "bmi": 181.8,
+    "href": "https://www.pedigreequery.com/tencendur2",
+    "sire": "Warriors Reward",
+    "dsire": "Hennessy",
     "mstn": ["--","--","--"]
   },
   {
