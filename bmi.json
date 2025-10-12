@@ -8338,6 +8338,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "The Scoundrel",
+    "year": 1961,
+    "hh": 170,
+    "wt": 544,
+    "bmi": 188.3,
+    "href": "https://www.pedigreequery.com/the+scoundrel",
+    "sire": "Toulouse Lautrec",
+    "dsire": "Malekeh",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "The Wicked North",
     "year": 1989,
     "hh": 170,
