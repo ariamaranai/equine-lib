@@ -6963,6 +6963,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Capote",
+    "year": 1984,
+    "hh": 168,
+    "wt": 499,
+    "bmi": 176.7,
+    "href": "https://www.pedigreequery.com/capote",
+    "sire": "Seattle Slew",
+    "dsire": "Bald Eagle",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Hill Rise",
     "year": 1961,
     "hh": 168,
@@ -6976,8 +6987,8 @@
   {
     "name": "Hurry To Market",
     "year": 1961,
-    "hh": 163,
-    "wt": 522,
+    "hh": 168,
+    "wt": 499,
     "bmi": 176.7,
     "href": "https://www.pedigreequery.com/hurry+to+market",
     "sire": "To Market",
