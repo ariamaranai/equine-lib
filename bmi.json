@@ -5511,6 +5511,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "Tim Tam",
+    "year": 1955,
+    "hh": 166,
+    "wt": 472,
+    "bmi": 171.3,
+    "href": "https://www.pedigreequery.com/tim+tam",
+    "sire": "Tom Fool",
+    "dsire": "Bull Lea",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "War Decree",
     "year": 2014,
     "hh": 166,
