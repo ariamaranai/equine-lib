@@ -6631,6 +6631,40 @@
   ],
   [
     {
+      "name": "シュネルマイスター",
+      "year": 2018,
+      "cnty": "GER",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001303553/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Kingman",
+      "year": 2011,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kingman4",
+      "mstn": ""
+    },
+    {
+      "name": "Serienholde",
+      "year": 2013,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/serienholde",
+      "mstn": ""
+    },
+    {
+      "name": "Soldier Hollow",
+      "year": 2000,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/soldier+hollow",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "マミリアス",
       "year": 2018,
       "cnty": "JPN",
