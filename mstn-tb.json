@@ -35,6 +35,40 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001414846/",
+      "mstn": "CC"
+    },
+    {
+      "name": "コントレイル",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237042/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ストームハート",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001296859/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Uncaptured",
+      "year": 2010,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/uncaptured2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Kinabalu Park",
       "year": 2025,
       "cnty": "GB",
@@ -14999,6 +15033,40 @@
       "year": 2025,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001413709/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Bricks And Mortar",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/bricks+and+mortar2",
+      "mstn": "TT"
+    },
+    {
+      "name": "エピファレーヌ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001235170/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エピファネイア",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001124297/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001415130/",
       "mstn": "CT"
     },
@@ -15025,6 +15093,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/american+patriot4",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001408251/",
+      "mstn": "CT"
+    },
+    {
+      "name": "パンサラッサ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237701/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ゴッドフロアー",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001122613/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ハーツクライ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000722158/",
+      "mstn": "CT"
     }
   ],
   [
@@ -15066,6 +15168,40 @@
       "name": "-",
       "year": 2025,
       "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001413349/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Nadal",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/nadal15",
+      "mstn": "CC"
+    },
+    {
+      "name": "ズールー",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001230560/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001411759/",
       "mstn": "CT"
@@ -15092,6 +15228,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001409311/",
+      "mstn": "CT"
+    },
+    {
+      "name": "グレナディアガーズ",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001296553/",
+      "mstn": ""
+    },
+    {
+      "name": "ラクアミ",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001152593/",
+      "mstn": ""
+    },
+    {
+      "name": "ダイワメジャー",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000725485/",
       "mstn": "CT"
     }
   ],
@@ -24749,6 +24919,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/tale+of+the+cat",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "コントレイル",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237042/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ロードクロサイト",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001157855/",
+      "mstn": ""
+    },
+    {
+      "name": "Unbridleds Song",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/unbridleds+song",
+      "mstn": ""
     }
   ],
   [
