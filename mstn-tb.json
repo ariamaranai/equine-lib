@@ -851,45 +851,11 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2023,
-      "cnty": "USA",
-      "sex": "M",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "Maxfield",
-      "year": 2017,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/maxfield2",
-      "mstn": ""
-    },
-    {
-      "name": "Blind Pool",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/blind+pool",
-      "mstn": ""
-    },
-    {
-      "name": "Awesome Again",
-      "year": 1994,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/awesome+again",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
+      "name": "Bold Bucks",
       "year": 2023,
       "cnty": "AUS",
       "sex": "M",
-      "href": "",
+      "href": "https://www.pedigreequery.com/bold+bucks",
       "mstn": "CC"
     },
     {
@@ -914,40 +880,6 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/fastnet+rock2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2023,
-      "cnty": "USA",
-      "sex": "M",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "Maxfield",
-      "year": 2017,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/maxfield2",
-      "mstn": ""
-    },
-    {
-      "name": "Two Shakes",
-      "year": 2016,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/two+shakes2",
-      "mstn": ""
-    },
-    {
-      "name": "Exchange Rate",
-      "year": 1997,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/exchange+rate",
       "mstn": ""
     }
   ],
@@ -1016,6 +948,74 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/afleet+alex",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Lambs Tail",
+      "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/lambs+tail3",
+      "mstn": "CC"
+    },
+    {
+      "name": "Maxfield",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/maxfield2",
+      "mstn": ""
+    },
+    {
+      "name": "Two Shakes",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/two+shakes2",
+      "mstn": ""
+    },
+    {
+      "name": "Exchange Rate",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/exchange+rate",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Relax Max",
+      "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/relax+max",
+      "mstn": "CC"
+    },
+    {
+      "name": "Maxfield",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/maxfield2",
+      "mstn": ""
+    },
+    {
+      "name": "Blind Pool",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/blind+pool",
+      "mstn": ""
+    },
+    {
+      "name": "Awesome Again",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/awesome+again",
       "mstn": ""
     }
   ],
@@ -16117,41 +16117,7 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2023,
-      "cnty": "USA",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001404690/",
-      "mstn": "CT"
-    },
-    {
-      "name": "City Of Light",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/city+of+light6",
-      "mstn": ""
-    },
-    {
-      "name": "Moart",
-      "year": 2018,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/moart",
-      "mstn": ""
-    },
-    {
-      "name": "Uncle Mo",
-      "year": 2008,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/uncle+mo",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
+      "name": "",
       "year": 2023,
       "cnty": "GB",
       "sex": "F",
@@ -16185,11 +16151,11 @@
   ],
   [
     {
-      "name": "-",
+      "name": "Tiernanogue",
       "year": 2023,
       "cnty": "USA",
       "sex": "M",
-      "href": "",
+      "href": "https://www.pedigreequery.com/tiernanogue2",
       "mstn": "CT"
     },
     {
@@ -17473,6 +17439,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/dunkirk9",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "マイカラー",
+      "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001404690/",
+      "mstn": "CT"
+    },
+    {
+      "name": "City Of Light",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/city+of+light6",
+      "mstn": ""
+    },
+    {
+      "name": "Moart",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/moart",
+      "mstn": ""
+    },
+    {
+      "name": "Uncle Mo",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/uncle+mo",
+      "mstn": ""
     }
   ],
   [
