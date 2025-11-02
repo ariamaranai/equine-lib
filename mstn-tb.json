@@ -16185,40 +16185,6 @@
   ],
   [
     {
-      "name": "Tiernanogue",
-      "year": 2023,
-      "cnty": "USA",
-      "sex": "M",
-      "href": "https://www.pedigreequery.com/tiernanogue2",
-      "mstn": "CT"
-    },
-    {
-      "name": "Quality Road",
-      "year": 2006,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/quality+road",
-      "mstn": ""
-    },
-    {
-      "name": "Spritz",
-      "year": 2018,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/spritz6",
-      "mstn": ""
-    },
-    {
-      "name": "Awesome Again",
-      "year": 1994,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/awesome+again",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "-",
       "year": 2023,
       "cnty": "JPN",
@@ -16521,6 +16487,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/malibu+moon",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Tiernanogue",
+      "year": 2023,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/tiernanogue2",
+      "mstn": "CT"
+    },
+    {
+      "name": "Quality Road",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/quality+road",
+      "mstn": ""
+    },
+    {
+      "name": "Spritz",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/spritz6",
+      "mstn": ""
+    },
+    {
+      "name": "Awesome Again",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/awesome+again",
+      "mstn": ""
     }
   ],
   [
@@ -39271,11 +39271,11 @@
   ],
   [
     {
-      "name": "Valo",
+      "name": "Remarquable Flare",
       "year": 2024,
       "cnty": "USA",
       "sex": "M",
-      "href": "",
+      "href": "https://www.pedigreequery.com/remarquable+flare",
       "mstn": "TT"
     },
     {
