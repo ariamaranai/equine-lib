@@ -591,7 +591,7 @@
     "href": "https://www.pedigreequery.com/pentire",
     "sire": "Be My Guest",
     "dsire": "Mill Reef",
-    "mstn": ["--","--","TT"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Birdstone",
@@ -5354,7 +5354,7 @@
     "href": "https://www.pedigreequery.com/floral+pegasus",
     "sire": "Fusaichi Pegasus",
     "dsire": "Mill Reef",
-    "mstn": ["--","--","TT"]
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Aristophanes",
