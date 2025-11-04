@@ -817,6 +817,40 @@
   ],
   [
     {
+      "name": "ヴェネラブルサマー",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001396927/",
+      "mstn": "CC"
+    },
+    {
+      "name": "インティ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001189892/",
+      "mstn": ""
+    },
+    {
+      "name": "ジョーマリリン",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001168128/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "-",
       "year": 2023,
       "cnty": "AUS",
