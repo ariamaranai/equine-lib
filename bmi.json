@@ -6182,6 +6182,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Aesops Fables",
+    "year": 2020,
+    "hh": 166,
+    "wt": 544,
+    "bmi": 197.4,
+    "href": "https://www.pedigreequery.com/aesops+fables3",
+    "sire": "No Nay Never",
+    "dsire": "シンコウフォレスト",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Alydar",
     "year": 1975,
     "hh": 166,
