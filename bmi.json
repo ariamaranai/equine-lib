@@ -5445,6 +5445,28 @@
     "mstn": ["CC","--","--"]
   },
   {
+    "name": "Laws Of Indices",
+    "year": 2018,
+    "hh": 166,
+    "wt": 461,
+    "bmi": 167.3,
+    "href": "https://www.pedigreequery.com/laws+of+indices",
+    "sire": "Power",
+    "dsire": "Exceed And Excel",
+    "mstn": ["--","--","CC"]
+  },
+  {
+    "name": "Bubble Gift",
+    "year": 2018,
+    "hh": 166,
+    "wt": 461,
+    "bmi": 168.0,
+    "href": "https://www.pedigreequery.com/bubble+gift",
+    "sire": "Nathaniel",
+    "dsire": "Grand Lodge",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Latency",
     "year": 2001,
     "hh": 166,
