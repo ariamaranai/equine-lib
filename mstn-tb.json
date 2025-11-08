@@ -20809,6 +20809,40 @@
   ],
   [
     {
+      "name": "Half Yours",
+      "year": 2020,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/half+yours3",
+      "mstn": "CT"
+    },
+    {
+      "name": "St Jean",
+      "year": 2010,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/st+jean3",
+      "mstn": ""
+    },
+    {
+      "name": "La Gazelle",
+      "year": 2006,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/la+gazelle5",
+      "mstn": ""
+    },
+    {
+      "name": "Desert King",
+      "year": 1994,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/desert+king",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "Herrlich",
       "year": 2020,
       "cnty": "GB",
@@ -41651,6 +41685,40 @@
   ],
   [
     {
+      "name": "Hatasu",
+      "year": 2020,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/hatasu3",
+      "mstn": "TT"
+    },
+    {
+      "name": "American Pharoah",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+pharoah",
+      "mstn": "CT"
+    },
+    {
+      "name": "Geblitzt",
+      "year": 2006,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/geblitzt",
+      "mstn": ""
+    },
+    {
+      "name": "Testa Rossa",
+      "year": 1996,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/testa+rossa",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Hydrate",
       "year": 2020,
       "cnty": "IRE",
@@ -44978,6 +45046,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/mr+greeley",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Blitz N Magic",
+      "year": 2014,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/blitz+n+magic",
+      "mstn": "TT"
+    },
+    {
+      "name": "Magic Albert",
+      "year": 1998,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/magic+albert",
+      "mstn": ""
+    },
+    {
+      "name": "Geblitzt",
+      "year": 2006,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/geblitzt",
+      "mstn": ""
+    },
+    {
+      "name": "Testa Rossa",
+      "year": 1996,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/testa+rossa",
       "mstn": ""
     }
   ],
