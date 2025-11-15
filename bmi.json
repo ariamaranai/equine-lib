@@ -7040,6 +7040,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Painting Freedom",
+    "year": 2003,
+    "hh": 168,
+    "wt": 499,
+    "bmi": 176.7,
+    "href": "https://www.pedigreequery.com/painting+freedom",
+    "sire": "Airdrie Apache",
+    "dsire": "Play Fellow",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ネオユニヴァース",
     "year": 2000,
     "hh": 168,
@@ -9097,17 +9108,6 @@
     "mstn": ["--","--","CC"]
   },
   {
-    "name": "Big Jag*",
-    "year": 1993,
-    "hh": 178,
-    "wt": 608,
-    "bmi": 191.9,
-    "href": "https://www.pedigreequery.com/big+jag",
-    "sire": "Kleven",
-    "dsire": "Affirmed",
-    "mstn": ["--","--","--"]
-  },
-  {
     "name": "Best Turn",
     "year": 1966,
     "hh": 180,
@@ -9116,17 +9116,6 @@
     "href": "https://www.pedigreequery.com/best+turn",
     "sire": "Turn-to",
     "dsire": "Swaps",
-    "mstn": ["--","--","--"]
-  },
-  {
-    "name": "Holly Roller*",
-    "year": 1992,
-    "hh": 185,
-    "wt": 800,
-    "bmi": 233.7,
-    "href": "https://www.pedigreequery.com/holy+roller3",
-    "sire": "Sanction",
-    "dsire": "Imperial Prince",
     "mstn": ["--","--","--"]
   }
 ]
