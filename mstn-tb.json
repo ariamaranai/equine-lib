@@ -15439,6 +15439,40 @@
     {
       "name": "-",
       "year": 2024,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mystic Guide",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mystic+guide",
+      "mstn": ""
+    },
+    {
+      "name": "Orphea",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/orphea3",
+      "mstn": ""
+    },
+    {
+      "name": "Medaglia Doro",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/medaglia+doro",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
       "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001397030/",
