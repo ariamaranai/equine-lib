@@ -16253,6 +16253,40 @@
   ],
   [
     {
+      "name": "ウインターゲームズ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "コントレイル",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237042/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Blue Illusion",
+      "year": 2014,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/blue+illusion2",
+      "mstn": ""
+    },
+    {
+      "name": "Dubawi",
+      "year": 2002,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dubawi",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "-",
       "year": 2023,
       "cnty": "GB",
@@ -22437,6 +22471,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/montjeu",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "アランチャータ",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001311056/",
+      "mstn": "CT"
+    },
+    {
+      "name": "リーチザクラウン",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000991842/",
+      "mstn": ""
+    },
+    {
+      "name": "ライムスカッシュ",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001155592/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
     }
   ],
   [
