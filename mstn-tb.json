@@ -3299,6 +3299,40 @@
   ],
   [
     {
+      "name": "ミスクモカゼ",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001357798/",
+      "mstn": "CC"
+    },
+    {
+      "name": "California Chrome",
+      "year": 2011,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/california+chrome",
+      "mstn": "CT"
+    },
+    {
+      "name": "パラダイスコーブ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001173734/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "ユメドリーム",
       "year": 2022,
       "cnty": "JPN",
