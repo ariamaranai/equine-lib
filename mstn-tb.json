@@ -15712,6 +15712,40 @@
       "name": "-",
       "year": 2024,
       "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001394507/",
+      "mstn": "CT"
+    },
+    {
+      "name": "チュウワウィザード",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001206350/",
+      "mstn": ""
+    },
+    {
+      "name": "サウンドパドマ",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001264840/",
+      "mstn": ""
+    },
+    {
+      "name": "Sinister Minister",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sinister+minister",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001394524/",
       "mstn": "CT"
