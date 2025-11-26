@@ -15577,6 +15577,40 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001391113/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "アポロマーキュリー",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001186013/",
+      "mstn": ""
+    },
+    {
+      "name": "アポロキングダム",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000900065/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001389181/",
       "mstn": "CT"
     },
