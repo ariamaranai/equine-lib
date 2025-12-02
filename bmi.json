@@ -2816,6 +2816,17 @@
     "mstn": ["TT","--","--"]
   },
   {
+    "name": "ラウダシオン",
+    "year": 2017,
+    "hh": 163,
+    "wt": 522,
+    "bmi": 196.5,
+    "href": "https://www.jbis.or.jp/horse/0001235600/",
+    "sire": "リアルインパクト",
+    "dsire": "Songandaprayer",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "Came Home",
     "year": 1999,
     "hh": 163,
