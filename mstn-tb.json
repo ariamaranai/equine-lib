@@ -2551,6 +2551,40 @@
   ],
   [
     {
+      "name": "Talkanco",
+      "year": 2022,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/talkanco",
+      "mstn": "CC"
+    },
+    {
+      "name": "Im All The Talk",
+      "year": 2010,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/im+all+the+talk",
+      "mstn": ""
+    },
+    {
+      "name": "Calianco",
+      "year": 2010,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/calianco",
+      "mstn": ""
+    },
+    {
+      "name": "California Dane",
+      "year": 2002,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/california+dane",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Volkano",
       "year": 2022,
       "cnty": "AUS",
@@ -19954,6 +19988,40 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.pedigreequery.com/swain",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Bold Strike",
+      "year": 2021,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/bold+strike9",
+      "mstn": "CT"
+    },
+    {
+      "name": "Too Darn Hot",
+      "year": 2016,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/too+darn+hot3",
+      "mstn": ""
+    },
+    {
+      "name": "Valdemoro",
+      "year": 2006,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/valdemoro4",
+      "mstn": ""
+    },
+    {
+      "name": "Encosta De Lago",
+      "year": 1993,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/encosta+de+lago",
       "mstn": ""
     }
   ],
