@@ -39,6 +39,40 @@
       "year": 2025,
       "cnty": "JPN",
       "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001405049/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Drefong",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/drefong",
+      "mstn": "CC"
+    },
+    {
+      "name": "シュシュブリーズ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001141447/",
+      "mstn": "CT"
+    },
+    {
+      "name": "フジキセキ",
+      "year": 1992,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000262443/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001414846/",
       "mstn": "CC"
     },
