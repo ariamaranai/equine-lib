@@ -1463,6 +1463,40 @@
   ],
   [
     {
+      "name": "コルテオソレイユ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001374252/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ウインブライト",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001188466/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ファンシャン",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001216054/",
+      "mstn": ""
+    },
+    {
+      "name": "トーセンラー",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001096885/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "サトミノアカリ",
       "year": 2023,
       "cnty": "JPN",
@@ -27813,6 +27847,40 @@
   ],
   [
     {
+      "name": "ウインブライト",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001188466/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ステイゴールド",
+      "year": 1994,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000286968/",
+      "mstn": ""
+    },
+    {
+      "name": "サマーエタニティ",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000884155/",
+      "mstn": ""
+    },
+    {
+      "name": "アドマイヤコジーン",
+      "year": 1996,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000308300/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "オールザベスト",
       "year": 2014,
       "cnty": "JPN",
@@ -41358,7 +41426,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001188466/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ルージュマジック",
