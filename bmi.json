@@ -7304,6 +7304,17 @@
     "mstn": ["--","TT","TT"]
   },
   {
+    "name": "ルペルカーリア",
+    "year": 2017,
+    "hh": 168,
+    "wt": 514,
+    "bmi": 182.2,
+    "href": "https://www.jbis.or.jp/horse/0001262713/",
+    "sire": "モーリス",
+    "dsire": "スペシャルウィーク",
+    "mstn": ["--","CT","TT"]
+  },
+  {
     "name": "ヴェラアズール",
     "year": 2017,
     "hh": 168,
@@ -8173,6 +8184,17 @@
     "mstn": ["CT","TT","--"]
   },
   {
+    "name": "ジャックドール",
+    "year": 2018,
+    "hh": 170,
+    "wt": 504,
+    "bmi": 175.1,
+    "href": "https://www.jbis.or.jp/horse/0001265115/",
+    "sire": "モーリス",
+    "dsire": "Unbridleds Song",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "レゴラス",
     "year": 2001,
     "hh": 170,
@@ -8346,6 +8368,17 @@
     "href": "https://www.pedigreequery.com/marsh+side",
     "sire": "Gone West",
     "dsire": "Pleasant Colony",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "カジノフォンテン",
+    "year": 2016,
+    "hh": 170,
+    "wt": 538,
+    "bmi": 186.2,
+    "href": "https://www.jbis.or.jp/horse/0001214020/",
+    "sire": "カジノドライヴ",
+    "dsire": "ベストタイアップ",
     "mstn": ["--","--","--"]
   },
   {
@@ -8699,6 +8732,17 @@
     "sire": "China Rock",
     "dsire": "Karim",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "バトルハーデン",
+    "year": 2020,
+    "hh": 171,
+    "wt": 532,
+    "bmi": 181.9,
+    "href": "https://www.jbis.or.jp/horse/0001323043/",
+    "sire": "ドゥラメンテ",
+    "dsire": "Storm Cat",
+    "mstn": ["--","CT","CC"]
   },
   {
     "name": "Nadal",
