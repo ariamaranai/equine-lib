@@ -17341,6 +17341,40 @@
   ],
   [
     {
+      "name": "ジーネキング",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001378335/",
+      "mstn": "CT"
+    },
+    {
+      "name": "コントレイル",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237042/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Secondary Market",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/secondary+market2",
+      "mstn": ""
+    },
+    {
+      "name": "Into Mischief",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/into+mischief",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "スターサンスルー",
       "year": 2023,
       "cnty": "JPN",
