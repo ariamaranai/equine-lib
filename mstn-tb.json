@@ -39887,6 +39887,40 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001395855/",
+      "mstn": "TT"
+    },
+    {
+      "name": "キタサンブラック",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001155349/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アイリッシュムーン",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001268332/",
+      "mstn": ""
+    },
+    {
+      "name": "Makfi",
+      "year": 2007,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/makfi",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001392260/",
       "mstn": "TT"
     },
