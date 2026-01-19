@@ -1815,6 +1815,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "ソウルラッシュ",
+    "year": 2018,
+    "hh": 162,
+    "wt": 518,
+    "bmi": 197.4,
+    "href": "https://www.jbis.or.jp/horse/0001270665/",
+    "sire": "ルーラーシップ",
+    "dsire": "マンハッタンカフェ",
+    "mstn": ["--","CT","CT"]
+  },
+  {
     "name": "Acclamation",
     "year": 1999,
     "hh": 162,
@@ -3157,6 +3168,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ソールオリエンス",
+    "year": 2020,
+    "hh": 164,
+    "wt": 478,
+    "bmi": 177.8,
+    "href": "https://www.jbis.or.jp/horse/0001325944/",
+    "sire": "キタサンブラック",
+    "dsire": "Motivator",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "ナリタブライアン",
     "year": 1991,
     "hh": 164,
@@ -4222,6 +4244,17 @@
     "sire": "Octagonal",
     "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
+  },
+  {
+    "name": "プログノーシス",
+    "year": 2018,
+    "hh": 165,
+    "wt": 484,
+    "bmi": 177.8,
+    "href": "https://www.jbis.or.jp/horse/0001269825/",
+    "sire": "ディープインパクト",
+    "dsire": "Observatory",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "Cityscape",
@@ -6609,6 +6642,17 @@
     "sire": "アドマイヤコジーン",
     "dsire": "タヤスツヨシ",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "フルフラット",
+    "year": 2017,
+    "hh": 167,
+    "wt": 514,
+    "bmi": 184.4,
+    "href": "https://www.jbis.or.jp/horse/0001313387/",
+    "sire": "Speightstown",
+    "dsire": "Medaglia Doro",
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "リアルスティール",
