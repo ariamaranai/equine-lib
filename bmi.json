@@ -660,6 +660,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ボッケリーニ",
+    "year": 2016,
+    "hh": 160,
+    "wt": 466,
+    "bmi": 182.0,
+    "href": "https://www.jbis.or.jp/horse/0001214646/",
+    "sire": "キングカメハメハ",
+    "dsire": "ダンスインザダーク",
+    "mstn": ["--","CT","TT"]
+  },
+  {
     "name": "Papyrus",
     "year": 1920,
     "hh": 160,
@@ -4772,6 +4783,17 @@
     "sire": "Lord Gayle",
     "dsire": "Silver Shark",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "メイショウハリオ",
+    "year": 2017,
+    "hh": 165,
+    "wt": 504,
+    "bmi": 185.2,
+    "href": "https://www.jbis.or.jp/horse/0001234732/",
+    "sire": "Pyro",
+    "dsire": "マンハッタンカフェ",
+    "mstn": ["--","CT","CT"]
   },
   {
     "name": "Lancaster Bomber",
