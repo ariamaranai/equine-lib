@@ -8365,6 +8365,40 @@
   ],
   [
     {
+      "name": "Cinnamon Lady",
+      "year": 2015,
+      "cnty": "PR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/cinnamon+lady6",
+      "mstn": "CC"
+    },
+    {
+      "name": "Elusive Chris",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/elusive+chris",
+      "mstn": ""
+    },
+    {
+      "name": "Fascinatin Lady",
+      "year": 1999,
+      "cnty": "PR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/fascinatin+lady",
+      "mstn": ""
+    },
+    {
+      "name": "Balcony",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/balcony",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Extrema",
       "year": 2015,
       "cnty": "AUS",
@@ -8497,6 +8531,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/danehill",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "Tashkent",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/tashkent3",
+      "mstn": "CC"
+    },
+    {
+      "name": "Arch",
+      "year": 1995,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/arch",
+      "mstn": "CT"
+    },
+    {
+      "name": "Hello Maggie May",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/hello+maggie+may",
+      "mstn": ""
+    },
+    {
+      "name": "Lemon Drop Kid",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/lemon+drop+kid",
+      "mstn": ""
     }
   ],
   [
@@ -16975,7 +17043,7 @@
       "mstn": "CT"
     },
     {
-      "name": "A Shin Forward",
+      "name": "エーシンフォワード",
       "year": 2005,
       "cnty": "USA",
       "sex": "S",
@@ -20567,6 +20635,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/teofilo2",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Sir Argento",
+      "year": 2021,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/sir+argento",
+      "mstn": "CT"
+    },
+    {
+      "name": "Race Day",
+      "year": 2011,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/race+day3",
+      "mstn": ""
+    },
+    {
+      "name": "Packed Powder",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/packed+powder",
+      "mstn": ""
+    },
+    {
+      "name": "The White Fox",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/the+white+fox",
+      "mstn": ""
     }
   ],
   [
@@ -29372,7 +29474,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/arch",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -38557,6 +38659,40 @@
   ],
   [
     {
+      "name": "Arch",
+      "year": 1995,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/arch",
+      "mstn": "CT"
+    },
+    {
+      "name": "Kris S",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kris+s",
+      "mstn": "TT"
+    },
+    {
+      "name": "Aurora",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/aurora2",
+      "mstn": ""
+    },
+    {
+      "name": "Danzig",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/danzig",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "Bianconi",
       "year": 1995,
       "cnty": "USA",
@@ -41047,7 +41183,7 @@
       "mstn": "TT"
     },
     {
-      "name": "A Shin Forward",
+      "name": "エーシンフォワード",
       "year": 2005,
       "cnty": "USA",
       "sex": "S",
@@ -47818,7 +47954,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/arch",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Aesculus",
