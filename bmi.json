@@ -1782,6 +1782,17 @@
     "mstn": ["CT","CC","TT"]
   },
   {
+    "name": "ジャスティン",
+    "year": 2004,
+    "hh": 162,
+    "wt": 510,
+    "bmi": 194.4,
+    "href": "https://www.jbis.or.jp/horse/0001221448/",
+    "sire": "オルフェーヴル",
+    "dsire": "Gone West",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "フサイチホウオー",
     "year": 2004,
     "hh": 162,
@@ -2178,6 +2189,17 @@
     "mstn": ["CT","--","--"]
   },
   {
+    "name": "ジャスティンパレス",
+    "year": 2019,
+    "hh": 163,
+    "wt": 472,
+    "bmi": 177.7,
+    "href": "https://www.jbis.or.jp/horse/0001311961/",
+    "sire": "ディープインパクト",
+    "dsire": "Royal Anthem",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "スズカフェニックス",
     "year": 2002,
     "hh": 163,
@@ -2506,6 +2528,17 @@
     "sire": "Gun Shot",
     "dsire": "War Admiral",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "セキフウ",
+    "year": 2019,
+    "hh": 163,
+    "wt": 490,
+    "bmi": 184.5,
+    "href": "https://www.jbis.or.jp/horse/0001307422/",
+    "sire": "Henny Hughes",
+    "dsire": "Kingmambo",
+    "mstn": ["--","CC","CC"]
   },
   {
     "name": "チュウワウィザード",
@@ -5005,6 +5038,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "イグナイター",
+    "year": 2018,
+    "hh": 165,
+    "wt": 513,
+    "bmi": 188.4,
+    "href": "https://www.jbis.or.jp/horse/0001261958/",
+    "sire": "エスポワールシチー",
+    "dsire": "Warning",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Pure Champion",
     "year": 2007,
     "hh": 165,
@@ -5619,6 +5663,17 @@
     "sire": "Bellamy Road",
     "dsire": "Mister Frisky",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "トウシンマカオ",
+    "year": 2019,
+    "hh": 166,
+    "wt": 476,
+    "bmi": 172.7,
+    "href": "https://www.jbis.or.jp/horse/0001304673/",
+    "sire": "ビッグアーサー",
+    "dsire": "スペシャルウィーク",
+    "mstn": ["--","CC","TT"]
   },
   {
     "name": "War Decree",
@@ -8171,6 +8226,17 @@
     "sire": "キングカメハメハ",
     "dsire": "Sunday Silence",
     "mstn": ["--","CT","TT"]
+  },
+  {
+    "name": "ミスティックロア",
+    "year": 2020,
+    "hh": 169,
+    "wt": 546,
+    "bmi": 191.2,
+    "href": "https://www.jbis.or.jp/horse/0001351762/",
+    "sire": "Arrogate",
+    "dsire": "Tiznow",
+    "mstn": ["--","--","CT"]
   },
   {
     "name": "サムソンハッピー",
