@@ -7282,6 +7282,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "ベラジオオペラ",
+    "year": 2020,
+    "hh": 168,
+    "wt": 505,
+    "bmi": 178.9,
+    "href": "https://www.pedigreequery.com/touch+of+land",
+    "sire": "ロードカナロア",
+    "dsire": "Harbinger",
+    "mstn": ["--","CC","TT"]
+  },
+  {
     "name": "Touch Of Land",
     "year": 2000,
     "hh": 168,
