@@ -4774,6 +4774,17 @@
     "mstn": ["--","TT","CC"]
   },
   {
+    "name": "タスティエーラ",
+    "year": 2020,
+    "hh": 165,
+    "wt": 502,
+    "bmi": 184.4,
+    "href": "https://www.jbis.or.jp/horse/0001326434/",
+    "sire": "サトノクラウン",
+    "dsire": "マンハッタンカフェ",
+    "mstn": ["--","CT","CT"]
+  },
+  {
     "name": "レガーロ",
     "year": 2013,
     "hh": 165,
@@ -5058,6 +5069,17 @@
     "sire": "Footstepsinthesand",
     "dsire": "Danehill",
     "mstn": ["--","--","CC"]
+  },
+  {
+    "name": "ジオグリフ",
+    "year": 2019,
+    "hh": 165,
+    "wt": 514,
+    "bmi": 188.8,
+    "href": "https://www.jbis.or.jp/horse/0001308716/",
+    "sire": "Drefong",
+    "dsire": "キングカメハメハ",
+    "mstn": ["--","CC","CT"]
   },
   {
     "name": "ヴィットリオドーロ",
@@ -6358,6 +6380,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "マッドクール",
+    "year": 2019,
+    "hh": 166,
+    "wt": 544,
+    "bmi": 197.5,
+    "href": "https://www.jbis.or.jp/horse/0001328113/",
+    "sire": "Dark Angel",
+    "dsire": "Indian Ridge",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Palace Malice",
     "year": 2010,
     "hh": 166,
@@ -6895,6 +6928,17 @@
     "sire": "New Approach",
     "dsire": "Dubawi",
     "mstn": ["--","CT","CT"]
+  },
+  {
+    "name": "ドンフランキー",
+    "year": 2019,
+    "hh": 167,
+    "wt": 596,
+    "bmi": 213.7,
+    "href": "https://www.jbis.or.jp/horse/0001311718/",
+    "sire": "ダイワメジャー",
+    "dsire": "Sunriver",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "Tout Seul",
