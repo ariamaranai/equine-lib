@@ -139,40 +139,6 @@
     {
       "name": "-",
       "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001395198/",
-      "mstn": "CC"
-    },
-    {
-      "name": "Will Take Charge",
-      "year": 2010,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/will+take+charge",
-      "mstn": ""
-    },
-    {
-      "name": "Ava Malone",
-      "year": 2016,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/ava+malone",
-      "mstn": ""
-    },
-    {
-      "name": "Curlin",
-      "year": 2004,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/curlin",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
       "cnty": "GB",
       "sex": "M",
       "href": "",
@@ -310,40 +276,6 @@
       "name": "-",
       "year": 2024,
       "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001393446/",
-      "mstn": "CC"
-    },
-    {
-      "name": "グレーターロンドン",
-      "year": 2012,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001149061/",
-      "mstn": "CT"
-    },
-    {
-      "name": "エスカルラータ",
-      "year": 2016,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001221259/",
-      "mstn": ""
-    },
-    {
-      "name": "ルーラーシップ",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001042049/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001389637/",
       "mstn": "CC"
@@ -439,278 +371,6 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000286968/",
       "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001394411/",
-      "mstn": "CC"
-    },
-    {
-      "name": "リアルスティール",
-      "year": 2012,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001157711/",
-      "mstn": "CT"
-    },
-    {
-      "name": "サンキューベイリー",
-      "year": 2018,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001261871/",
-      "mstn": ""
-    },
-    {
-      "name": "モーリス",
-      "year": 2011,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001138240/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001386801/",
-      "mstn": "CC"
-    },
-    {
-      "name": "グレーターロンドン",
-      "year": 2012,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001149061/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ザデイ",
-      "year": 2006,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000988287/",
-      "mstn": "CT"
-    },
-    {
-      "name": "シンボリクリスエス",
-      "year": 1999,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000700008/",
-      "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001388192/",
-      "mstn": "CC"
-    },
-    {
-      "name": "ホッコータルマエ",
-      "year": 2009,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001107477/",
-      "mstn": "CC"
-    },
-    {
-      "name": "シルショコラティエ",
-      "year": 2009,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001111101/",
-      "mstn": ""
-    },
-    {
-      "name": "Cacoethes",
-      "year": 1986,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/cacoethes",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001392335/",
-      "mstn": "CC"
-    },
-    {
-      "name": "ホッコータルマエ",
-      "year": 2009,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001107477/",
-      "mstn": "CC"
-    },
-    {
-      "name": "シンデレラメイク",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001206061/",
-      "mstn": ""
-    },
-    {
-      "name": "ディープブリランテ",
-      "year": 2009,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001110554/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001392037/",
-      "mstn": "CC"
-    },
-    {
-      "name": "ディーマジェスティ",
-      "year": 2013,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001167517/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ナイトスプライト",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001202884/",
-      "mstn": ""
-    },
-    {
-      "name": "Turtle Bowl",
-      "year": 2002,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/turtle+bowl",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001396793/",
-      "mstn": "CC"
-    },
-    {
-      "name": "Will Take Charge",
-      "year": 2010,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/will+take+charge",
-      "mstn": ""
-    },
-    {
-      "name": "ニーズヘッグ",
-      "year": 2017,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001232072/",
-      "mstn": ""
-    },
-    {
-      "name": "Henny Hughes",
-      "year": 2003,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/henny+hughes",
-      "mstn": "CC"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001391590/",
-      "mstn": "CC"
-    },
-    {
-      "name": "Nadal",
-      "year": 2017,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/nadal15",
-      "mstn": "CC"
-    },
-    {
-      "name": "マンディ",
-      "year": 2014,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001191595/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ディープインパクト",
-      "year": 2002,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000742976/",
-      "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001393873/",
-      "mstn": "CC"
-    },
-    {
-      "name": "イスラボニータ",
-      "year": 2011,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001142398/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ポポラリタ",
-      "year": 2017,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001231412/",
-      "mstn": ""
-    },
-    {
-      "name": "Dunkirk",
-      "year": 2006,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/dunkirk9",
-      "mstn": "CT"
     }
   ],
   [
@@ -881,6 +541,346 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/the+gold+fox",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "テイルエッジ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001396793/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "ニーズヘッグ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001232072/",
+      "mstn": ""
+    },
+    {
+      "name": "Henny Hughes",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/henny+hughes",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "ノワドゥココ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001386801/",
+      "mstn": "CC"
+    },
+    {
+      "name": "グレーターロンドン",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149061/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ザデイ",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000988287/",
+      "mstn": "CT"
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "ベイリーズフィスト",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001394411/",
+      "mstn": "CC"
+    },
+    {
+      "name": "リアルスティール",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001157711/",
+      "mstn": "CT"
+    },
+    {
+      "name": "サンキューベイリー",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001261871/",
+      "mstn": ""
+    },
+    {
+      "name": "モーリス",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001138240/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ペリドット",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001392335/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ホッコータルマエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001107477/",
+      "mstn": "CC"
+    },
+    {
+      "name": "シンデレラメイク",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001206061/",
+      "mstn": ""
+    },
+    {
+      "name": "ディープブリランテ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001110554/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ポポラボニータ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001393873/",
+      "mstn": "CC"
+    },
+    {
+      "name": "イスラボニータ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001142398/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ポポラリタ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001231412/",
+      "mstn": ""
+    },
+    {
+      "name": "Dunkirk",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dunkirk9",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "マグダレーナ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001391590/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Nadal",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/nadal15",
+      "mstn": "CC"
+    },
+    {
+      "name": "マンディ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001191595/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "ムーンスプライト",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001392037/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ディーマジェスティ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001167517/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ナイトスプライト",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001202884/",
+      "mstn": ""
+    },
+    {
+      "name": "Turtle Bowl",
+      "year": 2002,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/turtle+bowl",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ラパティシエール",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001388192/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ホッコータルマエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001107477/",
+      "mstn": "CC"
+    },
+    {
+      "name": "シルショコラティエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001111101/",
+      "mstn": ""
+    },
+    {
+      "name": "Cacoethes",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/cacoethes",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "リゼルヴァ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001395198/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "Ava Malone",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ava+malone",
+      "mstn": ""
+    },
+    {
+      "name": "Curlin",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/curlin",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ロンディニウム",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001393446/",
+      "mstn": "CC"
+    },
+    {
+      "name": "グレーターロンドン",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149061/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エスカルラータ",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001221259/",
+      "mstn": ""
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
     }
   ],
   [
@@ -2241,6 +2241,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/silvano",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Emerys Rose",
+      "year": 2022,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/emerys+rose",
+      "mstn": "CC"
+    },
+    {
+      "name": "Warriors Reward",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/warriors+reward",
+      "mstn": ""
+    },
+    {
+      "name": "Dances On Water",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dances+on+water",
+      "mstn": ""
+    },
+    {
+      "name": "In Excess",
+      "year": 1987,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/in+excess",
+      "mstn": ""
     }
   ],
   [
@@ -15745,40 +15779,6 @@
     {
       "name": "-",
       "year": 2024,
-      "cnty": "USA",
-      "sex": "M",
-      "href": "",
-      "mstn": "CT"
-    },
-    {
-      "name": "Mystic Guide",
-      "year": 2017,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/mystic+guide",
-      "mstn": ""
-    },
-    {
-      "name": "Orphea",
-      "year": 2009,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/orphea3",
-      "mstn": ""
-    },
-    {
-      "name": "Medaglia Doro",
-      "year": 1999,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/medaglia+doro",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
       "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001397030/",
@@ -15806,74 +15806,6 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/shamardal",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001392384/",
-      "mstn": "CT"
-    },
-    {
-      "name": "エフフォーリア",
-      "year": 2018,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001266977/",
-      "mstn": "CT"
-    },
-    {
-      "name": "アドヴェンチャレス",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001206623/",
-      "mstn": ""
-    },
-    {
-      "name": "ロードカナロア",
-      "year": 2008,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001089850/",
-      "mstn": "CC"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001391113/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Will Take Charge",
-      "year": 2010,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/will+take+charge",
-      "mstn": ""
-    },
-    {
-      "name": "アポロマーキュリー",
-      "year": 2014,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001186013/",
-      "mstn": ""
-    },
-    {
-      "name": "アポロキングダム",
-      "year": 2003,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000900065/",
       "mstn": ""
     }
   ],
@@ -15977,176 +15909,6 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001120570/",
       "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001396557/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ブルドッグボス",
-      "year": 2012,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001149689/",
-      "mstn": ""
-    },
-    {
-      "name": "クライアンテル",
-      "year": 2019,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001375206/",
-      "mstn": "CT"
-    },
-    {
-      "name": "American Patriot",
-      "year": 2013,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/american+patriot4",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001392066/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Will Take Charge",
-      "year": 2010,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/will+take+charge",
-      "mstn": ""
-    },
-    {
-      "name": "クリストフォリ",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001203168/",
-      "mstn": ""
-    },
-    {
-      "name": "Henny Hughes",
-      "year": 2003,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/henny+hughes",
-      "mstn": "CC"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001394507/",
-      "mstn": "CT"
-    },
-    {
-      "name": "チュウワウィザード",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001206350/",
-      "mstn": ""
-    },
-    {
-      "name": "サウンドパドマ",
-      "year": 2018,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001264840/",
-      "mstn": ""
-    },
-    {
-      "name": "Sinister Minister",
-      "year": 2003,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/sinister+minister",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001394524/",
-      "mstn": "CT"
-    },
-    {
-      "name": "タニノフランケル",
-      "year": 2015,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001228783/",
-      "mstn": ""
-    },
-    {
-      "name": "サトノブルーム",
-      "year": 2018,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001265213/",
-      "mstn": ""
-    },
-    {
-      "name": "ディープインパクト",
-      "year": 2002,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000742976/",
-      "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001396962/",
-      "mstn": "CT"
-    },
-    {
-      "name": "オメガパフューム",
-      "year": 2018,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001206059/",
-      "mstn": ""
-    },
-    {
-      "name": "ショウナンバービー",
-      "year": 2017,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001235905/",
-      "mstn": ""
-    },
-    {
-      "name": "トゥザワールド",
-      "year": 2011,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001134576/",
-      "mstn": ""
     }
   ],
   [
@@ -16286,74 +16048,6 @@
     }
   ],
   [
-      {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001386460/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ルーラーシップ",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001042049/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ナスカ",
-      "year": 2003,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000752040/",
-      "mstn": ""
-    },
-    {
-      "name": "Sunday Silence",
-      "year": 1986,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/sunday+silence",
-      "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001388483/",
-      "mstn": "CT"
-    },
-    {
-      "name": "American Patriot",
-      "year": 2013,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/american+patriot4",
-      "mstn": ""
-    },
-    {
-      "name": "バアゼルザウバー",
-      "year": 2010,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001122422/",
-      "mstn": ""
-    },
-    {
-      "name": "シンボリクリスエス",
-      "year": 1999,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000700008/",
-      "mstn": "TT"
-    }
-  ],
-  [
     {
       "name": "-",
       "year": 2024,
@@ -16439,7 +16133,7 @@
       "mstn": ""
     },
     {
-      "name": "フローラールオーク",
+      "name": "フローラルオーク",
       "year": 2017,
       "cnty": "JPN",
       "sex": "F",
@@ -16452,40 +16146,6 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000615577/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001396830/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Will Take Charge",
-      "year": 2010,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/will+take+charge",
-      "mstn": ""
-    },
-    {
-      "name": "ブエラプーラ",
-      "year": 2019,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001312626/",
-      "mstn": ""
-    },
-    {
-      "name": "キンシャサノキセキ",
-      "year": 2003,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000901749/",
       "mstn": "CT"
     }
   ],
@@ -16661,11 +16321,45 @@
   ],
   [
     {
+      "name": "アストラルガイド",
+      "year": 2024,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001441591/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mystic Guide",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mystic+guide",
+      "mstn": ""
+    },
+    {
+      "name": "Orphea",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/orphea3",
+      "mstn": ""
+    },
+    {
+      "name": "Medaglia Doro",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/medaglia+doro",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ウインターゲームズ",
       "year": 2024,
       "cnty": "JPN",
       "sex": "M",
-      "href": "",
+      "href": "https://www.jbis.or.jp/horse/0001394796/",
       "mstn": "CT"
     },
     {
@@ -16691,6 +16385,346 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/dubawi",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "エピックジャーニー",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001392384/",
+      "mstn": "CT"
+    },
+    {
+      "name": "エフフォーリア",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001266977/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アドヴェンチャレス",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001206623/",
+      "mstn": ""
+    },
+    {
+      "name": "ロードカナロア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001089850/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "オペラリリカ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001392066/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "クリストフォリ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001203168/",
+      "mstn": ""
+    },
+    {
+      "name": "Henny Hughes",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/henny+hughes",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "シャインプラネット",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001391113/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "アポロマーキュリー",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001186013/",
+      "mstn": ""
+    },
+    {
+      "name": "アポロキングダム",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000900065/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "シュネルアステリア",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001388483/",
+      "mstn": "CT"
+    },
+    {
+      "name": "American Patriot",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+patriot4",
+      "mstn": ""
+    },
+    {
+      "name": "バアゼルザウバー",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001122422/",
+      "mstn": ""
+    },
+    {
+      "name": "シンボリクリスエス",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000700008/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "スピンドルラッシュ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001396557/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ブルドッグボス",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149689/",
+      "mstn": ""
+    },
+    {
+      "name": "クライアンテル",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001375206/",
+      "mstn": "CT"
+    },
+    {
+      "name": "American Patriot",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/american+patriot4",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "マギサキルケー",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001394507/",
+      "mstn": "CT"
+    },
+    {
+      "name": "チュウワウィザード",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001206350/",
+      "mstn": ""
+    },
+    {
+      "name": "サウンドパドマ",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001264840/",
+      "mstn": ""
+    },
+    {
+      "name": "Sinister Minister",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sinister+minister",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ブラックタイクーン",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001394524/",
+      "mstn": "CT"
+    },
+    {
+      "name": "タニノフランケル",
+      "year": 2015,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001228783/",
+      "mstn": ""
+    },
+    {
+      "name": "サトノブルーム",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001265213/",
+      "mstn": ""
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "ブエラグランデ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001396830/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Will Take Charge",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/will+take+charge",
+      "mstn": ""
+    },
+    {
+      "name": "ブエラプーラ",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001312626/",
+      "mstn": ""
+    },
+    {
+      "name": "キンシャサノキセキ",
+      "year": 2003,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000901749/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ラスティングノート",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001396962/",
+      "mstn": "CT"
+    },
+    {
+      "name": "オメガパフューム",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001206059/",
+      "mstn": ""
+    },
+    {
+      "name": "ショウナンバービー",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001235905/",
+      "mstn": ""
+    },
+    {
+      "name": "トゥザワールド",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001134576/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ラルコ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001386460/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ナスカ",
+      "year": 2003,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000752040/",
+      "mstn": ""
+    },
+    {
+      "name": "Sunday Silence",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/sunday+silence",
+      "mstn": "TT"
     }
   ],
   [
@@ -17030,6 +17064,40 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.pedigreequery.com/i+am+invincible",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Pieces Moon",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/pisces+moon",
+      "mstn": "CC"
+    },
+    {
+      "name": "Jimmy Creed",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/jimmy+creed",
+      "mstn": ""
+    },
+    {
+      "name": "Nancy Doll",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/nancy+doll",
+      "mstn": ""
+    },
+    {
+      "name": "Concerto",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/concerto3",
       "mstn": ""
     }
   ],
@@ -24005,6 +24073,40 @@
   ],
   [
     {
+      "name": "Empress Irene",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/empress+irene",
+      "mstn": "CT"
+    },
+    {
+      "name": "Emperor Tiberius",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/emperor+tiberius",
+      "mstn": ""
+    },
+    {
+      "name": "Betcha Can Hula",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/betcha+can+hula",
+      "mstn": ""
+    },
+    {
+      "name": "Forest Wildcat",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/forest+wildcat",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Friseur",
       "year": 2018,
       "cnty": "HUN",
@@ -26351,6 +26453,40 @@
   ],
   [
     {
+      "name": "Red Rover",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/red+rover15",
+      "mstn": "CT"
+    },
+    {
+      "name": "Red Rocks",
+      "year": 2003,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/red+rocks2",
+      "mstn": ""
+    },
+    {
+      "name": "Little Journey",
+      "year": 2011,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/little+journey",
+      "mstn": ""
+    },
+    {
+      "name": "グレイトジャーニー",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000722529/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Wei Yi",
       "year": 2016,
       "cnty": "SAF",
@@ -26550,40 +26686,6 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bahhare",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "Tina Sparkle",
-      "year": 2016,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/tina+sparkle4",
-      "mstn": "CT"
-    },
-    {
-      "name": "Animal Kingdom",
-      "year": 2008,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/animal+kingdom",
-      "mstn": ""
-    },
-    {
-      "name": "Crimson Palace",
-      "year": 1999,
-      "cnty": "SAF",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/crimson+palace2",
-      "mstn": ""
-    },
-    {
-      "name": "Elliodor",
-      "year": 1977,
-      "cnty": "FR",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/elliodor",
       "mstn": ""
     }
   ],
@@ -40091,7 +40193,7 @@
       "year": 0,
       "cnty": "ARG",
       "sex": "",
-      "href": "https://thumbs2.rural-ftp.com/upload/w_600,q_60,o_input/https://ftp.rural-server.com/ofertas/images/nMFzbenD2Ci4gHSp.jpg",
+      "href": "https://ftp.rural-server.com/ofertas/images/nMFzbenD2Ci4gHSp.jpg",
       "mstn": "CT"
     },
     {
@@ -40260,40 +40362,6 @@
       "name": "-",
       "year": 2024,
       "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001394752/",
-      "mstn": "TT"
-    },
-    {
-      "name": "ジャンダルム",
-      "year": 2015,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001228749/",
-      "mstn": ""
-    },
-    {
-      "name": "Well Away",
-      "year": 2010,
-      "cnty": "GER",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/well+away5",
-      "mstn": ""
-    },
-    {
-      "name": "Monsun",
-      "year": 1990,
-      "cnty": "GER",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/monsun",
-      "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001395855/",
       "mstn": "TT"
@@ -40321,40 +40389,6 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/makfi",
       "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001392260/",
-      "mstn": "TT"
-    },
-    {
-      "name": "クリソベリル",
-      "year": 2016,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001215726/",
-      "mstn": ""
-    },
-    {
-      "name": "エレガントクルーズ",
-      "year": 2015,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001205418/",
-      "mstn": ""
-    },
-    {
-      "name": "クロフネ",
-      "year": 1998,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000615577/",
-      "mstn": "CT"
     }
   ],
   [
@@ -40461,40 +40495,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001391106/",
-      "mstn": "TT"
-    },
-    {
-      "name": "キセキ",
-      "year": 2014,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001190850/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ロゼットブルー",
-      "year": 2014,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001185961/",
-      "mstn": ""
-    },
-    {
-      "name": "Harbinger",
-      "year": 2006,
-      "cnty": "GB",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/harbinger11",
-      "mstn": "TT"
-    }
-  ],
-  [
-    {
       "name": "Spotless",
       "year": 2024,
       "cnty": "USA",
@@ -40563,6 +40563,74 @@
   ],
   [
     {
+      "name": "ディフィレイア",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001394752/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ジャンダルム",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001228749/",
+      "mstn": ""
+    },
+    {
+      "name": "Well Away",
+      "year": 2010,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/well+away5",
+      "mstn": ""
+    },
+    {
+      "name": "Monsun",
+      "year": 1990,
+      "cnty": "GER",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/monsun",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "ヴァストクルーズ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001392260/",
+      "mstn": "TT"
+    },
+    {
+      "name": "クリソベリル",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001215726/",
+      "mstn": ""
+    },
+    {
+      "name": "エレガントクルーズ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001205418/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "Nacho Rabbit",
       "year": 2023,
       "cnty": "USA",
@@ -40592,6 +40660,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/slewcious",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Riyah Al Nil",
+      "year": 2023,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/riyah+al+nil",
+      "mstn": "TT"
+    },
+    {
+      "name": "Tacitus",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tacitus15",
+      "mstn": ""
+    },
+    {
+      "name": "Lady Cleopatra",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lady+cleopatra7",
+      "mstn": ""
+    },
+    {
+      "name": "Pioneerof The Nile",
+      "year": 2006,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pioneerof+the+nile",
       "mstn": ""
     }
   ],
@@ -41001,6 +41103,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/mineshaft",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ブルーグラビティ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001391106/",
+      "mstn": "TT"
+    },
+    {
+      "name": "キセキ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001190850/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ロゼットブルー",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001185961/",
+      "mstn": ""
+    },
+    {
+      "name": "Harbinger",
+      "year": 2006,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/harbinger11",
+      "mstn": "TT"
     }
   ],
   [
@@ -51103,6 +51239,40 @@
   ],
   [
     {
+      "name": "Tina Sparkle",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/tina+sparkle4",
+      "mstn": "C1"
+    },
+    {
+      "name": "Animal Kingdom",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/animal+kingdom",
+      "mstn": ""
+    },
+    {
+      "name": "Crimson Palace",
+      "year": 1999,
+      "cnty": "SAF",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/crimson+palace2",
+      "mstn": ""
+    },
+    {
+      "name": "Elliodor",
+      "year": 1977,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/elliodor",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Magica Lola",
       "year": 2015,
       "cnty": "USA",
@@ -54226,6 +54396,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/general+meeting",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Simply Sealy",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/simply+sealy",
+      "mstn": "T1"
+    },
+    {
+      "name": "Mattress",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mattress",
+      "mstn": ""
+    },
+      {
+      "name": "Attribute Plus",
+      "year": 1997,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/attitude+plus",
+      "mstn": ""
+    },
+    {
+      "name": "Great Gladiator",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/great+gladiator",
       "mstn": ""
     }
   ],
