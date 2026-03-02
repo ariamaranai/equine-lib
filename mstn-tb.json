@@ -103,6 +103,40 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001410315/",
+      "mstn": "CC"
+    },
+    {
+      "name": "パンサラッサ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237701/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ゼロカラノキセキ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001174487/",
+      "mstn": ""
+    },
+    {
+      "name": "キンシャサノキセキ",
+      "year": 2003,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000901749/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "Kinabalu Park",
       "year": 2025,
       "cnty": "GB",
@@ -40227,7 +40261,7 @@
       "year": 2024,
       "cnty": "USA",
       "sex": "F",
-      "href": "",
+      "href": "https://www.jbis.or.jp/horse/0001429813/",
       "mstn": "TT"
     },
     {
@@ -40261,7 +40295,7 @@
       "year": 2024,
       "cnty": "USA",
       "sex": "M",
-      "href": "",
+      "href": "https://www.jbis.or.jp/horse/0001429793/",
       "mstn": "TT"
     },
     {
