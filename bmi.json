@@ -8976,6 +8976,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ヴィクトワールピサ",
+    "year": 2007,
+    "hh": 172,
+    "wt": 520,
+    "bmi": 175.8,
+    "href": "https://www.jbis.or.jp/horse/0001046333/",
+    "sire": "ネオユニヴァース",
+    "dsire": "Machiavellian",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ウシュバテソーロ",
     "year": 2017,
     "hh": 172,
@@ -9028,17 +9039,6 @@
     "href": "https://www.pedigreequery.com/justify11",
     "sire": "Scat Daddy",
     "dsire": "Ghostzapper",
-    "mstn": ["--","--","--"]
-  },
-  {
-    "name": "ヴィクトワールピサ",
-    "year": 2007,
-    "hh": 173,
-    "wt": 520,
-    "bmi": 173.8,
-    "href": "https://www.jbis.or.jp/horse/0001046333/",
-    "sire": "ネオユニヴァース",
-    "dsire": "Machiavellian",
     "mstn": ["--","--","--"]
   },
   {
