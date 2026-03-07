@@ -3003,6 +3003,17 @@
     "mstn": ["--","CC","--"]
   },
   {
+    "name": "Helene Mascot",
+    "year": 2004,
+    "hh": 163,
+    "wt": 559,
+    "bmi": 210.39,
+    "href": "https://www.pedigreequery.com/helene+mascot",
+    "sire": "Peintre Celebre",
+    "dsire": "Kahyasi",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Ribot",
     "year": 1952,
     "hh": 164,
@@ -4246,6 +4257,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Bolshoi Ballet",
+    "year": 2018,
+    "hh": 165,
+    "wt": 481,
+    "bmi": 176.7,
+    "href": "https://www.pedigreequery.com/bolshoi+ballet5",
+    "sire": "Galileo",
+    "dsire": "Anabaa",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "Japan",
     "year": 2016,
     "hh": 165,
@@ -4796,6 +4818,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "Floral Dynamite",
+    "year": 1999,
+    "hh": 165,
+    "wt": 503,
+    "bmi": 184.8,
+    "href": "https://www.pedigreequery.com/floral+dynamite",
+    "sire": "Danehill",
+    "dsire": "Darshaan",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Sugarfoot",
     "year": 1994,
     "hh": 165,
@@ -5311,6 +5344,17 @@
     "sire": "マンハッタンカフェ",
     "dsire": "フサイチコンコルド",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "The Alfonso",
+    "year": 2010,
+    "hh": 165,
+    "wt": 527,
+    "bmi": 193.6,
+    "href": "https://www.pedigreequery.com/the+alfonso",
+    "sire": "Magnus",
+    "dsire": "Xaar",
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "Boom Time",
