@@ -1939,6 +1939,40 @@
   ],
   [
     {
+      "name": "ファーストシーン",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001378443/",
+      "mstn": "CC"
+    },
+    {
+      "name": "オルフェーヴル",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001090360/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ファストーゾ",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001234008/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ロードカナロア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001089850/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "ベイビークエスト",
       "year": 2023,
       "cnty": "JPN",
