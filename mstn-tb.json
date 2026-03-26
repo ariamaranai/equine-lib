@@ -885,6 +885,40 @@
   ],
   [
     {
+      "name": "ランズエンド",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001389397/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Henny Hughes",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/henny+hughes",
+      "mstn": "CC"
+    },
+    {
+      "name": "Frisco Bay",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/frisco+bay3",
+      "mstn": ""
+    },
+    {
+      "name": "Hard Spun",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/hard+spun",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "リゼルヴァ",
       "year": 2024,
       "cnty": "JPN",
