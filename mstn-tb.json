@@ -1068,7 +1068,7 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/too+darn+hot3",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Awake The Stars",
@@ -3482,7 +3482,7 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/too+darn+hot3",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Volks Lightning",
@@ -22624,7 +22624,7 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/too+darn+hot3",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Valdemoro",
@@ -29712,6 +29712,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/bahhare",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Too Darn Hot",
+      "year": 2016,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/too+darn+hot3",
+      "mstn": "CT"
+    },
+    {
+      "name": "Dubawi",
+      "year": 2002,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dubawi",
+      "mstn": "CT"
+    },
+    {
+      "name": "Dar Re Mi",
+      "year": 2005,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dar+re+mi",
+      "mstn": ""
+    },
+    {
+      "name": "Singspiel",
+      "year": 1992,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/singspiel4",
       "mstn": ""
     }
   ],
@@ -45182,6 +45216,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/smoked+gold",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Kissattack",
+      "year": 2022,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kissattack",
+      "mstn": "TT"  
+    },
+    {
+      "name": "Too Darn Hot",
+      "year": 2016,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/too+darn+hot3",
+      "mstn": "CT"
+    },
+    {
+      "name": "Geblitzt",
+      "year": 2006,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/geblitzt",
+      "mstn": ""
+    },
+    {
+      "name": "Testa Rossa",
+      "year": 1996,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/testa+rossa",
       "mstn": ""
     }
   ],
