@@ -19313,6 +19313,40 @@
   ],
   [
     {
+      "name": "シジミノヒナコ",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001372340/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Benbatl",
+      "year": 2014,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/benbatl",
+      "mstn": "CT"
+    },
+    {
+      "name": "ウインプルミエ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001184132/",
+      "mstn": ""
+    },
+    {
+      "name": "ステイゴールド",
+      "year": 1994,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000286968/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "シャインブラスト",
       "year": 2023,
       "cnty": "JPN",
@@ -47324,6 +47358,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/twirling+candy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ヒシタイカン",
+      "year": 2020,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001325094/",
+      "mstn": "TT"
+    },
+    {
+      "name": "モーリス",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001138240/",
+      "mstn": "CT"
+    },
+    {
+      "name": "リュラ",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001171964/",
+      "mstn": ""
+    },
+    {
+      "name": "ステイゴールド",
+      "year": 1994,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000286968/",
       "mstn": ""
     }
   ],
