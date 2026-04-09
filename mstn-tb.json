@@ -273,40 +273,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001389157/",
-      "mstn": "CC"
-    },
-    {
-      "name": "マテラスカイ",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001222285/",
-      "mstn": ""
-    },
-    {
-      "name": "サットー",
-      "year": 2011,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001139470/",
-      "mstn": ""
-    },
-    {
-      "name": "ステイゴールド",
-      "year": 1994,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000286968/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Carrera Chrome",
       "year": 2024,
       "cnty": "GB",
@@ -506,6 +472,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/makfi",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "キングビー",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001389157/",
+      "mstn": "CC"
+    },
+    {
+      "name": "マテラスカイ",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001222285/",
+      "mstn": ""
+    },
+    {
+      "name": "サットー",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001139470/",
+      "mstn": ""
+    },
+    {
+      "name": "ステイゴールド",
+      "year": 1994,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000286968/",
       "mstn": ""
     }
   ],
