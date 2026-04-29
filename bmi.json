@@ -2981,6 +2981,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Comanche Chief",
+    "year": 2016,
+    "hh": 163,
+    "wt": 544,
+    "bmi": 204.7,
+    "href": "https://www.pedigreequery.com/comanche+chief4",
+    "sire": "Will Take Charge",
+    "dsire": "Saint Ballado",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Hidden Dragon",
     "year": 1999,
     "hh": 163,
@@ -5266,6 +5277,17 @@
     "href": "https://www.pedigreequery.com/holy+bull",
     "sire": "Great Above",
     "dsire": "Al Hattab",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "White Out G E S",
+    "year": 2016,
+    "hh": 165,
+    "wt": 522,
+    "bmi": 191.8,
+    "href": "https://www.pedigreequery.com/white+out+g+e+s",
+    "sire": "Cleverly Concealed",
+    "dsire": "Rff Kings Ransom",
     "mstn": ["--","--","--"]
   },
   {
@@ -8701,6 +8723,17 @@
     "mstn": ["CC","--","--"]
   },
   {
+    "name": "Sargent Stalker",
+    "year": 2016,
+    "hh": 170,
+    "wt": 544,
+    "bmi": 188.3,
+    "href": "https://www.pedigreequery.com/sargent+stalker",
+    "sire": "Tizbud",
+    "dsire": "Petersburg",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Silentio",
     "year": 2009,
     "hh": 170,
@@ -8919,17 +8952,6 @@
     "sire": "Animal Kingdom",
     "dsire": "Tale Of The Cat",
     "mstn": ["--","--","CC"]
-  },
-  {
-    "name": "Sargent Stalker",
-    "year": 2016,
-    "hh": 170,
-    "wt": 635,
-    "bmi": 219.7,
-    "href": "https://www.pedigreequery.com/sargent+stalker",
-    "sire": "Tizbud",
-    "dsire": "Petersburg",
-    "mstn": ["--","--","--"]
   },
   {
     "name": "エアシャカール",
