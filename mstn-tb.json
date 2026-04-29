@@ -579,6 +579,40 @@
   ],
   [
     {
+      "name": "デミアン",
+      "year": 2024,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001441601/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Flightline",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/flightline2",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mira Alta",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/mira+alta",
+      "mstn": ""
+    },
+    {
+      "name": "Curlin",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/curlin",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ノワドゥココ",
       "year": 2024,
       "cnty": "JPN",
@@ -17613,6 +17647,40 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001395710/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ダノンレジェンド",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001162685/",
+      "mstn": ""
+    },
+    {
+      "name": "ラッキーハナチャン",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001133700/",
+      "mstn": ""
+    },
+    {
+      "name": "ネオユニヴァース",
+      "year": 2000,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000701577/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Doge",
       "year": 2024,
       "cnty": "USA",
@@ -27264,6 +27332,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/forest+wildcat",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Flightline",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/flightline2",
+      "mstn": "CT"
+    },
+    {
+      "name": "Tapit",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tapit",
+      "mstn": ""
+    },
+    {
+      "name": "Feathered",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/feathered4",
+      "mstn": ""   
+    },
+    {
+      "name": "Indian Charlie",
+      "year": 1995,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/indian+charlie2",
       "mstn": ""
     }
   ],
@@ -44282,7 +44384,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/flightline2",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Wildwoods Beauty",
