@@ -4752,6 +4752,17 @@
     "mstn": ["--","CT","CC"]
   },
   {
+    "name": "Polster",
+    "year": 2020,
+    "hh": 165,
+    "wt": 499,
+    "bmi": 183.3,
+    "href": "https://www.pedigreequery.com/polster",
+    "sire": "Speightstown",
+    "dsire": "Indian Charlie",
+    "mstn": ["--","CC","--"]
+  },
+  {
     "name": "Quadrangle",
     "year": 1961,
     "hh": 165,
@@ -8853,6 +8864,17 @@
     "sire": "ゴールドアリュール",
     "dsire": "French Deputy",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "Americas Storm",
+    "year": 1999,
+    "hh": 170,
+    "wt": 567,
+    "bmi": 196.2,
+    "href": "https://www.pedigreequery.com/americas+storm",
+    "sire": "Storm Cat",
+    "dsire": "Capote",
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "Quality Road",
