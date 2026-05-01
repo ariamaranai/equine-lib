@@ -924,6 +924,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Quite A Handful",
+    "year": 2006,
+    "hh": 160,
+    "wt": 499,
+    "bmi": 194.9,
+    "href": "https://www.pedigreequery.com/quite+a+handful",
+    "sire": "Mutakddim",
+    "dsire": "King Of Kings",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "サトノクラウン",
     "year": 2012,
     "hh": 160,
@@ -7623,6 +7634,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Halo Najib",
+    "year": 2005,
+    "hh": 168,
+    "wt": 454,
+    "bmi": 160.9,
+    "href": "https://www.pedigreequery.com/halo+najib",
+    "sire": "Halos Image",
+    "dsire": "Sword Dance",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "State Your Case",
     "year": 2004,
     "hh": 168,
@@ -8809,6 +8831,17 @@
     "sire": "Airdrie Apache",
     "dsire": "Hawkster",
     "mstn": ["TT","--","--"]
+  },
+  {
+    "name": "Grey Dorian",
+    "year": 2003,
+    "hh": 168,
+    "wt": 567,
+    "bmi": 200.9,
+    "href": "https://www.pedigreequery.com/grey+dorian",
+    "sire": "Activist",
+    "dsire": "Quicksilver",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Take Me Out John",
