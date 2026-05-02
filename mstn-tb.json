@@ -208,6 +208,40 @@
       "name": "-",
       "year": 2024,
       "cnty": "AUS",
+      "sex": "M",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Star Inside",
+      "year": 2018,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/stay+inside2",
+      "mstn": ""
+    },
+    {
+      "name": "Giulia",
+      "year": 2018,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/giulia14",
+      "mstn": ""
+    },
+    {
+      "name": "I Am Invincible",
+      "year": 2004,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/i+am+invincible",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "AUS",
       "sex": "F",
       "href": "",
       "mstn": "CC"
@@ -17506,6 +17540,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000725485/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Super Seth",
+      "year": 2016,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/super+seth",
+      "mstn": ""
+    },
+    {
+      "name": "Acting",
+      "year": 2016,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/acting5",
+      "mstn": ""
+    },
+    {
+      "name": "Savabeel",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/savabeel",
       "mstn": "CT"
     }
   ],
