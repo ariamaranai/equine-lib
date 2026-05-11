@@ -17685,40 +17685,6 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001396792/",
-      "mstn": "CT"
-    },
-    {
-      "name": "マテラスカイ",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001222285/",
-      "mstn": ""
-    },
-    {
-      "name": "フローラルオーク",
-      "year": 2017,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001230844/",
-      "mstn": ""
-    },
-    {
-      "name": "クロフネ",
-      "year": 1998,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000615577/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001395710/",
       "mstn": "CT"
     },
@@ -18425,6 +18391,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/shamardal",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ネダンツキマス",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001396792/",
+      "mstn": "CT"
+    },
+    {
+      "name": "マテラスカイ",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001222285/",
+      "mstn": ""
+    },
+    {
+      "name": "フローラルオーク",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001230844/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
     }
   ],
   [
