@@ -307,6 +307,40 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001387469/",
+      "mstn": "CC"
+    },
+    {
+      "name": "タイセイレジェンド",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001043835/",
+      "mstn": ""
+    },
+    {
+      "name": "ダートムーア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001088747/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "Carrera Chrome",
       "year": 2024,
       "cnty": "GB",
