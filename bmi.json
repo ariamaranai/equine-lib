@@ -1284,7 +1284,7 @@
     "href": "https://www.jbis.or.jp/horse/0001204521/",
     "sire": "ロードカナロア",
     "dsire": "Falbrav",
-    "mstn": ["--","CC","--"]
+    "mstn": ["CT","CC","--"]
   },
   {
     "name": "バスラットレオン",
@@ -10480,6 +10480,17 @@
     "href": "https://www.pedigreequery.com/best+turn",
     "sire": "Turn-to",
     "dsire": "Swaps",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Mendelssohns Red",
+    "year": 2021,
+    "hh": 180,
+    "wt": 635,
+    "bmi": 196.0,
+    "href": "https://www.pedigreequery.com/mendelssohns+red",
+    "sire": "Mendelssohn",
+    "dsire": "Songandaprayer",
     "mstn": ["--","--","--"]
   }
 ]

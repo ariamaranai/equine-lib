@@ -31383,6 +31383,40 @@
   ],
   [
     {
+      "name": "ステルヴィオ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001204521/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ロードカナロア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001089850/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ラルケット",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000885874/",
+      "mstn": ""
+    },
+    {
+      "name": "Falbrav",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/falbrav",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ソイカウボーイ",
       "year": 2015,
       "cnty": "JPN",
@@ -45013,6 +45047,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/dubawi",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ローレルメビウス",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001388832/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ステルヴィオ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001204521/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ウィステリアメジロ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001133605/",
+      "mstn": ""
+    },
+    {
+      "name": "メジロベイリー",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000324876/",
+      "mstn": ""
     }
   ],
   [
