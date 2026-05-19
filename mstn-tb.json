@@ -18157,11 +18157,45 @@
   ],
   [
     {
+      "name": "アンミツ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001386720/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Talismanic",
+      "year": 2013,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/talismanic2",
+      "mstn": ""
+    },
+    {
+      "name": "トーホウドルチェ",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000888823/",
+      "mstn": ""
+    },
+    {
+      "name": "サウスヴィグラス",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000310467/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "アークシーベル",
       "year": 2024,
       "cnty": "GB",
       "sex": "M",
-      "href": "",
+      "href": "https://www.jbis.or.jp/horse/0001429812/",
       "mstn": "CT"
     },
     {
@@ -18833,6 +18867,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001042049/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ローレルリネージ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001388963/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mind Your Biscuits",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/mind+your+biscuits",
+      "mstn": ""
+    },
+    {
+      "name": "ファービヨンド",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001136049/",
+      "mstn": ""
+    },
+    {
+      "name": "ディープスカイ",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000891931/",
+      "mstn": ""
     }
   ],
   [
