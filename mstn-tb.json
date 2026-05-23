@@ -18463,6 +18463,40 @@
   ],
   [
     {
+      "name": "キュルリン",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001389725/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Bricks And Mortar",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/bricks+and+mortar2",
+      "mstn": "TT"
+    },
+    {
+      "name": "クレオール",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001153296/",
+      "mstn": ""
+    },
+    {
+      "name": "Chichicastenango",
+      "year": 1998,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/chichicastenango",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "グラディアトーレ",
       "year": 2024,
       "cnty": "JPN",
