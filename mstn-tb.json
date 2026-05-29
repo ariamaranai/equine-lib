@@ -375,40 +375,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001387469/",
-      "mstn": "CC"
-    },
-    {
-      "name": "タイセイレジェンド",
-      "year": 2007,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001043835/",
-      "mstn": ""
-    },
-    {
-      "name": "ダートムーア",
-      "year": 2008,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001088747/",
-      "mstn": ""
-    },
-    {
-      "name": "クロフネ",
-      "year": 1998,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000615577/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
       "name": "Carrera Chrome",
       "year": 2024,
       "cnty": "GB",
@@ -745,6 +711,40 @@
       "sex": "S",
       "href": "https://www.pedigreequery.com/curlin",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "ドコフクカゼ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001387469/",
+      "mstn": "CC"
+    },
+    {
+      "name": "タイセイレジェンド",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001043835/",
+      "mstn": ""
+    },
+    {
+      "name": "ダートムーア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001088747/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
     }
   ],
   [
@@ -17889,74 +17889,6 @@
       "year": 2024,
       "cnty": "JPN",
       "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001387468/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ニシケンモノノフ",
-      "year": 2011,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001135217/",
-      "mstn": ""
-    },
-    {
-      "name": "キョウエイアロマ",
-      "year": 2008,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001088731/",
-      "mstn": ""
-    },
-    {
-      "name": "キングカメハメハ",
-      "year": 2001,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000729458/",
-      "mstn": "CT"
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "M",
-      "href": "https://www.jbis.or.jp/horse/0001391762/",
-      "mstn": "CT"
-    },
-    {
-      "name": "スワーヴリチャード",
-      "year": 2014,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001190059/",
-      "mstn": "CT"
-    },
-    {
-      "name": "トレサンセール",
-      "year": 2014,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001194122/",
-      "mstn": ""
-    },
-    {
-      "name": "Rip Van Winkle",
-      "year": 2006,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/rip+van+winkle3",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001395710/",
       "mstn": "CT"
     },
@@ -18331,7 +18263,7 @@
       "year": 2024,
       "cnty": "GB",
       "sex": "M",
-      "href": "",
+      "href": "https://www.jbis.or.jp/horse/0001429811/",
       "mstn": "CT"
     },
     {
@@ -18735,6 +18667,40 @@
   ],
   [
     {
+      "name": "トレヴァンクール",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001391762/",
+      "mstn": "CT"
+    },
+    {
+      "name": "スワーヴリチャード",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001190059/",
+      "mstn": "CT"
+    },
+    {
+      "name": "トレサンセール",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001194122/",
+      "mstn": ""
+    },
+    {
+      "name": "Rip Van Winkle",
+      "year": 2006,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/rip+van+winkle3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ネダンツキマス",
       "year": 2024,
       "cnty": "JPN",
@@ -19002,6 +18968,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "レディボンボン",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001387468/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ニシケンモノノフ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001135217/",
+      "mstn": ""
+    },
+    {
+      "name": "キョウエイアロマ",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001088731/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
       "mstn": "CT"
     }
   ],
