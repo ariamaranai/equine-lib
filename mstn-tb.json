@@ -137,6 +137,40 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2024,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Extreme Choice",
+      "year": 2017,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/extreme+choice",
+      "mstn": ""
+    },
+    {
+      "name": "Ariaz",
+      "year": 2013,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ariaz",
+      "mstn": ""
+    },
+    {
+      "name": "Charge Forward",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/charge+forward2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Kinabalu Park",
       "year": 2025,
       "cnty": "GB",
