@@ -17581,6 +17581,40 @@
     {
       "name": "-",
       "year": 2025,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Flightline",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/flightline2",
+      "mstn": "CT"
+    },
+    {
+      "name": "Wildwoods Beauty",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/wildwoods+beauty",
+      "mstn": ""
+    },
+    {
+      "name": "Kantharos",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kantharos2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
       "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001413709/",
