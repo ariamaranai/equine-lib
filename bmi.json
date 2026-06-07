@@ -7293,6 +7293,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "バンデ",
+    "year": 2010,
+    "hh": 167,
+    "wt": 508,
+    "bmi": 182.2,
+    "href": "https://www.jbis.or.jp/horse/0001144166/",
+    "sire": "Authorized",
+    "dsire": "Priolo",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "フサイチコンコルド",
     "year": 1993,
     "hh": 167,
