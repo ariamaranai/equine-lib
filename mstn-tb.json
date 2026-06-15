@@ -9895,6 +9895,40 @@
   ],
   [
     {
+      "name": "ファルーク",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001230238/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ダイワメジャー",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000725485/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ウインファンタジア",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000732890/",
+      "mstn": ""
+    },
+    {
+      "name": "Hennessy",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/hennessy2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "プライムライン",
       "year": 2017,
       "cnty": "JPN",
