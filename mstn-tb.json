@@ -38,6 +38,40 @@
       "name": "-",
       "year": 2025,
       "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001412135/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Nadal",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/nadal15",
+      "mstn": "CC"
+    },
+    {
+      "name": "Quantum Miss",
+      "year": 2008,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/quantum+miss",
+      "mstn": ""
+    },
+    {
+      "name": "Smoke Glacken",
+      "year": 1994,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/smoke+glacken",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001405049/",
       "mstn": "CC"
@@ -133,6 +167,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000901749/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001405951/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ゴールドドリーム",
+      "year": 2013,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001170750/",
+      "mstn": ""
+    },
+    {
+      "name": "ラインオブフェイト",
+      "year": 2018,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001266697/",
+      "mstn": ""
+    },
+    {
+      "name": "Discreet Cat",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/discreet+cat",
+      "mstn": ""
     }
   ],
   [
@@ -17854,6 +17922,40 @@
       "name": "-",
       "year": 2025,
       "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001411539/",
+      "mstn": "CT"
+    },
+    {
+      "name": "リアルスティール",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001157711/",
+      "mstn": "CT"
+    },
+    {
+      "name": "クリストフォリ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001203168/",
+      "mstn": ""
+    },
+    {
+      "name": "Henny Hughes",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/henny+hughes",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001408251/",
       "mstn": "CT"
@@ -17881,6 +17983,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000722158/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001415514/",
+      "mstn": "CT"
+    },
+    {
+      "name": "サリオス",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237164/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Shining Pass",
+      "year": 2016,
+      "cnty": "GER",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/shining+pass",
+      "mstn": ""
+    },
+    {
+      "name": "Ravens Pass",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/ravens+pass",
+      "mstn": ""
     }
   ],
   [
