@@ -17852,6 +17852,40 @@
   [
     {
       "name": "-",
+      "year": 2026,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001439645/",
+      "mstn": "CT"
+    },
+    {
+      "name": "コントレイル",
+      "year": 2017,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001237042/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Just Looking",
+      "year": 2020,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/just+looking7",
+      "mstn": ""
+    },
+    {
+      "name": "Kingman",
+      "year": 2011,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kingman4",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
       "year": 2025,
       "cnty": "GB",
       "sex": "M",
@@ -17880,6 +17914,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.pedigreequery.com/kingman4",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001405522/",
+      "mstn": "CT"
+    },
+    {
+      "name": "リアルスティール",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001157711/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Motivate Me",
+      "year": 2016,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/motivate+me2",
+      "mstn": ""
+    },
+    {
+      "name": "Motivator",
+      "year": 2002,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/motivator2",
       "mstn": ""
     }
   ],
