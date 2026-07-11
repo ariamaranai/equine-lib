@@ -1463,15 +1463,26 @@
     "mstn": ["--","TT","--"]
   },
   {
-    "name": "マーティンボロ",
-    "year": 2009,
+    "name": "インターグシケン",
+    "year": 1975,
     "hh": 162,
-    "wt": 444,
+    "wt": 452,
     "bmi": 169.2,
-    "href": "https://www.jbis.or.jp/horse/0001107309/",
-    "sire": "ディープインパクト",
-    "dsire": "Nureyev",
-    "mstn": ["--","TT","CC"]
+    "href": "https://www.jbis.or.jp/horse/0000080644/",
+    "sire": "Tesco Boy",
+    "dsire": "ウイルデイール",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "レインボーライン",
+    "year": 2013,
+    "hh": 162,
+    "wt": 452,
+    "bmi": 172.3,
+    "href": "https://www.jbis.or.jp/horse/0001169928/",
+    "sire": "ステイゴールド",
+    "dsire": "French Deputy",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "レインボーライン",
@@ -1746,6 +1757,17 @@
     "href": "https://www.jbis.or.jp/horse/0001153071/",
     "sire": "スクリーンヒーロー",
     "dsire": "Diablo",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "ニシノエトランゼ",
+    "year": 1979,
+    "hh": 162,
+    "wt": 480,
+    "bmi": 182.9,
+    "href": "https://www.jbis.or.jp/horse/0000120564/",
+    "sire": "Stop The Music",
+    "dsire": "Prince John",
     "mstn": ["--","--","--"]
   },
   {
@@ -2352,6 +2374,17 @@
     "sire": "Danehill",
     "dsire": "Troy",
     "mstn": ["CT","CC","--"]
+  },
+  {
+    "name": "シンザン",
+    "year": 1961,
+    "hh": 163,
+    "wt": 468,
+    "bmi": 176.2,
+    "href": "https://www.jbis.or.jp/horse/0000008661/",
+    "sire": "Hindostan",
+    "dsire": "ハヤタケ",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Dupont",
@@ -7852,6 +7885,17 @@
     "sire": "Red Ransom",
     "dsire": "Polish Precedent",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "カブラヤオー",
+    "year": 1972,
+    "hh": 168,
+    "wt": 494,
+    "bmi": 175.1,
+    "href": "https://www.jbis.or.jp/horse/0000051177/",
+    "sire": "Pharamond",
+    "dsire": "Darannour",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ロゴタイプ",
