@@ -3608,6 +3608,17 @@
     "mstn": ["--","CT","--"]
   },
   {
+    "name": "リフレーミング",
+    "year": 2018,
+    "hh": 164,
+    "wt": 472,
+    "bmi": 175.5,
+    "href": "https://www.jbis.or.jp/horse/0001270021/",
+    "sire": "キングヘイロー",
+    "dsire": "Battle Plan",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Vision Detat",
     "year": 2005,
     "hh": 164,
@@ -9262,17 +9273,6 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Gotta Be Free",
-    "year": 2001,
-    "hh": 170,
-    "wt": 499,
-    "bmi": 173.8,
-    "href": "https://www.pedigreequery.com/gotta+be+free",
-    "sire": "Let Freedom Ride",
-    "dsire": "Show Dancer",
-    "mstn": ["CT","--","--"]
-  },
-  {
     "name": "Real Quiet",
     "year": 1995,
     "hh": 170,
@@ -9590,6 +9590,17 @@
     "sire": "Friends Lake",
     "dsire": "Unbridled",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Gotta Be Free",
+    "year": 2001,
+    "hh": 170,
+    "wt": 544,
+    "bmi": 173.8,
+    "href": "https://www.pedigreequery.com/gotta+be+free",
+    "sire": "Let Freedom Ride",
+    "dsire": "Show Dancer",
+    "mstn": ["CT","--","--"]
   },
   {
     "name": "Jump Start",
