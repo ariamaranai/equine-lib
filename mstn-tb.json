@@ -18431,6 +18431,40 @@
     {
       "name": "-",
       "year": 2024,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001444146/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Yaupon",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/yaupon",
+      "mstn": ""
+    },
+    {
+      "name": "More Than Love",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/more+than+love",
+      "mstn": ""
+    },
+    {
+      "name": "More Than Ready",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/more+than+ready",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2024,
       "cnty": "AUS",
       "sex": "F",
       "href": "",
