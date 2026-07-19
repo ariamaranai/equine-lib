@@ -2332,6 +2332,17 @@
     "mstn": ["CT","--","--"]
   },
   {
+    "name": "スピードシンボリ",
+    "year": 1963,
+    "hh": 163,
+    "wt": 466,
+    "bmi": 175.4,
+    "href": "https://www.jbis.or.jp/horse/0000010412/",
+    "sire": "Royal Challenger",
+    "dsire": "Rising Light",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Byword",
     "year": 2006,
     "hh": 163,
@@ -6510,6 +6521,17 @@
     "sire": "Sunday Silence",
     "dsire": "Lyphard",
     "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "オグリキャップ",
+    "year": 1985,
+    "hh": 166,
+    "wt": 494,
+    "bmi": 179.3,
+    "href": "https://www.jbis.or.jp/horse/0000177650/",
+    "sire": "Dancing Cap",
+    "dsire": "Silver Shark",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ダイタクリーヴァ",
