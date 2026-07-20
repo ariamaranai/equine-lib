@@ -1529,17 +1529,6 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "レインボーライン",
-    "year": 2013,
-    "hh": 162,
-    "wt": 452,
-    "bmi": 172.3,
-    "href": "https://www.jbis.or.jp/horse/0001169928/",
-    "sire": "ステイゴールド",
-    "dsire": "French Deputy",
-    "mstn": ["--","--","--"]
-  },
-  {
     "name": "Onest",
     "year": 2019,
     "hh": 162,
@@ -6774,17 +6763,6 @@
     "sire": "Dancing Cap",
     "dsire": "Silver Shark",
     "mstn": ["--","--","--"]
-  },
-  {
-    "name": "ダイタクリーヴァ",
-    "year": 1997,
-    "hh": 166,
-    "wt": 494,
-    "bmi": 179.3,
-    "href": "https://www.jbis.or.jp/horse/0000318739/",
-    "sire": "フジキセキ",
-    "dsire": "サクラユタカオー",
-    "mstn": ["--","CT","--"]
   },
   {
     "name": "フェノーメノ",
