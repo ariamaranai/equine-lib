@@ -330,6 +330,17 @@
     "mstn": ["--","--","CC"]
   },
   {
+    "name": "ダイタクサージャン",
+    "year": 1992,
+    "hh": 158,
+    "wt": 462,
+    "bmi": 185.1,
+    "href": "https://www.jbis.or.jp/horse/0000261478/",
+    "sire": "Sunday Silence",
+    "dsire": "Tesco Boy",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "Seabiscuit",
     "year": 1933,
     "hh": 158,
@@ -726,6 +737,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ロイヤルタッチ",
+    "year": 1993,
+    "hh": 160,
+    "wt": 456,
+    "bmi": 178.2,
+    "href": "https://www.jbis.or.jp/horse/0000266932/",
+    "sire": "Sunday Silence",
+    "dsire": "マルゼンスキー",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "Vert De Grece",
     "year": 2012,
     "hh": 160,
@@ -801,6 +823,17 @@
     "sire": "Danzig",
     "dsire": "Pursuit Of Love",
     "mstn": ["--","CC","--"]
+  },
+  {
+    "name": "イーグルカフェ",
+    "year": 1997,
+    "hh": 160,
+    "wt": 476,
+    "bmi": 186.0,
+    "href": "https://www.jbis.or.jp/horse/0000321231/",
+    "sire": "Gulch",
+    "dsire": "Nureyev",
+    "mstn": ["--","--","CC"]
   },
   {
     "name": "Kitwood",
@@ -1265,6 +1298,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "スマイルジャック",
+    "year": 2005,
+    "hh": 161,
+    "wt": 491,
+    "bmi": 189.4,
+    "href": "https://www.jbis.or.jp/horse/0000888175/",
+    "sire": "タニノギムレット",
+    "dsire": "Sunday Silence",
+    "mstn": ["--","--","TT"]
+  },
+  {
     "name": "モズアスコット",
     "year": 2015,
     "hh": 161,
@@ -1507,6 +1551,17 @@
     "mstn": ["--","CT","CT"]
   },
   {
+    "name": "ルーブルアクト",
+    "year": 1988,
+    "hh": 162,
+    "wt": 455,
+    "bmi": 173.4,
+    "href": "https://www.jbis.or.jp/horse/0000208723/",
+    "sire": "Russian Roubles",
+    "dsire": "Faberge",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "コントレイル",
     "year": 2017,
     "hh": 162,
@@ -1549,6 +1604,17 @@
     "sire": "Danzig",
     "dsire": "Habitat",
     "mstn": ["--","CC","--"]
+  },
+  {
+    "name": "ウイニングチケット",
+    "year": 1990,
+    "hh": 162,
+    "wt": 462,
+    "bmi": 176.0,
+    "href": "https://www.jbis.or.jp/horse/0000230809/",
+    "sire": "Tony Bin",
+    "dsire": "マルゼンスキー",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ミスターシービー",
@@ -1692,6 +1758,17 @@
     "sire": "War Emblem",
     "dsire": "Sadlers Wells",
     "mstn": ["--","--","TT"]
+  },
+  {
+    "name": "オフサイドトラップ",
+    "year": 1991,
+    "hh": 162,
+    "wt": 476,
+    "bmi": 181.4,
+    "href": "https://www.jbis.or.jp/horse/0000249353/",
+    "sire": "Tony Bin",
+    "dsire": "ホスピタリテイ",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ジャングルポケット",
@@ -2420,6 +2497,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ウイングアロー",
+    "year": 1995,
+    "hh": 163,
+    "wt": 470,
+    "bmi": 176.9,
+    "href": "hhttps://www.jbis.or.jp/horse/0000291452/",
+    "sire": "Assatis",
+    "dsire": "ミスターシービー",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Samum",
     "year": 1997,
     "hh": 163,
@@ -2618,6 +2706,28 @@
     "mstn": ["CT","--","CT"]
   },
   {
+    "name": "ニホンピロウイナー",
+    "year": 1980,
+    "hh": 163,
+    "wt": 480,
+    "bmi": 180.7,
+    "href": "https://www.jbis.or.jp/horse/0000129863/",
+    "sire": "Steel Heart",
+    "dsire": "China Rock",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "ラスカルスズカ",
+    "year": 1996,
+    "hh": 163,
+    "wt": 480,
+    "bmi": 180.7,
+    "href": "https://www.jbis.or.jp/horse/0000305175/",
+    "sire": "Commander In Chief",
+    "dsire": "Miswaki",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Smarty Jones",
     "year": 2001,
     "hh": 163,
@@ -2715,6 +2825,17 @@
     "sire": "ディープインパクト",
     "dsire": "Brians Time",
     "mstn": ["CT","TT","--"]
+  },
+  {
+    "name": "マチカネタンホイザ",
+    "year": 1989,
+    "hh": 163,
+    "wt": 486,
+    "bmi": 183.0,
+    "href": "https://www.jbis.or.jp/horse/0000220776/",
+    "sire": "Northern Taste",
+    "dsire": "アローエクスプレス",
+    "mstn": ["--","CC","--"]
   },
   {
     "name": "Citation",
@@ -2825,6 +2946,17 @@
     "sire": "Encosta De Lago",
     "dsire": "Redoutes Choice",
     "mstn": ["--","--","CC"]
+  },
+  {
+    "name": "ニホンピロニール",
+    "year": 1997,
+    "hh": 163,
+    "wt": 494,
+    "bmi": 186.0,
+    "href": "https://www.jbis.or.jp/horse/0000318605/",
+    "sire": "Sunday Silence",
+    "dsire": "Little Current",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "ブレークアップ",
@@ -3023,6 +3155,17 @@
     "sire": "Giants Causeway",
     "dsire": "Gone West",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "スピードワールド",
+    "year": 1994,
+    "hh": 163,
+    "wt": 506,
+    "bmi": 190.5,
+    "href": "https://www.jbis.or.jp/horse/0000287733/",
+    "sire": "Woodman",
+    "dsire": "Zulu Tom",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Charyn",
@@ -3531,6 +3674,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "サッカーボーイ",
+    "year": 1985,
+    "hh": 164,
+    "wt": 454,
+    "bmi": 168.8,
+    "href": "https://www.jbis.or.jp/horse/0000179021/",
+    "sire": "Dictus",
+    "dsire": "Northern Taste",
+    "mstn": ["--","--","CC"]
+  },
+  {
     "name": "アドマイヤオーラ",
     "year": 2004,
     "hh": 164,
@@ -3562,6 +3716,17 @@
     "sire": "Storm Bird",
     "dsire": "Secretariat",
     "mstn": ["--","--","CT"]
+  },
+  {
+    "name": "サニーブライアン",
+    "year": 1994,
+    "hh": 164,
+    "wt": 466,
+    "bmi": 173.3,
+    "href": "https://www.jbis.or.jp/horse/0000283958/",
+    "sire": "Brians Time",
+    "dsire": "Swift Swallow",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Rajsaman",
@@ -3850,6 +4015,17 @@
     "mstn": ["CT","TT","--"]
   },
   {
+    "name": "スーパーライセンス",
+    "year": 1990,
+    "hh": 164,
+    "wt": 486,
+    "bmi": 180.7,
+    "href": "https://www.jbis.or.jp/horse/0000233147/",
+    "sire": "Mining",
+    "dsire": "Le Fabuleux",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ロジャーバローズ",
     "year": 2016,
     "hh": 164,
@@ -3936,6 +4112,17 @@
     "sire": "Forest Wildcat",
     "dsire": "Cure The Blues",
     "mstn": ["CT","--","--"]
+  },
+  {
+    "name": "セイウンスカイ",
+    "year": 1995,
+    "hh": 164,
+    "wt": 494,
+    "bmi": 183.7,
+    "href": "https://www.jbis.or.jp/horse/0000297806/",
+    "sire": "Sheriffs Star",
+    "dsire": "Mill George",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "ミスターメロディ",
@@ -4521,6 +4708,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ツルマルボーイ",
+    "year": 1998,
+    "hh": 165,
+    "wt": 462,
+    "bmi": 169.7,
+    "href": "https://www.jbis.or.jp/horse/0000329607/",
+    "sire": "ダンスインザダーク",
+    "dsire": "サッカーボーイ",
+    "mstn": ["--","TT","--"]
+  },
+  {
     "name": "トーセンラー",
     "year": 2008,
     "hh": 165,
@@ -4642,6 +4840,28 @@
     "mstn": ["CT","--","--"]
   },
   {
+    "name": "タヤスツヨシ",
+    "year": 1992,
+    "hh": 165,
+    "wt": 474,
+    "bmi": 174.2,
+    "href": "https://www.jbis.or.jp/horse/0000262437/",
+    "sire": "Sunday Silence",
+    "dsire": "Caro",
+    "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "デスペラード",
+    "year": 2008,
+    "hh": 165,
+    "wt": 474,
+    "bmi": 174.2,
+    "href": "https://www.jbis.or.jp/horse/0001092312/",
+    "sire": "ネオユニヴァース",
+    "dsire": "Tony Bin",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Bimelech",
     "year": 1937,
     "hh": 165,
@@ -4706,6 +4926,17 @@
     "sire": "ディープインパクト",
     "dsire": "Unusual Heat",
     "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "スマートボーイ",
+    "year": 1995,
+    "hh": 165,
+    "wt": 480,
+    "bmi": 176.4,
+    "href": "https://www.jbis.or.jp/horse/0000290798/",
+    "sire": "Assatis",
+    "dsire": "No Lute",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "トーセンジョーダン",
@@ -6413,6 +6644,17 @@
     "mstn": ["--","CC","TT"]
   },
   {
+    "name": "ダイワテキサス",
+    "year": 1993,
+    "hh": 166,
+    "wt": 478,
+    "bmi": 173.5,
+    "href": "https://www.jbis.or.jp/horse/0000270771/",
+    "sire": "Tolomeo",
+    "dsire": "No Attention",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "War Decree",
     "year": 2014,
     "hh": 166,
@@ -6666,6 +6908,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ハタノヴァンクール",
+    "year": 2009,
+    "hh": 166,
+    "wt": 500,
+    "bmi": 181.5,
+    "href": "https://www.jbis.or.jp/horse/0001103563/",
+    "sire": "キングカメハメハ",
+    "dsire": "Brians Time",
+    "mstn": ["--","CT","--"]
+  },
+  {
     "name": "Talismanic",
     "year": 2013,
     "hh": 166,
@@ -6719,6 +6972,17 @@
     "sire": "Camelot",
     "dsire": "Shamardal",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "ウインデュエル",
+    "year": 1999,
+    "hh": 166,
+    "wt": 504,
+    "bmi": 183.0,
+    "href": "https://www.jbis.or.jp/horse/0000614261/",
+    "sire": "Sunday Silence",
+    "dsire": "Northern Taste",
+    "mstn": ["--","TT","CC"]
   },
   {
     "name": "エアジハード",
@@ -7183,6 +7447,17 @@
     "mstn": ["TT","TT","--"]
   },
   {
+    "name": "ネヴァブション",
+    "year": 2003,
+    "hh": 167,
+    "wt": 472,
+    "bmi": 169.2,
+    "href": "https://www.jbis.or.jp/horse/0000761481/",
+    "sire": "マーベラスサンデー",
+    "dsire": "Mill Reef",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Dominant",
     "year": 2008,
     "hh": 167,
@@ -7227,6 +7502,17 @@
     "mstn": ["TT","TT","--"]
   },
   {
+    "name": "ミラクルアドマイヤ",
+    "year": 1995,
+    "hh": 167,
+    "wt": 490,
+    "bmi": 175.7,
+    "href": "https://www.jbis.or.jp/horse/0000298352/",
+    "sire": "Tony Bin",
+    "dsire": "Sadlers Wells",
+    "mstn": ["--","--","TT"]
+  },
+  {
     "name": "ルースリンド",
     "year": 2001,
     "hh": 167,
@@ -7269,6 +7555,17 @@
     "sire": "Fantastic Light",
     "dsire": "Hector Protector",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "ダイタクリーヴァ",
+    "year": 1997,
+    "hh": 167,
+    "wt": 494,
+    "bmi": 177.2,
+    "href": "https://www.jbis.or.jp/horse/0000318739/",
+    "sire": "フジキセキ",
+    "dsire": "サクラユタカオー",
+    "mstn": ["--","CT","--"]
   },
   {
     "name": "トーホウエンペラー",
@@ -7513,6 +7810,17 @@
     "mstn": ["CT","TT","CC"]
   },
   {
+    "name": "ボーンキング",
+    "year": 1998,
+    "hh": 167,
+    "wt": 518,
+    "bmi": 184.4,
+    "href": "https://www.jbis.or.jp/horse/0000325218/",
+    "sire": "Sunday Silence",
+    "dsire": "Sadlers Wells",
+    "mstn": ["--","TT","TT"]
+  },
+  {
     "name": "ヤマカツエース",
     "year": 2012,
     "hh": 167,
@@ -7700,6 +8008,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "タマモクロス",
+    "year": 1984,
+    "hh": 168,
+    "wt": 448,
+    "bmi": 158.7,
+    "href": "https://www.jbis.or.jp/horse/0000166681/",
+    "sire": "シービークロス",
+    "dsire": "Chateaugay",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Betelo",
     "year": 2005,
     "hh": 168,
@@ -7841,17 +8160,6 @@
     "sire": "ディープインパクト",
     "dsire": "Green Tune",
     "mstn": ["--","TT","--"]
-  },
-  {
-    "name": "ラスカルスズカ",
-    "year": 1996,
-    "hh": 168,
-    "wt": 480,
-    "bmi": 170.1,
-    "href": "https://www.jbis.or.jp/horse/0000305175/",
-    "sire": "Commander In Chief",
-    "dsire": "Miswaki",
-    "mstn": ["--","--","--"]
   },
   {
     "name": "Mustameet",
@@ -8613,6 +8921,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "ベルシャザール",
+    "year": 2008,
+    "hh": 168,
+    "wt": 540,
+    "bmi": 191.4,
+    "href": "https://www.jbis.or.jp/horse/0001089854/",
+    "sire": "キングカメハメハ",
+    "dsire": "Sunday Silence",
+    "mstn": ["--","CT","TT"]
+  },
+  {
     "name": "マスクゾロ",
     "year": 2011,
     "hh": 168,
@@ -9009,6 +9328,17 @@
     "mstn": ["--","TT","--"]
   },
   {
+    "name": "サクラローレル",
+    "year": 1991,
+    "hh": 169,
+    "wt": 490,
+    "bmi": 171.6,
+    "href": "https://www.jbis.or.jp/horse/0000243723/",
+    "sire": "Rainbow Quest",
+    "dsire": "Saint Cyrien",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "ダノンバラード",
     "year": 2008,
     "hh": 169,
@@ -9095,6 +9425,17 @@
     "sire": "Sinister Minister",
     "dsire": "Assatis",
     "mstn": ["--","CT","--"]
+  },
+  {
+    "name": "エアシャカール",
+    "year": 1997,
+    "hh": 169,
+    "wt": 510,
+    "bmi": 178.6,
+    "href": "https://www.jbis.or.jp/horse/0000316264/",
+    "sire": "Sunday Silence",
+    "dsire": "Well Decorated",
+    "mstn": ["--","TT","--"]
   },
   {
     "name": "ゴールドアリュール",
@@ -9194,17 +9535,6 @@
     "sire": "Sunday Silence",
     "dsire": "Northern Taste",
     "mstn": ["CT","TT","CC"]
-  },
-  {
-    "name": "ベルシャザール",
-    "year": 2008,
-    "hh": 169,
-    "wt": 540,
-    "bmi": 189.1,
-    "href": "https://www.jbis.or.jp/horse/0001089854/",
-    "sire": "キングカメハメハ",
-    "dsire": "Sunday Silence",
-    "mstn": ["--","CT","TT"]
   },
   {
     "name": "ミスティックロア",
@@ -9592,6 +9922,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "タイキブリザード",
+    "year": 1991,
+    "hh": 170,
+    "wt": 542,
+    "bmi": 187.5,
+    "href": "https://www.jbis.or.jp/horse/0000250204/",
+    "sire": "Seattle Slew",
+    "dsire": "Sassafras",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Coverallbases",
     "year": 1989,
     "hh": 170,
@@ -9966,17 +10307,6 @@
     "mstn": ["--","--","CC"]
   },
   {
-    "name": "エアシャカール",
-    "year": 1997,
-    "hh": 171,
-    "wt": 510,
-    "bmi": 174.4,
-    "href": "https://www.jbis.or.jp/horse/0000316264/",
-    "sire": "Sunday Silence",
-    "dsire": "Well Decorated",
-    "mstn": ["--","TT","--"]
-  },
-  {
     "name": "ポアゾンブラック",
     "year": 2009,
     "hh": 171,
@@ -10030,17 +10360,6 @@
     "sire": "New Approach",
     "dsire": "Teofilo",
     "mstn": ["CT","CT","CT"]
-  },
-  {
-    "name": "ボーンキング",
-    "year": 1998,
-    "hh": 172,
-    "wt": 518,
-    "bmi": 175.1,
-    "href": "https://www.jbis.or.jp/horse/0000325218/",
-    "sire": "Sunday Silence",
-    "dsire": "Sadlers Wells",
-    "mstn": ["--","TT","TT"]
   },
   {
     "name": "ロングエース",
