@@ -1055,6 +1055,40 @@
   ],
   [
     {
+      "name": "フライトドクター",
+      "year": 2024,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001442482/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Olympiad",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/olympiad7",
+      "mstn": ""
+    },
+    {
+      "name": "Helena The First",
+      "year": 2015,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/helena+the+first",
+      "mstn": ""
+    },
+    {
+      "name": "Lemon Drop Kid",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/lemon+drop+kid",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ブルーアンドブリス",
       "year": 2024,
       "cnty": "JPN",
