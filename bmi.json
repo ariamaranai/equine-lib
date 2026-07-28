@@ -990,6 +990,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Cougar Mountain",
+    "year": 2011,
+    "hh": 160,
+    "wt": 503,
+    "bmi": 196.5,
+    "href": "https://www.pedigreequery.com/cougar+mountain2",
+    "sire": "Fastnet Rock",
+    "dsire": "Nureyev",
+    "mstn": ["--","--","CC"]
+  },
+  {
     "name": "Sun Briar",
     "year": 1915,
     "hh": 160,
@@ -1131,6 +1142,17 @@
     "sire": "ディープインパクト",
     "dsire": "Essence of Dubai",
     "mstn": ["--","TT","--"]
+  },
+  {
+    "name": "Dubawi Gold",
+    "year": 2008,
+    "hh": 161,
+    "wt": 458,
+    "bmi": 177.5,
+    "href": "https://www.pedigreequery.com/dubawi+gold",
+    "sire": "Dubawi",
+    "dsire": "Green Desert",
+    "mstn": ["--","CT","CC"]
   },
   {
     "name": "Phantom Breeze",
@@ -1529,7 +1551,7 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Onest",
+    "name": "Onesto",
     "year": 2019,
     "hh": 162,
     "wt": 454,
@@ -2992,10 +3014,21 @@
     "mstn": ["CT","TT","--"]
   },
   {
+    "name": "Limpid",
+    "year": 1995,
+    "hh": 163,
+    "wt": 498,
+    "bmi": 187.4,
+    "href": "https://www.pedigreequery.com/limpid3",
+    "sire": "Soviet Star",
+    "dsire": "Affirmed",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Moon Madness",
     "year": 1983,
     "hh": 163,
-    "wt": 496,
+    "wt": 498,
     "bmi": 187.4,
     "href": "https://www.pedigreequery.com/moon+madness",
     "sire": "Vitiges",
