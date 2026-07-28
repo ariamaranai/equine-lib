@@ -46649,6 +46649,40 @@
   ],
   [
     {
+      "name": "チャイロサマー",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001388958/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ステルヴィオ",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001204521/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アクトナチュラリー",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001135994/",
+      "mstn": ""
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "ディフィレイア",
       "year": 2024,
       "cnty": "JPN",
