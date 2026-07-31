@@ -20061,6 +20061,40 @@
   ],
   [
     {
+      "name": "リケアチャチャチャ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001386723/",
+      "mstn": "CT"
+    },
+    {
+      "name": "グレーターロンドン",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149061/",
+      "mstn": "CT"
+    },
+    {
+      "name": "アースファイヤー",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000889084/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "ルクスマグナ",
       "year": 2024,
       "cnty": "JPN",
@@ -22347,7 +22381,7 @@
       "mstn": "CT"
     },
     {
-      "name": "Happy Angel",
+      "name": "Harry Angel",
       "year": 2014,
       "cnty": "IRE",
       "sex": "S",
@@ -28815,7 +28849,7 @@
       "mstn": "CT"
     },
     {
-      "name": "Choru Of Angels",
+      "name": "Chorus Of Angels",
       "year": 2006,
       "cnty": "GB",
       "sex": "F",
