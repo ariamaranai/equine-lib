@@ -14553,6 +14553,40 @@
   ],
   [
     {
+      "name": "Dakard",
+      "year": 2008,
+      "cnty": "POL",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/dakard",
+      "mstn": "CC"
+    },
+    {
+      "name": "Kharoud",
+      "year": 2000,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kharoud",
+      "mstn": ""
+    },
+    {
+      "name": "Dubrava",
+      "year": 2003,
+      "cnty": "POL",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/dubrava5",
+      "mstn": ""
+    },
+    {
+      "name": "Saphir",
+      "year": 1985,
+      "cnty": "GER",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/saphir2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Dialed In",
       "year": 2008,
       "cnty": "USA",
