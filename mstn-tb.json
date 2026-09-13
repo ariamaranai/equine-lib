@@ -273,40 +273,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2024,
-      "cnty": "AUS",
-      "sex": "M",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "Extreme Choice",
-      "year": 2017,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/extreme+choice",
-      "mstn": ""
-    },
-    {
-      "name": "Ariaz",
-      "year": 2013,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/ariaz",
-      "mstn": ""
-    },
-    {
-      "name": "Charge Forward",
-      "year": 2001,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/charge+forward2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Kinabalu Park",
       "year": 2025,
       "cnty": "GB",
@@ -479,40 +445,6 @@
     {
       "name": "-",
       "year": 2024,
-      "cnty": "AUS",
-      "sex": "M",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "Harry Angel",
-      "year": 2014,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/harry+angel",
-      "mstn": ""
-    },
-    {
-      "name": "Rock The Sea",
-      "year": 2016,
-      "cnty": "AUS",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/rock+the+sea2",
-      "mstn": ""
-    },
-    {
-      "name": "Fastnet Rock",
-      "year": 2001,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.pedigreequery.com/fastnet+rock2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "-",
-      "year": 2024,
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001444363/",
@@ -613,6 +545,40 @@
   ],
   [
     {
+      "name": "Detonate",
+      "year": 2024,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/detonate15",
+      "mstn": "CC"
+    },
+    {
+      "name": "Harry Angel",
+      "year": 2014,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/harry+angel",
+      "mstn": ""
+    },
+    {
+      "name": "Rock The Sea",
+      "year": 2016,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/rock+the+sea2",
+      "mstn": ""
+    },
+    {
+      "name": "Fastnet Rock",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/fastnet+rock2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Merry Dancer",
       "year": 2024,
       "cnty": "USA",
@@ -642,6 +608,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.pedigreequery.com/unusual+heat",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "The Great White",
+      "year": 2024,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/the+great+white3",
+      "mstn": "CC"
+    },
+    {
+      "name": "Extreme Choice",
+      "year": 2017,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/extreme+choice",
+      "mstn": ""
+    },
+    {
+      "name": "Ariaz",
+      "year": 2013,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/ariaz",
+      "mstn": ""
+    },
+    {
+      "name": "Charge Forward",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/charge+forward2",
       "mstn": ""
     }
   ],
@@ -18973,40 +18973,6 @@
   ],
   [
     {
-      "name": "-",
-      "year": 2024,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001395710/",
-      "mstn": "CT"
-    },
-    {
-      "name": "ダノンレジェンド",
-      "year": 2010,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001162685/",
-      "mstn": ""
-    },
-    {
-      "name": "ラッキーハナチャン",
-      "year": 2011,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001133700/",
-      "mstn": ""
-    },
-    {
-      "name": "ネオユニヴァース",
-      "year": 2000,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000701577/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Doge",
       "year": 2024,
       "cnty": "USA",
@@ -19955,6 +19921,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000901749/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "ブルーサンタ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001395710/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ダノンレジェンド",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001162685/",
+      "mstn": ""
+    },
+    {
+      "name": "ラッキーハナチャン",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001133700/",
+      "mstn": ""
+    },
+    {
+      "name": "ネオユニヴァース",
+      "year": 2000,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000701577/",
+      "mstn": ""
     }
   ],
   [
