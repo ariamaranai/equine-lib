@@ -8184,6 +8184,17 @@
     "mstn": ["--","CT","TT"]
   },
   {
+    "name": "Aeskulap",
+    "year": 1997,
+    "hh": 168,
+    "wt": 468,
+    "bmi": 165.8,
+    "href": "https://www.pedigreequery.com/aeskulap",
+    "sire": "Acatenango",
+    "dsire": "Celestial Storm",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Fair Mix",
     "year": 1998,
     "hh": 168,
@@ -9543,9 +9554,9 @@
     "wt": 510,
     "bmi": 178.6,
     "href": "https://www.jbis.or.jp/horse/0000619768/",
-    "sire": "Nureyev",
-    "dsire": "Sunday Silence",
-    "mstn": ["CT","CC","TT"]
+    "sire": "Sunday Silence",
+    "dsire": "Nureyev",
+    "mstn": ["CT","TT","CC"]
   },
   {
     "name": "スリリングサンデー",
