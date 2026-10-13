@@ -243,6 +243,40 @@
       "year": 2025,
       "cnty": "JPN",
       "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001409056/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Henny Hughes",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/henny+hughes",
+      "mstn": "CC"
+    },
+    {
+      "name": "フルマークス",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001143349/",
+      "mstn": ""
+    },
+    {
+      "name": "Kittens Joy",
+      "year": 2001,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kittens+joy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001408621/",
       "mstn": "CC"
     },
