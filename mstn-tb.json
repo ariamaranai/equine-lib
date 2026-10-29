@@ -953,6 +953,40 @@
   ],
   [
     {
+      "name": "サツキマンボ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001396342/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ロジャーバローズ",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001221464/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Cuban Rhythm",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/cuban+rhythm",
+      "mstn": ""
+    },
+    {
+      "name": "Kingmambo",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/kingmambo",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "シャオウーイン",
       "year": 2024,
       "cnty": "JPN",
@@ -20074,7 +20108,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001221464/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "トップジョーンズ",
@@ -32501,6 +32535,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000293624/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "ロジャーバローズ",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001221464/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ディープインパクト",
+      "year": 2002,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000742976/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Little Book",
+      "year": 2008,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/little+book",
+      "mstn": ""
+    },
+    {
+      "name": "Librettist",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/librettist",
+      "mstn": ""
     }
   ],
   [
