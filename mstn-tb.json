@@ -1055,6 +1055,40 @@
   ],
   [
     {
+      "name": "テンタシオン",
+      "year": 2024,
+      "cnty": "USA",
+      "sex": "M",
+      "href": "https://www.jbis.jp/horse/0000702495/",
+      "mstn": "CC"
+    },
+    {
+      "name": "キタサンブラック",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001155349/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Gentlewoman",
+      "year": 2016,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/gentlewoman4",
+      "mstn": ""
+    },
+    {
+      "name": "Shamardal",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/shamardal",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "デミアン",
       "year": 2024,
       "cnty": "USA",
