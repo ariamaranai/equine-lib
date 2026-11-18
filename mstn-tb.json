@@ -20197,6 +20197,40 @@
   ],
   [
     {
+      "name": "ファクスカエリ",
+      "year": 2024,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001394392/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Pyro",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/pyro3",
+      "mstn": "CT"
+    },
+    {
+      "name": "ルミナスソード",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001252448/",
+      "mstn": ""
+    },
+    {
+      "name": "Candy Ride",
+      "year": 1999,
+      "cnty": "ARG",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/candy+ride",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ブラックタイクーン",
       "year": 2024,
       "cnty": "JPN",
