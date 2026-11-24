@@ -2211,6 +2211,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Husson",
+    "year": 2003,
+    "hh": 163,
+    "wt": 445,
+    "bmi": 167.5,
+    "href": "https://www.pedigreequery.com/husson2",
+    "sire": "Hussonet",
+    "dsire": "Roy",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Shalaa",
     "year": 2013,
     "hh": 163,
@@ -3795,6 +3806,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "カンパニー",
+    "year": 2001,
+    "hh": 164,
+    "wt": 466,
+    "bmi": 173.3,
+    "href": "https://www.jbis.or.jp/horse/0000728492/",
+    "sire": "ミラクルアドマイヤ",
+    "dsire": "Northern Taste",
+    "mstn": ["--","--","CC"]
+  },
+  {
     "name": "サニーブライアン",
     "year": 1994,
     "hh": 164,
@@ -4331,6 +4353,17 @@
     "href": "https://www.jbis.or.jp/horse/0000321318/",
     "sire": "Miswaki",
     "dsire": "Caerleon",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Candy Ride",
+    "year": 1999,
+    "hh": 164,
+    "wt": 503,
+    "bmi": 187.1,
+    "href": "https://www.pedigreequery.com/candy+ride",
+    "sire": "Ride The Rails",
+    "dsire": "Candy Stripes",
     "mstn": ["--","--","--"]
   },
   {
