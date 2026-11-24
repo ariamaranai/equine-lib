@@ -2640,6 +2640,17 @@
     "mstn": ["--","--","TT"]
   },
   {
+    "name": "Trotamondo",
+    "year": 2001,
+    "hh": 163,
+    "wt": 475,
+    "bmi": 178.5,
+    "href": "https://www.pedigreequery.com/trotamondo",
+    "sire": "Hussonet",
+    "dsire": "Give Me Strength",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Arts And Letters",
     "year": 1966,
     "hh": 163,
@@ -3828,6 +3839,17 @@
     "mstn": ["CT","CC","CT"]
   },
   {
+    "name": "Host",
+    "year": 2000,
+    "hh": 164,
+    "wt": 471,
+    "bmi": 175.1,
+    "href": "https://www.pedigreequery.com/host2",
+    "sire": "Hussonet",
+    "dsire": "Roy",
+    "mstn": ["CT","--","--"]
+  },
+  {
     "name": "Artiste Royal",
     "year": 2001,
     "hh": 164,
@@ -4840,6 +4862,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Decanter",
+    "year": 2001,
+    "hh": 165,
+    "wt": 472,
+    "bmi": 173.4,
+    "href": "https://www.pedigreequery.com/decanter4",
+    "sire": "Hussonet",
+    "dsire": "Roy",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "グレイトジャーニー",
     "year": 2001,
     "hh": 165,
@@ -4947,6 +4980,17 @@
     "href": "https://www.pedigreequery.com/bimelech",
     "sire": "Black Toney",
     "dsire": "Teddy",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Hakassan",
+    "year": 2009,
+    "hh": 165,
+    "wt": 476,
+    "bmi": 179.2,
+    "href": "https://www.pedigreequery.com/hakassan",
+    "sire": "Sir Cat",
+    "dsire": "Fusaichi Pegasus",
     "mstn": ["--","--","--"]
   },
   {
