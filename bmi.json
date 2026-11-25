@@ -2024,6 +2024,17 @@
     "mstn": ["TT","TT","TT"]
   },
   {
+    "name": "Master Xo",
+    "year": 2010,
+    "hh": 162,
+    "wt": 498,
+    "bmi": 189.8,
+    "href": "https://www.pedigreequery.com/master+xo",
+    "sire": "Holzmeister",
+    "dsire": "Dodge",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "アグネスワールド",
     "year": 1995,
     "hh": 162,
@@ -4642,6 +4653,17 @@
     "mstn": ["--","--","CT"]
   },
   {
+    "name": "Gaja Barbaresco",
+    "year": 2010,
+    "hh": 164,
+    "wt": 536,
+    "bmi": 199.3,
+    "href": "https://www.pedigreequery.com/gaja+barbaresco",
+    "sire": "Giant Gentleman",
+    "dsire": "Impression",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Invincible Army",
     "year": 2015,
     "hh": 164,
@@ -4705,6 +4727,17 @@
     "href": "https://www.pedigreequery.com/tiger+groom2",
     "sire": "Arazi",
     "dsire": "Ela-mana-mou",
+    "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Some In Tieme",
+    "year": 2012,
+    "hh": 165,
+    "wt": 436,
+    "bmi": 160.1,
+    "href": "https://www.pedigreequery.com/some+in+tieme",
+    "sire": "Shirocco",
+    "dsire": "Royal Academy",
     "mstn": ["--","--","--"]
   },
   {
@@ -5291,17 +5324,6 @@
     "mstn": ["--","--","--"]
   },
   {
-    "name": "Diktat",
-    "year": 1995,
-    "hh": 165,
-    "wt": 490,
-    "bmi": 180.0,
-    "href": "https://www.pedigreequery.com/diktat",
-    "sire": "Warning",
-    "dsire": "Sadlers Wells",
-    "mstn": ["--","--","TT"]
-  },
-  {
     "name": "Durban Thunder",
     "year": 2006,
     "hh": 165,
@@ -5421,6 +5443,17 @@
     "sire": "Dancing Brave",
     "dsire": "Halo",
     "mstn": ["--","--","--"]
+  },
+  {
+    "name": "Diktat",
+    "year": 1995,
+    "hh": 165,
+    "wt": 490,
+    "bmi": 180.0,
+    "href": "https://www.pedigreequery.com/diktat",
+    "sire": "Warning",
+    "dsire": "Sadlers Wells",
+    "mstn": ["--","--","TT"]
   },
   {
     "name": "エポカドーロ",
@@ -8459,6 +8492,17 @@
     "mstn": ["--","--","--"]
   },
   {
+    "name": "Ceu De Brigadeiro",
+    "year": 2012,
+    "hh": 168,
+    "wt": 483,
+    "bmi": 171.1,
+    "href": "https://www.pedigreequery.com/ceu+de+brigadeiro",
+    "sire": "Out Of Control",
+    "dsire": "Royal Academy",
+    "mstn": ["--","--","--"]
+  },
+  {
     "name": "Bach",
     "year": 1997,
     "hh": 168,
@@ -8677,6 +8721,17 @@
     "sire": "Sunday Silence",
     "dsire": "Tony Bin",
     "mstn": ["CT","TT","--"]
+  },
+  {
+    "name": "Fala Mansa",
+    "year": 2003,
+    "hh": 168,
+    "wt": 502,
+    "bmi": 177.9,
+    "href": "https://www.pedigreequery.com/fala+mansa",
+    "sire": "Notation",
+    "dsire": "Ghadeer",
+    "mstn": ["--","--","--"]
   },
   {
     "name": "Mores Wells",
