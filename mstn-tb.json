@@ -19010,6 +19010,40 @@
       "name": "-",
       "year": 2025,
       "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001405984/",
+      "mstn": "CT"
+    },
+    {
+      "name": "サートゥルナーリア",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001215724/",
+      "mstn": "CT"
+    },
+    {
+      "name": "クルチェット",
+      "year": 2020,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001320331/",
+      "mstn": ""
+    },
+    {
+      "name": "サトノアラジン",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001137571/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001408251/",
       "mstn": "CT"
@@ -19308,6 +19342,40 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000725485/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2025,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001412406/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ファストフォース",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001216121/",
+      "mstn": ""
+    },
+    {
+      "name": "リベラルタイプ",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001215794/",
+      "mstn": ""
+    },
+    {
+      "name": "Novellist",
+      "year": 2009,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/novellist2",
       "mstn": "CT"
     }
   ],
